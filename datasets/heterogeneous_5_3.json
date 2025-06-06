@@ -1,0 +1,83 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "MTndY StewarI Nunez"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Amy Stewart Larson"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Mdnd Stewart Nunez"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Mandy Stewart Nunez"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Mandy Stewart Nunez"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "American Samoa"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Ireland"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Bhutan"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Andorra"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Andorra"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 20
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 25
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

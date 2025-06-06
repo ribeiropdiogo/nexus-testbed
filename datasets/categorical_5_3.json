@@ -1,0 +1,31 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Benin"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Canada"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Azerbaijan"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Azerbaijan"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

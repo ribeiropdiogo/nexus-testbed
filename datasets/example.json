@@ -1,0 +1,51 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Luis Lima"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Ronaldo Luís Nazário de Lima"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Ronaldo Nazário"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Ronaldo Nazario de Lima"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Luis Lima"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Ricardo Lima"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Ronaldo Luís Nazário Lima"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Ricardo Lima"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Ronaldo Nazário"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Ricardo Reis"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

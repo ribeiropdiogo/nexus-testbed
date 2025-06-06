@@ -1,0 +1,51 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Hong Kong"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Benin"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Cocos (Keeling) Islands"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Korea"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Japan"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Argentina"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Afghanistan"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Bulgaria"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Mauritania"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Mauritania"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

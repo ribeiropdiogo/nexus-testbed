@@ -1,0 +1,31 @@
+{
+    "objects": [
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 23
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 23
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 27
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

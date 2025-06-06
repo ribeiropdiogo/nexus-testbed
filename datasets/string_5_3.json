@@ -1,0 +1,31 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Bradley Gay RYbinson MiVls"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Keith Wright Anderson Nunez"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "BradlZy Gray obinson Mills"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Bradley Gray Robinson Mills"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Bradley Gray Robinson Mills"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

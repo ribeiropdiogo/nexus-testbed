@@ -1,0 +1,31 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Niger"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Norfolk Island"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Gambia"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Poland"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Sweden"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}
