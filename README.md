@@ -65,3 +65,12 @@ The output format, represented below, includes information on the algorithm used
 
 ## Reproducibility
 
+
+
+## Authors
+
+- **Author information is omitted at this stage to preserve anonymity.**
+
+## License
+
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
