@@ -1,0 +1,15 @@
+{
+    "algorithm": "Majority Voting",
+    "results": [
+        {
+            "result": "Lisa Robin Hanna Hampton",
+            "truth": "Lisa Allen Hanna Hampton",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.9333333333333333,
+                "sorensen-dice": 0.8333333333333334,
+                "damerau-levenshtein": 0.8333333333333334
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "algorithm": "Majority Voting",
+    "results": [
+        {
+            "result": "Tyler Bridges Johnston",
+            "truth": "Tyler Bridges Johnston",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 1,
+                "sorensen-dice": 1,
+                "damerau-levenshtein": 1.0
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "algorithm": "Majority Voting",
+    "results": [
+        {
+            "result": "Lisa yllen Hanrx Hampton",
+            "truth": "Lisa Allen Hanna Hampton",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.9119047619047619,
+                "sorensen-dice": 0.875,
+                "damerau-levenshtein": 0.875
+            }
+        }
+    ]
+}

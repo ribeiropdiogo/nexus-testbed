@@ -1,0 +1,13 @@
+{
+    "algorithm": "Majority Voting",
+    "results": [
+        {
+            "result": "Papua New Guinea",
+            "truth": "Seychelles",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "algorithm": "Majority Voting",
+    "results": [
+        {
+            "result": "Svalbard & Jan Mayen Islands",
+            "truth": "Austria",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 0
+            }
+        }
+    ]
+}

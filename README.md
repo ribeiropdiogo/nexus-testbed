@@ -8,7 +8,7 @@ In addition to dataset generation, the repository features a testbed for evaluat
 
 The dataset generator is capable of creating datasets for `string`, `continuous`, `categorical`, and `heterogeneous` data. There are 2 parameters required for the generation. The number of `sources` for the dataset, and the amount of `noise` to be added (expressed in percentage).
 
-The generator outputs files in the `datasets/` directory, organizing the content by its respective datatype. The filenames are in the format `sX_nY.json`, where `X` representes the `number of sources`, and `Y` represents the `number of entries with noise`.
+The generator outputs files in the `datasets/` directory, organizing the content by its respective datatype. The filenames are in the format `sX_nY.json`, where `X` represents the `number of sources`, and `Y` represents the `number of entries with noise`.
 
 To run the dataset generator, a script named `run.sh` can be used to quickly run the generator using a preset configuration or to pass specific configurations as required. The same script also allows to execute the tests described below.
 
@@ -20,6 +20,48 @@ To run the dataset generator, a script named `run.sh` can be used to quickly run
 - Lastly, `heterogeneous` data consists in a mix of the three previous data types.
 
 ## Test Execution
+
+In order to execute the tests, a dataset is required to be previously generated. Other directories than the default `datasets/` can be used. The testbed can be executed using the supplied scripts `testbed.sh` and `run.sh` (more information below). There are four algorithms being used in the assessment: `Majority Voting`, `TruthFinder`, `CRH`, and `Skald`. For each algorithm, a predetermined number of rounds is executed (5 by default). This value can be changed in the `testbed.sh` script by updating the `ROUNDS` variable. Moreover, in each execution, the claims are shuffled to ensure that their order does not affect the final result. The results of the testbed are saved into the `results/` directory, organized by datatype. The filenames are in the format `sX_nY_Z.json`, where `X` represents the `number of sources`, `Y` represents the `number of entries with noise`, and `Z` represents the `round` (`[1,ROUNDS]`).
+
+### Output Format
+
+The output format, represented below, includes information on the algorithm used, and for each datatype, it includes the output of the algorithm, the expected result (truth), and the respective metrics. For `categorical` data, `direct comparison` is used (1 if the values are equal, and 0 otherwise). For `string` data, `Jaro-Winkler`, `Sorensen-Dice`, and `Damerau-Levenshtein` are used to measure similarity. For `continuous` values, `Euclidean`, `Manhattan`, and `Cosine` distances are used. All values are normalized between 0 and 1.
+
+```json
+{
+    "algorithm": "Majority Voting",
+    "results": [
+        {
+            "result": "Gabriel Arias York",
+            "truth": "Gabriel Arias York",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 1,
+                "sorensen-dice": 1,
+                "damerau-levenshtein": 1.0
+            }
+        },
+        {
+            "result": "Niger",
+            "truth": "Niger",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 1
+            }
+        },
+        {
+            "result": 27,
+            "truth": 27,
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.0,
+                "manhattan-distance": 0.0,
+                "cosine-distance": 0.0
+            }
+        }
+    ]
+}
+```
 
 ## Reproducibility
 

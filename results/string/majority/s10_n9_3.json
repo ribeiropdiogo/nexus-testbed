@@ -1,0 +1,15 @@
+{
+    "algorithm": "Majority Voting",
+    "results": [
+        {
+            "result": "Felicia Holdn avis",
+            "truth": "Felicia Holden Jarvis",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.9714285714285714,
+                "sorensen-dice": 0.9230769230769231,
+                "damerau-levenshtein": 0.8571428571428572
+            }
+        }
+    ]
+}

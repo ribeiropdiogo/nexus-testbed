@@ -1,0 +1,15 @@
+{
+    "algorithm": "Majority Voting",
+    "results": [
+        {
+            "result": 33,
+            "truth": 33,
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.0,
+                "manhattan-distance": 0.0,
+                "cosine-distance": 0.0
+            }
+        }
+    ]
+}

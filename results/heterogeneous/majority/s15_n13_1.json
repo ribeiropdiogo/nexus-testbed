@@ -1,0 +1,33 @@
+{
+    "algorithm": "Majority Voting",
+    "results": [
+        {
+            "result": "Dawn Peterson Taylor Williams",
+            "truth": "Dawn Peterson Taylor Williams",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 1,
+                "sorensen-dice": 1,
+                "damerau-levenshtein": 1.0
+            }
+        },
+        {
+            "result": "Turks and Caicos Islands",
+            "truth": "Turks and Caicos Islands",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 1
+            }
+        },
+        {
+            "result": 27,
+            "truth": 30,
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.1,
+                "manhattan-distance": 0.1,
+                "cosine-distance": 0.0
+            }
+        }
+    ]
+}

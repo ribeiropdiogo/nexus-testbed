@@ -1,0 +1,15 @@
+{
+    "algorithm": "Majority Voting",
+    "results": [
+        {
+            "result": "Kenneth Holden Jarvis",
+            "truth": "Felicia Holden Jarvis",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.7873015873015873,
+                "sorensen-dice": 0.7142857142857143,
+                "damerau-levenshtein": 0.7142857142857143
+            }
+        }
+    ]
+}

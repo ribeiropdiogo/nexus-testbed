@@ -1,0 +1,33 @@
+{
+    "algorithm": "Majority Voting",
+    "results": [
+        {
+            "result": "Courtney Friedman Morgan",
+            "truth": "Gloria Friedman Morgan",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.8190235690235691,
+                "sorensen-dice": 0.782608695652174,
+                "damerau-levenshtein": 0.7083333333333333
+            }
+        },
+        {
+            "result": "Mongolia",
+            "truth": "Trinidad and Tobago",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 0
+            }
+        },
+        {
+            "result": 27,
+            "truth": 29,
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.06896551724137931,
+                "manhattan-distance": 0.06896551724137931,
+                "cosine-distance": 0.0
+            }
+        }
+    ]
+}
