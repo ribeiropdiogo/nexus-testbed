@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Tina Morales Hughes Watson",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "David Gomez Johnson Fowler"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Kelly Lawrence Thomas"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Tina Morales Hughes Dawn"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Tina Robin Hughes Watson"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Tina Morales Kathryn Watson"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Joseph Solis Zhang"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Tina Morales Hughes Watson"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Tina Morales Hughes Watson"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Tina Morales Hughes Watson"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Tina Morales Hughes Watson"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Tina Morales Hughes Watson"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Tina Morales Hughes Watson"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Tina Morales Hughes Watson"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Tina Morales Hughes Watson"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Tina Morales Hughes Watson"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

@@ -28,4 +28,4 @@ def generate_categorical_claims(sources, noise):
         # Add entry to the list of claims
         data.append(entry)
     # Return the list of claims
-    return data
+    return data, truth

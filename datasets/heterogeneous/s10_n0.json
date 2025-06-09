@@ -1,0 +1,146 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Jonathan Kelly Ellis Shah",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Jonathan Kelly Ellis Shah"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Jonathan Kelly Ellis Shah"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Jonathan Kelly Ellis Shah"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Jonathan Kelly Ellis Shah"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Jonathan Kelly Ellis Shah"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Jonathan Kelly Ellis Shah"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Jonathan Kelly Ellis Shah"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Jonathan Kelly Ellis Shah"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Jonathan Kelly Ellis Shah"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Jonathan Kelly Ellis Shah"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Honduras",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Honduras"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Honduras"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Honduras"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Honduras"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Honduras"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Honduras"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Honduras"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Honduras"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Honduras"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Honduras"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 30,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 30
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

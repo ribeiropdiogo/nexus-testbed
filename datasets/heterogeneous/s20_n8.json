@@ -1,0 +1,266 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Suzanne Vargas Anderson",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Suzanne Vargs AndePson"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Ryan Martinez Howell Thomas"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Kevin Robinson Kelley Grant"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Jennifer Price Mathews"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Suzanne Julie Anderson"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Suanne Vargas Andrson"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Brian Collins Tucker"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Andrea Hoffman Mcdonald Sullivan"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Suzanne Vargas Anderson"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Suzanne Vargas Anderson"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Suzanne Vargas Anderson"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Suzanne Vargas Anderson"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Suzanne Vargas Anderson"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Suzanne Vargas Anderson"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Suzanne Vargas Anderson"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Suzanne Vargas Anderson"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Suzanne Vargas Anderson"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Suzanne Vargas Anderson"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Suzanne Vargas Anderson"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Suzanne Vargas Anderson"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Guyana",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Lesotho"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Hong Kong"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Italy"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Korea"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Liberia"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Norway"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Mauritania"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Dominica"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Guyana"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Guyana"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Guyana"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Guyana"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Guyana"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Guyana"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Guyana"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Guyana"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Guyana"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Guyana"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Guyana"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Guyana"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 28,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": 28
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

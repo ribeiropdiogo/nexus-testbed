@@ -1,0 +1,206 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Maria Reeves Reyes",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Samantha Ward Johnson"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Maria Monica Reyes"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Maria Reeves Rye"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Mwria oeevs Reyes"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Maria Reeves Jonathan"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Erica Reeves Reyes"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Maria Reeves Reyes"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Maria Reeves Reyes"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Maria Reeves Reyes"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Maria Reeves Reyes"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Maria Reeves Reyes"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Maria Reeves Reyes"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Maria Reeves Reyes"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Maria Reeves Reyes"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Maria Reeves Reyes"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Cayman Islands",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Saint Martin"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Netherlands Antilles"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Georgia"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Bosnia and Herzegovina"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Georgia"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Uruguay"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Cayman Islands"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Cayman Islands"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Cayman Islands"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Cayman Islands"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Cayman Islands"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Cayman Islands"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Cayman Islands"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Cayman Islands"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Cayman Islands"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 26,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 24
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 24
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 26
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Western Sahara"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Faroe Islands"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Saudi Arabia"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Northern Mariana Islands"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "South Africa"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Pakistan"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Iceland"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Bermuda"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Antarctica (the territory South of 60 deg S)"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Antarctica (the territory South of 60 deg S)"
+                }
+            ],
+            "truth": "Antarctica (the territory South of 60 deg S)"
+        }
+    ],
+    "sources": []
+}

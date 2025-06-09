@@ -1,0 +1,86 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Kayla Gomez Collins",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Kayla Gomez Dustin"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Amanda Walker Barnes Burnett"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Kayla Gomez Brandon"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Kayla Gomez Collins"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Kayla Gomez Collins"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Spain",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Zimbabwe"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Antarctica (the territory South of 60 deg S)"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Central African Republic"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Spain"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Spain"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 34,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 38
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 34
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

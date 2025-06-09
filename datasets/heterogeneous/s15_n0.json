@@ -1,0 +1,206 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Emily Jackson Randolph Garrett",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Emily Jackson Randolph Garrett"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Emily Jackson Randolph Garrett"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Emily Jackson Randolph Garrett"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Emily Jackson Randolph Garrett"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Emily Jackson Randolph Garrett"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Emily Jackson Randolph Garrett"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Emily Jackson Randolph Garrett"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Emily Jackson Randolph Garrett"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Emily Jackson Randolph Garrett"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Emily Jackson Randolph Garrett"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Emily Jackson Randolph Garrett"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Emily Jackson Randolph Garrett"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Emily Jackson Randolph Garrett"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Emily Jackson Randolph Garrett"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Emily Jackson Randolph Garrett"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Bolivia",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Bolivia"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 25,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 25
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

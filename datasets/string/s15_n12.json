@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Jessica Smith James"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Jessica Jeffrey Washington"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Jessica Mack Fuller Villanueva"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Jessica Smith Nicholas"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Jessica Smith Elizabeth"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Jose Smith Washington"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Jessica Smit WaXhington"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Jessica Smith Yvonne"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Jessica Bryan Washington"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Richard Hernandez Merritt Ali"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "JesHica Smih Washington"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Vincent Dalton Morgan Jones"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Jessica Smith Washington"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Jessica Smith Washington"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Jessica Smith Washington"
+                }
+            ],
+            "truth": "Jessica Smith Washington"
+        }
+    ],
+    "sources": []
+}

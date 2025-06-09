@@ -1,0 +1,266 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Dustin Garza Pierce Ware",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Brandon Murray Guerra"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Dusti Garzq Pierce Ware"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Dustin Garza Pierce Melissa"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Dustin GaAa Pierce are"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Nathan Nichols Smith Morris"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Dustin Oarza PierI Ware"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Natasha Garza Pierce Ware"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Michael Garza Pierce Ware"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Jill Hanna Petersen Swanson"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Dustin Grza hierce Ware"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Dusin Garza PiercH Ware"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Dystin Garza Pierc Wnre"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Kathy Cannon Green Freeman"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Dustin GMrza Pierje fare"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Dustin Garza Pierce Mary"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Patricia Fisher Kennedy Marshall"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Dustin Garza Pierce David"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Dustin Garza Pierce Ryan"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Dustin Garza Pierce Ware"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Dustin Garza Pierce Ware"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Switzerland",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Zimbabwe"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Guinea"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Chile"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Timor-Leste"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Denmark"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Portugal"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Vietnam"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Italy"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Cuba"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Tunisia"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Isle of Man"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Serbia"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Honduras"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Maldives"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Palau"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "India"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Oman"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Russian Federation"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Switzerland"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Switzerland"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 26,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 21
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 24
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 23
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 24
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 22
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": 23
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": 21
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": 26
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Burundi",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Netherlands Antilles"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Argentina"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Burundi"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Burundi"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Burundi"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Burundi"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Burundi"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Burundi"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Burundi"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Burundi"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

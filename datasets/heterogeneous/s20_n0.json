@@ -1,0 +1,266 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Robert Atkins Valentine",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Robert Atkins Valentine"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Robert Atkins Valentine"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Robert Atkins Valentine"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Robert Atkins Valentine"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Robert Atkins Valentine"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Robert Atkins Valentine"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Robert Atkins Valentine"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Robert Atkins Valentine"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Robert Atkins Valentine"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Robert Atkins Valentine"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Robert Atkins Valentine"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Robert Atkins Valentine"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Robert Atkins Valentine"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Robert Atkins Valentine"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Robert Atkins Valentine"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Robert Atkins Valentine"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Robert Atkins Valentine"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Robert Atkins Valentine"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Robert Atkins Valentine"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Robert Atkins Valentine"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Greece",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Greece"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 30,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": 30
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

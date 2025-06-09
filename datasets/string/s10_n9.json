@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Felicia Holden Jarvis",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "FelUca Holden Jarvis"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Cody Morris Lee"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Felicia Holden Andrea"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "FeliciM Holden JarJls"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Felcia Holden Javis"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Felcia eolden Jarvis"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Felicia Holdn avis"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Kenneth Holden Jarvis"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Felicia Holden JaviT"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Felicia Holden Jarvis"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

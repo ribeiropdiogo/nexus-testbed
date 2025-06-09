@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Zambia",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Saint Vincent and the Grenadines"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Norway"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Kenya"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Portugal"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Zambia"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

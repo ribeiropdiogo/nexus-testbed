@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Maria Davis Love",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Maria Dviu hove"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Mara Davis ove"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Maria Davis Ashley"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Keith Davis Love"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Shelly Davis Love"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Maria Sandy Love"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Lori Barnes Briggs Green"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Mria Dabis Lve"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "MFri avis Love"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Maria Davis Love"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Maria Davis Love"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Maria Davis Love"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Maria Davis Love"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Maria Davis Love"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Maria Davis Love"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

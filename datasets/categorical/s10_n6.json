@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Saint Helena",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Sudan"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Sao Tome and Principe"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Norway"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Norway"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Saint Vincent and the Grenadines"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Guinea"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Saint Helena"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Saint Helena"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Saint Helena"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Saint Helena"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

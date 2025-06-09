@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "John Cruz Taylor",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "John Cruz Taylor"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "John Cruz Taylor"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "John Cruz Taylor"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "John Cruz Taylor"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "John Cruz Taylor"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "John Cruz Taylor"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "John Cruz Taylor"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "John Cruz Taylor"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "John Cruz Taylor"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "John Cruz Taylor"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

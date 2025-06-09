@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Lisa Allen Hanna Hampton",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Lisa yllen Hanrx Hampton"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Anna Peterson Murphy"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Lisa Robin Hanna Hampton"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Andre Cervantes Martinez Cervantes"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Lisa Allen Hanna Hampton"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Mozambique",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Mexico"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Nauru"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Palau"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Switzerland"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Egypt"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Gibraltar"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Georgia"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Hungary"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Mozambique"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Mozambique"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Mozambique"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Mozambique"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Mozambique"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Mozambique"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Mozambique"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Mozambique"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Mozambique"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Mozambique"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Mozambique"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Mozambique"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

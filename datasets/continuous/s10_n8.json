@@ -1,50 +1,51 @@
 {
     "objects": [
         {
-            "name": "name",
-            "datatype": "string",
+            "name": "age",
+            "datatype": "continuous",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Luis Lima"
+                    "fact": 23
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Ronaldo Luís Nazário de Lima"
+                    "fact": 32
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Ronaldo Nazário"
+                    "fact": 23
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Ronaldo Nazario de Lima"
+                    "fact": 27
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Luis Lima"
+                    "fact": 23
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Ricardo Lima"
+                    "fact": 33
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Ronaldo Luís Nazário Lima"
+                    "fact": 33
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Ricardo Lima"
+                    "fact": 32
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Ronaldo Nazário"
+                    "fact": 28
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Ricardo Reis"
+                    "fact": 28
                 }
-            ]
+            ],
+            "truth": 28
         }
     ],
     "sources": []

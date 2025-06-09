@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Brady Wheeler Medina",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "zrcdy Wheeler MedHna"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Laurie Wheeler Medina"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Brady Wheeler Medina"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Brady Wheeler Medina"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Brady Wheeler Medina"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Brady Wheeler Medina"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Brady Wheeler Medina"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Brady Wheeler Medina"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Brady Wheeler Medina"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Brady Wheeler Medina"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

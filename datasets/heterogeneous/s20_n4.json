@@ -1,0 +1,266 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Julian Marquez Rubio",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Thomas Martinez Hill Hall"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Julia Marquez Rubi"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Julisn Maruez Rubio"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Julian Marquez Kimberly"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Julian Marquez Rubio"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Julian Marquez Rubio"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Julian Marquez Rubio"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Julian Marquez Rubio"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Julian Marquez Rubio"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Julian Marquez Rubio"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Julian Marquez Rubio"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Julian Marquez Rubio"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Julian Marquez Rubio"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Julian Marquez Rubio"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Julian Marquez Rubio"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Julian Marquez Rubio"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Julian Marquez Rubio"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Julian Marquez Rubio"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Julian Marquez Rubio"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Julian Marquez Rubio"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Dominican Republic",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Malawi"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Croatia"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Cote d'Ivoire"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Pitcairn Islands"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Dominican Republic"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Dominican Republic"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Dominican Republic"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Dominican Republic"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Dominican Republic"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Dominican Republic"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Dominican Republic"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Dominican Republic"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Dominican Republic"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Dominican Republic"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Dominican Republic"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Dominican Republic"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Dominican Republic"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Dominican Republic"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Dominican Republic"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Dominican Republic"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 32,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": 32
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

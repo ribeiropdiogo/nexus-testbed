@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Reunion",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Uzbekistan"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Zimbabwe"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Antigua and Barbuda"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Niue"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Algeria"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Kyrgyz Republic"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Comoros"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Cook Islands"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Ukraine"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Haiti"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Afghanistan"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Puerto Rico"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Reunion"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Reunion"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Reunion"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Reunion"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Reunion"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Reunion"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Reunion"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Reunion"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

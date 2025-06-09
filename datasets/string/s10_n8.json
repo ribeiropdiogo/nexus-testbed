@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Joshua Harve Dlton"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Joshua Harvey Megan"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Sherry Price Green"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Joshua Haxey Dalto"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Joshu Harvey DaQton"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Joshua Harvey John"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Cindy Harvey Dalton"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Doshua Hrvy Dalton"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Joshua Harvey Dalton"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Joshua Harvey Dalton"
+                }
+            ],
+            "truth": "Joshua Harvey Dalton"
+        }
+    ],
+    "sources": []
+}

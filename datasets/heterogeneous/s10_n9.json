@@ -1,0 +1,146 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Gloria Friedman Morgan",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Gloria Friedman Brenda"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Gloria Michael Morgan"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Wlorza Friedman Morgan"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Courtney Friedman Morgan"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Joseph Anderson Wall Torres"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Gloria Friedman ogan"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "uloria Fridman Morgan"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Gloria Angela Morgan"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Gloria Friedman Jeffrey"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Gloria Friedman Morgan"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Trinidad and Tobago",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Mongolia"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Azerbaijan"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Uganda"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Djibouti"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Gabon"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Comoros"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Mongolia"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Oman"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Malta"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Trinidad and Tobago"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 29,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 24
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 29
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

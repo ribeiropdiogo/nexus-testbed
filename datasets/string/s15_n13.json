@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Andrew Mills Davis",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Andrew Mills Elizabeth"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Andrew Patricia Davis"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Anduew Mils Dais"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Angel Gonzalez Phillips Strickland"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Julian Martinez Swanson"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Andrew Mills Curtis"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Andrew Mills Emily"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Andrew Barbara Davis"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Andrew ils Davs"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Andrew Erica Davis"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Andrew Lori Davis"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Andre ills Ravis"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Andrew Mills Miguel"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Andrew Mills Davis"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Andrew Mills Davis"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

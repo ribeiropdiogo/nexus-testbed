@@ -1,28 +1,29 @@
 {
     "objects": [
         {
-            "name": "nationality",
-            "datatype": "categorical",
+            "name": "name",
+            "datatype": "string",
+            "truth": "Brittany Wilkinson Parks Dalton",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Niger"
+                    "fact": "Emily Miller Nelson Swanson"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Norfolk Island"
+                    "fact": "Brittany Wilkinson Parks Dalton"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Gambia"
+                    "fact": "Brittany Wilkinson Parks Dalton"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Poland"
+                    "fact": "Brittany Wilkinson Parks Dalton"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Sweden"
+                    "fact": "Brittany Wilkinson Parks Dalton"
                 }
             ]
         }

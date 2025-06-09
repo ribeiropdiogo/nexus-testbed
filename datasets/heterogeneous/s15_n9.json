@@ -1,0 +1,206 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Sergio Hernandez Gonzales Sanchez",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Wendy Camacho Lopez Edwards"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Sergio Hernandez GNnzales Sanchz"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Sergi Hernandez Gonzale Sanohez"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Debra Woods Cline"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Sergio Daniel Gonzales Sanchez"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Maria Miller Wolfe Cole"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Gregg Alexander Mcgee Reed"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Sergio Hernandez Gonzales Stephanie"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Susan Stewart Obrien"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Sergio Hernandez Gonzales Sanchez"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Sergio Hernandez Gonzales Sanchez"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Sergio Hernandez Gonzales Sanchez"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Sergio Hernandez Gonzales Sanchez"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Sergio Hernandez Gonzales Sanchez"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Sergio Hernandez Gonzales Sanchez"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Germany",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Heard Island and McDonald Islands"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Gibraltar"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Bahrain"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Micronesia"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Belize"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Cape Verde"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Cayman Islands"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Iran"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Slovenia"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Germany"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Germany"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Germany"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Germany"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Germany"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Germany"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 27,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 23
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 22
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 27
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

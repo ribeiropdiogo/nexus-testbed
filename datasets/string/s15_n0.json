@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Carol Thompson Warren",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Carol Thompson Warren"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Carol Thompson Warren"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Carol Thompson Warren"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Carol Thompson Warren"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Carol Thompson Warren"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Carol Thompson Warren"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Carol Thompson Warren"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Carol Thompson Warren"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Carol Thompson Warren"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Carol Thompson Warren"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Carol Thompson Warren"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Carol Thompson Warren"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Carol Thompson Warren"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Carol Thompson Warren"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Carol Thompson Warren"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

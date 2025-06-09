@@ -1,0 +1,146 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Sherry Cunningham Grant Cannon",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Sherry Cunningham Gqant Gnnon"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "hery Cuningham Grant Cannon"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Sherry Cunningham Grant Cannon"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Sherry Cunningham Grant Cannon"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Sherry Cunningham Grant Cannon"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Sherry Cunningham Grant Cannon"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Sherry Cunningham Grant Cannon"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Sherry Cunningham Grant Cannon"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Sherry Cunningham Grant Cannon"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Sherry Cunningham Grant Cannon"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Mayotte",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Saint Martin"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Oman"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Mayotte"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Mayotte"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Mayotte"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Mayotte"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Mayotte"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Mayotte"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Mayotte"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Mayotte"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 25,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 23
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 22
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 25
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

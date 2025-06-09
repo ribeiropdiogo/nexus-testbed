@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Cayman Islands",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Guadeloupe"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Libyan Arab Jamahiriya"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Sao Tome and Principe"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Thailand"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Burundi"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Sudan"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Australia"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Bosnia and Herzegovina"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Indonesia"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Chile"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Djibouti"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "United States Virgin Islands"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Colombia"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Cayman Islands"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Cayman Islands"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

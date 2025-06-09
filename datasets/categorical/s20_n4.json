@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Georgia",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Kiribati"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Niue"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Kuwait"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Argentina"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Georgia"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Georgia"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Georgia"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Georgia"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Georgia"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Georgia"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Georgia"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Georgia"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Georgia"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Georgia"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Georgia"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Georgia"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Georgia"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Georgia"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Georgia"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Georgia"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

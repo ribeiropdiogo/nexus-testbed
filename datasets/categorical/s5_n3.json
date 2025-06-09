@@ -3,26 +3,27 @@
         {
             "name": "nationality",
             "datatype": "categorical",
+            "truth": "Comoros",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Benin"
+                    "fact": "Korea"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Bolivia"
+                    "fact": "French Southern Territories"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Canada"
+                    "fact": "Solomon Islands"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Azerbaijan"
+                    "fact": "Comoros"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Azerbaijan"
+                    "fact": "Comoros"
                 }
             ]
         }

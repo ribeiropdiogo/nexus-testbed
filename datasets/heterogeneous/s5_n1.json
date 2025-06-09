@@ -3,70 +3,73 @@
         {
             "name": "name",
             "datatype": "string",
+            "truth": "Benjamin Joseph Burns Diaz",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "MTndY StewarI Nunez"
+                    "fact": "William Garcia Gibson Wu"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Amy Stewart Larson"
+                    "fact": "Benjamin Joseph Burns Diaz"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Mdnd Stewart Nunez"
+                    "fact": "Benjamin Joseph Burns Diaz"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Mandy Stewart Nunez"
+                    "fact": "Benjamin Joseph Burns Diaz"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Mandy Stewart Nunez"
+                    "fact": "Benjamin Joseph Burns Diaz"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
+            "truth": "Libyan Arab Jamahiriya",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "American Samoa"
+                    "fact": "Uruguay"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Ireland"
+                    "fact": "Libyan Arab Jamahiriya"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Bhutan"
+                    "fact": "Libyan Arab Jamahiriya"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Andorra"
+                    "fact": "Libyan Arab Jamahiriya"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Andorra"
+                    "fact": "Libyan Arab Jamahiriya"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
+            "truth": 25,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 20
+                    "fact": 23
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 26
+                    "fact": 25
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 28
+                    "fact": 25
                 },
                 {
                     "sourceId": "source4",

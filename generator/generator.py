@@ -21,22 +21,20 @@ class Generator:
     Dataset Generator Class.
 
     This class is responsible for generating datasets based on the specified
-    parameters such as datatype, number of sources, claims, and noise level.
+    parameters such as datatype, number of sources, and noise level.
     It initializes with the provided parameters and prints the settings.
     The `generate` method is intended to contain the logic for the dataset
     generation. The resulting dataset is saved to a specified output directory.
     """
 
-    def __init__(self, datatype, sources, claims, noise):
+    def __init__(self, datatype, sources, noise):
         self.type = datatype
         self.sources = sources
-        self.claims = claims
         self.noise = int(noise * sources)
         print("\n \033[1mDataset Generator\033[0m")
         print("\n > Settings:")
         print(f"     Datatype : {self.type}")
         print(f"     Sources  : {self.sources}")
-        #print(f"     Claims   : {self.claims} claims per source")
         print(f"     Noise    : {self.noise} noisy sources ({int(self.noise / self.sources * 100)}%)")
         print("\n" + "=" * SEPARATOR_LENGTH)
 
@@ -51,16 +49,19 @@ class Generator:
                 {
                     "name": "name",
                     "datatype": "string",
+                    "truth": "",
                     "claims": []
                 }
             ],
             "sources": []
         }
         # Add claims to the string object
-        data["objects"][0]["claims"] = generate_string_claims(
+        data["objects"][0]["claims"], truth = generate_string_claims(
             self.sources,
             self.noise
         )
+        # Set the truth value for the string object
+        data["objects"][0]["truth"] = truth
         # Return the dataset
         return data
 
@@ -75,16 +76,19 @@ class Generator:
                 {
                     "name": "age",
                     "datatype": "continuous",
+                    "truth": "",
                     "claims": []
                 }
             ],
             "sources": []
         }
         # Add claims to the continuous object
-        data["objects"][0]["claims"] = generate_continuous_claims(
+        data["objects"][0]["claims"], truth = generate_continuous_claims(
             self.sources,
             self.noise
         )
+        # Set the truth value for the string object
+        data["objects"][0]["truth"] = truth
         # Return the dataset
         return data
 
@@ -99,16 +103,19 @@ class Generator:
                 {
                     "name": "nationality",
                     "datatype": "categorical",
+                    "truth": "",
                     "claims": []
                 }
             ],
             "sources": []
         }
         # Add claims to the categorical object
-        data["objects"][0]["claims"] = generate_categorical_claims(
+        data["objects"][0]["claims"], truth = generate_categorical_claims(
             self.sources,
             self.noise
         )
+        # Set the truth value for the string object
+        data["objects"][0]["truth"] = truth
         # Return the dataset
         return data
 
@@ -123,36 +130,49 @@ class Generator:
                 {
                     "name": "name",
                     "datatype": "string",
+                    "truth": "",
                     "claims": []
                 },
                 {
                     "name": "nationality",
                     "datatype": "categorical",
+                    "truth": "",
                     "claims": []
                 },
                 {
                     "name": "age",
                     "datatype": "continuous",
+                    "truth": "",
                     "claims": []
                 }
             ],
             "sources": []
         }
+
         # Add string claims
-        data["objects"][0]["claims"] = generate_string_claims(
+        data["objects"][0]["claims"], truth = generate_string_claims(
             self.sources,
             self.noise
         )
+        # Set the truth value for the string object
+        data["objects"][0]["truth"] = truth
+
         # Add categorical claims
-        data["objects"][1]["claims"] = generate_categorical_claims(
+        data["objects"][1]["claims"], truth = generate_categorical_claims(
             self.sources,
             self.noise
         )
+        # Set the truth value for the string object
+        data["objects"][1]["truth"] = truth
+
         # Add continuous claims
-        data["objects"][2]["claims"] = generate_continuous_claims(
+        data["objects"][2]["claims"], truth = generate_continuous_claims(
             self.sources,
             self.noise
         )
+        # Set the truth value for the string object
+        data["objects"][2]["truth"] = truth
+
         # Return the dataset
         return data
 
@@ -173,12 +193,14 @@ class Generator:
             data = self._generate_heterogeneous_dataset()
         else:
             raise ValueError("Invalid datatype specified.")
+        # Build the outout dire for the datatype
+        output_path = OUTPUT_DIR + "" + self.type + "/"
         # Save the dataset to the output directory
-        print(f"Dataset generated with success! Saving to {OUTPUT_DIR}...")
+        print(f"Dataset generated with success! Saving to {output_path}...")
         # Ensure the output directory exists
-        os.makedirs(OUTPUT_DIR, exist_ok=True)
+        os.makedirs(output_path, exist_ok=True)
         # Build the output path
-        output_path = os.path.join(OUTPUT_DIR, f"{self.type}_{self.sources}_{self.noise}.json")
+        output_path = os.path.join(output_path, f"s{self.sources}_n{self.noise}.json")
         # Save the dataset to the JSON file
         with open(output_path, "w") as f:
             json.dump(data, f, indent=4)
@@ -195,11 +217,10 @@ def main():
         help="Type of data: 'string', 'continuous', 'categorical', or 'heterogeneous'"
     )
     parser.add_argument("-s", "--sources", type=int, required=True, help="Number of sources")
-    parser.add_argument("-c", "--claims", type=int ,help="Number of claims per source")
     parser.add_argument("-n", "--noise", type=float, help="Percentage of noise to add [0.0,1.0]")
     args = parser.parse_args()
     # Initialize generator with parameters
-    generator = Generator(args.datatype,args.sources, args.claims, args.noise)
+    generator = Generator(args.datatype,args.sources, args.noise)
     # Generate the dataset
     generator.generate()
 

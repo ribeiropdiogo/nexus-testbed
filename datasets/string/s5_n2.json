@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Christopher Savage Carter Jackson",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Christopher Savage artr Jackson"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Christopher Savage Carter Raymond"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Christopher Savage Carter Jackson"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Christopher Savage Carter Jackson"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Christopher Savage Carter Jackson"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

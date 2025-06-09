@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Guernsey",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "United States Minor Outlying Islands"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Jordan"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Sri Lanka"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Montserrat"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Taiwan"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Heard Island and McDonald Islands"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Antigua and Barbuda"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Japan"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Trinidad and Tobago"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Guernsey"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Guernsey"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Guernsey"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Guernsey"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Guernsey"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Guernsey"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

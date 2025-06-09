@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Lebanon",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Lebanon"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Lebanon"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Lebanon"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Lebanon"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Lebanon"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

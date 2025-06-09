@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Alexander Ruiz Pierce Malone",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Alexander Ruiz Kelli Malone"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Alexander Lisa Pierce Malone"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Alexander Ruiz Pierce James"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Alexander Ruiz Pierce Malone"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Alexander Ruiz Pierce Malone"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

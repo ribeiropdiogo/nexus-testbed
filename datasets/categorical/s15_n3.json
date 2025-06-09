@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Malaysia",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Micronesia"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Bosnia and Herzegovina"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Congo"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Malaysia"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Malaysia"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Malaysia"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Malaysia"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Malaysia"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Malaysia"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Malaysia"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Malaysia"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Malaysia"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Malaysia"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Malaysia"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Malaysia"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

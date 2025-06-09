@@ -1,0 +1,146 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "William Schmidt Moore",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "William John Moore"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Kayla Guerra Davenport Potts"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Wlliam Schmict Moorp"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "William Caitlin Moore"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "William Garrett Moore"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Deborah Nelson Berger Miles"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "William Schmidt Moore"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "William Schmidt Moore"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "William Schmidt Moore"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "William Schmidt Moore"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Colombia",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Cocos (Keeling) Islands"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "United Kingdom"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Panama"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Kuwait"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Tonga"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Brunei Darussalam"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Colombia"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Colombia"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Colombia"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Colombia"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 27,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 27
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

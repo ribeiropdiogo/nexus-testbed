@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Madison Abbott Garner Brandt",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Madison Abbott Garner Ralph"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Madison Abbott GarnT Brandt"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Alicia Abbott Garner Brandt"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Ashley Whitaker Adams Willis"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Madison Abbott Garner Brandt"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Madison Abbott Garner Brandt"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Madison Abbott Garner Brandt"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Madison Abbott Garner Brandt"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Madison Abbott Garner Brandt"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Madison Abbott Garner Brandt"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

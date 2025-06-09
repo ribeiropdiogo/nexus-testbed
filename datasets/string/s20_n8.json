@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Richard Murray Jordan",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Sara Salazar Sanders Davis"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Richard Murry uoYdan"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Richrd Murray Jordau"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Richard Murray Peggy"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Richard Mura Jordan"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Richard Murray James"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Rchard MurWay Jordan"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Richard Benjamin Jordan"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Richard Murray Jordan"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Richard Murray Jordan"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Richard Murray Jordan"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Richard Murray Jordan"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Richard Murray Jordan"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Richard Murray Jordan"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Richard Murray Jordan"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Richard Murray Jordan"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Richard Murray Jordan"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Richard Murray Jordan"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Richard Murray Jordan"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Richard Murray Jordan"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

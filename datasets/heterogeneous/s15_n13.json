@@ -1,0 +1,206 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Dawn Peterson Taylor Williams",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Dawn Peterson Kristin Williams"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Dawn Uetenson Kaylor Williams"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Dawn Peterson Talor Willams"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Dwp PeterVon Taylor Williams"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Nicholas Knox Garcia Turner"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Dawn Petehson Taylor Willaams"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Dawn Peterson Robert Williams"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Cristina Moore Smith"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Dawn Peterson TWylor Whllmams"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Dawn Peterson Taylor Ryan"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Dawn Petersn Taylr Eilliams"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Randy Graves Evans"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Bradley Higgins Cain Chandler"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Dawn Peterson Taylor Williams"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Dawn Peterson Taylor Williams"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Turks and Caicos Islands",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Czech Republic"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Sweden"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Monaco"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Mauritania"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Heard Island and McDonald Islands"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Micronesia"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Venezuela"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Saint Barthelemy"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Timor-Leste"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Denmark"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Guadeloupe"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Tokelau"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Turks and Caicos Islands"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Turks and Caicos Islands"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 30,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 30
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

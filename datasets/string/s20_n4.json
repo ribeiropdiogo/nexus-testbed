@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Tyler Bridges Johnston",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "wylmr Bridges Johnston"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Matthew Hobbs Stewart Foley"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Jennifer Bridges Johnston"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Joseph Shaw Coleman Woods"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Tyler Bridges Johnston"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Tyler Bridges Johnston"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Tyler Bridges Johnston"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Tyler Bridges Johnston"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Tyler Bridges Johnston"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Tyler Bridges Johnston"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Tyler Bridges Johnston"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Tyler Bridges Johnston"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Tyler Bridges Johnston"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Tyler Bridges Johnston"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Tyler Bridges Johnston"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Tyler Bridges Johnston"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Tyler Bridges Johnston"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Tyler Bridges Johnston"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Tyler Bridges Johnston"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Tyler Bridges Johnston"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Australia"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Slovenia"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Guernsey"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Papua New Guinea"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Turkmenistan"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Iraq"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Algeria"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Azerbaijan"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Guadeloupe"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Lebanon"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Lao People's Democratic Republic"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Turkmenistan"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Congo"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Niger"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Grenada"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Argentina"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Venezuela"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Venezuela"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Venezuela"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Venezuela"
+                }
+            ],
+            "truth": "Venezuela"
+        }
+    ],
+    "sources": []
+}

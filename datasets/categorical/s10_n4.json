@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Vanuatu",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Armenia"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Guadeloupe"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Nicaragua"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Oman"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Vanuatu"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Vanuatu"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Vanuatu"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Vanuatu"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Vanuatu"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Vanuatu"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Kristin Patel Hansen",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Kristin Patel Hansen"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Kristin Patel Hansen"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Kristin Patel Hansen"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Kristin Patel Hansen"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Kristin Patel Hansen"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Kristin Patel Hansen"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Kristin Patel Hansen"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Kristin Patel Hansen"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Kristin Patel Hansen"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Kristin Patel Hansen"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Kristin Patel Hansen"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Kristin Patel Hansen"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Kristin Patel Hansen"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Kristin Patel Hansen"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Kristin Patel Hansen"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Kristin Patel Hansen"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Kristin Patel Hansen"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Kristin Patel Hansen"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Kristin Patel Hansen"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Kristin Patel Hansen"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

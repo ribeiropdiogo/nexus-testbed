@@ -1,0 +1,146 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Elizabeth Moore Carter",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Allison Moore Carter"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Kristy Moore Carter"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Elizabeth Julie Carter"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Amanda Moore Carter"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Elizabeth Moore Carter"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Elizabeth Moore Carter"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Elizabeth Moore Carter"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Elizabeth Moore Carter"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Elizabeth Moore Carter"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Elizabeth Moore Carter"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Nauru",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Montserrat"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Sudan"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Serbia"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Bahamas"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Nauru"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Nauru"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Nauru"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Nauru"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Nauru"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Nauru"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 26,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 26
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

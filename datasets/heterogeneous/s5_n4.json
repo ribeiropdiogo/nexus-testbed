@@ -1,0 +1,86 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Alice Clay Jones Choi",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Alice Flay Jones Cho"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Charles Henry Campos"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Alice Clay Jtnes Cooi"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Roberto Wallace Rios Cook"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Alice Clay Jones Choi"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Reunion",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Netherlands"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "China"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "New Zealand"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Libyan Arab Jamahiriya"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Reunion"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 28,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 24
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 28
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

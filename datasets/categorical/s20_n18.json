@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Seychelles",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "British Virgin Islands"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Paraguay"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Papua New Guinea"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Dominican Republic"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Turks and Caicos Islands"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Sweden"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Korea"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Montenegro"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Kyrgyz Republic"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Sao Tome and Principe"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Philippines"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Jordan"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Malawi"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Saint Kitts and Nevis"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Papua New Guinea"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Rwanda"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Bahamas"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Seychelles"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Seychelles"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Austria",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Kuwait"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Sri Lanka"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "United Arab Emirates"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Pakistan"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Solomon Islands"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Nauru"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Svalbard & Jan Mayen Islands"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Mayotte"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Northern Mariana Islands"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Austria"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

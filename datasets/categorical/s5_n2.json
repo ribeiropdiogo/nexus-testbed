@@ -1,28 +1,29 @@
 {
     "objects": [
         {
-            "name": "name",
-            "datatype": "string",
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Sweden",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Bradley Gay RYbinson MiVls"
+                    "fact": "Cameroon"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Keith Wright Anderson Nunez"
+                    "fact": "Costa Rica"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "BradlZy Gray obinson Mills"
+                    "fact": "Sweden"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Bradley Gray Robinson Mills"
+                    "fact": "Sweden"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Bradley Gray Robinson Mills"
+                    "fact": "Sweden"
                 }
             ]
         }

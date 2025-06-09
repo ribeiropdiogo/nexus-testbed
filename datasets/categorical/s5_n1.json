@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Martinique",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Bahamas"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Martinique"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Martinique"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Martinique"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Martinique"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}
