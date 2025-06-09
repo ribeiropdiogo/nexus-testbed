@@ -14,13 +14,10 @@ To run the dataset generator, a script named `run.sh` can be used to quickly run
 
 ### Dataset Description
 
-For `categorical` data, nationalities are used. The noise for this type consists of generating random country names.
-
-For `continuous` data, age is used. The noise consists in adding or removing years to the "true" age, with a maximum deviation of 5 years.
-
-For `string` data, names are used. The noise consists in either generating a new name, swapping one name by a random one, or simulate typos by removing or swapping adjacent characters.
-
-Lastly, `heterogeneous` data consists in a mix of the three previous data types.
+- For `categorical` data, nationalities are used. The noise for this type consists of generating random country names.
+- For `continuous` data, age is used. The noise consists in adding or removing years to the "true" age, with a maximum deviation of 5 years.
+- For `string` data, names are used. The noise consists in either generating a new name, swapping one name by a random one, or simulate typos by removing or swapping adjacent characters.
+- Lastly, `heterogeneous` data consists in a mix of the three previous data types.
 
 ## Test Execution
 
