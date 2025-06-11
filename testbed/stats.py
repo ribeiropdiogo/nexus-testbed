@@ -38,7 +38,9 @@ def calculate_categorical_stats(results_path: str, filename: str, rounds: int):
         "test": f"{filename}",
         "rounds": int(rounds),
         "datatype": "categorical",
-        "average similarity": avg_cat_similarity
+        "categorical": {
+            "average similarity": avg_cat_similarity
+        }
     }
     # Return the output
     return output
@@ -82,10 +84,12 @@ def calculate_continuous_stats(results_path: str, filename: str, rounds: int):
         "test": f"{filename}",
         "rounds": int(rounds),
         "datatype": "continuous",
-        "average similarity": avg_con_similarity,
-        "average euclidean similarity": avg_euc_similarity,
-        "average manhattan similarity": avg_man_similarity,
-        "average canberra similarity": avg_can_similarity
+        "continuous": {
+            "average similarity": avg_con_similarity,
+            "average euclidean similarity": avg_euc_similarity,
+            "average manhattan similarity": avg_man_similarity,
+            "average canberra similarity": avg_can_similarity
+        }
     }
     # Return the output
     return output
@@ -131,10 +135,12 @@ def calculate_string_stats(results_path: str, filename: str, rounds: int):
         "test": f"{filename}",
         "rounds": int(rounds),
         "datatype": "string",
-        "average string similarity": avg_str_similarity,
-        "average jaro-winkler similarity": avg_jw_similarity,
-        "average sorensen-dice similarity": avg_sd_similarity,
-        "average damerau-levenshtein similarity": avg_dl_similarity
+        "string": {
+            "average similarity": avg_str_similarity,
+            "average jaro-winkler similarity": avg_jw_similarity,
+            "average sorensen-dice similarity": avg_sd_similarity,
+            "average damerau-levenshtein similarity": avg_dl_similarity
+        }
     }
     # Return the output
     return output
