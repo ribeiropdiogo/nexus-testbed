@@ -3,87 +3,87 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Reunion",
+            "truth": "Liberia",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Uzbekistan"
+                    "fact": "Dominican Republic"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Zimbabwe"
+                    "fact": "Brunei Darussalam"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Antigua and Barbuda"
+                    "fact": "Azerbaijan"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Niue"
+                    "fact": "South Georgia and the South Sandwich Islands"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Algeria"
+                    "fact": "Vietnam"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Kyrgyz Republic"
+                    "fact": "Central African Republic"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Comoros"
+                    "fact": "Iceland"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Cook Islands"
+                    "fact": "French Southern Territories"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Ukraine"
+                    "fact": "Kuwait"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Haiti"
+                    "fact": "Libyan Arab Jamahiriya"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Afghanistan"
+                    "fact": "Portugal"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Puerto Rico"
+                    "fact": "Tonga"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Reunion"
+                    "fact": "Liberia"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Reunion"
+                    "fact": "Liberia"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Reunion"
+                    "fact": "Liberia"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Reunion"
+                    "fact": "Liberia"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Reunion"
+                    "fact": "Liberia"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Reunion"
+                    "fact": "Liberia"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Reunion"
+                    "fact": "Liberia"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Reunion"
+                    "fact": "Liberia"
                 }
             ]
         }

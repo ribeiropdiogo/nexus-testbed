@@ -3,27 +3,27 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Alexander Ruiz Pierce Malone",
+            "truth": "Eric Henderson Henry",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Alexander Ruiz Kelli Malone"
+                    "fact": "Eric Hendqeson Heny"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Alexander Lisa Pierce Malone"
+                    "fact": "Christina Henderson Henry"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Alexander Ruiz Pierce James"
+                    "fact": "Eric HbVderson Henry"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Alexander Ruiz Pierce Malone"
+                    "fact": "Eric Henderson Henry"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Alexander Ruiz Pierce Malone"
+                    "fact": "Eric Henderson Henry"
                 }
             ]
         }

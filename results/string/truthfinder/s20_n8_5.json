@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Carl Miller Byrd",
+            "truth": "Jessica Rios Bradley Mooney",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.49845679012345673,
+                "sorensen-dice": 0.5116279069767442,
+                "damerau-levenshtein": 0.18518518518518523
+            }
+        }
+    ]
+}

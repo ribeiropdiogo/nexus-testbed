@@ -1,0 +1,33 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Lisa Martin Miller",
+            "truth": "Caitlyn White Byrd",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.5185185185185185,
+                "sorensen-dice": 0.5555555555555556,
+                "damerau-levenshtein": 0.05555555555555558
+            }
+        },
+        {
+            "result": "Greenland",
+            "truth": "Greenland",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 1
+            }
+        },
+        {
+            "result": "33.0",
+            "truth": "28",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.15151515151515152,
+                "manhattan-distance": 0.15151515151515152,
+                "canberra-distance": 0.08196721310131685
+            }
+        }
+    ]
+}

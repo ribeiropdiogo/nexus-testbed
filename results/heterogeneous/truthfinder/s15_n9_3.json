@@ -1,0 +1,33 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Isaiah Martinez Garcia",
+            "truth": "Isaiah Martinez Garcia",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 1,
+                "sorensen-dice": 1,
+                "damerau-levenshtein": 1.0
+            }
+        },
+        {
+            "result": "Lebanon",
+            "truth": "Burkina Faso",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 0
+            }
+        },
+        {
+            "result": "31.0",
+            "truth": "32",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.03125,
+                "manhattan-distance": 0.03125,
+                "canberra-distance": 0.015873015870496346
+            }
+        }
+    ]
+}

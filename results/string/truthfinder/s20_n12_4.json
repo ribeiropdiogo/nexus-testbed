@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Aaron Jenna Burns",
+            "truth": "Aaron Bautista Burns",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.8521719457013575,
+                "sorensen-dice": 0.7027027027027027,
+                "damerau-levenshtein": 0.65
+            }
+        }
+    ]
+}

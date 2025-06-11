@@ -1,0 +1,13 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Kenya",
+            "truth": "Kenya",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 1
+            }
+        }
+    ]
+}

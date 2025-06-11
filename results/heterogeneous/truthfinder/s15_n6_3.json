@@ -1,0 +1,33 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Angela Cody George",
+            "truth": "Angela Little George",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.8669841269841271,
+                "sorensen-dice": 0.7368421052631579,
+                "damerau-levenshtein": 0.7
+            }
+        },
+        {
+            "result": "Peru",
+            "truth": "Peru",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 1
+            }
+        },
+        {
+            "result": "29.0",
+            "truth": "29",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.0,
+                "manhattan-distance": 0.0,
+                "canberra-distance": 0.0
+            }
+        }
+    ]
+}

@@ -3,69 +3,69 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Alice Clay Jones Choi",
+            "truth": "Timothy Murillo Le Gardner",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Alice Flay Jones Cho"
+                    "fact": "Timothy Murqlo Le GardneI"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Charles Henry Campos"
+                    "fact": "Timothy Murillo Le Gardmfr"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Alice Clay Jtnes Cooi"
+                    "fact": "Timotwy MurXllo Le Gardner"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Roberto Wallace Rios Cook"
+                    "fact": "Elizabeth Murillo Le Gardner"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Alice Clay Jones Choi"
+                    "fact": "Timothy Murillo Le Gardner"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Reunion",
+            "truth": "Chad",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Netherlands"
+                    "fact": "Mayotte"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "China"
+                    "fact": "Pitcairn Islands"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "New Zealand"
+                    "fact": "Monaco"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Libyan Arab Jamahiriya"
+                    "fact": "Uruguay"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Reunion"
+                    "fact": "Chad"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 28,
+            "truth": 32,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 24
+                    "fact": 28
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 27
+                    "fact": 30
                 },
                 {
                     "sourceId": "source3",
@@ -73,11 +73,11 @@
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 31
+                    "fact": 32
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 28
+                    "fact": 32
                 }
             ]
         }

@@ -3,261 +3,261 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Dustin Garza Pierce Ware",
+            "truth": "Susan Harris Campbell",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Brandon Murray Guerra"
+                    "fact": "Susan Harris Copbel"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Dusti Garzq Pierce Ware"
+                    "fact": "Susa Harris CampJell"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Dustin Garza Pierce Melissa"
+                    "fact": "Robert Cervantes Johnson"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Dustin GaAa Pierce are"
+                    "fact": "Susan Hapris Cambell"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Nathan Nichols Smith Morris"
+                    "fact": "Susan HarrUs ampbel"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Dustin Oarza PierI Ware"
+                    "fact": "Walter Thomas Wells Hale"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Natasha Garza Pierce Ware"
+                    "fact": "Michael Harris Campbell"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Michael Garza Pierce Ware"
+                    "fact": "Susan Harris Melissa"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Jill Hanna Petersen Swanson"
+                    "fact": "Sun Harris Cambell"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Dustin Grza hierce Ware"
+                    "fact": "Susan Elizabeth Campbell"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Dusin Garza PiercH Ware"
+                    "fact": "Susan Jo Campbell"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Dystin Garza Pierc Wnre"
+                    "fact": "Ssan HaKris Cvmpbell"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Kathy Cannon Green Freeman"
+                    "fact": "Jason Fox Miller Jones"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Dustin GMrza Pierje fare"
+                    "fact": "Keith Young Mclaughlin"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Dustin Garza Pierce Mary"
+                    "fact": "Suzanne Morton Romero Patrick"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Patricia Fisher Kennedy Marshall"
+                    "fact": "Keith Alexander Gonzales"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Dustin Garza Pierce David"
+                    "fact": "James Jones Johnson"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Dustin Garza Pierce Ryan"
+                    "fact": "Joshua Anderson Cook"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Dustin Garza Pierce Ware"
+                    "fact": "Susan Harris Campbell"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Dustin Garza Pierce Ware"
+                    "fact": "Susan Harris Campbell"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Switzerland",
+            "truth": "Benin",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Zimbabwe"
+                    "fact": "Uruguay"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Guinea"
+                    "fact": "Myanmar"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Chile"
+                    "fact": "Bolivia"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Timor-Leste"
+                    "fact": "Samoa"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Denmark"
+                    "fact": "Zambia"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Portugal"
+                    "fact": "Vanuatu"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Vietnam"
+                    "fact": "Namibia"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Italy"
+                    "fact": "Korea"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Cuba"
+                    "fact": "Mali"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Tunisia"
-                },
-                {
-                    "sourceId": "source11",
-                    "fact": "Isle of Man"
-                },
-                {
-                    "sourceId": "source12",
-                    "fact": "Serbia"
-                },
-                {
-                    "sourceId": "source13",
                     "fact": "Honduras"
                 },
                 {
+                    "sourceId": "source11",
+                    "fact": "South Africa"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "United States Virgin Islands"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Austria"
+                },
+                {
                     "sourceId": "source14",
-                    "fact": "Maldives"
+                    "fact": "Iraq"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Palau"
+                    "fact": "Cook Islands"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "India"
+                    "fact": "French Southern Territories"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Oman"
+                    "fact": "Hong Kong"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Russian Federation"
+                    "fact": "Serbia"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Switzerland"
+                    "fact": "Benin"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Switzerland"
+                    "fact": "Benin"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 26,
+            "truth": 29,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 31
+                    "fact": 29
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 31
+                    "fact": 34
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 21
+                    "fact": 33
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 29
+                    "fact": 28
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 29
+                    "fact": 26
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 24
+                    "fact": 27
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 31
+                    "fact": 25
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 25
+                    "fact": 27
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 23
+                    "fact": 33
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 27
+                    "fact": 34
                 },
                 {
                     "sourceId": "source11",
-                    "fact": 25
+                    "fact": 27
                 },
                 {
                     "sourceId": "source12",
-                    "fact": 24
+                    "fact": 29
                 },
                 {
                     "sourceId": "source13",
-                    "fact": 22
+                    "fact": 24
                 },
                 {
                     "sourceId": "source14",
-                    "fact": 26
+                    "fact": 30
                 },
                 {
                     "sourceId": "source15",
-                    "fact": 27
+                    "fact": 25
                 },
                 {
                     "sourceId": "source16",
-                    "fact": 23
+                    "fact": 31
                 },
                 {
                     "sourceId": "source17",
-                    "fact": 21
+                    "fact": 26
                 },
                 {
                     "sourceId": "source18",
-                    "fact": 27
+                    "fact": 28
                 },
                 {
                     "sourceId": "source19",
-                    "fact": 26
+                    "fact": 29
                 },
                 {
                     "sourceId": "source20",
-                    "fact": 26
+                    "fact": 29
                 }
             ]
         }

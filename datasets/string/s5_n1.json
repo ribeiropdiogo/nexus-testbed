@@ -3,27 +3,27 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Brittany Wilkinson Parks Dalton",
+            "truth": "Angela Jacobs Turner",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Emily Miller Nelson Swanson"
+                    "fact": "Angel Jcob Turner"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Brittany Wilkinson Parks Dalton"
+                    "fact": "Angela Jacobs Turner"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Brittany Wilkinson Parks Dalton"
+                    "fact": "Angela Jacobs Turner"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Brittany Wilkinson Parks Dalton"
+                    "fact": "Angela Jacobs Turner"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Brittany Wilkinson Parks Dalton"
+                    "fact": "Angela Jacobs Turner"
                 }
             ]
         }

@@ -1,0 +1,33 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Albert Candice Bailey Hart",
+            "truth": "Albert Mckay Bailey Hart",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.8984432234432235,
+                "sorensen-dice": 0.84,
+                "damerau-levenshtein": 0.7307692307692308
+            }
+        },
+        {
+            "result": "Chad",
+            "truth": "Jordan",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 0
+            }
+        },
+        {
+            "result": "33.0",
+            "truth": "32",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.030303030303030304,
+                "manhattan-distance": 0.030303030303030304,
+                "canberra-distance": 0.015384615382248522
+            }
+        }
+    ]
+}

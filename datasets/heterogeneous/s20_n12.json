@@ -3,261 +3,261 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Amanda Reyes Ho Smith",
+            "truth": "Joshua Smith Bartlett Chang",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Amada Reyea Ho Smith"
+                    "fact": "Beth Smith Bartlett Chang"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Paul Reyes Ho Smith"
+                    "fact": "Josua Smth Bartlet Chang"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Amand eyes o Smith"
+                    "fact": "Joshua miAh Bartlett Chanh"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Aman Reyes o Smith"
+                    "fact": "Joshua Spsth Bartlett Chang"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Jasmin Rivas Beard"
+                    "fact": "Johua Sith Bartlett Chang"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Robert Reyes Ho Smith"
+                    "fact": "Joshua Johnny Bartlett Chang"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Amfnda Reye Ho imith"
+                    "fact": "Austin Miller Smith West"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Amanda Reyes Ho Carol"
+                    "fact": "Joshua Smith Bartlett Rebecca"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Amada ReeH Ho Smith"
+                    "fact": "Wendy Hart Melton Young"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Kim Mcdaniel Jackson Jackson"
+                    "fact": "Jshu Smith Bartlett Chang"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Amanda Reyes HW Sith"
+                    "fact": "Victoria Smith Torres"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Allison Reyes Ho Smith"
+                    "fact": "Justin Garcia Moran Holmes"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Amanda Reyes Ho Smith"
+                    "fact": "Joshua Smith Bartlett Chang"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Amanda Reyes Ho Smith"
+                    "fact": "Joshua Smith Bartlett Chang"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Amanda Reyes Ho Smith"
+                    "fact": "Joshua Smith Bartlett Chang"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Amanda Reyes Ho Smith"
+                    "fact": "Joshua Smith Bartlett Chang"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Amanda Reyes Ho Smith"
+                    "fact": "Joshua Smith Bartlett Chang"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Amanda Reyes Ho Smith"
+                    "fact": "Joshua Smith Bartlett Chang"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Amanda Reyes Ho Smith"
+                    "fact": "Joshua Smith Bartlett Chang"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Amanda Reyes Ho Smith"
+                    "fact": "Joshua Smith Bartlett Chang"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Cocos (Keeling) Islands",
+            "truth": "Congo",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Lao People's Democratic Republic"
+                    "fact": "Guatemala"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Liechtenstein"
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Congo"
+                    "fact": "Romania"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Equatorial Guinea"
+                    "fact": "Nauru"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Sao Tome and Principe"
+                    "fact": "United States of America"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                    "fact": "Cyprus"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Macao"
+                    "fact": "Cameroon"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "India"
+                    "fact": "Saint Kitts and Nevis"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Antigua and Barbuda"
+                    "fact": "Brazil"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Dominican Republic"
+                    "fact": "Guyana"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Saint Barthelemy"
+                    "fact": "Australia"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Netherlands"
+                    "fact": "Mexico"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Congo"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Congo"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Congo"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Congo"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Congo"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Congo"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Congo"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Congo"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 35,
+            "truth": 25,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 37
+                    "fact": 26
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 38
+                    "fact": 24
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 35
+                    "fact": 21
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 37
+                    "fact": 26
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 33
+                    "fact": 29
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 35
+                    "fact": 20
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 36
+                    "fact": 22
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 31
+                    "fact": 28
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 32
+                    "fact": 25
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 38
+                    "fact": 26
                 },
                 {
                     "sourceId": "source11",
-                    "fact": 37
+                    "fact": 30
                 },
                 {
                     "sourceId": "source12",
-                    "fact": 31
+                    "fact": 24
                 },
                 {
                     "sourceId": "source13",
-                    "fact": 35
+                    "fact": 25
                 },
                 {
                     "sourceId": "source14",
-                    "fact": 35
+                    "fact": 25
                 },
                 {
                     "sourceId": "source15",
-                    "fact": 35
+                    "fact": 25
                 },
                 {
                     "sourceId": "source16",
-                    "fact": 35
+                    "fact": 25
                 },
                 {
                     "sourceId": "source17",
-                    "fact": 35
+                    "fact": 25
                 },
                 {
                     "sourceId": "source18",
-                    "fact": 35
+                    "fact": 25
                 },
                 {
                     "sourceId": "source19",
-                    "fact": 35
+                    "fact": 25
                 },
                 {
                     "sourceId": "source20",
-                    "fact": 35
+                    "fact": 25
                 }
             ]
         }

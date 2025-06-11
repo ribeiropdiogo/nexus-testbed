@@ -3,27 +3,27 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Martinique",
+            "truth": "Denmark",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Bahamas"
+                    "fact": "Korea"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Martinique"
+                    "fact": "Denmark"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Martinique"
+                    "fact": "Denmark"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Martinique"
+                    "fact": "Denmark"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Martinique"
+                    "fact": "Denmark"
                 }
             ]
         }

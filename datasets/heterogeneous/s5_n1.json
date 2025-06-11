@@ -3,81 +3,81 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Benjamin Joseph Burns Diaz",
+            "truth": "Anita Smith Butler",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "William Garcia Gibson Wu"
+                    "fact": "Melissa Miller Hansen Walker"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Benjamin Joseph Burns Diaz"
+                    "fact": "Anita Smith Butler"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Benjamin Joseph Burns Diaz"
+                    "fact": "Anita Smith Butler"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Benjamin Joseph Burns Diaz"
+                    "fact": "Anita Smith Butler"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Benjamin Joseph Burns Diaz"
+                    "fact": "Anita Smith Butler"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Libyan Arab Jamahiriya",
+            "truth": "Turks and Caicos Islands",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Uruguay"
+                    "fact": "Taiwan"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Libyan Arab Jamahiriya"
+                    "fact": "Turks and Caicos Islands"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Libyan Arab Jamahiriya"
+                    "fact": "Turks and Caicos Islands"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Libyan Arab Jamahiriya"
+                    "fact": "Turks and Caicos Islands"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Libyan Arab Jamahiriya"
+                    "fact": "Turks and Caicos Islands"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 25,
+            "truth": 32,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 23
+                    "fact": 31
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 25
+                    "fact": 32
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 25
+                    "fact": 32
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 25
+                    "fact": 32
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 25
+                    "fact": 32
                 }
             ]
         }

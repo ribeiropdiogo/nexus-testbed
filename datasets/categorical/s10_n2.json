@@ -3,47 +3,47 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Burundi",
+            "truth": "Zimbabwe",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Netherlands Antilles"
+                    "fact": "Samoa"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Argentina"
+                    "fact": "Portugal"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Burundi"
+                    "fact": "Zimbabwe"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Burundi"
+                    "fact": "Zimbabwe"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Burundi"
+                    "fact": "Zimbabwe"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Burundi"
+                    "fact": "Zimbabwe"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Burundi"
+                    "fact": "Zimbabwe"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Burundi"
+                    "fact": "Zimbabwe"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Burundi"
+                    "fact": "Zimbabwe"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Burundi"
+                    "fact": "Zimbabwe"
                 }
             ]
         }

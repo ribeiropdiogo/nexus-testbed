@@ -3,27 +3,27 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Lisa Allen Hanna Hampton",
+            "truth": "Sandra Larson Holder Cruz",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Lisa yllen Hanrx Hampton"
+                    "fact": "Sandra Larson Holder Brian"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Anna Peterson Murphy"
+                    "fact": "Gregory Meyer Guerra Rice"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Lisa Robin Hanna Hampton"
+                    "fact": "Aaron Hughes Campbell Bowen"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Andre Cervantes Martinez Cervantes"
+                    "fact": "Sandra Larson Holder Brian"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Lisa Allen Hanna Hampton"
+                    "fact": "Sandra Larson Holder Cruz"
                 }
             ]
         }

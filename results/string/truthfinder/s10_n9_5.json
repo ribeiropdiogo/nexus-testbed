@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Chad Fowler Powell",
+            "truth": "Anthony Fowler Powell",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.7380952380952381,
+                "sorensen-dice": 0.7692307692307693,
+                "damerau-levenshtein": 0.7142857142857143
+            }
+        }
+    ]
+}

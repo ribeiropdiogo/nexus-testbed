@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Anhkny Fowler Powell",
+            "truth": "Anthony Fowler Powell",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.8770593149540518,
+                "sorensen-dice": 0.926829268292683,
+                "damerau-levenshtein": 0.9047619047619048
+            }
+        }
+    ]
+}

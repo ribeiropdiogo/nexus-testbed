@@ -1,0 +1,33 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Angelh Litte GePrge",
+            "truth": "Angela Little George",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.9489473684210527,
+                "sorensen-dice": 0.8717948717948718,
+                "damerau-levenshtein": 0.85
+            }
+        },
+        {
+            "result": "Spain",
+            "truth": "Peru",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 0
+            }
+        },
+        {
+            "result": "24.0",
+            "truth": "29",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.1724137931034483,
+                "manhattan-distance": 0.1724137931034483,
+                "canberra-distance": 0.0943396226237095
+            }
+        }
+    ]
+}

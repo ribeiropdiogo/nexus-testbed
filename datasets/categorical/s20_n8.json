@@ -3,87 +3,87 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Mozambique",
+            "truth": "Kenya",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Mexico"
+                    "fact": "Martinique"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Nauru"
+                    "fact": "Zimbabwe"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Palau"
+                    "fact": "Saint Barthelemy"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Switzerland"
+                    "fact": "Moldova"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Egypt"
+                    "fact": "Moldova"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Gibraltar"
+                    "fact": "Israel"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Georgia"
+                    "fact": "North Macedonia"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Hungary"
+                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Mozambique"
+                    "fact": "Kenya"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Mozambique"
+                    "fact": "Kenya"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Mozambique"
+                    "fact": "Kenya"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Mozambique"
+                    "fact": "Kenya"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Mozambique"
+                    "fact": "Kenya"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Mozambique"
+                    "fact": "Kenya"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Mozambique"
+                    "fact": "Kenya"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Mozambique"
+                    "fact": "Kenya"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Mozambique"
+                    "fact": "Kenya"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Mozambique"
+                    "fact": "Kenya"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Mozambique"
+                    "fact": "Kenya"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Mozambique"
+                    "fact": "Kenya"
                 }
             ]
         }

@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Sharon Holt Elliott",
+            "truth": "Brent Holt Elliott",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.852046783625731,
+                "sorensen-dice": 0.8108108108108109,
+                "damerau-levenshtein": 0.736842105263158
+            }
+        }
+    ]
+}

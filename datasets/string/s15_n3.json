@@ -3,67 +3,67 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "April Schmidt Mcneil",
+            "truth": "Elizabeth Cain Sanchez",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "April chmit Mcnil"
+                    "fact": "Elizabcth Cin SanAhez"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "April Schmidt Mariah"
+                    "fact": "lizabeth Cain Sanchz"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Donna Lamb Butler Cabrera"
+                    "fact": "Elzabeth Cain Sancheo"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "April Schmidt Mcneil"
+                    "fact": "Elizabeth Cain Sanchez"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "April Schmidt Mcneil"
+                    "fact": "Elizabeth Cain Sanchez"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "April Schmidt Mcneil"
+                    "fact": "Elizabeth Cain Sanchez"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "April Schmidt Mcneil"
+                    "fact": "Elizabeth Cain Sanchez"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "April Schmidt Mcneil"
+                    "fact": "Elizabeth Cain Sanchez"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "April Schmidt Mcneil"
+                    "fact": "Elizabeth Cain Sanchez"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "April Schmidt Mcneil"
+                    "fact": "Elizabeth Cain Sanchez"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "April Schmidt Mcneil"
+                    "fact": "Elizabeth Cain Sanchez"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "April Schmidt Mcneil"
+                    "fact": "Elizabeth Cain Sanchez"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "April Schmidt Mcneil"
+                    "fact": "Elizabeth Cain Sanchez"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "April Schmidt Mcneil"
+                    "fact": "Elizabeth Cain Sanchez"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "April Schmidt Mcneil"
+                    "fact": "Elizabeth Cain Sanchez"
                 }
             ]
         }

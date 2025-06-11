@@ -3,81 +3,81 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Kayla Gomez Collins",
+            "truth": "David Vincent Gilbert",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Kayla Gomez Dustin"
+                    "fact": "David Vincent Bailey"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Amanda Walker Barnes Burnett"
+                    "fact": "David Vncent Gibezt"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Kayla Gomez Brandon"
+                    "fact": "David VinceYt Gjlbert"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Kayla Gomez Collins"
+                    "fact": "David Vincent Gilbert"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Kayla Gomez Collins"
+                    "fact": "David Vincent Gilbert"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Spain",
+            "truth": "Namibia",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Zimbabwe"
+                    "fact": "Slovakia (Slovak Republic)"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Antarctica (the territory South of 60 deg S)"
+                    "fact": "New Caledonia"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Central African Republic"
+                    "fact": "Maldives"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Spain"
+                    "fact": "Namibia"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Spain"
+                    "fact": "Namibia"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 34,
+            "truth": 31,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 29
-                },
-                {
-                    "sourceId": "source2",
                     "fact": 33
                 },
                 {
+                    "sourceId": "source2",
+                    "fact": 27
+                },
+                {
                     "sourceId": "source3",
-                    "fact": 38
+                    "fact": 34
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 34
+                    "fact": 31
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 34
+                    "fact": 31
                 }
             ]
         }

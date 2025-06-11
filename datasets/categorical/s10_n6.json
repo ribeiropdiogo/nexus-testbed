@@ -3,47 +3,47 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Saint Helena",
+            "truth": "Maldives",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Sudan"
+                    "fact": "Tokelau"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Sao Tome and Principe"
+                    "fact": "Slovakia (Slovak Republic)"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Norway"
+                    "fact": "Cocos (Keeling) Islands"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Norway"
+                    "fact": "Nepal"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Saint Vincent and the Grenadines"
+                    "fact": "Iraq"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Guinea"
+                    "fact": "Holy See (Vatican City State)"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Saint Helena"
+                    "fact": "Maldives"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Saint Helena"
+                    "fact": "Maldives"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Saint Helena"
+                    "fact": "Maldives"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Saint Helena"
+                    "fact": "Maldives"
                 }
             ]
         }

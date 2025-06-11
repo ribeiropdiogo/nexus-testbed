@@ -1,0 +1,13 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Switzerland",
+            "truth": "Switzerland",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 1
+            }
+        }
+    ]
+}

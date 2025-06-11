@@ -1,0 +1,33 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Rhonda Frazier Mcdonald",
+            "truth": "Rhonda Frazier Mcdonald",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 1,
+                "sorensen-dice": 1,
+                "damerau-levenshtein": 1.0
+            }
+        },
+        {
+            "result": "Costa Rica",
+            "truth": "Costa Rica",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 1
+            }
+        },
+        {
+            "result": "30.0",
+            "truth": "25",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.16666666666666666,
+                "manhattan-distance": 0.16666666666666666,
+                "canberra-distance": 0.09090909089256198
+            }
+        }
+    ]
+}

@@ -3,47 +3,47 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Joshua Frazier Dennis Johnson",
+            "truth": "Bruce Khan Davis Brown",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Joshua Frazier Andrew Johnson"
+                    "fact": "Lance Cooper Mcdonald Williams"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "April Frazier Dennis Johnson"
+                    "fact": "Bruce Kan DavJs Brown"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Joshua Fralier Dennis Johnsn"
+                    "fact": "Daniel Ward Morrow Bennett"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Shelly Sharp Holden"
+                    "fact": "Bruce Khan Scott Brown"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Jennifer Huerta Fisher"
+                    "fact": "Bruce Khan avis Bowr"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Joshua Frazier Andrea Johnson"
+                    "fact": "Bruc Kan Davis Brown"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Joshua Frazier Dennis Johnson"
+                    "fact": "Bruce Khan Davis Brown"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Joshua Frazier Dennis Johnson"
+                    "fact": "Bruce Khan Davis Brown"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Joshua Frazier Dennis Johnson"
+                    "fact": "Bruce Khan Davis Brown"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Joshua Frazier Dennis Johnson"
+                    "fact": "Bruce Khan Davis Brown"
                 }
             ]
         }

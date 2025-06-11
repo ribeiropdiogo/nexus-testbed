@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Bruc Kan Davis Brown",
+            "truth": "Bruce Khan Davis Brown",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.9818181818181818,
+                "sorensen-dice": 0.9523809523809523,
+                "damerau-levenshtein": 0.9090909090909091
+            }
+        }
+    ]
+}

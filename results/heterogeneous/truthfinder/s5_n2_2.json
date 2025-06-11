@@ -1,0 +1,33 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Samantha Reid White Green",
+            "truth": "Gary Reid White Green",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.7664550264550264,
+                "sorensen-dice": 0.782608695652174,
+                "damerau-levenshtein": 0.72
+            }
+        },
+        {
+            "result": "Lesotho",
+            "truth": "Antarctica (the territory South of 60 deg S)",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 0
+            }
+        },
+        {
+            "result": "25.0",
+            "truth": "28",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.10714285714285714,
+                "manhattan-distance": 0.10714285714285714,
+                "canberra-distance": 0.056603773574225705
+            }
+        }
+    ]
+}

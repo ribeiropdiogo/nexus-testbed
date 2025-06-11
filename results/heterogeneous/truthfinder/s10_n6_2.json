@@ -1,0 +1,33 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Kristen Cantrell Miller Michael",
+            "truth": "Kristen Cantrell Miller Reynolds",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.930241935483871,
+                "sorensen-dice": 0.8253968253968254,
+                "damerau-levenshtein": 0.75
+            }
+        },
+        {
+            "result": "Somalia",
+            "truth": "Somalia",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 1
+            }
+        },
+        {
+            "result": "32.0",
+            "truth": "29",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.09375,
+                "manhattan-distance": 0.09375,
+                "canberra-distance": 0.04918032786079011
+            }
+        }
+    ]
+}

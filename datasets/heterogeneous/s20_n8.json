@@ -3,197 +3,197 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Suzanne Vargas Anderson",
+            "truth": "Albert Mckay Bailey Hart",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Suzanne Vargs AndePson"
+                    "fact": "AlbeFt Mckay Bailey Hat"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Ryan Martinez Howell Thomas"
+                    "fact": "Albert Mckay Eric Hart"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Kevin Robinson Kelley Grant"
+                    "fact": "Albert Candice Bailey Hart"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Jennifer Price Mathews"
+                    "fact": "albert Mckay Biley Hart"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Suzanne Julie Anderson"
+                    "fact": "Albert Mcyay BXiley Hart"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Suanne Vargas Andrson"
+                    "fact": "AlXert Mkay Bailek Hart"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Brian Collins Tucker"
+                    "fact": "Erin Dudley Acosta Jimenez"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Andrea Hoffman Mcdonald Sullivan"
+                    "fact": "Albert Mckay Kim Hart"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Suzanne Vargas Anderson"
+                    "fact": "Albert Mckay Bailey Hart"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Suzanne Vargas Anderson"
+                    "fact": "Albert Mckay Bailey Hart"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Suzanne Vargas Anderson"
+                    "fact": "Albert Mckay Bailey Hart"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Suzanne Vargas Anderson"
+                    "fact": "Albert Mckay Bailey Hart"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Suzanne Vargas Anderson"
+                    "fact": "Albert Mckay Bailey Hart"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Suzanne Vargas Anderson"
+                    "fact": "Albert Mckay Bailey Hart"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Suzanne Vargas Anderson"
+                    "fact": "Albert Mckay Bailey Hart"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Suzanne Vargas Anderson"
+                    "fact": "Albert Mckay Bailey Hart"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Suzanne Vargas Anderson"
+                    "fact": "Albert Mckay Bailey Hart"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Suzanne Vargas Anderson"
+                    "fact": "Albert Mckay Bailey Hart"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Suzanne Vargas Anderson"
+                    "fact": "Albert Mckay Bailey Hart"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Suzanne Vargas Anderson"
+                    "fact": "Albert Mckay Bailey Hart"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Guyana",
+            "truth": "Jordan",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Lesotho"
+                    "fact": "Panama"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Hong Kong"
+                    "fact": "Fiji"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Italy"
+                    "fact": "Chad"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Korea"
+                    "fact": "Dominican Republic"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Liberia"
+                    "fact": "Mozambique"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Norway"
+                    "fact": "Marshall Islands"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Mauritania"
+                    "fact": "Namibia"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Dominica"
+                    "fact": "Lesotho"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Guyana"
+                    "fact": "Jordan"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Guyana"
+                    "fact": "Jordan"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Guyana"
+                    "fact": "Jordan"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Guyana"
+                    "fact": "Jordan"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Guyana"
+                    "fact": "Jordan"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Guyana"
+                    "fact": "Jordan"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Guyana"
+                    "fact": "Jordan"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Guyana"
+                    "fact": "Jordan"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Guyana"
+                    "fact": "Jordan"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Guyana"
+                    "fact": "Jordan"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Guyana"
+                    "fact": "Jordan"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Guyana"
+                    "fact": "Jordan"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 28,
+            "truth": 32,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 27
+                    "fact": 28
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 29
+                    "fact": 30
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 33
+                    "fact": 34
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 33
+                    "fact": 30
                 },
                 {
                     "sourceId": "source5",
@@ -201,7 +201,7 @@
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 27
+                    "fact": 29
                 },
                 {
                     "sourceId": "source7",
@@ -209,55 +209,55 @@
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 25
+                    "fact": 34
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 28
+                    "fact": 32
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 28
+                    "fact": 32
                 },
                 {
                     "sourceId": "source11",
-                    "fact": 28
+                    "fact": 32
                 },
                 {
                     "sourceId": "source12",
-                    "fact": 28
+                    "fact": 32
                 },
                 {
                     "sourceId": "source13",
-                    "fact": 28
+                    "fact": 32
                 },
                 {
                     "sourceId": "source14",
-                    "fact": 28
+                    "fact": 32
                 },
                 {
                     "sourceId": "source15",
-                    "fact": 28
+                    "fact": 32
                 },
                 {
                     "sourceId": "source16",
-                    "fact": 28
+                    "fact": 32
                 },
                 {
                     "sourceId": "source17",
-                    "fact": 28
+                    "fact": 32
                 },
                 {
                     "sourceId": "source18",
-                    "fact": 28
+                    "fact": 32
                 },
                 {
                     "sourceId": "source19",
-                    "fact": 28
+                    "fact": 32
                 },
                 {
                     "sourceId": "source20",
-                    "fact": 28
+                    "fact": 32
                 }
             ]
         }

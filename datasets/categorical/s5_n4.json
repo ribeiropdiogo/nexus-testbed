@@ -3,27 +3,27 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Zambia",
+            "truth": "Greenland",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Saint Vincent and the Grenadines"
+                    "fact": "Italy"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Norway"
+                    "fact": "Niue"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Kenya"
+                    "fact": "Norfolk Island"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Portugal"
+                    "fact": "Vietnam"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Zambia"
+                    "fact": "Greenland"
                 }
             ]
         }

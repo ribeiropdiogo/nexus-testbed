@@ -3,87 +3,87 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Georgia",
+            "truth": "South Africa",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Kiribati"
+                    "fact": "New Zealand"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Niue"
+                    "fact": "Saudi Arabia"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Kuwait"
+                    "fact": "Sudan"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Argentina"
+                    "fact": "Vanuatu"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Georgia"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Georgia"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Georgia"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Georgia"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Georgia"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Georgia"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Georgia"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Georgia"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Georgia"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Georgia"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Georgia"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Georgia"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Georgia"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Georgia"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Georgia"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Georgia"
+                    "fact": "South Africa"
                 }
             ]
         }

@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Sandra Larson Holder Brian",
+            "truth": "Sandra Larson Holder Cruz",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.9452307692307692,
+                "sorensen-dice": 0.8627450980392157,
+                "damerau-levenshtein": 0.8461538461538461
+            }
+        }
+    ]
+}

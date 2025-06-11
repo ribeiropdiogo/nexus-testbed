@@ -3,141 +3,141 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Sherry Cunningham Grant Cannon",
+            "truth": "Jorge Brown Humphrey Williams",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Sherry Cunningham Gqant Gnnon"
+                    "fact": "David Brown Humphrey Williams"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "hery Cuningham Grant Cannon"
+                    "fact": "Sara Warner Jones"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Sherry Cunningham Grant Cannon"
+                    "fact": "Jorge Brown Humphrey Williams"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Sherry Cunningham Grant Cannon"
+                    "fact": "Jorge Brown Humphrey Williams"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Sherry Cunningham Grant Cannon"
+                    "fact": "Jorge Brown Humphrey Williams"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Sherry Cunningham Grant Cannon"
+                    "fact": "Jorge Brown Humphrey Williams"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Sherry Cunningham Grant Cannon"
+                    "fact": "Jorge Brown Humphrey Williams"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Sherry Cunningham Grant Cannon"
+                    "fact": "Jorge Brown Humphrey Williams"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Sherry Cunningham Grant Cannon"
+                    "fact": "Jorge Brown Humphrey Williams"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Sherry Cunningham Grant Cannon"
+                    "fact": "Jorge Brown Humphrey Williams"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Mayotte",
+            "truth": "Andorra",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Saint Martin"
+                    "fact": "Sierra Leone"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Oman"
+                    "fact": "Gabon"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Mayotte"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Mayotte"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Mayotte"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Mayotte"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Mayotte"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Mayotte"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Mayotte"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Mayotte"
+                    "fact": "Andorra"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 25,
+            "truth": 28,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 23
+                    "fact": 30
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 22
+                    "fact": 25
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 25
+                    "fact": 28
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 25
+                    "fact": 28
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 25
+                    "fact": 28
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 25
+                    "fact": 28
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 25
+                    "fact": 28
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 25
+                    "fact": 28
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 25
+                    "fact": 28
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 25
+                    "fact": 28
                 }
             ]
         }

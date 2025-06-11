@@ -3,67 +3,67 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Andrew Mills Davis",
+            "truth": "Tyler Willis Garza Brown",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Andrew Mills Elizabeth"
+                    "fact": "Charles Perry Warner"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Andrew Patricia Davis"
+                    "fact": "Tyler WiZlis Garza yrown"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Anduew Mils Dais"
+                    "fact": "Luis Rodriguez Berry Anderson"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Angel Gonzalez Phillips Strickland"
+                    "fact": "Tyler Willis Michael Brown"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Julian Martinez Swanson"
+                    "fact": "TAler WiAis Garza Brown"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Andrew Mills Curtis"
+                    "fact": "Mackenzie Wright Reed"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Andrew Mills Emily"
+                    "fact": "Benjamin Murphy Mathis Moore"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Andrew Barbara Davis"
+                    "fact": "Tyler Willis Thomas Brown"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Andrew ils Davs"
+                    "fact": "Tyaer Wizlis Garza Bjown"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Andrew Erica Davis"
+                    "fact": "Tyler Willis Garza Matthew"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Andrew Lori Davis"
+                    "fact": "Tyler Jacob Garza Brown"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Andre ills Ravis"
+                    "fact": "Julie Foster Brown"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Andrew Mills Miguel"
+                    "fact": "Tyler Willis Gara BoVn"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Andrew Mills Davis"
+                    "fact": "Tyler Willis Garza Brown"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Andrew Mills Davis"
+                    "fact": "Tyler Willis Garza Brown"
                 }
             ]
         }

@@ -3,67 +3,67 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Cayman Islands",
+            "truth": "Korea",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Guadeloupe"
+                    "fact": "Madagascar"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Libyan Arab Jamahiriya"
+                    "fact": "French Southern Territories"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Sao Tome and Principe"
+                    "fact": "Morocco"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Thailand"
+                    "fact": "Poland"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Burundi"
+                    "fact": "Guinea"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Sudan"
+                    "fact": "United States of America"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Australia"
+                    "fact": "Micronesia"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Bosnia and Herzegovina"
+                    "fact": "Austria"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Indonesia"
+                    "fact": "Sweden"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Chile"
+                    "fact": "Turkey"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Djibouti"
+                    "fact": "Moldova"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "United States Virgin Islands"
+                    "fact": "Libyan Arab Jamahiriya"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Colombia"
+                    "fact": "Cook Islands"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Cayman Islands"
+                    "fact": "Korea"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Cayman Islands"
+                    "fact": "Korea"
                 }
             ]
         }

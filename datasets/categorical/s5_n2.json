@@ -3,27 +3,27 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Sweden",
+            "truth": "French Guiana",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Cameroon"
+                    "fact": "Haiti"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Costa Rica"
+                    "fact": "Falkland Islands (Malvinas)"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Sweden"
+                    "fact": "French Guiana"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Sweden"
+                    "fact": "French Guiana"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Sweden"
+                    "fact": "French Guiana"
                 }
             ]
         }

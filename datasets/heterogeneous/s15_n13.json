@@ -3,90 +3,90 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Dawn Peterson Taylor Williams",
+            "truth": "Caitlyn David Ingram Dawson",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Dawn Peterson Kristin Williams"
+                    "fact": "Caitlyn David Ingrmm Dawsn"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Dawn Uetenson Kaylor Williams"
+                    "fact": "Caitlyn David Christina Dawson"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Dawn Peterson Talor Willams"
+                    "fact": "Mark Kelly Howe"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Dwp PeterVon Taylor Williams"
+                    "fact": "Caitlyn David IgraF Dwson"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Nicholas Knox Garcia Turner"
+                    "fact": "Renee Leach Webb"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Dawn Petehson Taylor Willaams"
+                    "fact": "Caitly David Ingram DHson"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Dawn Peterson Robert Williams"
+                    "fact": "Jennifer King Harris Patel"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Cristina Moore Smith"
+                    "fact": "Caitlyn Samuel Ingram Dawson"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Dawn Peterson TWylor Whllmams"
+                    "fact": "David Hernandez Powell Austin"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Dawn Peterson Taylor Ryan"
+                    "fact": "aitlyn David ngram Dawso"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Dawn Petersn Taylr Eilliams"
+                    "fact": "Caitlyn Christopher Ingram Dawson"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Randy Graves Evans"
+                    "fact": "Caitlyn David Michelle Dawson"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Bradley Higgins Cain Chandler"
+                    "fact": "Marilyn Simpson Sanchez"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Dawn Peterson Taylor Williams"
+                    "fact": "Caitlyn David Ingram Dawson"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Dawn Peterson Taylor Williams"
+                    "fact": "Caitlyn David Ingram Dawson"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Turks and Caicos Islands",
+            "truth": "Marshall Islands",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Czech Republic"
+                    "fact": "Montserrat"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Sweden"
+                    "fact": "Dominica"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Monaco"
+                    "fact": "Jamaica"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Mauritania"
+                    "fact": "Madagascar"
                 },
                 {
                     "sourceId": "source5",
@@ -94,11 +94,11 @@
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Micronesia"
+                    "fact": "Martinique"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Venezuela"
+                    "fact": "Bahamas"
                 },
                 {
                     "sourceId": "source8",
@@ -106,98 +106,98 @@
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Saint Barthelemy"
+                    "fact": "Saudi Arabia"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Timor-Leste"
+                    "fact": "Iran"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Denmark"
+                    "fact": "French Polynesia"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Guadeloupe"
+                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Tokelau"
+                    "fact": "Switzerland"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Turks and Caicos Islands"
+                    "fact": "Marshall Islands"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Turks and Caicos Islands"
+                    "fact": "Marshall Islands"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 30,
+            "truth": 32,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 32
+                    "fact": 29
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 31
+                    "fact": 35
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 33
+                    "fact": 28
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 28
+                    "fact": 30
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 29
-                },
-                {
-                    "sourceId": "source6",
-                    "fact": 27
-                },
-                {
-                    "sourceId": "source7",
-                    "fact": 28
-                },
-                {
-                    "sourceId": "source8",
-                    "fact": 29
-                },
-                {
-                    "sourceId": "source9",
-                    "fact": 27
-                },
-                {
-                    "sourceId": "source10",
                     "fact": 31
                 },
                 {
+                    "sourceId": "source6",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 32
+                },
+                {
                     "sourceId": "source11",
-                    "fact": 27
+                    "fact": 37
                 },
                 {
                     "sourceId": "source12",
-                    "fact": 27
+                    "fact": 33
                 },
                 {
                     "sourceId": "source13",
-                    "fact": 25
+                    "fact": 33
                 },
                 {
                     "sourceId": "source14",
-                    "fact": 30
+                    "fact": 32
                 },
                 {
                     "sourceId": "source15",
-                    "fact": 30
+                    "fact": 32
                 }
             ]
         }

@@ -3,27 +3,27 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Comoros",
+            "truth": "Turkmenistan",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Korea"
+                    "fact": "Ecuador"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "French Southern Territories"
+                    "fact": "Bouvet Island (Bouvetoya)"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Solomon Islands"
+                    "fact": "Austria"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Comoros"
+                    "fact": "Turkmenistan"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Comoros"
+                    "fact": "Turkmenistan"
                 }
             ]
         }

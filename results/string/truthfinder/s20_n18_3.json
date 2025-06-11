@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Danielle Banks Adams Frey",
+            "truth": "Jacqueline Rodriguez Chen Brewer",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.5395192307692308,
+                "sorensen-dice": 0.49122807017543857,
+                "damerau-levenshtein": 0.25
+            }
+        }
+    ]
+}

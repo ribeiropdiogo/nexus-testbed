@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "facueline Ronriguez Chen Brewer",
+            "truth": "Jacqueline Rodriguez Chen Brewer",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.8897733592880979,
+                "sorensen-dice": 0.9206349206349206,
+                "damerau-levenshtein": 0.90625
+            }
+        }
+    ]
+}

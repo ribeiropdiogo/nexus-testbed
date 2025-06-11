@@ -32,7 +32,7 @@ def manhattan_distance(x, y):
     # Return normalized distance
     return normalized_distance
 
-def cosine_distance(x, y):
+def cosine_distance(x: float, y: float) -> float:
     """
     Calculate cosine distance between two values.
     """
@@ -49,3 +49,21 @@ def cosine_distance(x, y):
     normalized_distance = distance/maximum
     # Return normalized distance
     return normalized_distance
+
+def squared_difference(x: float, y: float) -> float:
+    """
+    Calculates the squared difference between two values.
+    """
+    # Calculate squared difference
+    squared_diff = (x - y) ** 2
+    # Return similarity
+    return squared_diff
+
+def canberra_distance(x: float, y: float, epsilon: float = 1e-8) -> float:
+    """
+    Calculate Canberra distance between two values.
+    """
+    # Calculate Canberra distance
+    distance = abs(x - y) / (abs(x) + abs(y) + epsilon)
+    # Return similarity
+    return distance

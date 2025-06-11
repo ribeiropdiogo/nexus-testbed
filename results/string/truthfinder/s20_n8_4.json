@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Jessica Rios Robert Mooney",
+            "truth": "Jessica Rios Bradley Mooney",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.914011914011914,
+                "sorensen-dice": 0.8301886792452831,
+                "damerau-levenshtein": 0.7407407407407407
+            }
+        }
+    ]
+}

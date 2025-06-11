@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Christina Henderson Henry",
+            "truth": "Eric Henderson Henry",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.7437037037037038,
+                "sorensen-dice": 0.8,
+                "damerau-levenshtein": 0.72
+            }
+        }
+    ]
+}

@@ -3,81 +3,81 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Devin Jones Anthony Smith",
+            "truth": "Gary Reid White Green",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "David Flores Harris Ramos"
+                    "fact": "Gary Reid Jennifer Green"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "wevin Jones Anthony mith"
+                    "fact": "Samantha Reid White Green"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Devin Jones Anthony Smith"
+                    "fact": "Gary Reid White Green"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Devin Jones Anthony Smith"
+                    "fact": "Gary Reid White Green"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Devin Jones Anthony Smith"
+                    "fact": "Gary Reid White Green"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Uzbekistan",
+            "truth": "Antarctica (the territory South of 60 deg S)",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Tunisia"
+                    "fact": "Gambia"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Bouvet Island (Bouvetoya)"
+                    "fact": "Lesotho"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Uzbekistan"
+                    "fact": "Antarctica (the territory South of 60 deg S)"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Uzbekistan"
+                    "fact": "Antarctica (the territory South of 60 deg S)"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Uzbekistan"
+                    "fact": "Antarctica (the territory South of 60 deg S)"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 35,
+            "truth": 28,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 39
+                    "fact": 33
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 39
+                    "fact": 25
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 35
+                    "fact": 28
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 35
+                    "fact": 28
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 35
+                    "fact": 28
                 }
             ]
         }

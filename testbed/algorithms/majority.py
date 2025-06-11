@@ -3,18 +3,13 @@ Reference implementation of the Majority Voting algorithm.
 """
 
 import json
-import math
 import sys
 import random
 from collections import Counter
 
 import textdistance as td
 
-from distance import (
-    euclidean_distance,
-    manhattan_distance,
-    cosine_distance
-)
+from metrics import calculate_metrics
 
 INPUT_FILE = "truth/gold.txt"
 
@@ -31,37 +26,6 @@ def voting(claims):
     majority = counter.most_common(1)[0][0]
     # Return value
     return majority
-
-def calculate_metrics(data: dict):
-    """
-    Calculate metrics based on the result and truth.
-    """
-    # Extract truth and result
-    truth = data['truth']
-    result = data['result']
-    # Check th edatatype and calculate metrics accordingly
-    if data['datatype'] == "categorical":
-        metrics = {
-            "direct-comparison": 1 if truth == result else 0
-        }
-    elif data['datatype'] == "continuous":
-        # Create a dictionary for the metrics
-        metrics = {
-            "euclidean-distance": euclidean_distance(truth, result),
-            "manhattan-distance": manhattan_distance(truth,result),
-            "cosine-distance": cosine_distance(truth,result)
-        }
-    elif data['datatype'] == "string":
-        metrics = {
-            "jaro-winkler": td.jaro_winkler(str(truth),str(result)),
-            "sorensen-dice": td.sorensen_dice(str(truth),str(result)),
-            "damerau-levenshtein": td.damerau_levenshtein.normalized_similarity(str(truth),str(result))
-        }
-    else:
-        # Raise an error for unknown datatype
-        raise ValueError(f"Unknown datatype: {data}")
-
-    return metrics
 
 def assess(dataset, output):
     """

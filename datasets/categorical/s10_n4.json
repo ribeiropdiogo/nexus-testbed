@@ -3,47 +3,47 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Vanuatu",
+            "truth": "Switzerland",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Armenia"
+                    "fact": "Tokelau"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Guadeloupe"
+                    "fact": "Cyprus"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Nicaragua"
+                    "fact": "Madagascar"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Oman"
+                    "fact": "Costa Rica"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Vanuatu"
+                    "fact": "Switzerland"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Vanuatu"
+                    "fact": "Switzerland"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Vanuatu"
+                    "fact": "Switzerland"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Vanuatu"
+                    "fact": "Switzerland"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Vanuatu"
+                    "fact": "Switzerland"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Vanuatu"
+                    "fact": "Switzerland"
                 }
             ]
         }

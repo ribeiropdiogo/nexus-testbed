@@ -3,141 +3,141 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Elizabeth Moore Carter",
+            "truth": "Caitlyn White Byrd",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Allison Moore Carter"
+                    "fact": "Caitlyn White Ashley"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Kristy Moore Carter"
+                    "fact": "Paul Young Gray Dougherty"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Elizabeth Julie Carter"
+                    "fact": "Lisa Martin Miller"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Amanda Moore Carter"
+                    "fact": "Cailyn Whit Byrd"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Elizabeth Moore Carter"
+                    "fact": "Caitlyn White Byrd"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Elizabeth Moore Carter"
+                    "fact": "Caitlyn White Byrd"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Elizabeth Moore Carter"
+                    "fact": "Caitlyn White Byrd"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Elizabeth Moore Carter"
+                    "fact": "Caitlyn White Byrd"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Elizabeth Moore Carter"
+                    "fact": "Caitlyn White Byrd"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Elizabeth Moore Carter"
+                    "fact": "Caitlyn White Byrd"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Nauru",
+            "truth": "Greenland",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Montserrat"
+                    "fact": "Central African Republic"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Sudan"
+                    "fact": "Somalia"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Serbia"
+                    "fact": "Jamaica"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Bahamas"
+                    "fact": "Angola"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Nauru"
+                    "fact": "Greenland"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Nauru"
+                    "fact": "Greenland"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Nauru"
+                    "fact": "Greenland"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Nauru"
+                    "fact": "Greenland"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Nauru"
+                    "fact": "Greenland"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Nauru"
+                    "fact": "Greenland"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 26,
+            "truth": 28,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 28
+                    "fact": 33
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 27
+                    "fact": 25
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 27
+                    "fact": 33
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 30
+                    "fact": 33
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 26
+                    "fact": 28
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 26
+                    "fact": 28
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 26
+                    "fact": 28
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 26
+                    "fact": 28
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 26
+                    "fact": 28
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 26
+                    "fact": 28
                 }
             ]
         }

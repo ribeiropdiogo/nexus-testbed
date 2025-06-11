@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Tyler Jacob Garza Brown",
+            "truth": "Tyler Willis Garza Brown",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.8731884057971016,
+                "sorensen-dice": 0.7659574468085106,
+                "damerau-levenshtein": 0.75
+            }
+        }
+    ]
+}

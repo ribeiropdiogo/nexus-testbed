@@ -1,0 +1,9 @@
+{
+    "test": "s5_n2",
+    "rounds": 5,
+    "datatype": "string",
+    "average string similarity": 0.7616187616187616,
+    "average jaro-winkler similarity": 0.85515873015873,
+    "average sorensen-dice similarity": 0.7594594594594595,
+    "average damerau-levenshtein similarity": 0.6702380952380953
+}

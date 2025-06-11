@@ -1,0 +1,33 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "David Vncent Gibezt",
+            "truth": "David Vincent Gilbert",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.9164578111946532,
+                "sorensen-dice": 0.9,
+                "damerau-levenshtein": 0.8571428571428572
+            }
+        },
+        {
+            "result": "Namibia",
+            "truth": "Namibia",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 1
+            }
+        },
+        {
+            "result": "27.0",
+            "truth": "31",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.12903225806451613,
+                "manhattan-distance": 0.12903225806451613,
+                "canberra-distance": 0.06896551722948871
+            }
+        }
+    ]
+}

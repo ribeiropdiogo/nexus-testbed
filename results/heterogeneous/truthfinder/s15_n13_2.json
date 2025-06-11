@@ -1,0 +1,33 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Mark Kelly Howe",
+            "truth": "Caitlyn David Ingram Dawson",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.4851851851851852,
+                "sorensen-dice": 0.38095238095238093,
+                "damerau-levenshtein": 0.14814814814814814
+            }
+        },
+        {
+            "result": "Marshall Islands",
+            "truth": "Marshall Islands",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 1
+            }
+        },
+        {
+            "result": "32.0",
+            "truth": "32",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.0,
+                "manhattan-distance": 0.0,
+                "canberra-distance": 0.0
+            }
+        }
+    ]
+}

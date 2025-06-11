@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Chelsea Jones Moore",
+            "truth": "Anthony Hernandez Patterson",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.5531189083820663,
+                "sorensen-dice": 0.5217391304347826,
+                "damerau-levenshtein": 0.18518518518518523
+            }
+        }
+    ]
+}

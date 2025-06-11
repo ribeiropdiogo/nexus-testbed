@@ -3,67 +3,67 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Guernsey",
+            "truth": "Denmark",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "United States Minor Outlying Islands"
+                    "fact": "Slovenia"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Jordan"
+                    "fact": "Sudan"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Sri Lanka"
+                    "fact": "Afghanistan"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Montserrat"
+                    "fact": "Liechtenstein"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Taiwan"
+                    "fact": "Mauritius"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Heard Island and McDonald Islands"
+                    "fact": "Papua New Guinea"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Antigua and Barbuda"
+                    "fact": "Greece"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Japan"
+                    "fact": "Greece"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Trinidad and Tobago"
+                    "fact": "Belgium"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Guernsey"
+                    "fact": "Denmark"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Guernsey"
+                    "fact": "Denmark"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Guernsey"
+                    "fact": "Denmark"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Guernsey"
+                    "fact": "Denmark"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Guernsey"
+                    "fact": "Denmark"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Guernsey"
+                    "fact": "Denmark"
                 }
             ]
         }

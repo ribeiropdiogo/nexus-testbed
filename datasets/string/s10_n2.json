@@ -3,47 +3,47 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Brady Wheeler Medina",
+            "truth": "Amy Case Murphy Davis",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "zrcdy Wheeler MedHna"
+                    "fact": "Amy Case Murphy Robert"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Laurie Wheeler Medina"
+                    "fact": "Am Case Murphy Dvis"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Brady Wheeler Medina"
+                    "fact": "Amy Case Murphy Davis"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Brady Wheeler Medina"
+                    "fact": "Amy Case Murphy Davis"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Brady Wheeler Medina"
+                    "fact": "Amy Case Murphy Davis"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Brady Wheeler Medina"
+                    "fact": "Amy Case Murphy Davis"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Brady Wheeler Medina"
+                    "fact": "Amy Case Murphy Davis"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Brady Wheeler Medina"
+                    "fact": "Amy Case Murphy Davis"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Brady Wheeler Medina"
+                    "fact": "Amy Case Murphy Davis"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Brady Wheeler Medina"
+                    "fact": "Amy Case Murphy Davis"
                 }
             ]
         }

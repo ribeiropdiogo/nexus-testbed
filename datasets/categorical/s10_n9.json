@@ -3,47 +3,47 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Austria",
+            "truth": "Azerbaijan",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Kuwait"
+                    "fact": "Mauritania"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Sri Lanka"
+                    "fact": "Isle of Man"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "United Arab Emirates"
+                    "fact": "Slovakia (Slovak Republic)"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Pakistan"
+                    "fact": "Sudan"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Solomon Islands"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Nauru"
+                    "fact": "Comoros"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Svalbard & Jan Mayen Islands"
+                    "fact": "Cote d'Ivoire"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Mayotte"
+                    "fact": "Chile"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Northern Mariana Islands"
+                    "fact": "Sri Lanka"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Austria"
+                    "fact": "Azerbaijan"
                 }
             ]
         }

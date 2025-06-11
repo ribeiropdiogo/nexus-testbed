@@ -6,18 +6,18 @@ echo "================================================="
 
 # Prompt execution mode
 read -p "Do you want to run the preset generator? (yes/no): " run_preset
-if [[ "$run_preset" == "yes" ]]; then
+if [[ "$run_preset" == "yes" || "$run_preset" == "y" ]]; then
 
     for datatype in string continuous categorical heterogeneous; do
         for sources in 5 10 15 20; do
-            for noise in 0.0 0.2 0.4 0.6 0.9; do
+            for noise in 0.2 0.4 0.6 0.9; do
                 echo "================================================="
                 python3 generator/generator.py --datatype "$datatype" --sources "$sources" --noise "$noise"
             done
         done
     done
     exit 0
-elif [[ "$run_preset" == "no" ]]; then
+elif [[ "$run_preset" == "no" || "$run_preset" == "n" ]]; then
     # Prompt argument
     read -p "Enter datatype: " datatype
     # Validate input

@@ -3,145 +3,145 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Sergio Hernandez Gonzales Sanchez",
+            "truth": "Isaiah Martinez Garcia",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Wendy Camacho Lopez Edwards"
+                    "fact": "Karen Reynolds Morrison Miller"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Sergio Hernandez GNnzales Sanchz"
+                    "fact": "IsLiah MaEtinez GBrcia"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Sergi Hernandez Gonzale Sanohez"
+                    "fact": "Kathy Roberts Carter"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Debra Woods Cline"
+                    "fact": "Mary Martinez Garcia"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Sergio Daniel Gonzales Sanchez"
+                    "fact": "Isiah Martinz Gacia"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Maria Miller Wolfe Cole"
+                    "fact": "IsiaT Martinz Garcia"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Gregg Alexander Mcgee Reed"
+                    "fact": "Isaiah Martinez Jordan"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Sergio Hernandez Gonzales Stephanie"
+                    "fact": "Isaah Martinez Gaci"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Susan Stewart Obrien"
+                    "fact": "Isaiah Martinez Daniel"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Sergio Hernandez Gonzales Sanchez"
+                    "fact": "Isaiah Martinez Garcia"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Sergio Hernandez Gonzales Sanchez"
+                    "fact": "Isaiah Martinez Garcia"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Sergio Hernandez Gonzales Sanchez"
+                    "fact": "Isaiah Martinez Garcia"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Sergio Hernandez Gonzales Sanchez"
+                    "fact": "Isaiah Martinez Garcia"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Sergio Hernandez Gonzales Sanchez"
+                    "fact": "Isaiah Martinez Garcia"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Sergio Hernandez Gonzales Sanchez"
+                    "fact": "Isaiah Martinez Garcia"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Germany",
+            "truth": "Burkina Faso",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Heard Island and McDonald Islands"
+                    "fact": "Macao"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Gibraltar"
-                },
-                {
-                    "sourceId": "source3",
-                    "fact": "Bahrain"
-                },
-                {
-                    "sourceId": "source4",
-                    "fact": "Micronesia"
-                },
-                {
-                    "sourceId": "source5",
-                    "fact": "Belize"
-                },
-                {
-                    "sourceId": "source6",
-                    "fact": "Cape Verde"
-                },
-                {
-                    "sourceId": "source7",
-                    "fact": "Cayman Islands"
-                },
-                {
-                    "sourceId": "source8",
                     "fact": "Iran"
                 },
                 {
+                    "sourceId": "source3",
+                    "fact": "Equatorial Guinea"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Lebanon"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "United States Minor Outlying Islands"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Rwanda"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Ethiopia"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Greenland"
+                },
+                {
                     "sourceId": "source9",
-                    "fact": "Slovenia"
+                    "fact": "Finland"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Germany"
+                    "fact": "Burkina Faso"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Germany"
+                    "fact": "Burkina Faso"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Germany"
+                    "fact": "Burkina Faso"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Germany"
+                    "fact": "Burkina Faso"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Germany"
+                    "fact": "Burkina Faso"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Germany"
+                    "fact": "Burkina Faso"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 27,
+            "truth": 32,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 27
+                    "fact": 37
                 },
                 {
                     "sourceId": "source2",
@@ -149,55 +149,55 @@
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 32
+                    "fact": 27
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 25
-                },
-                {
-                    "sourceId": "source5",
                     "fact": 30
                 },
                 {
+                    "sourceId": "source5",
+                    "fact": 35
+                },
+                {
                     "sourceId": "source6",
-                    "fact": 23
+                    "fact": 33
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 28
+                    "fact": 31
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 32
+                    "fact": 28
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 22
+                    "fact": 34
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 27
+                    "fact": 32
                 },
                 {
                     "sourceId": "source11",
-                    "fact": 27
+                    "fact": 32
                 },
                 {
                     "sourceId": "source12",
-                    "fact": 27
+                    "fact": 32
                 },
                 {
                     "sourceId": "source13",
-                    "fact": 27
+                    "fact": 32
                 },
                 {
                     "sourceId": "source14",
-                    "fact": 27
+                    "fact": 32
                 },
                 {
                     "sourceId": "source15",
-                    "fact": 27
+                    "fact": 32
                 }
             ]
         }

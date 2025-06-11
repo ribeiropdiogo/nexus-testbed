@@ -3,27 +3,27 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Christopher Savage Carter Jackson",
+            "truth": "Keith Olson Dunn",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Christopher Savage artr Jackson"
+                    "fact": "Michael Contreras Torres"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Christopher Savage Carter Raymond"
+                    "fact": "Keith Olson Elizabeth"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Christopher Savage Carter Jackson"
+                    "fact": "Keith Olson Dunn"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Christopher Savage Carter Jackson"
+                    "fact": "Keith Olson Dunn"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Christopher Savage Carter Jackson"
+                    "fact": "Keith Olson Dunn"
                 }
             ]
         }

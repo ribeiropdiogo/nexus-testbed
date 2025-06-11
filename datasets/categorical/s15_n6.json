@@ -3,67 +3,67 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Honduras",
+            "truth": "Tajikistan",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Myanmar"
+                    "fact": "Slovakia (Slovak Republic)"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Costa Rica"
+                    "fact": "Togo"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Belarus"
+                    "fact": "Portugal"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Brunei Darussalam"
+                    "fact": "Italy"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "San Marino"
+                    "fact": "Argentina"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Netherlands"
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Honduras"
+                    "fact": "Tajikistan"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Honduras"
+                    "fact": "Tajikistan"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Honduras"
+                    "fact": "Tajikistan"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Honduras"
+                    "fact": "Tajikistan"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Honduras"
+                    "fact": "Tajikistan"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Honduras"
+                    "fact": "Tajikistan"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Honduras"
+                    "fact": "Tajikistan"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Honduras"
+                    "fact": "Tajikistan"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Honduras"
+                    "fact": "Tajikistan"
                 }
             ]
         }

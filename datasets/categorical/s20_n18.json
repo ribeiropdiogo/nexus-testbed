@@ -3,87 +3,87 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Seychelles",
+            "truth": "Myanmar",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "British Virgin Islands"
+                    "fact": "Tajikistan"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Paraguay"
+                    "fact": "Guatemala"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Papua New Guinea"
+                    "fact": "Taiwan"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Dominican Republic"
+                    "fact": "Nicaragua"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Turks and Caicos Islands"
+                    "fact": "United States of America"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Sweden"
+                    "fact": "Luxembourg"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Korea"
+                    "fact": "Gabon"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Montenegro"
+                    "fact": "San Marino"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Kyrgyz Republic"
+                    "fact": "Estonia"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Sao Tome and Principe"
+                    "fact": "Saudi Arabia"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Philippines"
+                    "fact": "India"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Bolivia"
+                    "fact": "Swaziland"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Jordan"
+                    "fact": "Sierra Leone"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Malawi"
+                    "fact": "India"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Saint Kitts and Nevis"
+                    "fact": "Ecuador"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Papua New Guinea"
+                    "fact": "Zimbabwe"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Rwanda"
+                    "fact": "Equatorial Guinea"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Bahamas"
+                    "fact": "Iraq"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Seychelles"
+                    "fact": "Myanmar"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Seychelles"
+                    "fact": "Myanmar"
                 }
             ]
         }

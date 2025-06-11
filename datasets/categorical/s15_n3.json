@@ -3,67 +3,67 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Malaysia",
+            "truth": "Saudi Arabia",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Micronesia"
+                    "fact": "Turks and Caicos Islands"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Bosnia and Herzegovina"
+                    "fact": "Marshall Islands"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Congo"
+                    "fact": "Luxembourg"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Malaysia"
+                    "fact": "Saudi Arabia"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Malaysia"
+                    "fact": "Saudi Arabia"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Malaysia"
+                    "fact": "Saudi Arabia"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Malaysia"
+                    "fact": "Saudi Arabia"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Malaysia"
+                    "fact": "Saudi Arabia"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Malaysia"
+                    "fact": "Saudi Arabia"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Malaysia"
+                    "fact": "Saudi Arabia"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Malaysia"
+                    "fact": "Saudi Arabia"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Malaysia"
+                    "fact": "Saudi Arabia"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Malaysia"
+                    "fact": "Saudi Arabia"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Malaysia"
+                    "fact": "Saudi Arabia"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Malaysia"
+                    "fact": "Saudi Arabia"
                 }
             ]
         }

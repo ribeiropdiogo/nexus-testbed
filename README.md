@@ -25,7 +25,7 @@ In order to execute the tests, a dataset is required to be previously generated.
 
 ### Output Format
 
-The output format, represented below, includes information on the algorithm used, and for each datatype, it includes the output of the algorithm, the expected result (truth), and the respective metrics. For `categorical` data, `direct comparison` is used (1 if the values are equal, and 0 otherwise). For `string` data, `Jaro-Winkler`, `Sorensen-Dice`, and `Damerau-Levenshtein` are used to measure similarity. For `continuous` values, `Euclidean`, `Manhattan`, and `Cosine` distances are used. All values are normalized between 0 and 1.
+The output format, represented below, includes information on the algorithm used, and for each datatype, it includes the output of the algorithm, the expected result (truth), and the respective metrics. For `categorical` data, `direct comparison` is used (1 if the values are equal, and 0 otherwise). For `string` data, `Jaro-Winkler`, `Sorensen-Dice`, and `Damerau-Levenshtein` are used to measure similarity. For `continuous` values, `Euclidean`, `Manhattan`, and `Canberra` distances are used. All values are normalized between 0 and 1.
 
 ```json
 {
@@ -56,10 +56,38 @@ The output format, represented below, includes information on the algorithm used
             "metrics": {
                 "euclidean-distance": 0.0,
                 "manhattan-distance": 0.0,
-                "cosine-distance": 0.0
+                "canberra-distance": 0.0
             }
         }
     ]
+}
+```
+
+### Statistics
+
+In order to better understand the results of the testbed, detailed statistics are generated into the `stats/` directory. The format, as shown below, includes information on the average similarities for each datatype.
+
+```json
+{
+    "test": "s15_n9",
+    "rounds": 5,
+    "datatype": "heterogeneous",
+    "average similiarty": 0.7545427496009688,
+    "categorical": {
+        "average similarity": 0.4
+    },
+    "continuous": {
+        "average similarity": 0.9568379893840886,
+        "average euclidean similarity": 0.9487082670906201,
+        "average manhattan similarity": 0.9487082670906201,
+        "average canberra similarity": 0.9730974339710257
+    },
+    "string": {
+        "average similarity": 0.906790259418818,
+        "average jaro-winkler similarity": 0.8877343090346186,
+        "average sorensen-dice similarity": 0.9326364692218352,
+        "average damerau-levenshtein similarity": 0.9
+    }
 }
 ```
 

@@ -3,141 +3,141 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "William Schmidt Moore",
+            "truth": "Kristen Cantrell Miller Reynolds",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "William John Moore"
+                    "fact": "Kristen Cantrell Miller Denise"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Kayla Guerra Davenport Potts"
+                    "fact": "Kristen Cantrel Mirler ReynoTds"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Wlliam Schmict Moorp"
+                    "fact": "Kristen Cantrell Marissa Reynolds"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "William Caitlin Moore"
+                    "fact": "Kristen Cantrell Miller Michael"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "William Garrett Moore"
+                    "fact": "Kriten Cantell Miller Reynolds"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Deborah Nelson Berger Miles"
+                    "fact": "Kristen Cantrell Frank Reynolds"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "William Schmidt Moore"
+                    "fact": "Kristen Cantrell Miller Reynolds"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "William Schmidt Moore"
+                    "fact": "Kristen Cantrell Miller Reynolds"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "William Schmidt Moore"
+                    "fact": "Kristen Cantrell Miller Reynolds"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "William Schmidt Moore"
+                    "fact": "Kristen Cantrell Miller Reynolds"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Colombia",
+            "truth": "Somalia",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Cocos (Keeling) Islands"
-                },
-                {
-                    "sourceId": "source2",
-                    "fact": "United Kingdom"
-                },
-                {
-                    "sourceId": "source3",
                     "fact": "Panama"
                 },
                 {
+                    "sourceId": "source2",
+                    "fact": "British Virgin Islands"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Greece"
+                },
+                {
                     "sourceId": "source4",
-                    "fact": "Kuwait"
+                    "fact": "Tuvalu"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Tonga"
+                    "fact": "Estonia"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Brunei Darussalam"
+                    "fact": "Turks and Caicos Islands"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Colombia"
+                    "fact": "Somalia"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Colombia"
+                    "fact": "Somalia"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Colombia"
+                    "fact": "Somalia"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Colombia"
+                    "fact": "Somalia"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 27,
+            "truth": 29,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 31
-                },
-                {
-                    "sourceId": "source2",
-                    "fact": 27
-                },
-                {
-                    "sourceId": "source3",
-                    "fact": 26
-                },
-                {
-                    "sourceId": "source4",
                     "fact": 30
                 },
                 {
+                    "sourceId": "source2",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 32
+                },
+                {
                     "sourceId": "source5",
-                    "fact": 29
+                    "fact": 24
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 25
+                    "fact": 31
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 27
+                    "fact": 29
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 27
+                    "fact": 29
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 27
+                    "fact": 29
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 27
+                    "fact": 29
                 }
             ]
         }

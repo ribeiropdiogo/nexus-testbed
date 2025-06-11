@@ -3,67 +3,67 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Tina Morales Hughes Watson",
+            "truth": "Allison Pratt Marshall",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "David Gomez Johnson Fowler"
+                    "fact": "Allisn PratV Marhall"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Kelly Lawrence Thomas"
+                    "fact": "Allison Pratt Ashley"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Tina Morales Hughes Dawn"
+                    "fact": "AllisR Pratt MarshalB"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Tina Robin Hughes Watson"
+                    "fact": "Allisn Prat MaAshall"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Tina Morales Kathryn Watson"
+                    "fact": "Allison PHatt Mashall"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Joseph Solis Zhang"
+                    "fact": "Allison Kim Marshall"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Tina Morales Hughes Watson"
+                    "fact": "Allison Pratt Marshall"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Tina Morales Hughes Watson"
+                    "fact": "Allison Pratt Marshall"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Tina Morales Hughes Watson"
+                    "fact": "Allison Pratt Marshall"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Tina Morales Hughes Watson"
+                    "fact": "Allison Pratt Marshall"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Tina Morales Hughes Watson"
+                    "fact": "Allison Pratt Marshall"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Tina Morales Hughes Watson"
+                    "fact": "Allison Pratt Marshall"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Tina Morales Hughes Watson"
+                    "fact": "Allison Pratt Marshall"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Tina Morales Hughes Watson"
+                    "fact": "Allison Pratt Marshall"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Tina Morales Hughes Watson"
+                    "fact": "Allison Pratt Marshall"
                 }
             ]
         }

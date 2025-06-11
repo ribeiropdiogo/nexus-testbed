@@ -1,0 +1,33 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Caitlyn David Michelle Dawson",
+            "truth": "Caitlyn David Ingram Dawson",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.8718117131910235,
+                "sorensen-dice": 0.75,
+                "damerau-levenshtein": 0.7241379310344828
+            }
+        },
+        {
+            "result": "Iran",
+            "truth": "Marshall Islands",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 0
+            }
+        },
+        {
+            "result": "35.0",
+            "truth": "32",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.08571428571428572,
+                "manhattan-distance": 0.08571428571428572,
+                "canberra-distance": 0.04477611939630208
+            }
+        }
+    ]
+}
