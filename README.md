@@ -25,7 +25,7 @@ In order to execute the tests, a dataset is required to be previously generated.
 
 ### Output Format
 
-The output format, represented below, includes information on the algorithm used, and for each datatype, it includes the output of the algorithm, the expected result (truth), and the respective metrics. For `categorical` data, `direct comparison` is used (1 if the values are equal, and 0 otherwise). For `string` data, `Jaro-Winkler`, `Sorensen-Dice`, and `Damerau-Levenshtein` are used to measure similarity. For `continuous` values, `Euclidean`, `Manhattan`, and `Canberra` distances are used. All values are normalized between 0 and 1.
+The output format, represented below, includes information on the algorithm used, and for each datatype, it includes the output of the algorithm, the expected result (truth), and the respective metrics. For `categorical` data, `direct comparison` is used (1 if the values are equal, and 0 otherwise). For `string` data, `Jaro-Winkler`, `Sorensen-Dice`, and `Damerau-Levenshtein` are used to measure similarity. For `continuous` values, `Euclidean`, `Manhattan`, and `Canberra` distances are used.
 
 ```json
 {
@@ -65,7 +65,7 @@ The output format, represented below, includes information on the algorithm used
 
 ### Statistics
 
-In order to better understand the results of the testbed, detailed statistics are generated into the `stats/` directory. The format, as shown below, includes information on the average similarities for each datatype.
+In order to better understand the results of the testbed, detailed statistics are generated into the `stats/` directory. The format, as shown below, includes information on the average similarities for each datatype. All similarity values are normalized between 0 and 1.
 
 ```json
 {
