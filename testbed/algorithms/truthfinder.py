@@ -447,6 +447,6 @@ if __name__ == "__main__":
             json.dump(output, file, indent=4)
     else:
         # Print usage message
-        print("Usage: python majority.py <datatype> <input_file> <output_file>")
-        print("Example: python majority.py testbed truth/gold.txt output.json")
+        print("Usage: python truthfinder.py <datatype> <input_file> <output_file>")
+        print("Example: python truthfinder.py testbed truth/gold.txt output.json")
         sys.exit(1)

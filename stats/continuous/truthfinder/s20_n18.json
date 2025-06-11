@@ -1,9 +1,0 @@
-{
-    "test": "s20_n18",
-    "rounds": 5,
-    "datatype": "continuous",
-    "average similarity": 0.928412786843967,
-    "average euclidean similarity": 0.9150227409050938,
-    "average manhattan similarity": 0.9150227409050938,
-    "average canberra similarity": 0.9551928787217132
-}
