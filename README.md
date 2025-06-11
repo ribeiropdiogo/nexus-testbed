@@ -23,6 +23,20 @@ To run the dataset generator, a script named `run.sh` can be used to quickly run
 
 In order to execute the tests, a dataset is required to be previously generated. Other directories than the default `datasets/` can be used. The testbed can be executed using the supplied scripts `testbed.sh` and `run.sh` (more information below). There are four algorithms being used in the assessment: `Majority Voting`, `TruthFinder`, `CRH`, and `Nexus`. For each algorithm, a predetermined number of rounds is executed (5 by default). This value can be changed in the `testbed.sh` script by updating the `ROUNDS` variable. Moreover, in each execution, the claims are shuffled to ensure that their order does not affect the final result. The results of the testbed are saved into the `results/` directory, organized by datatype. The filenames are in the format `sX_nY_Z.json`, where `X` represents the `number of sources`, `Y` represents the `number of entries with noise`, and `Z` represents the `round` (`[1,ROUNDS]`).
 
+### Requirements
+
+Before running the tests, there are two requirements that need to be met. First, the required `Python` dependencies have to be installed. To do so, run the command below at the root of the project:
+
+```bash
+pip install -r requirements.txt
+```
+
+Second, `Nexus` has to be running. To launch it, `Docker` can be used. At the root of the repository of `Nexus`, run the following command to launch it:
+
+```bash
+docker compose up --build -d
+```
+
 ### Output Format
 
 The output format, represented below, includes information on the algorithm used, and for each datatype, it includes the output of the algorithm, the expected result (truth), and the respective metrics. For `categorical` data, `direct comparison` is used (1 if the values are equal, and 0 otherwise). For `string` data, `Jaro-Winkler`, `Sorensen-Dice`, and `Damerau-Levenshtein` are used to measure similarity. For `continuous` values, `Euclidean`, `Manhattan`, and `Canberra` distances are used.
