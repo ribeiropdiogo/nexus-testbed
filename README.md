@@ -93,7 +93,7 @@ In order to better understand the results of the testbed, detailed statistics ar
 
 ## Reproducibility
 
-
+In order to achieve the exact same results, we included the necessary scripts to run the tests on the dataset we used, which is located at `datasets/`. To reproduce the results, execute the `reproducibility.sh` script.
 
 ## Authors
 
