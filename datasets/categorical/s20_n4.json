@@ -3,87 +3,87 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Sudan",
+            "truth": "Anguilla",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Gambia"
+                    "fact": "Maldives"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Singapore"
+                    "fact": "Timor-Leste"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Switzerland"
+                    "fact": "Hungary"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Lesotho"
+                    "fact": "Svalbard & Jan Mayen Islands"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Sudan"
+                    "fact": "Anguilla"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Sudan"
+                    "fact": "Anguilla"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Sudan"
+                    "fact": "Anguilla"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Sudan"
+                    "fact": "Anguilla"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Sudan"
+                    "fact": "Anguilla"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Sudan"
+                    "fact": "Anguilla"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Sudan"
+                    "fact": "Anguilla"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Sudan"
+                    "fact": "Anguilla"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Sudan"
+                    "fact": "Anguilla"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Sudan"
+                    "fact": "Anguilla"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Sudan"
+                    "fact": "Anguilla"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Sudan"
+                    "fact": "Anguilla"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Sudan"
+                    "fact": "Anguilla"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Sudan"
+                    "fact": "Anguilla"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Sudan"
+                    "fact": "Anguilla"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Sudan"
+                    "fact": "Anguilla"
                 }
             ]
         }

@@ -3,87 +3,87 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Jacob Nelson Rodriguez Nash",
+            "truth": "Gary Smith Reid",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Jacob Nelson James Nash"
+                    "fact": "Angela Lindsey Myers"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Jacob elson Rodrigue Nash"
+                    "fact": "Brian Anderson Greene Cohen"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Tina Lara Anderson"
+                    "fact": "Gary John Reid"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "JaLob Nelson Rdriuez Nash"
+                    "fact": "Gary Smith Amanda"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Jacob Nelson Rodriguez Nash"
+                    "fact": "Gary Smith Reid"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Jacob Nelson Rodriguez Nash"
+                    "fact": "Gary Smith Reid"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Jacob Nelson Rodriguez Nash"
+                    "fact": "Gary Smith Reid"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Jacob Nelson Rodriguez Nash"
+                    "fact": "Gary Smith Reid"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Jacob Nelson Rodriguez Nash"
+                    "fact": "Gary Smith Reid"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Jacob Nelson Rodriguez Nash"
+                    "fact": "Gary Smith Reid"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Jacob Nelson Rodriguez Nash"
+                    "fact": "Gary Smith Reid"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Jacob Nelson Rodriguez Nash"
+                    "fact": "Gary Smith Reid"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Jacob Nelson Rodriguez Nash"
+                    "fact": "Gary Smith Reid"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Jacob Nelson Rodriguez Nash"
+                    "fact": "Gary Smith Reid"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Jacob Nelson Rodriguez Nash"
+                    "fact": "Gary Smith Reid"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Jacob Nelson Rodriguez Nash"
+                    "fact": "Gary Smith Reid"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Jacob Nelson Rodriguez Nash"
+                    "fact": "Gary Smith Reid"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Jacob Nelson Rodriguez Nash"
+                    "fact": "Gary Smith Reid"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Jacob Nelson Rodriguez Nash"
+                    "fact": "Gary Smith Reid"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Jacob Nelson Rodriguez Nash"
+                    "fact": "Gary Smith Reid"
                 }
             ]
         }

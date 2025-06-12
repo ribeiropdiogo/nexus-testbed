@@ -3,67 +3,67 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Lesotho",
+            "truth": "South Africa",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "South Georgia and the South Sandwich Islands"
+                    "fact": "Montenegro"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Luxembourg"
+                    "fact": "Armenia"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Trinidad and Tobago"
+                    "fact": "Slovakia (Slovak Republic)"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Mauritius"
+                    "fact": "Spain"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Estonia"
+                    "fact": "Guinea"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Czech Republic"
+                    "fact": "Singapore"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "New Zealand"
+                    "fact": "Lao People's Democratic Republic"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Chad"
+                    "fact": "Armenia"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Indonesia"
+                    "fact": "Tokelau"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Lesotho"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Lesotho"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Lesotho"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Lesotho"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Lesotho"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Lesotho"
+                    "fact": "South Africa"
                 }
             ]
         }

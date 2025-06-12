@@ -3,87 +3,87 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "North Macedonia",
+            "truth": "Angola",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Belarus"
+                    "fact": "Djibouti"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "El Salvador"
+                    "fact": "Denmark"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Marshall Islands"
+                    "fact": "French Southern Territories"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Kyrgyz Republic"
+                    "fact": "Bhutan"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Saint Lucia"
+                    "fact": "Korea"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Spain"
+                    "fact": "India"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Turks and Caicos Islands"
+                    "fact": "Mongolia"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Pitcairn Islands"
+                    "fact": "Tanzania"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "North Macedonia"
+                    "fact": "Angola"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "North Macedonia"
+                    "fact": "Angola"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "North Macedonia"
+                    "fact": "Angola"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "North Macedonia"
+                    "fact": "Angola"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "North Macedonia"
+                    "fact": "Angola"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "North Macedonia"
+                    "fact": "Angola"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "North Macedonia"
+                    "fact": "Angola"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "North Macedonia"
+                    "fact": "Angola"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "North Macedonia"
+                    "fact": "Angola"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "North Macedonia"
+                    "fact": "Angola"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "North Macedonia"
+                    "fact": "Angola"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "North Macedonia"
+                    "fact": "Angola"
                 }
             ]
         }

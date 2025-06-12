@@ -3,47 +3,47 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Brunei Darussalam",
+            "truth": "Zimbabwe",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Belgium"
+                    "fact": "Niger"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "North Macedonia"
+                    "fact": "Fiji"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Brunei Darussalam"
+                    "fact": "Zimbabwe"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Brunei Darussalam"
+                    "fact": "Zimbabwe"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Brunei Darussalam"
+                    "fact": "Zimbabwe"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Brunei Darussalam"
+                    "fact": "Zimbabwe"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Brunei Darussalam"
+                    "fact": "Zimbabwe"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Brunei Darussalam"
+                    "fact": "Zimbabwe"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Brunei Darussalam"
+                    "fact": "Zimbabwe"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Brunei Darussalam"
+                    "fact": "Zimbabwe"
                 }
             ]
         }

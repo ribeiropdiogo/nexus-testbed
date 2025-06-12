@@ -3,27 +3,27 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Hong Kong",
+            "truth": "Israel",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Guernsey"
+                    "fact": "Finland"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Northern Mariana Islands"
+                    "fact": "Niue"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Hong Kong"
+                    "fact": "Israel"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Hong Kong"
+                    "fact": "Israel"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Hong Kong"
+                    "fact": "Israel"
                 }
             ]
         }

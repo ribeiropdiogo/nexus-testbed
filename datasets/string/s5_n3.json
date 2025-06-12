@@ -3,27 +3,27 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Kevin Johnson Williams",
+            "truth": "Autumn Hunter Coleman King",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Kevin Johnson Betty"
+                    "fact": "Laurie Brewer Booker"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Kevin Shawn Williams"
+                    "fact": "James Moore Thompson"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Andrew Gibson Blackwell Caldwell"
+                    "fact": "Joseph Cohen Abbott"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Kevin Johnson Williams"
+                    "fact": "Autumn Hunter Coleman King"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Kevin Johnson Williams"
+                    "fact": "Autumn Hunter Coleman King"
                 }
             ]
         }

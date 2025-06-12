@@ -3,47 +3,47 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Kristi Christian Hall",
+            "truth": "Jim Walton Smith Munoz",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Kristi Christian Deborah"
+                    "fact": "Melissa Ford Moon"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "KrstV Christiqn Hall"
+                    "fact": "Jim Walton yXith Munoz"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Krist Rhristian Hall"
+                    "fact": "im alton Sith Munoz"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Sara Christian Hall"
+                    "fact": "Brian Carrillo Torres Cook"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Kimberly Young Moore"
+                    "fact": "Jim Walto Smith Cunoz"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "eristi Christia Hall"
+                    "fact": "Jim Walton Eric Munoz"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Kristi Christian Hall"
+                    "fact": "Jim Walton Smith Munoz"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Kristi Christian Hall"
+                    "fact": "Jim Walton Smith Munoz"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Kristi Christian Hall"
+                    "fact": "Jim Walton Smith Munoz"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Kristi Christian Hall"
+                    "fact": "Jim Walton Smith Munoz"
                 }
             ]
         }

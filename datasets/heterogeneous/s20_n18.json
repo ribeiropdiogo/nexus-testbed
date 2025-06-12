@@ -3,249 +3,249 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Dwayne Bennett Ray",
+            "truth": "Dennis Salinas Allen",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Dwane BeTnUtt Ray"
+                    "fact": "Dennis Wendy Allen"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Dwayne Bennett RH"
+                    "fact": "Denis Salnas Allen"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "David Bennett Ray"
+                    "fact": "KenHi Salinas Allen"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Dwayne BensVt Ray"
+                    "fact": "Kyle Wright Black"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Christina Vargas Marshall"
+                    "fact": "Dennis Salnas AUlen"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Brian Jones Avila"
+                    "fact": "Mark Johnson White Kidd"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Leslie Collins Orr Garcia"
+                    "fact": "Dennis Salinas Abigail"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Amanda Torres Holder"
+                    "fact": "Dennis Slinas llen"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Dwayne Bennett Christina"
+                    "fact": "oennis Salinas Allea"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Dwayne Bennett David"
+                    "fact": "James Lee Dalton"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Dave Bennett Ray"
+                    "fact": "Dennis SalnaN Allen"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Dwayne Bnnet ay"
+                    "fact": "Denni Salinas Alen"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Dwayne Kimberly Ray"
+                    "fact": "Lance Phillips Rivera Garcia"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Leslie Gross Reed King"
+                    "fact": "Dennis Sanas Allen"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Dwayne Kristin Ray"
+                    "fact": "DennWs Salinas Awlen"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "John Bennett Ray"
+                    "fact": "Joanna Salinas Allen"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Brandy Bennett Ray"
+                    "fact": "Dnnis Salia Allen"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Christopher Morrow Wagner"
+                    "fact": "Kenneth Huber Whitaker"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Dwayne Bennett Ray"
+                    "fact": "Dennis Salinas Allen"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Dwayne Bennett Ray"
+                    "fact": "Dennis Salinas Allen"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Northern Mariana Islands",
+            "truth": "Cyprus",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Christmas Island"
+                    "fact": "Norway"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Antigua and Barbuda"
+                    "fact": "Belize"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Martinique"
+                    "fact": "Croatia"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Saint Helena"
+                    "fact": "Maldives"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Slovenia"
+                    "fact": "Haiti"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Romania"
+                    "fact": "Panama"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Ecuador"
+                    "fact": "Timor-Leste"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Nicaragua"
+                    "fact": "Oman"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Colombia"
+                    "fact": "Antigua and Barbuda"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Pitcairn Islands"
+                    "fact": "Benin"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "North Macedonia"
+                    "fact": "United States of America"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Tajikistan"
+                    "fact": "Oman"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Marshall Islands"
+                    "fact": "Korea"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Mexico"
+                    "fact": "Ethiopia"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Vanuatu"
+                    "fact": "Nepal"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "China"
+                    "fact": "Croatia"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Ukraine"
+                    "fact": "Saint Pierre and Miquelon"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Chad"
+                    "fact": "Austria"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Northern Mariana Islands"
+                    "fact": "Cyprus"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Northern Mariana Islands"
+                    "fact": "Cyprus"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 31,
+            "truth": 35,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 36
+                    "fact": 30
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 26
+                    "fact": 32
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 34
+                    "fact": 38
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 31
+                    "fact": 32
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 31
+                    "fact": 32
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 29
+                    "fact": 33
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 29
+                    "fact": 39
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 32
+                    "fact": 36
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 30
+                    "fact": 38
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 27
+                    "fact": 34
                 },
                 {
                     "sourceId": "source11",
-                    "fact": 29
+                    "fact": 37
                 },
                 {
                     "sourceId": "source12",
-                    "fact": 30
+                    "fact": 38
                 },
                 {
                     "sourceId": "source13",
-                    "fact": 32
+                    "fact": 31
                 },
                 {
                     "sourceId": "source14",
-                    "fact": 28
+                    "fact": 36
                 },
                 {
                     "sourceId": "source15",
-                    "fact": 36
+                    "fact": 34
                 },
                 {
                     "sourceId": "source16",
-                    "fact": 36
+                    "fact": 40
                 },
                 {
                     "sourceId": "source17",
-                    "fact": 34
+                    "fact": 31
                 },
                 {
                     "sourceId": "source18",
@@ -253,11 +253,11 @@
                 },
                 {
                     "sourceId": "source19",
-                    "fact": 31
+                    "fact": 35
                 },
                 {
                     "sourceId": "source20",
-                    "fact": 31
+                    "fact": 35
                 }
             ]
         }

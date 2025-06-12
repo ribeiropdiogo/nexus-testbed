@@ -3,134 +3,134 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Joel Martinez Palmer",
+            "truth": "Jennifer Soto Thompson Mueller",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Robert Martinez Palmer"
+                    "fact": "Ricardo Martin Ho"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Gregory Rodriguez Parks"
+                    "fact": "Robert Fisher Campos"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Joel Martiez almVr"
+                    "fact": "Jennifdr Soto Thomdso Mueller"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Jennifer Martinez Palmer"
+                    "fact": "Kennifer Sox Thompson Mueller"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Joel Martinez Benjamin"
+                    "fact": "Jennifer Soto Thompson Suzanne"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Daniel Martinez Palmer"
+                    "fact": "Blake Garcia Jones Hoover"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Joel Jaime Palmer"
+                    "fact": "Jennifer Karen Thompson Mueller"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Nicole White Johnson"
+                    "fact": "Jennifer Soto Thompsn Muellr"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Shelley Ellison Cruz Salazar"
+                    "fact": "Jennifer Soto Thompson Justin"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Joel Martinez Jerry"
+                    "fact": "Jennifer Soto ThompsoW Muelter"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Joel Martinev almer"
+                    "fact": "Jennifer Soto Tabitha Mueller"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Joel Elijah Palmer"
+                    "fact": "Jennifer Soto Thompson Jacob"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Joel Martiez PElmer"
+                    "fact": "Amy Anderson Wilkinson Andrews"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Joel Martinez Palmer"
+                    "fact": "Jennifer Soto Thompson Mueller"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Joel Martinez Palmer"
+                    "fact": "Jennifer Soto Thompson Mueller"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Isle of Man",
+            "truth": "Lao People's Democratic Republic",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Saint Vincent and the Grenadines"
+                    "fact": "Namibia"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Chile"
+                    "fact": "Qatar"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Zimbabwe"
+                    "fact": "Holy See (Vatican City State)"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Paraguay"
+                    "fact": "Norfolk Island"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Heard Island and McDonald Islands"
+                    "fact": "Barbados"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Paraguay"
+                    "fact": "Botswana"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Philippines"
+                    "fact": "Turkey"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Haiti"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Faroe Islands"
+                    "fact": "Oman"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Congo"
+                    "fact": "Niger"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "France"
+                    "fact": "Slovenia"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Belgium"
+                    "fact": "Greece"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Liechtenstein"
+                    "fact": "Libyan Arab Jamahiriya"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Isle of Man"
+                    "fact": "Lao People's Democratic Republic"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Isle of Man"
+                    "fact": "Lao People's Democratic Republic"
                 }
             ]
         },
@@ -141,11 +141,11 @@
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 31
+                    "fact": 25
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 27
+                    "fact": 29
                 },
                 {
                     "sourceId": "source3",
@@ -153,27 +153,27 @@
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 24
+                    "fact": 32
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 30
+                    "fact": 26
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 28
+                    "fact": 33
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 25
+                    "fact": 31
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 28
+                    "fact": 29
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 26
+                    "fact": 31
                 },
                 {
                     "sourceId": "source10",
@@ -181,15 +181,15 @@
                 },
                 {
                     "sourceId": "source11",
-                    "fact": 32
+                    "fact": 33
                 },
                 {
                     "sourceId": "source12",
-                    "fact": 28
+                    "fact": 24
                 },
                 {
                     "sourceId": "source13",
-                    "fact": 31
+                    "fact": 27
                 },
                 {
                     "sourceId": "source14",

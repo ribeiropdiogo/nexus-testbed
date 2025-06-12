@@ -83,6 +83,9 @@ for folder in "$dir"*/; do
             done
         done
     done
+    # Run the summary script
+    echo "> Generating csv summary for $(basename "$folder")..."
+    python3 testbed/summary.py $(basename "$folder")
 done
 
                 

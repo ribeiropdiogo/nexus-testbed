@@ -3,105 +3,105 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Robin White Mills",
+            "truth": "Gary Herrera Nichols",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Robin Lindsay Mills"
+                    "fact": "Gury HerEera ichols"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Robin WhitH Mis"
+                    "fact": "Gqcy Herrera Nichols"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Tamara Obrien Morgan Thomas"
+                    "fact": "Gary Herrera Ashley"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Ashley Davis Miller"
+                    "fact": "Gary Hrrer Nichols"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Megan White Mills"
+                    "fact": "Gary Hersera NBchol"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Robin hize Mill"
+                    "fact": "Gry Herrea Nichols"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Michael Miller Hurley Grimes"
+                    "fact": "Gary Matthew Nichols"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Mark Clark Cochran Mathews"
+                    "fact": "Gary Herrera NicFls"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Robin uhitL Mills"
+                    "fact": "Gary errera NmAhols"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Robin White Mills"
+                    "fact": "Gary Herrera Nichols"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Bahamas",
+            "truth": "Sweden",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Samoa"
+                    "fact": "United States of America"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Christmas Island"
+                    "fact": "Greenland"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Bahrain"
+                    "fact": "Vanuatu"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Palau"
+                    "fact": "Portugal"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Slovakia (Slovak Republic)"
+                    "fact": "Singapore"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Australia"
+                    "fact": "Taiwan"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Indonesia"
+                    "fact": "Iraq"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Romania"
+                    "fact": "United Arab Emirates"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Rwanda"
+                    "fact": "Japan"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Bahamas"
+                    "fact": "Sweden"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 32,
+            "truth": 30,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 35
+                    "fact": 27
                 },
                 {
                     "sourceId": "source2",
@@ -109,35 +109,35 @@
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 37
+                    "fact": 28
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 28
-                },
-                {
-                    "sourceId": "source5",
-                    "fact": 28
-                },
-                {
-                    "sourceId": "source6",
                     "fact": 35
                 },
                 {
+                    "sourceId": "source5",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 33
+                },
+                {
                     "sourceId": "source7",
-                    "fact": 36
+                    "fact": 35
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 31
+                    "fact": 32
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 34
+                    "fact": 35
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 32
+                    "fact": 30
                 }
             ]
         }

@@ -17,7 +17,10 @@ def generate_continuous_claims(sources, noise):
     # Iterate over the number of sources
     for i in range(sources):
         if noise > 0:
-            age = truth + faker.random_int(min=-5, max=5)
+            noise_value = 0
+            while noise_value == 0:
+                noise_value = faker.random_int(min=-5, max=5)
+            age = truth + noise_value
             noise -= 1
         else:
             age = truth

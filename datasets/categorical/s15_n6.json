@@ -3,67 +3,67 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Saint Martin",
+            "truth": "Palau",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Honduras"
+                    "fact": "Hong Kong"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Iraq"
+                    "fact": "Holy See (Vatican City State)"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Austria"
+                    "fact": "Vanuatu"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "South Georgia and the South Sandwich Islands"
+                    "fact": "Syrian Arab Republic"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "United Kingdom"
+                    "fact": "Bangladesh"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Cote d'Ivoire"
+                    "fact": "Liberia"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Saint Martin"
+                    "fact": "Palau"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Saint Martin"
+                    "fact": "Palau"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Saint Martin"
+                    "fact": "Palau"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Saint Martin"
+                    "fact": "Palau"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Saint Martin"
+                    "fact": "Palau"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Saint Martin"
+                    "fact": "Palau"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Saint Martin"
+                    "fact": "Palau"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Saint Martin"
+                    "fact": "Palau"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Saint Martin"
+                    "fact": "Palau"
                 }
             ]
         }

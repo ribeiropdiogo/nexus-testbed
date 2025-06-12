@@ -3,27 +3,27 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Northern Mariana Islands",
+            "truth": "Namibia",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Ghana"
+                    "fact": "Gambia"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Mongolia"
+                    "fact": "Equatorial Guinea"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "North Macedonia"
+                    "fact": "Lao People's Democratic Republic"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Saudi Arabia"
+                    "fact": "Guinea-Bissau"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Northern Mariana Islands"
+                    "fact": "Namibia"
                 }
             ]
         }

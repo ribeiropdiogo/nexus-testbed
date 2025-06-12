@@ -3,141 +3,141 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Vicki Santana Baker Wolf",
+            "truth": "Peter Cooke Wong",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Vicki Santana akeF Wol"
+                    "fact": "Jennifer Cooke Wong"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Lindsay Vargas James"
+                    "fact": "Brandon Peterson Miller Miller"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Vicki Santana Baker Wolf"
+                    "fact": "Peter Cooke Wong"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Vicki Santana Baker Wolf"
+                    "fact": "Peter Cooke Wong"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Vicki Santana Baker Wolf"
+                    "fact": "Peter Cooke Wong"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Vicki Santana Baker Wolf"
+                    "fact": "Peter Cooke Wong"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Vicki Santana Baker Wolf"
+                    "fact": "Peter Cooke Wong"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Vicki Santana Baker Wolf"
+                    "fact": "Peter Cooke Wong"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Vicki Santana Baker Wolf"
+                    "fact": "Peter Cooke Wong"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Vicki Santana Baker Wolf"
+                    "fact": "Peter Cooke Wong"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Hong Kong",
+            "truth": "New Zealand",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Turkey"
+                    "fact": "Turkmenistan"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Svalbard & Jan Mayen Islands"
+                    "fact": "Norway"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Hong Kong"
+                    "fact": "New Zealand"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Hong Kong"
+                    "fact": "New Zealand"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Hong Kong"
+                    "fact": "New Zealand"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Hong Kong"
+                    "fact": "New Zealand"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Hong Kong"
+                    "fact": "New Zealand"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Hong Kong"
+                    "fact": "New Zealand"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Hong Kong"
+                    "fact": "New Zealand"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Hong Kong"
+                    "fact": "New Zealand"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 31,
+            "truth": 28,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 29
+                    "fact": 32
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 31
+                    "fact": 29
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 31
+                    "fact": 28
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 31
+                    "fact": 28
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 31
+                    "fact": 28
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 31
+                    "fact": 28
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 31
+                    "fact": 28
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 31
+                    "fact": 28
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 31
+                    "fact": 28
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 31
+                    "fact": 28
                 }
             ]
         }

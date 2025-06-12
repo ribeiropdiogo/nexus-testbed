@@ -3,87 +3,87 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Kazakhstan",
+            "truth": "Romania",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "China"
+                    "fact": "Malaysia"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Belize"
+                    "fact": "Slovenia"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Wallis and Futuna"
+                    "fact": "Georgia"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Burkina Faso"
+                    "fact": "Falkland Islands (Malvinas)"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "South Georgia and the South Sandwich Islands"
+                    "fact": "Tuvalu"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Afghanistan"
+                    "fact": "Taiwan"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Bolivia"
+                    "fact": "Liechtenstein"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Latvia"
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Afghanistan"
+                    "fact": "Cayman Islands"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Colombia"
+                    "fact": "India"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Cyprus"
+                    "fact": "Namibia"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Equatorial Guinea"
+                    "fact": "Burundi"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Libyan Arab Jamahiriya"
+                    "fact": "Pakistan"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Jordan"
+                    "fact": "Israel"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Kuwait"
+                    "fact": "Bhutan"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Iran"
+                    "fact": "Honduras"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Saint Pierre and Miquelon"
+                    "fact": "Ghana"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Ethiopia"
+                    "fact": "Antarctica (the territory South of 60 deg S)"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Kazakhstan"
+                    "fact": "Romania"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Kazakhstan"
+                    "fact": "Romania"
                 }
             ]
         }

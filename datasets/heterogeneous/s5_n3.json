@@ -3,81 +3,81 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Howard Salazar Stanton Hall",
+            "truth": "Michael Miles Dean",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Howard SHlazar Ttanton nall"
+                    "fact": "Russell Mitchell Grimes James"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Thomas Moore Ho"
+                    "fact": "Melissa Perry Perez Santos"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Katherine Salazar Stanton Hall"
+                    "fact": "Lisa Wise Pittman Miller"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Howard Salazar Stanton Hall"
+                    "fact": "Michael Miles Dean"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Howard Salazar Stanton Hall"
+                    "fact": "Michael Miles Dean"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Moldova",
+            "truth": "Ethiopia",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Tanzania"
+                    "fact": "Indonesia"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Ireland"
+                    "fact": "Bermuda"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Macao"
+                    "fact": "Dominica"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Moldova"
+                    "fact": "Ethiopia"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Moldova"
+                    "fact": "Ethiopia"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 28,
+            "truth": 34,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 31
+                    "fact": 35
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 25
+                    "fact": 30
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 26
+                    "fact": 36
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 28
+                    "fact": 34
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 28
+                    "fact": 34
                 }
             ]
         }

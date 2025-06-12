@@ -3,201 +3,201 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Latasha Marsh Nelson Warren",
+            "truth": "Anita Garcia Bradshaw",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Latasha Marsh Jonathan Warren"
+                    "fact": "Thomas Silva Payne"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Latasha William Nelson Warren"
+                    "fact": "Cassandra Jackson Silva Lewis"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Latsha Marsh Nelson Wartn"
+                    "fact": "nita Garcia Brdhaw"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Todd Hernandez Morales Vasquez"
+                    "fact": "Tina Briggs Carr Obrien"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Latasha MaTsh Neson Warren"
+                    "fact": "Anitk Garcia Brashaw"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Carlos Perez Sanders"
+                    "fact": "Anita Garcia VradshBw"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Latasha Marsh Nelson Warren"
+                    "fact": "Anita Garcia Bradshaw"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Latasha Marsh Nelson Warren"
+                    "fact": "Anita Garcia Bradshaw"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Latasha Marsh Nelson Warren"
+                    "fact": "Anita Garcia Bradshaw"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Latasha Marsh Nelson Warren"
+                    "fact": "Anita Garcia Bradshaw"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Latasha Marsh Nelson Warren"
+                    "fact": "Anita Garcia Bradshaw"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Latasha Marsh Nelson Warren"
+                    "fact": "Anita Garcia Bradshaw"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Latasha Marsh Nelson Warren"
+                    "fact": "Anita Garcia Bradshaw"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Latasha Marsh Nelson Warren"
+                    "fact": "Anita Garcia Bradshaw"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Latasha Marsh Nelson Warren"
+                    "fact": "Anita Garcia Bradshaw"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "El Salvador",
+            "truth": "Bangladesh",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Falkland Islands (Malvinas)"
+                    "fact": "Christmas Island"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Morocco"
+                    "fact": "Pitcairn Islands"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Mozambique"
+                    "fact": "Cook Islands"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Brazil"
+                    "fact": "Romania"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Israel"
+                    "fact": "Solomon Islands"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Slovenia"
+                    "fact": "Rwanda"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "El Salvador"
+                    "fact": "Bangladesh"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "El Salvador"
+                    "fact": "Bangladesh"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "El Salvador"
+                    "fact": "Bangladesh"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "El Salvador"
+                    "fact": "Bangladesh"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "El Salvador"
+                    "fact": "Bangladesh"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "El Salvador"
+                    "fact": "Bangladesh"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "El Salvador"
+                    "fact": "Bangladesh"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "El Salvador"
+                    "fact": "Bangladesh"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "El Salvador"
+                    "fact": "Bangladesh"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 33,
+            "truth": 25,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 34
+                    "fact": 27
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 30
+                    "fact": 24
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 33
+                    "fact": 22
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 31
+                    "fact": 27
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 37
+                    "fact": 28
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 38
+                    "fact": 20
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source11",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source12",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source13",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source14",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source15",
-                    "fact": 33
+                    "fact": 25
                 }
             ]
         }

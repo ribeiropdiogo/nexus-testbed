@@ -3,67 +3,67 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Angola",
+            "truth": "French Polynesia",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Mauritius"
+                    "fact": "Hungary"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Saint Pierre and Miquelon"
+                    "fact": "Oman"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Pitcairn Islands"
+                    "fact": "Serbia"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Netherlands"
+                    "fact": "Mayotte"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Austria"
+                    "fact": "Lesotho"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Guyana"
+                    "fact": "Kiribati"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Brazil"
+                    "fact": "Iran"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Sri Lanka"
+                    "fact": "India"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Syrian Arab Republic"
+                    "fact": "Marshall Islands"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Falkland Islands (Malvinas)"
+                    "fact": "Congo"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Guatemala"
+                    "fact": "Sao Tome and Principe"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Mongolia"
+                    "fact": "Denmark"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Vanuatu"
+                    "fact": "Albania"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Angola"
+                    "fact": "French Polynesia"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Angola"
+                    "fact": "French Polynesia"
                 }
             ]
         }

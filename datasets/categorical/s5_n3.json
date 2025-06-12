@@ -3,27 +3,27 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Kyrgyz Republic",
+            "truth": "Congo",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Isle of Man"
+                    "fact": "Senegal"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "United Arab Emirates"
+                    "fact": "Haiti"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "El Salvador"
+                    "fact": "Cocos (Keeling) Islands"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Kyrgyz Republic"
+                    "fact": "Congo"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Kyrgyz Republic"
+                    "fact": "Congo"
                 }
             ]
         }

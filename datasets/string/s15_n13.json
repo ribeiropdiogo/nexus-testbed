@@ -3,67 +3,67 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "John Williams Warner Jenkins",
+            "truth": "Danny West Bennett",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Alison Schroeder Vincent"
+                    "fact": "DanLy Weet Bennett"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "John WHlliYms Warnfr Jenkins"
+                    "fact": "Leslie Castro Thomas Levine"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "John Williams Garner JeYuins"
+                    "fact": "Danny Joseph Bennett"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Cheryl Roberts Sanchez"
+                    "fact": "Dann Wesq Bennett"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "John Wlliams Warner JenkinF"
+                    "fact": "Elizabeth West Bennett"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "John Williams Warner Jennifer"
+                    "fact": "John Miller Morris Hall"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Samuel Hamilton Turner Brown"
+                    "fact": "Timothy West Bennett"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "John Williams Matthew Jenkins"
+                    "fact": "Anna Holmes Medina"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "John Donna Warner Jenkins"
+                    "fact": "Danny Candace Bennett"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "John Wlliams arner Jenkins"
+                    "fact": "Danny Julie Bennett"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "John Williams Warner Jnin"
+                    "fact": "Melissa Miller Nelson"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "John WilliVms WBrntr Jenkins"
+                    "fact": "Danny Luis Bennett"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Michael Williams Warner Jenkins"
+                    "fact": "Danny Wpt Bennett"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "John Williams Warner Jenkins"
+                    "fact": "Danny West Bennett"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "John Williams Warner Jenkins"
+                    "fact": "Danny West Bennett"
                 }
             ]
         }

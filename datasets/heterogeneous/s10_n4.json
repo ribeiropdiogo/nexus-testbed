@@ -3,141 +3,141 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Jamie Richardson Mendez",
+            "truth": "Marcus Madden Sampson Mcclure",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Cory Holloway Riggs Chavez"
+                    "fact": "Marcus Madden SampXoq Mcclure"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Darryl Richardson Mendez"
+                    "fact": "Tanner Waters Mosley"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Hannah Escobar Wilson"
+                    "fact": "Colin Madden Sampson Mcclure"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Jamie Richardso Medez"
+                    "fact": "Paul Russell Stewart"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Jamie Richardson Mendez"
+                    "fact": "Marcus Madden Sampson Mcclure"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Jamie Richardson Mendez"
+                    "fact": "Marcus Madden Sampson Mcclure"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Jamie Richardson Mendez"
+                    "fact": "Marcus Madden Sampson Mcclure"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Jamie Richardson Mendez"
+                    "fact": "Marcus Madden Sampson Mcclure"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Jamie Richardson Mendez"
+                    "fact": "Marcus Madden Sampson Mcclure"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Jamie Richardson Mendez"
+                    "fact": "Marcus Madden Sampson Mcclure"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Indonesia",
+            "truth": "Iceland",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Hong Kong"
+                    "fact": "South Georgia and the South Sandwich Islands"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Portugal"
+                    "fact": "Germany"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Slovenia"
+                    "fact": "Morocco"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Lesotho"
+                    "fact": "Israel"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Indonesia"
+                    "fact": "Iceland"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Indonesia"
+                    "fact": "Iceland"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Indonesia"
+                    "fact": "Iceland"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Indonesia"
+                    "fact": "Iceland"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Indonesia"
+                    "fact": "Iceland"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Indonesia"
+                    "fact": "Iceland"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 33,
+            "truth": 29,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 28
-                },
-                {
-                    "sourceId": "source2",
-                    "fact": 35
-                },
-                {
-                    "sourceId": "source3",
                     "fact": 30
                 },
                 {
+                    "sourceId": "source2",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 26
+                },
+                {
                     "sourceId": "source4",
-                    "fact": 36
+                    "fact": 27
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 33
+                    "fact": 29
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 33
+                    "fact": 29
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 33
+                    "fact": 29
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 33
+                    "fact": 29
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 33
+                    "fact": 29
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 33
+                    "fact": 29
                 }
             ]
         }

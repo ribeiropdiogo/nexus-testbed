@@ -3,47 +3,47 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Madagascar",
+            "truth": "Christmas Island",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Iran"
+                    "fact": "Turkey"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Vanuatu"
+                    "fact": "Micronesia"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Ukraine"
+                    "fact": "Vanuatu"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Ireland"
+                    "fact": "Hong Kong"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Russian Federation"
+                    "fact": "Belgium"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Turkmenistan"
+                    "fact": "Montenegro"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "India"
+                    "fact": "Armenia"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Cameroon"
+                    "fact": "Qatar"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Grenada"
+                    "fact": "Uruguay"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Madagascar"
+                    "fact": "Christmas Island"
                 }
             ]
         }

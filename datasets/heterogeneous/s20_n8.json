@@ -3,261 +3,261 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Jessica Hamilton Trevino Wells",
+            "truth": "Laura Kelly Brown",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Sharon Hamilton Trevino Wells"
+                    "fact": "Laura Kelly Jason"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Tracy Lozano Mcclain Stevens"
+                    "fact": "Stacy Sutton Keller Carter"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Jessica Hamilton Rebecca Wells"
+                    "fact": "Michelle Webb Bates"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Jessica amiaton Trevino Wells"
+                    "fact": "Dillon Smith Moore"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Jessica Joshua Trevino Wells"
+                    "fact": "Nicole Johnson Lee"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Robert Clark Lewis"
+                    "fact": "Amanda Craig Bernard Terry"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Jessuca Hamilto Trevino Wells"
+                    "fact": "Laura Kly rrown"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Jessica Dennis Trevino Wells"
+                    "fact": "Matthew Kelly Brown"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Jessica Hamilton Trevino Wells"
+                    "fact": "Laura Kelly Brown"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Jessica Hamilton Trevino Wells"
+                    "fact": "Laura Kelly Brown"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Jessica Hamilton Trevino Wells"
+                    "fact": "Laura Kelly Brown"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Jessica Hamilton Trevino Wells"
+                    "fact": "Laura Kelly Brown"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Jessica Hamilton Trevino Wells"
+                    "fact": "Laura Kelly Brown"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Jessica Hamilton Trevino Wells"
+                    "fact": "Laura Kelly Brown"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Jessica Hamilton Trevino Wells"
+                    "fact": "Laura Kelly Brown"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Jessica Hamilton Trevino Wells"
+                    "fact": "Laura Kelly Brown"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Jessica Hamilton Trevino Wells"
+                    "fact": "Laura Kelly Brown"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Jessica Hamilton Trevino Wells"
+                    "fact": "Laura Kelly Brown"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Jessica Hamilton Trevino Wells"
+                    "fact": "Laura Kelly Brown"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Jessica Hamilton Trevino Wells"
+                    "fact": "Laura Kelly Brown"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Dominica",
+            "truth": "Palau",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Serbia"
+                    "fact": "Falkland Islands (Malvinas)"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Ireland"
+                    "fact": "Micronesia"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Puerto Rico"
+                    "fact": "Grenada"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Antigua and Barbuda"
+                    "fact": "Comoros"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Somalia"
+                    "fact": "Bosnia and Herzegovina"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Jamaica"
+                    "fact": "Somalia"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "French Polynesia"
+                    "fact": "French Guiana"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Burundi"
+                    "fact": "Bolivia"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Dominica"
+                    "fact": "Palau"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Dominica"
+                    "fact": "Palau"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Dominica"
+                    "fact": "Palau"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Dominica"
+                    "fact": "Palau"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Dominica"
+                    "fact": "Palau"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Dominica"
+                    "fact": "Palau"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Dominica"
+                    "fact": "Palau"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Dominica"
+                    "fact": "Palau"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Dominica"
+                    "fact": "Palau"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Dominica"
+                    "fact": "Palau"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Dominica"
+                    "fact": "Palau"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Dominica"
+                    "fact": "Palau"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 25,
+            "truth": 26,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 30
+                    "fact": 22
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 20
+                    "fact": 22
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 28
+                    "fact": 31
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 26
+                    "fact": 24
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 29
-                },
-                {
-                    "sourceId": "source6",
-                    "fact": 25
-                },
-                {
-                    "sourceId": "source7",
-                    "fact": 26
-                },
-                {
-                    "sourceId": "source8",
                     "fact": 30
                 },
                 {
+                    "sourceId": "source6",
+                    "fact": 23
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 31
+                },
+                {
                     "sourceId": "source9",
-                    "fact": 25
+                    "fact": 26
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 25
+                    "fact": 26
                 },
                 {
                     "sourceId": "source11",
-                    "fact": 25
+                    "fact": 26
                 },
                 {
                     "sourceId": "source12",
-                    "fact": 25
+                    "fact": 26
                 },
                 {
                     "sourceId": "source13",
-                    "fact": 25
+                    "fact": 26
                 },
                 {
                     "sourceId": "source14",
-                    "fact": 25
+                    "fact": 26
                 },
                 {
                     "sourceId": "source15",
-                    "fact": 25
+                    "fact": 26
                 },
                 {
                     "sourceId": "source16",
-                    "fact": 25
+                    "fact": 26
                 },
                 {
                     "sourceId": "source17",
-                    "fact": 25
+                    "fact": 26
                 },
                 {
                     "sourceId": "source18",
-                    "fact": 25
+                    "fact": 26
                 },
                 {
                     "sourceId": "source19",
-                    "fact": 25
+                    "fact": 26
                 },
                 {
                     "sourceId": "source20",
-                    "fact": 25
+                    "fact": 26
                 }
             ]
         }

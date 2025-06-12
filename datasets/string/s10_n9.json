@@ -3,47 +3,47 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Amber Marquez Navarro",
+            "truth": "Jonathan Pham Wilson Jordan",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Amber Maaquez avarro"
+                    "fact": "Daniel Pham Wilson Jordan"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Mark Marquez Navarro"
+                    "fact": "Jonathan Pham Karen Jordan"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Amber Matquez avarro"
+                    "fact": "Alexis Salinas Arnold Acosta"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Amer Maiquez avarro"
+                    "fact": "Jonatha Pham Wilon Jordan"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Amber Jerry Navarro"
+                    "fact": "Stacy Lawson Carter"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Tiffany Morris Clark"
+                    "fact": "tonathan ham Wilson Jordan"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Amber Maruez Navrro"
+                    "fact": "Jonathan Pham Wilson Michael"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Dale Marquez Navarro"
+                    "fact": "Jonathan Michael Wilson Jordan"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Amber MJquez Navarro"
+                    "fact": "Jonathan Pham Rebecca Jordan"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Amber Marquez Navarro"
+                    "fact": "Jonathan Pham Wilson Jordan"
                 }
             ]
         }

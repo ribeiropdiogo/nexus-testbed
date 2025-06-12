@@ -3,87 +3,87 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Kiribati",
+            "truth": "Malta",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Isle of Man"
+                    "fact": "Vanuatu"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Germany"
+                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Lao People's Democratic Republic"
+                    "fact": "Armenia"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Argentina"
+                    "fact": "Israel"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "San Marino"
+                    "fact": "Serbia"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Slovenia"
+                    "fact": "Ukraine"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "French Southern Territories"
+                    "fact": "Myanmar"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Russian Federation"
+                    "fact": "Taiwan"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Niue"
+                    "fact": "Indonesia"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Botswana"
+                    "fact": "Papua New Guinea"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Holy See (Vatican City State)"
+                    "fact": "Trinidad and Tobago"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Bosnia and Herzegovina"
+                    "fact": "Guinea-Bissau"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Kiribati"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Kiribati"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Kiribati"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Kiribati"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Kiribati"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Kiribati"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Kiribati"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Kiribati"
+                    "fact": "Malta"
                 }
             ]
         }

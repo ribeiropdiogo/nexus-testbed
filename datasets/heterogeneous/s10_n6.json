@@ -3,117 +3,117 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Rebecca Scott Black",
+            "truth": "Heather Lee Pierce Sosa",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Alexandra Vega Smith"
+                    "fact": "Heatuer Le Pierce Sosa"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Gregory Campbell Perry Watkins"
+                    "fact": "Heathr Lee Piece Sosa"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Rebecca SWott Blck"
+                    "fact": "Chad Brock Johnson Barnett"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Leslie Colon Thompson Murphy"
+                    "fact": "Heather Lee Pierce April"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Shelley Jackson Campbell"
+                    "fact": "Heather Lee ierge SJsa"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Rebecca Andrew Black"
+                    "fact": "Heather Courtney Pierce Sosa"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Rebecca Scott Black"
+                    "fact": "Heather Lee Pierce Sosa"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Rebecca Scott Black"
+                    "fact": "Heather Lee Pierce Sosa"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Rebecca Scott Black"
+                    "fact": "Heather Lee Pierce Sosa"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Rebecca Scott Black"
+                    "fact": "Heather Lee Pierce Sosa"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Albania",
+            "truth": "Solomon Islands",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Ghana"
+                    "fact": "Libyan Arab Jamahiriya"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Taiwan"
+                    "fact": "Thailand"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Uzbekistan"
+                    "fact": "Mozambique"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Bermuda"
+                    "fact": "Lesotho"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "French Guiana"
+                    "fact": "Mauritius"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Palau"
+                    "fact": "Belize"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Albania"
+                    "fact": "Solomon Islands"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Albania"
+                    "fact": "Solomon Islands"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Albania"
+                    "fact": "Solomon Islands"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Albania"
+                    "fact": "Solomon Islands"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 29,
+            "truth": 26,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 32
+                    "fact": 27
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 31
+                    "fact": 24
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 34
+                    "fact": 29
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 27
+                    "fact": 22
                 },
                 {
                     "sourceId": "source5",
@@ -121,23 +121,23 @@
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 30
+                    "fact": 27
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 29
+                    "fact": 26
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 29
+                    "fact": 26
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 29
+                    "fact": 26
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 29
+                    "fact": 26
                 }
             ]
         }

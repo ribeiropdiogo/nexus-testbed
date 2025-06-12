@@ -3,27 +3,27 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Kevin Smith Ray Stewart",
+            "truth": "Amanda Brooks Davis Villanueva",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Kevin mith Ray Sewar"
+                    "fact": "Kathryn Brooks Davis Villanueva"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Kevin Smith Ray Stewart"
+                    "fact": "Amanda Brooks Davis Villanueva"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Kevin Smith Ray Stewart"
+                    "fact": "Amanda Brooks Davis Villanueva"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Kevin Smith Ray Stewart"
+                    "fact": "Amanda Brooks Davis Villanueva"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Kevin Smith Ray Stewart"
+                    "fact": "Amanda Brooks Davis Villanueva"
                 }
             ]
         }

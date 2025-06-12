@@ -3,27 +3,27 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Kevin West Jones",
+            "truth": "Todd Hill Griffin",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Jevin est Jones"
+                    "fact": "Todd Hill Sean"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Lisa Shaw Cameron Quinn"
+                    "fact": "Tod ill Griffin"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Kevin West Jones"
+                    "fact": "Todd Hill Griffin"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Kevin West Jones"
+                    "fact": "Todd Hill Griffin"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Kevin West Jones"
+                    "fact": "Todd Hill Griffin"
                 }
             ]
         }

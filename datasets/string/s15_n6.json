@@ -3,67 +3,67 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Ryan Smith Cole",
+            "truth": "Kayla Thomas Harrison",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Linda Reed Martinez"
+                    "fact": "Jasmin Carney Yates"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Jacqueline Smith Reed"
+                    "fact": "Kyle Kelly Chapman Stuart"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Ryan Alexis Cole"
+                    "fact": "Kayla Thomas arrisw"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Rachel Buckley Hamilton Gallagher"
+                    "fact": "Kayla Thomas HXRrisn"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Ryan SPith CoKe"
+                    "fact": "Kayla Thomas HalrLson"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Kirk Perez Myers Warren"
+                    "fact": "Alvin Garcia Randall Jones"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Ryan Smith Cole"
+                    "fact": "Kayla Thomas Harrison"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Ryan Smith Cole"
+                    "fact": "Kayla Thomas Harrison"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Ryan Smith Cole"
+                    "fact": "Kayla Thomas Harrison"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Ryan Smith Cole"
+                    "fact": "Kayla Thomas Harrison"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Ryan Smith Cole"
+                    "fact": "Kayla Thomas Harrison"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Ryan Smith Cole"
+                    "fact": "Kayla Thomas Harrison"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Ryan Smith Cole"
+                    "fact": "Kayla Thomas Harrison"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Ryan Smith Cole"
+                    "fact": "Kayla Thomas Harrison"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Ryan Smith Cole"
+                    "fact": "Kayla Thomas Harrison"
                 }
             ]
         }

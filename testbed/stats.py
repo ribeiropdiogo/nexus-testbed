@@ -1,5 +1,5 @@
 """
-This modules contains the code responsible for generating statistics
+This module contains the code responsible for generating statistics
 from the results of the various algorithms executions.
 """
 

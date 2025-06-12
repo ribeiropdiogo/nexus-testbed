@@ -3,47 +3,47 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Anne Mitchell Brandt",
+            "truth": "William Little Allen",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Anne Mitchell BQndt"
+                    "fact": "Lance Zimmerman Gilbert"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Christopher Stout Walker"
+                    "fact": "William Litdle AQlen"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Anne Mitchell Brandt"
+                    "fact": "William Little Allen"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Anne Mitchell Brandt"
+                    "fact": "William Little Allen"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Anne Mitchell Brandt"
+                    "fact": "William Little Allen"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Anne Mitchell Brandt"
+                    "fact": "William Little Allen"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Anne Mitchell Brandt"
+                    "fact": "William Little Allen"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Anne Mitchell Brandt"
+                    "fact": "William Little Allen"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Anne Mitchell Brandt"
+                    "fact": "William Little Allen"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Anne Mitchell Brandt"
+                    "fact": "William Little Allen"
                 }
             ]
         }

@@ -3,67 +3,67 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Jeffrey Wilson Kim Bowman",
+            "truth": "John Kennedy Diaz Williams",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Tiffany Williams Richards Barber"
+                    "fact": "Joseph Sanchez Greene Martinez"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Larry Carroll Hill Page"
+                    "fact": "Stephanie Gonzalez Waters Hardin"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Jeffrey Brian Kim Bowman"
+                    "fact": "John Kgnzedy Dhaz Williams"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Jeffrey Wilson Kim Bowman"
+                    "fact": "John Kennedy Diaz Williams"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Jeffrey Wilson Kim Bowman"
+                    "fact": "John Kennedy Diaz Williams"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Jeffrey Wilson Kim Bowman"
+                    "fact": "John Kennedy Diaz Williams"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Jeffrey Wilson Kim Bowman"
+                    "fact": "John Kennedy Diaz Williams"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Jeffrey Wilson Kim Bowman"
+                    "fact": "John Kennedy Diaz Williams"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Jeffrey Wilson Kim Bowman"
+                    "fact": "John Kennedy Diaz Williams"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Jeffrey Wilson Kim Bowman"
+                    "fact": "John Kennedy Diaz Williams"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Jeffrey Wilson Kim Bowman"
+                    "fact": "John Kennedy Diaz Williams"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Jeffrey Wilson Kim Bowman"
+                    "fact": "John Kennedy Diaz Williams"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Jeffrey Wilson Kim Bowman"
+                    "fact": "John Kennedy Diaz Williams"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Jeffrey Wilson Kim Bowman"
+                    "fact": "John Kennedy Diaz Williams"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Jeffrey Wilson Kim Bowman"
+                    "fact": "John Kennedy Diaz Williams"
                 }
             ]
         }

@@ -3,67 +3,67 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "British Indian Ocean Territory (Chagos Archipelago)",
+            "truth": "Haiti",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Norfolk Island"
+                    "fact": "Hong Kong"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Kenya"
+                    "fact": "Botswana"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Germany"
+                    "fact": "Switzerland"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                    "fact": "Haiti"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                    "fact": "Haiti"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                    "fact": "Haiti"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                    "fact": "Haiti"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                    "fact": "Haiti"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                    "fact": "Haiti"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                    "fact": "Haiti"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                    "fact": "Haiti"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                    "fact": "Haiti"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                    "fact": "Haiti"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                    "fact": "Haiti"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                    "fact": "Haiti"
                 }
             ]
         }

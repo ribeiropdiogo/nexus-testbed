@@ -3,221 +3,221 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Kristin Mendoza Duncan Hernandez",
+            "truth": "Mike Richards Harris Ward",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Kristin Medoza Duncan Herandez"
+                    "fact": "Stephanie Richards Harris Ward"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "KriCtin Mendoa Dncan Hernandez"
+                    "fact": "Mike Rijhardm Harris Ward"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Kristin Mendoza Duncan Brian"
+                    "fact": "Mike Richards Thomas Ward"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Diana Mendoza Duncan Hernandez"
+                    "fact": "Mike Rihards HarOis Ward"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Lisa Mendoza Duncan Hernandez"
+                    "fact": "Karen Whitehead Anderson Patrick"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Daisy Cannon Cordova"
+                    "fact": "Mike Richards Richard Ward"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Kristmn MenRoza Dunca Hernandez"
+                    "fact": "Kenneth Garcia Johnson Gonzales"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "KrGstin Mendoza Duncan HernaCdez"
+                    "fact": "Mike Richads Harris Wrd"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Kristin Mendoza Duncan HerCbndez"
+                    "fact": "James Harrington Gonzales Russell"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Lauren Jarvis Smith Fisher"
+                    "fact": "Candice Ball Yang"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Kristin Mendoza Duncan James"
+                    "fact": "Sydney Richards Harris Ward"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "ristin MendHza DunFan Hernandez"
+                    "fact": "Mke Richards HarriK Ward"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Kristin Mendoza Duncan Hernandez"
+                    "fact": "Mike Richards Harris Ward"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Kristin Mendoza Duncan Hernandez"
+                    "fact": "Mike Richards Harris Ward"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Kristin Mendoza Duncan Hernandez"
+                    "fact": "Mike Richards Harris Ward"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Kristin Mendoza Duncan Hernandez"
+                    "fact": "Mike Richards Harris Ward"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Kristin Mendoza Duncan Hernandez"
+                    "fact": "Mike Richards Harris Ward"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Kristin Mendoza Duncan Hernandez"
+                    "fact": "Mike Richards Harris Ward"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Kristin Mendoza Duncan Hernandez"
+                    "fact": "Mike Richards Harris Ward"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Kristin Mendoza Duncan Hernandez"
+                    "fact": "Mike Richards Harris Ward"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Estonia",
+            "truth": "Malaysia",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Gabon"
+                    "fact": "Tuvalu"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Grenada"
+                    "fact": "Mali"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Kyrgyz Republic"
+                    "fact": "Guatemala"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Micronesia"
+                    "fact": "Colombia"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Maldives"
+                    "fact": "Lao People's Democratic Republic"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Monaco"
+                    "fact": "Israel"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Cape Verde"
+                    "fact": "Mali"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Haiti"
+                    "fact": "Mexico"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Uganda"
+                    "fact": "North Macedonia"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Yemen"
+                    "fact": "Wallis and Futuna"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Heard Island and McDonald Islands"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Nepal"
+                    "fact": "Czech Republic"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Estonia"
+                    "fact": "Malaysia"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Estonia"
+                    "fact": "Malaysia"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Estonia"
+                    "fact": "Malaysia"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Estonia"
+                    "fact": "Malaysia"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Estonia"
+                    "fact": "Malaysia"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Estonia"
+                    "fact": "Malaysia"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Estonia"
+                    "fact": "Malaysia"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Estonia"
+                    "fact": "Malaysia"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 33,
+            "truth": 32,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 36
+                    "fact": 34
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 38
+                    "fact": 29
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 36
+                    "fact": 34
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 30
+                    "fact": 34
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 31
+                    "fact": 33
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 36
-                },
-                {
-                    "sourceId": "source7",
-                    "fact": 38
-                },
-                {
-                    "sourceId": "source8",
                     "fact": 30
                 },
                 {
-                    "sourceId": "source9",
+                    "sourceId": "source7",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source8",
                     "fact": 29
                 },
                 {
+                    "sourceId": "source9",
+                    "fact": 36
+                },
+                {
                     "sourceId": "source10",
-                    "fact": 29
+                    "fact": 31
                 },
                 {
                     "sourceId": "source11",
@@ -225,39 +225,39 @@
                 },
                 {
                     "sourceId": "source12",
-                    "fact": 30
+                    "fact": 29
                 },
                 {
                     "sourceId": "source13",
-                    "fact": 33
+                    "fact": 32
                 },
                 {
                     "sourceId": "source14",
-                    "fact": 33
+                    "fact": 32
                 },
                 {
                     "sourceId": "source15",
-                    "fact": 33
+                    "fact": 32
                 },
                 {
                     "sourceId": "source16",
-                    "fact": 33
+                    "fact": 32
                 },
                 {
                     "sourceId": "source17",
-                    "fact": 33
+                    "fact": 32
                 },
                 {
                     "sourceId": "source18",
-                    "fact": 33
+                    "fact": 32
                 },
                 {
                     "sourceId": "source19",
-                    "fact": 33
+                    "fact": 32
                 },
                 {
                     "sourceId": "source20",
-                    "fact": 33
+                    "fact": 32
                 }
             ]
         }

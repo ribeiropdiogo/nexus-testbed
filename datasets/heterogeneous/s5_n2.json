@@ -3,81 +3,81 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Michelle Avila Smith",
+            "truth": "Sierra Garza Holmes Harrison",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Michelle Avila Isabella"
+                    "fact": "SiFrra Garza Holmes HaBrison"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Michvlle Avila Smit"
+                    "fact": "Kenneth Torres Hobbs Mendoza"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Michelle Avila Smith"
+                    "fact": "Sierra Garza Holmes Harrison"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Michelle Avila Smith"
+                    "fact": "Sierra Garza Holmes Harrison"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Michelle Avila Smith"
+                    "fact": "Sierra Garza Holmes Harrison"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Iran",
+            "truth": "Iceland",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Singapore"
+                    "fact": "Falkland Islands (Malvinas)"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Tonga"
+                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Iran"
+                    "fact": "Iceland"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Iran"
+                    "fact": "Iceland"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Iran"
+                    "fact": "Iceland"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 35,
+            "truth": 28,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 30
+                    "fact": 23
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 37
+                    "fact": 27
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 35
+                    "fact": 28
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 35
+                    "fact": 28
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 35
+                    "fact": 28
                 }
             ]
         }

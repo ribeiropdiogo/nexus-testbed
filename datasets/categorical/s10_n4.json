@@ -3,47 +3,47 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "United Kingdom",
+            "truth": "Sao Tome and Principe",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Australia"
+                    "fact": "Albania"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Uzbekistan"
+                    "fact": "Djibouti"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Mali"
+                    "fact": "Latvia"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Macao"
+                    "fact": "Monaco"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "United Kingdom"
+                    "fact": "Sao Tome and Principe"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "United Kingdom"
+                    "fact": "Sao Tome and Principe"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "United Kingdom"
+                    "fact": "Sao Tome and Principe"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "United Kingdom"
+                    "fact": "Sao Tome and Principe"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "United Kingdom"
+                    "fact": "Sao Tome and Principe"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "United Kingdom"
+                    "fact": "Sao Tome and Principe"
                 }
             ]
         }

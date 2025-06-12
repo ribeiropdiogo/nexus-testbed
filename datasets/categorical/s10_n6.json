@@ -3,47 +3,47 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Albania",
+            "truth": "Kazakhstan",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Malaysia"
+                    "fact": "Somalia"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Czech Republic"
+                    "fact": "Micronesia"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Saint Martin"
+                    "fact": "Palestinian Territory"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Dominica"
+                    "fact": "Suriname"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Brunei Darussalam"
+                    "fact": "Turkey"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Western Sahara"
+                    "fact": "Guinea"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Albania"
+                    "fact": "Kazakhstan"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Albania"
+                    "fact": "Kazakhstan"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Albania"
+                    "fact": "Kazakhstan"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Albania"
+                    "fact": "Kazakhstan"
                 }
             ]
         }

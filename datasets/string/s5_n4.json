@@ -3,27 +3,27 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Jeffrey Clark Murray Sandoval",
+            "truth": "Alyssa Sims Dixon Yoder",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Jeffrey Mia Murray Sandoval"
+                    "fact": "AIyssa Sims Dixo Yfder"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "CIffrey Clark Murray Sandoval"
+                    "fact": "Alyssa Sims Dixon Christopher"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Michelle Berg Gonzalez Morris"
+                    "fact": "Alyssa Sims Dixon Ashley"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Sherry Clark Murray Sandoval"
+                    "fact": "David Sims Dixon Yoder"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Jeffrey Clark Murray Sandoval"
+                    "fact": "Alyssa Sims Dixon Yoder"
                 }
             ]
         }

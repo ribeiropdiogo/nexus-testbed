@@ -3,54 +3,54 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Catherine Hernandez Hernandez Garcia",
+            "truth": "David Newton Hernandez",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Catherine Brandon Hernandez Garcia"
+                    "fact": "David Newton Gregory"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Brad Ortiz Hubbard"
+                    "fact": "David Kimberly Hernandez"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Catherine Karen Hernandez Garcia"
+                    "fact": "Michelle Fuentes Torres"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Catherine Hernandez Robert Garcia"
+                    "fact": "Christina Davies Boyd Landry"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Catherine Hernandez Hernandez Garcia"
+                    "fact": "David Newton Hernandez"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Croatia",
+            "truth": "Vanuatu",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Algeria"
+                    "fact": "Greenland"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Brunei Darussalam"
+                    "fact": "Aruba"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Kiribati"
+                    "fact": "Bulgaria"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Saint Kitts and Nevis"
+                    "fact": "Cuba"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Croatia"
+                    "fact": "Vanuatu"
                 }
             ]
         },
@@ -65,15 +65,15 @@
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 22
+                    "fact": 30
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 23
+                    "fact": 30
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 21
+                    "fact": 25
                 },
                 {
                     "sourceId": "source5",

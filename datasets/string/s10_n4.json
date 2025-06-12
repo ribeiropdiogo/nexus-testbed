@@ -3,47 +3,47 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Paul Charles Bonilla",
+            "truth": "Jonathan Smith Hester",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "daul hales Bonilla"
+                    "fact": "Znathan Smith Hestbr"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Paul Chrley ponilla"
+                    "fact": "Eric Smith Hester"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Jeffrey Barnes Murillo"
+                    "fact": "Jonathan Smith Hter"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Paul Charles Kirsten"
+                    "fact": "Tammy Smith Hester"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Paul Charles Bonilla"
+                    "fact": "Jonathan Smith Hester"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Paul Charles Bonilla"
+                    "fact": "Jonathan Smith Hester"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Paul Charles Bonilla"
+                    "fact": "Jonathan Smith Hester"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Paul Charles Bonilla"
+                    "fact": "Jonathan Smith Hester"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Paul Charles Bonilla"
+                    "fact": "Jonathan Smith Hester"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Paul Charles Bonilla"
+                    "fact": "Jonathan Smith Hester"
                 }
             ]
         }

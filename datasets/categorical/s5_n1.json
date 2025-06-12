@@ -3,27 +3,27 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Falkland Islands (Malvinas)",
+            "truth": "Bouvet Island (Bouvetoya)",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Denmark"
+                    "fact": "Burkina Faso"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Falkland Islands (Malvinas)"
+                    "fact": "Bouvet Island (Bouvetoya)"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Falkland Islands (Malvinas)"
+                    "fact": "Bouvet Island (Bouvetoya)"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Falkland Islands (Malvinas)"
+                    "fact": "Bouvet Island (Bouvetoya)"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Falkland Islands (Malvinas)"
+                    "fact": "Bouvet Island (Bouvetoya)"
                 }
             ]
         }

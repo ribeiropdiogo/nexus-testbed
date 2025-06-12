@@ -3,261 +3,261 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Andrew Rodgers Larson",
+            "truth": "Matthew Good Knapp",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Andrew Rodgers Amanda"
+                    "fact": "Michael Good Knapp"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Andrew RodgerQ Larlon"
+                    "fact": "Matthew ood napp"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Jacob Miller Smith Lozano"
+                    "fact": "atthew oood Knapp"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Andrew Roder Lason"
+                    "fact": "Matthew Andre Knapp"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Andrew Rodgers Larson"
+                    "fact": "Matthew Good Knapp"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Andrew Rodgers Larson"
+                    "fact": "Matthew Good Knapp"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Andrew Rodgers Larson"
+                    "fact": "Matthew Good Knapp"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Andrew Rodgers Larson"
+                    "fact": "Matthew Good Knapp"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Andrew Rodgers Larson"
+                    "fact": "Matthew Good Knapp"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Andrew Rodgers Larson"
+                    "fact": "Matthew Good Knapp"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Andrew Rodgers Larson"
+                    "fact": "Matthew Good Knapp"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Andrew Rodgers Larson"
+                    "fact": "Matthew Good Knapp"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Andrew Rodgers Larson"
+                    "fact": "Matthew Good Knapp"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Andrew Rodgers Larson"
+                    "fact": "Matthew Good Knapp"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Andrew Rodgers Larson"
+                    "fact": "Matthew Good Knapp"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Andrew Rodgers Larson"
+                    "fact": "Matthew Good Knapp"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Andrew Rodgers Larson"
+                    "fact": "Matthew Good Knapp"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Andrew Rodgers Larson"
+                    "fact": "Matthew Good Knapp"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Andrew Rodgers Larson"
+                    "fact": "Matthew Good Knapp"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Andrew Rodgers Larson"
+                    "fact": "Matthew Good Knapp"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Swaziland",
+            "truth": "Cocos (Keeling) Islands",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "United States Minor Outlying Islands"
+                    "fact": "Czech Republic"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Iraq"
+                    "fact": "Saint Vincent and the Grenadines"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Niue"
+                    "fact": "Romania"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Austria"
+                    "fact": "Western Sahara"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Swaziland"
+                    "fact": "Cocos (Keeling) Islands"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Swaziland"
+                    "fact": "Cocos (Keeling) Islands"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Swaziland"
+                    "fact": "Cocos (Keeling) Islands"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Swaziland"
+                    "fact": "Cocos (Keeling) Islands"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Swaziland"
+                    "fact": "Cocos (Keeling) Islands"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Swaziland"
+                    "fact": "Cocos (Keeling) Islands"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Swaziland"
+                    "fact": "Cocos (Keeling) Islands"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Swaziland"
+                    "fact": "Cocos (Keeling) Islands"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Swaziland"
+                    "fact": "Cocos (Keeling) Islands"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Swaziland"
+                    "fact": "Cocos (Keeling) Islands"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Swaziland"
+                    "fact": "Cocos (Keeling) Islands"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Swaziland"
+                    "fact": "Cocos (Keeling) Islands"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Swaziland"
+                    "fact": "Cocos (Keeling) Islands"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Swaziland"
+                    "fact": "Cocos (Keeling) Islands"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Swaziland"
+                    "fact": "Cocos (Keeling) Islands"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Swaziland"
+                    "fact": "Cocos (Keeling) Islands"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 29,
+            "truth": 25,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 24
+                    "fact": 23
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 33
+                    "fact": 28
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 27
+                    "fact": 20
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 26
+                    "fact": 21
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 29
+                    "fact": 25
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 29
+                    "fact": 25
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 29
+                    "fact": 25
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 29
+                    "fact": 25
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 29
+                    "fact": 25
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 29
+                    "fact": 25
                 },
                 {
                     "sourceId": "source11",
-                    "fact": 29
+                    "fact": 25
                 },
                 {
                     "sourceId": "source12",
-                    "fact": 29
+                    "fact": 25
                 },
                 {
                     "sourceId": "source13",
-                    "fact": 29
+                    "fact": 25
                 },
                 {
                     "sourceId": "source14",
-                    "fact": 29
+                    "fact": 25
                 },
                 {
                     "sourceId": "source15",
-                    "fact": 29
+                    "fact": 25
                 },
                 {
                     "sourceId": "source16",
-                    "fact": 29
+                    "fact": 25
                 },
                 {
                     "sourceId": "source17",
-                    "fact": 29
+                    "fact": 25
                 },
                 {
                     "sourceId": "source18",
-                    "fact": 29
+                    "fact": 25
                 },
                 {
                     "sourceId": "source19",
-                    "fact": 29
+                    "fact": 25
                 },
                 {
                     "sourceId": "source20",
-                    "fact": 29
+                    "fact": 25
                 }
             ]
         }

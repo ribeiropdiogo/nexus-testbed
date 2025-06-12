@@ -3,47 +3,47 @@
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 28,
+            "truth": 31,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 26
+                    "fact": 36
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 25
+                    "fact": 30
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 28
+                    "fact": 31
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 28
+                    "fact": 31
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 28
+                    "fact": 31
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 28
+                    "fact": 31
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 28
+                    "fact": 31
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 28
+                    "fact": 31
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 28
+                    "fact": 31
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 28
+                    "fact": 31
                 }
             ]
         }

@@ -322,13 +322,12 @@ class CRH(object):
         # Join the categorical and continuous vectors
         distances = cat_distances + con_distances + str_distances
         # Normalize the distances
-        distances = distances/max(distances)
-        #print(distances)
+        if max(distances) > 0:
+            distances = distances/max(distances)
         # Avoid infinite values in log function by adding a small value
         distances = distances + 0.1
         # Calculate the weights for all sources (Eq. 5)
         weights = abs(-np.log(distances))
-        #print("weights: " + str(weights))
         # Iterate the calculated weights
         for i, weight in enumerate(weights):
             # Update the weight in W
@@ -406,7 +405,6 @@ class CRH(object):
                 truth = unique_observations[np.argmin(weighted_occurences)]
             # Update the truth dataframe with the new value
             X.loc[X["object"] == entry["object"], "truth"] = truth
-            #print("Truth for object " + str(entry["object"]) + ": " + str(truth))
         # Return the updated dataframe
         return X
 
