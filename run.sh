@@ -24,14 +24,5 @@ else
     exit 1
 fi
 
-# Prompt user for test execution
-read -p "Do you want to run the tests? (yes/no): " run_tests
-# Check response
-if [[ "$run_tests" == "yes" || "$run_tests" == "y" ]]; then
-    ./testbed.sh
-elif [[ "$run_tests" == "no" || "$run_tests" == "n" ]]; then
-    echo "Skipping tests."
-else
-    echo "Error: Invalid input. Please answer with 'yes' or 'no'."
-    exit 1
-fi
+# Launch the testbed
+./testbed.sh

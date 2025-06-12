@@ -37,6 +37,10 @@ Second, `Nexus` has to be running. To launch it, `Docker` can be used. At the ro
 docker compose up --build -d
 ```
 
+### Configuration
+
+The configuration for the testbed can be defined in the `testbed.sh` script. The `ALGORITHMS` variable is a list that contains the algorithms to be used in the assessment (`majority`, `truthfinder`, `crh`, and `nexus`). The `ROUNDS` variable is a value that the defines the number of executions (or rounds) that is performed for each scenario (default value is 5).
+
 ### Output Format
 
 The output format, represented below, includes information on the algorithm used, and for each datatype, it includes the output of the algorithm, the expected result (truth), and the respective metrics. For `categorical` data, `direct comparison` is used (1 if the values are equal, and 0 otherwise). For `string` data, `Jaro-Winkler`, `Sorensen-Dice`, and `Damerau-Levenshtein` are used to measure similarity. For `continuous` values, `Euclidean`, `Manhattan`, and `Canberra` distances are used.

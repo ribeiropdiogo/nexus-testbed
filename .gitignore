@@ -226,7 +226,7 @@ pyrightconfig.json
 .ionide
 
 # Ignore all results files
-results/*.json
+results/**/*.json
 
 # Ignore all stats files
 stats/**/*.json
