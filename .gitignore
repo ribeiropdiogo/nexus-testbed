@@ -229,4 +229,4 @@ pyrightconfig.json
 results/*.json
 
 # Ignore all stats files
-stats/*.json
+stats/**/*.json
