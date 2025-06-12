@@ -1,0 +1,33 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "KriCtin Mendoa Dncan Hernandez",
+            "truth": "Kristin Mendoza Duncan Hernandez",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.9703472222222222,
+                "sorensen-dice": 0.9354838709677419,
+                "damerau-levenshtein": 0.90625
+            }
+        },
+        {
+            "result": "Gabon",
+            "truth": "Estonia",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 0
+            }
+        },
+        {
+            "result": "31.0",
+            "truth": "33",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.06060606060606061,
+                "manhattan-distance": 0.06060606060606061,
+                "canberra-distance": 0.03124999999511719
+            }
+        }
+    ]
+}

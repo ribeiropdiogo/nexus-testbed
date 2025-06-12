@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Sudan",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Gambia"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Singapore"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Switzerland"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Lesotho"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Sudan"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Sudan"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Sudan"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Sudan"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Sudan"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Sudan"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Sudan"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Sudan"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Sudan"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Sudan"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Sudan"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Sudan"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Sudan"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Sudan"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Sudan"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Sudan"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

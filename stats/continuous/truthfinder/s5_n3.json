@@ -1,0 +1,11 @@
+{
+    "test": "s5_n3",
+    "rounds": 5,
+    "datatype": "continuous",
+    "continuous": {
+        "average similarity": 0.9801201608857019,
+        "average euclidean similarity": 0.9763076923076923,
+        "average manhattan similarity": 0.9763076923076923,
+        "average canberra similarity": 0.9877450980417207
+    }
+}

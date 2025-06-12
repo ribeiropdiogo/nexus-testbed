@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Jeffrey Clark Murray Sandoval",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Jeffrey Mia Murray Sandoval"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "CIffrey Clark Murray Sandoval"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Michelle Berg Gonzalez Morris"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Sherry Clark Murray Sandoval"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Jeffrey Clark Murray Sandoval"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

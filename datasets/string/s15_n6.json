@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Ryan Smith Cole",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Linda Reed Martinez"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Jacqueline Smith Reed"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Ryan Alexis Cole"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Rachel Buckley Hamilton Gallagher"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Ryan SPith CoKe"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Kirk Perez Myers Warren"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Ryan Smith Cole"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Ryan Smith Cole"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Ryan Smith Cole"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Ryan Smith Cole"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Ryan Smith Cole"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Ryan Smith Cole"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Ryan Smith Cole"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Ryan Smith Cole"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Ryan Smith Cole"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

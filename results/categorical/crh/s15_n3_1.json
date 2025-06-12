@@ -1,0 +1,13 @@
+{
+    "algorithm": "CRH",
+    "results": [
+        {
+            "result": "British Indian Ocean Territory (Chagos Archipelago)",
+            "truth": "British Indian Ocean Territory (Chagos Archipelago)",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 1
+            }
+        }
+    ]
+}

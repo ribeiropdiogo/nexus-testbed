@@ -1,0 +1,86 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Kevin Castillo Brooks Burton",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Kevin Castillo Brooks Christina"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Kevin Castillo Brooks Burton"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Kevin Castillo Brooks Burton"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Kevin Castillo Brooks Burton"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Kevin Castillo Brooks Burton"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Italy",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Suriname"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Italy"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Italy"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Italy"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Italy"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 33,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 33
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

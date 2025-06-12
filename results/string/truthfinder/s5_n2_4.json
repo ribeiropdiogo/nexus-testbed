@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Jevin est Jones",
+            "truth": "Kevin West Jones",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.9361111111111112,
+                "sorensen-dice": 0.9032258064516129,
+                "damerau-levenshtein": 0.875
+            }
+        }
+    ]
+}

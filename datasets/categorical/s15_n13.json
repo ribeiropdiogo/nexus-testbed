@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Angola",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Mauritius"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Saint Pierre and Miquelon"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Pitcairn Islands"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Netherlands"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Austria"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Guyana"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Brazil"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Sri Lanka"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Syrian Arab Republic"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Falkland Islands (Malvinas)"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Guatemala"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Mongolia"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Vanuatu"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Angola"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Angola"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

@@ -1,0 +1,86 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Howard Salazar Stanton Hall",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Howard SHlazar Ttanton nall"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Thomas Moore Ho"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Katherine Salazar Stanton Hall"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Howard Salazar Stanton Hall"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Howard Salazar Stanton Hall"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Moldova",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Tanzania"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Ireland"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Macao"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Moldova"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Moldova"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 28,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 28
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

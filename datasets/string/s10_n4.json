@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Paul Charles Bonilla",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "daul hales Bonilla"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Paul Chrley ponilla"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Jeffrey Barnes Murillo"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Paul Charles Kirsten"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Paul Charles Bonilla"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Paul Charles Bonilla"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Paul Charles Bonilla"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Paul Charles Bonilla"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Paul Charles Bonilla"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Paul Charles Bonilla"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

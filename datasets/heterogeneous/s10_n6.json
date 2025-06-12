@@ -1,0 +1,146 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Rebecca Scott Black",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Alexandra Vega Smith"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Gregory Campbell Perry Watkins"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Rebecca SWott Blck"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Leslie Colon Thompson Murphy"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Shelley Jackson Campbell"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Rebecca Andrew Black"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Rebecca Scott Black"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Rebecca Scott Black"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Rebecca Scott Black"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Rebecca Scott Black"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Albania",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Ghana"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Taiwan"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Uzbekistan"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Bermuda"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "French Guiana"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Palau"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Albania"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Albania"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Albania"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Albania"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 29,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 29
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

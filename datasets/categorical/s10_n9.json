@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Madagascar",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Iran"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Vanuatu"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Ukraine"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Ireland"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Russian Federation"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Turkmenistan"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "India"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Cameroon"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Grenada"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Madagascar"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

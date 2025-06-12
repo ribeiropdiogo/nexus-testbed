@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Northern Mariana Islands",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Ghana"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Mongolia"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "North Macedonia"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Saudi Arabia"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Northern Mariana Islands"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

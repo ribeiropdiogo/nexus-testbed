@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Carrie White Cox",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Anthony Coleman Rios Mckinney"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Kimberly Perez Long Reeves"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Carrie Whitj Aox"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Carie WhiTe Cox"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Carrie Douglas Cox"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Crrie White Co"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "arie White Cox"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Raymond Cruz Copeland"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Carrie White Cox"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Carrie White Cox"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Carrie White Cox"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Carrie White Cox"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Carrie White Cox"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Carrie White Cox"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Carrie White Cox"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Carrie White Cox"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Carrie White Cox"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Carrie White Cox"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Carrie White Cox"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Carrie White Cox"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

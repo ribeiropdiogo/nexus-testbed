@@ -1,0 +1,13 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "North Macedonia",
+            "truth": "North Macedonia",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 1
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Tammy Tara Beltran Allen",
+            "truth": "Tammy Fritz Beltran Allen",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.9239523809523809,
+                "sorensen-dice": 0.8571428571428571,
+                "damerau-levenshtein": 0.8
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Albania",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Malaysia"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Czech Republic"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Saint Martin"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Dominica"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Brunei Darussalam"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Western Sahara"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Albania"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Albania"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Albania"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Albania"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

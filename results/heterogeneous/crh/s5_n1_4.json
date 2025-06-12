@@ -1,0 +1,33 @@
+{
+    "algorithm": "CRH",
+    "results": [
+        {
+            "result": "Kevin Castillo Brooks Burton",
+            "truth": "Kevin Castillo Brooks Burton",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 1,
+                "sorensen-dice": 1,
+                "damerau-levenshtein": 1.0
+            }
+        },
+        {
+            "result": "Italy",
+            "truth": "Italy",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 1
+            }
+        },
+        {
+            "result": "nan",
+            "truth": "33",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": NaN,
+                "manhattan-distance": NaN,
+                "canberra-distance": NaN
+            }
+        }
+    ]
+}

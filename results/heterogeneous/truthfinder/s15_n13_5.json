@@ -1,0 +1,33 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Joel Elijah Palmer",
+            "truth": "Joel Martinez Palmer",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.8384126984126985,
+                "sorensen-dice": 0.7368421052631579,
+                "damerau-levenshtein": 0.65
+            }
+        },
+        {
+            "result": "Zimbabwe",
+            "truth": "Isle of Man",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 0
+            }
+        },
+        {
+            "result": "26.0",
+            "truth": "28",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.07142857142857142,
+                "manhattan-distance": 0.07142857142857142,
+                "canberra-distance": 0.03703703703017833
+            }
+        }
+    ]
+}

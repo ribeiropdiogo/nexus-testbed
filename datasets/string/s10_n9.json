@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Amber Marquez Navarro",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Amber Maaquez avarro"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Mark Marquez Navarro"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Amber Matquez avarro"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Amer Maiquez avarro"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Amber Jerry Navarro"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Tiffany Morris Clark"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Amber Maruez Navrro"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Dale Marquez Navarro"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Amber MJquez Navarro"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Amber Marquez Navarro"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

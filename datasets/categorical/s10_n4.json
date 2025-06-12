@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "United Kingdom",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Australia"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Uzbekistan"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Mali"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Macao"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "United Kingdom"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "United Kingdom"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "United Kingdom"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "United Kingdom"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "United Kingdom"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "United Kingdom"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

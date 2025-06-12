@@ -1,0 +1,21 @@
+{
+    "test": "s5_n3",
+    "rounds": 5,
+    "datatype": "heterogeneous",
+    "average similiarty": 0.9921718681978118,
+    "categorical": {
+        "average similarity": 1.0
+    },
+    "continuous": {
+        "average similarity": 0.9765156045934354,
+        "average euclidean similarity": 0.9718988185051118,
+        "average manhattan similarity": 0.9718988185051118,
+        "average canberra similarity": 0.985749176770083
+    },
+    "string": {
+        "average similarity": 1.0,
+        "average jaro-winkler similarity": 1.0,
+        "average sorensen-dice similarity": 1.0,
+        "average damerau-levenshtein similarity": 1.0
+    }
+}

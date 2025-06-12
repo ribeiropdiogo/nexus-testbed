@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Krist Rhristian Hall",
+            "truth": "Kristi Christian Hall",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.9393734335839599,
+                "sorensen-dice": 0.926829268292683,
+                "damerau-levenshtein": 0.9047619047619048
+            }
+        }
+    ]
+}

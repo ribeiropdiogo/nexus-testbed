@@ -1,0 +1,13 @@
+{
+    "algorithm": "Majority Voting",
+    "results": [
+        {
+            "result": "Saint Martin",
+            "truth": "Saint Martin",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 1
+            }
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Todd Hernandez Morales Vasquez",
+            "truth": "Latasha Marsh Nelson Warren",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.5628086419753086,
+                "sorensen-dice": 0.5964912280701754,
+                "damerau-levenshtein": 0.16666666666666663
+            }
+        },
+        {
+            "result": "El Salvador",
+            "truth": "El Salvador",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 1
+            }
+        },
+        {
+            "result": "33.0",
+            "truth": "33",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.0,
+                "manhattan-distance": 0.0,
+                "canberra-distance": 0.0
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Lesotho",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "South Georgia and the South Sandwich Islands"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Luxembourg"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Trinidad and Tobago"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Mauritius"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Estonia"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Czech Republic"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "New Zealand"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Chad"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Indonesia"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Lesotho"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Lesotho"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Lesotho"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Lesotho"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Lesotho"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Lesotho"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

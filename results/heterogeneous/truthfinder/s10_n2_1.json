@@ -1,0 +1,33 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Vicki Santana akeF Wol",
+            "truth": "Vicki Santana Baker Wolf",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.9659090909090909,
+                "sorensen-dice": 0.9130434782608695,
+                "damerau-levenshtein": 0.875
+            }
+        },
+        {
+            "result": "Hong Kong",
+            "truth": "Hong Kong",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 1
+            }
+        },
+        {
+            "result": "31.0",
+            "truth": "31",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.0,
+                "manhattan-distance": 0.0,
+                "canberra-distance": 0.0
+            }
+        }
+    ]
+}

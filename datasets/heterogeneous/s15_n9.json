@@ -1,0 +1,206 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Katherine Jimenez Johnson Zimmerman",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Lori Graves Walton"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Katherine imenez Johnson ZimmerDan"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "John Cummings Santiago"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "KatheQine Jimenez JoLnson Zimmrman"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Veronica Barton Martinez"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Katherine Jimenez Jenna Zimmerman"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Katherine Jimenez Shannon Zimmerman"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Ian Jimenez Johnson Zimmerman"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Katherine Jimenez Johnso ZimPerman"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Katherine Jimenez Johnson Zimmerman"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Katherine Jimenez Johnson Zimmerman"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Katherine Jimenez Johnson Zimmerman"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Katherine Jimenez Johnson Zimmerman"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Katherine Jimenez Johnson Zimmerman"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Katherine Jimenez Johnson Zimmerman"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Nepal",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Brunei Darussalam"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Spain"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Ethiopia"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Pakistan"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Somalia"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Nauru"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Equatorial Guinea"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Bahamas"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Benin"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Nepal"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Nepal"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Nepal"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Nepal"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Nepal"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Nepal"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 30,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 30
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

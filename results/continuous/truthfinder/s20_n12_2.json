@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "22.0",
+            "truth": "27",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.18518518518518517,
+                "manhattan-distance": 0.18518518518518517,
+                "canberra-distance": 0.10204081630570595
+            }
+        }
+    ]
+}

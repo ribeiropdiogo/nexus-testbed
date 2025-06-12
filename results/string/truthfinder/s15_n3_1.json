@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Jeffrey Brian Kim Bowman",
+            "truth": "Jeffrey Wilson Kim Bowman",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.9334761904761905,
+                "sorensen-dice": 0.8571428571428571,
+                "damerau-levenshtein": 0.8
+            }
+        }
+    ]
+}

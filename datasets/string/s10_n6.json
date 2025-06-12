@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Kristi Christian Hall",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Kristi Christian Deborah"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "KrstV Christiqn Hall"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Krist Rhristian Hall"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Sara Christian Hall"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Kimberly Young Moore"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "eristi Christia Hall"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Kristi Christian Hall"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Kristi Christian Hall"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Kristi Christian Hall"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Kristi Christian Hall"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

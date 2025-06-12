@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Deborah Johnson Reed Patel",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Debrah Johnson Reed Pate"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Deborah Tanya Reed Patel"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Stephanie Nelson Mccarty"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Jacob Sutton Shea Kidd"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Dejorah Johnson Reed Patl"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "DeborGh ohnson Reed Aatel"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Deborh Johnon Reed Patel"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Deborah Johnson Renee Patel"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "DrbrNh Johnson Reed Patel"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Deborah Johnson Reed Patel"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Deborah Johnson Reed Patel"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Deborah Johnson Reed Patel"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Deborah Johnson Reed Patel"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Deborah Johnson Reed Patel"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Deborah Johnson Reed Patel"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

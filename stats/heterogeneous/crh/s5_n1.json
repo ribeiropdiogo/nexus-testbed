@@ -1,0 +1,21 @@
+{
+    "test": "s5_n1",
+    "rounds": 5,
+    "datatype": "heterogeneous",
+    "average similiarty": NaN,
+    "categorical": {
+        "average similarity": 1.0
+    },
+    "continuous": {
+        "average similarity": NaN,
+        "average euclidean similarity": NaN,
+        "average manhattan similarity": NaN,
+        "average canberra similarity": NaN
+    },
+    "string": {
+        "average similarity": 1.0,
+        "average jaro-winkler similarity": 1.0,
+        "average sorensen-dice similarity": 1.0,
+        "average damerau-levenshtein similarity": 1.0
+    }
+}

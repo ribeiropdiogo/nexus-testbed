@@ -1,0 +1,206 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "John Sweeney Larson Thompson",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Timothy Kennedy White Thomas"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "John Sweeney Larsgn Thompscn"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Paul Francis Jones Duncan"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "John Sweeney Larson Thompson"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "John Sweeney Larson Thompson"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "John Sweeney Larson Thompson"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "John Sweeney Larson Thompson"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "John Sweeney Larson Thompson"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "John Sweeney Larson Thompson"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "John Sweeney Larson Thompson"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "John Sweeney Larson Thompson"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "John Sweeney Larson Thompson"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "John Sweeney Larson Thompson"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "John Sweeney Larson Thompson"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "John Sweeney Larson Thompson"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Cote d'Ivoire",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "San Marino"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Brunei Darussalam"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Uzbekistan"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Cote d'Ivoire"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Cote d'Ivoire"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Cote d'Ivoire"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Cote d'Ivoire"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Cote d'Ivoire"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Cote d'Ivoire"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Cote d'Ivoire"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Cote d'Ivoire"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Cote d'Ivoire"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Cote d'Ivoire"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Cote d'Ivoire"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Cote d'Ivoire"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 29,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 29
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

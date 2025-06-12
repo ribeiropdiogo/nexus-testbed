@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Jeffrey Wilson Kim Bowman",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Tiffany Williams Richards Barber"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Larry Carroll Hill Page"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Jeffrey Brian Kim Bowman"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Jeffrey Wilson Kim Bowman"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Jeffrey Wilson Kim Bowman"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Jeffrey Wilson Kim Bowman"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Jeffrey Wilson Kim Bowman"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Jeffrey Wilson Kim Bowman"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Jeffrey Wilson Kim Bowman"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Jeffrey Wilson Kim Bowman"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Jeffrey Wilson Kim Bowman"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Jeffrey Wilson Kim Bowman"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Jeffrey Wilson Kim Bowman"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Jeffrey Wilson Kim Bowman"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Jeffrey Wilson Kim Bowman"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

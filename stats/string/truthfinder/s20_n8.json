@@ -1,0 +1,11 @@
+{
+    "test": "s20_n8",
+    "rounds": 5,
+    "datatype": "string",
+    "string": {
+        "average similarity": 0.98,
+        "average jaro-winkler similarity": 0.99,
+        "average sorensen-dice similarity": 0.975,
+        "average damerau-levenshtein similarity": 0.975
+    }
+}

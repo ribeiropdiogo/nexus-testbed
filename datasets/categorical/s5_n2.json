@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Hong Kong",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Guernsey"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Northern Mariana Islands"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Hong Kong"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Hong Kong"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Hong Kong"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Andrew Gibson Blackwell Caldwell",
+            "truth": "Kevin Johnson Williams",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.4933712121212121,
+                "sorensen-dice": 0.4074074074074074,
+                "damerau-levenshtein": 0.21875
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "John Williams Warner Jenkins",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Alison Schroeder Vincent"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "John WHlliYms Warnfr Jenkins"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "John Williams Garner JeYuins"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Cheryl Roberts Sanchez"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "John Wlliams Warner JenkinF"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "John Williams Warner Jennifer"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Samuel Hamilton Turner Brown"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "John Williams Matthew Jenkins"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "John Donna Warner Jenkins"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "John Wlliams arner Jenkins"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "John Williams Warner Jnin"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "John WilliVms WBrntr Jenkins"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Michael Williams Warner Jenkins"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "John Williams Warner Jenkins"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "John Williams Warner Jenkins"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

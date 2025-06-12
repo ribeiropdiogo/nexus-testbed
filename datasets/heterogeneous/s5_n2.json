@@ -1,0 +1,86 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Michelle Avila Smith",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Michelle Avila Isabella"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Michvlle Avila Smit"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Michelle Avila Smith"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Michelle Avila Smith"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Michelle Avila Smith"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Iran",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Singapore"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Tonga"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Iran"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Iran"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Iran"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 35,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 35
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

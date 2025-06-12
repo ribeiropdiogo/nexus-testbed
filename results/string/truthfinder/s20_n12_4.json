@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Louis Fleming Key Collins",
+            "truth": "Chloe Fleming Key Collins",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.8139682539682539,
+                "sorensen-dice": 0.84,
+                "damerau-levenshtein": 0.8
+            }
+        }
+    ]
+}

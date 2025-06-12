@@ -1,0 +1,15 @@
+{
+    "algorithm": "CRH",
+    "results": [
+        {
+            "result": "25.951493250537318",
+            "truth": "26",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.0018656442101031483,
+                "manhattan-distance": 0.0018656442101031483,
+                "canberra-distance": 0.000933693074411162
+            }
+        }
+    ]
+}

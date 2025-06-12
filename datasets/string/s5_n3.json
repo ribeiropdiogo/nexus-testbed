@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Kevin Johnson Williams",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Kevin Johnson Betty"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Kevin Shawn Williams"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Andrew Gibson Blackwell Caldwell"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Kevin Johnson Williams"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Kevin Johnson Williams"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

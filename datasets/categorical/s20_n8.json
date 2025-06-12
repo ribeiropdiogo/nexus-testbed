@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "North Macedonia",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Belarus"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "El Salvador"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Marshall Islands"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Kyrgyz Republic"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Saint Lucia"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Spain"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Turks and Caicos Islands"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Pitcairn Islands"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "North Macedonia"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "North Macedonia"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "North Macedonia"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "North Macedonia"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "North Macedonia"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "North Macedonia"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "North Macedonia"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "North Macedonia"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "North Macedonia"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "North Macedonia"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "North Macedonia"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "North Macedonia"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

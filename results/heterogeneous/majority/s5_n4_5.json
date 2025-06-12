@@ -1,0 +1,33 @@
+{
+    "algorithm": "Majority Voting",
+    "results": [
+        {
+            "result": "Brad Ortiz Hubbard",
+            "truth": "Catherine Hernandez Hernandez Garcia",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.5662393162393162,
+                "sorensen-dice": 0.48148148148148145,
+                "damerau-levenshtein": 0.2222222222222222
+            }
+        },
+        {
+            "result": "Saint Kitts and Nevis",
+            "truth": "Croatia",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 0
+            }
+        },
+        {
+            "result": 23,
+            "truth": 26,
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.11538461538461539,
+                "manhattan-distance": 0.11538461538461539,
+                "canberra-distance": 0.06122448978342357
+            }
+        }
+    ]
+}

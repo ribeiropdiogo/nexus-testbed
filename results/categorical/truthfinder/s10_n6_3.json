@@ -1,0 +1,13 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Albania",
+            "truth": "Albania",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 1
+            }
+        }
+    ]
+}

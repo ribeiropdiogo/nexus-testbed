@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Kevin West Jones",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Jevin est Jones"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Lisa Shaw Cameron Quinn"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Kevin West Jones"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Kevin West Jones"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Kevin West Jones"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

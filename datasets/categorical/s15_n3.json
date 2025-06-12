@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "British Indian Ocean Territory (Chagos Archipelago)",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Norfolk Island"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Kenya"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Germany"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

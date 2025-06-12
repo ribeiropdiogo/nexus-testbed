@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Carrie Whitj Aox",
+            "truth": "Carrie White Cox",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.95,
+                "sorensen-dice": 0.875,
+                "damerau-levenshtein": 0.875
+            }
+        }
+    ]
+}

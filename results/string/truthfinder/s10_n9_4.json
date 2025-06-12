@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Dale Marquez Navarro",
+            "truth": "Amber Marquez Navarro",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.8669000933706815,
+                "sorensen-dice": 0.8292682926829268,
+                "damerau-levenshtein": 0.8095238095238095
+            }
+        }
+    ]
+}

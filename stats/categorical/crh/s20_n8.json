@@ -1,0 +1,8 @@
+{
+    "test": "s20_n8",
+    "rounds": 5,
+    "datatype": "categorical",
+    "categorical": {
+        "average similarity": 1.0
+    }
+}

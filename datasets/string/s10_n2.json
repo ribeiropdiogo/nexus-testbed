@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Anne Mitchell Brandt",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Anne Mitchell BQndt"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Christopher Stout Walker"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Anne Mitchell Brandt"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Anne Mitchell Brandt"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Anne Mitchell Brandt"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Anne Mitchell Brandt"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Anne Mitchell Brandt"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Anne Mitchell Brandt"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Anne Mitchell Brandt"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Anne Mitchell Brandt"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

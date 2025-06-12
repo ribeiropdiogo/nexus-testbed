@@ -1,0 +1,266 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Jessica Hamilton Trevino Wells",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Sharon Hamilton Trevino Wells"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Tracy Lozano Mcclain Stevens"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Jessica Hamilton Rebecca Wells"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Jessica amiaton Trevino Wells"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Jessica Joshua Trevino Wells"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Robert Clark Lewis"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Jessuca Hamilto Trevino Wells"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Jessica Dennis Trevino Wells"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Jessica Hamilton Trevino Wells"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Jessica Hamilton Trevino Wells"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Jessica Hamilton Trevino Wells"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Jessica Hamilton Trevino Wells"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Jessica Hamilton Trevino Wells"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Jessica Hamilton Trevino Wells"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Jessica Hamilton Trevino Wells"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Jessica Hamilton Trevino Wells"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Jessica Hamilton Trevino Wells"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Jessica Hamilton Trevino Wells"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Jessica Hamilton Trevino Wells"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Jessica Hamilton Trevino Wells"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Dominica",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Serbia"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Ireland"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Puerto Rico"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Antigua and Barbuda"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Somalia"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Jamaica"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "French Polynesia"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Burundi"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Dominica"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Dominica"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Dominica"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Dominica"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Dominica"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Dominica"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Dominica"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Dominica"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Dominica"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Dominica"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Dominica"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Dominica"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 25,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 20
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": 25
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

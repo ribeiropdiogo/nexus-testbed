@@ -1,0 +1,206 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Joel Martinez Palmer",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Robert Martinez Palmer"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Gregory Rodriguez Parks"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Joel Martiez almVr"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Jennifer Martinez Palmer"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Joel Martinez Benjamin"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Daniel Martinez Palmer"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Joel Jaime Palmer"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Nicole White Johnson"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Shelley Ellison Cruz Salazar"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Joel Martinez Jerry"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Joel Martinev almer"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Joel Elijah Palmer"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Joel Martiez PElmer"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Joel Martinez Palmer"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Joel Martinez Palmer"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Isle of Man",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Saint Vincent and the Grenadines"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Chile"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Zimbabwe"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Paraguay"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Heard Island and McDonald Islands"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Paraguay"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Philippines"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Haiti"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Faroe Islands"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Congo"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "France"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Belgium"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Liechtenstein"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Isle of Man"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Isle of Man"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 28,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 24
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 28
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

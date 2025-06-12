@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Kiribati",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Isle of Man"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Germany"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Lao People's Democratic Republic"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Argentina"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "San Marino"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Slovenia"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "French Southern Territories"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Russian Federation"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Niue"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Botswana"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Holy See (Vatican City State)"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Bosnia and Herzegovina"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Kiribati"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Kiribati"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Kiribati"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Kiribati"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Kiribati"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Kiribati"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Kiribati"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Kiribati"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

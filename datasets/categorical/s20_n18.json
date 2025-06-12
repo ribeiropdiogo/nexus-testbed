@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Kazakhstan",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "China"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Belize"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Wallis and Futuna"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Burkina Faso"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "South Georgia and the South Sandwich Islands"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Afghanistan"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Latvia"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Afghanistan"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Colombia"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Cyprus"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Equatorial Guinea"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Libyan Arab Jamahiriya"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Jordan"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Kuwait"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Iran"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Saint Pierre and Miquelon"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Ethiopia"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Kazakhstan"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Kazakhstan"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

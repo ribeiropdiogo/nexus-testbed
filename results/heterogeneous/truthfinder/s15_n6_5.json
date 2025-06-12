@@ -1,0 +1,33 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Latasha Marsh Nelson Warren",
+            "truth": "Latasha Marsh Nelson Warren",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 1,
+                "sorensen-dice": 1,
+                "damerau-levenshtein": 1.0
+            }
+        },
+        {
+            "result": "Slovenia",
+            "truth": "El Salvador",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 0
+            }
+        },
+        {
+            "result": "30.0",
+            "truth": "33",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.09090909090909091,
+                "manhattan-distance": 0.09090909090909091,
+                "canberra-distance": 0.04761904761148904
+            }
+        }
+    ]
+}

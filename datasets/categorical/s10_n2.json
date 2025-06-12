@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Brunei Darussalam",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Belgium"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "North Macedonia"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Brunei Darussalam"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Brunei Darussalam"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Brunei Darussalam"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Brunei Darussalam"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Brunei Darussalam"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Brunei Darussalam"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Brunei Darussalam"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Brunei Darussalam"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

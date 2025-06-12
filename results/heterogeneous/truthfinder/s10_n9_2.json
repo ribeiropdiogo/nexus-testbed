@@ -1,0 +1,33 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Robin hize Mill",
+            "truth": "Robin White Mills",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.9513725490196078,
+                "sorensen-dice": 0.875,
+                "damerau-levenshtein": 0.8235294117647058
+            }
+        },
+        {
+            "result": "Samoa",
+            "truth": "Bahamas",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 0
+            }
+        },
+        {
+            "result": "35.0",
+            "truth": "32",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.08571428571428572,
+                "manhattan-distance": 0.08571428571428572,
+                "canberra-distance": 0.04477611939630208
+            }
+        }
+    ]
+}

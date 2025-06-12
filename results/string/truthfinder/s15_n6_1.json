@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Kirk Perez Myers Warren",
+            "truth": "Ryan Smith Cole",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.3135265700483092,
+                "sorensen-dice": 0.3684210526315789,
+                "damerau-levenshtein": 0.13043478260869568
+            }
+        }
+    ]
+}

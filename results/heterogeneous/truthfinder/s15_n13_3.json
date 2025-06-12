@@ -1,0 +1,33 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Robert Martinez Palmer",
+            "truth": "Joel Martinez Palmer",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.757912457912458,
+                "sorensen-dice": 0.8571428571428571,
+                "damerau-levenshtein": 0.8181818181818181
+            }
+        },
+        {
+            "result": "Faroe Islands",
+            "truth": "Isle of Man",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 0
+            }
+        },
+        {
+            "result": "25.0",
+            "truth": "28",
+            "datatype": "continuous",
+            "metrics": {
+                "euclidean-distance": 0.10714285714285714,
+                "manhattan-distance": 0.10714285714285714,
+                "canberra-distance": 0.056603773574225705
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Kevin Smith Ray Stewart",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Kevin mith Ray Sewar"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Kevin Smith Ray Stewart"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Kevin Smith Ray Stewart"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Kevin Smith Ray Stewart"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Kevin Smith Ray Stewart"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Tammy Fritz Beltran Allen",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "ammy Fritz BeltLan Allen"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Tammy Fritz BNltran Alen"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Tammy Fritz Sean Allen"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Tammy FrNz Beltran Alden"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Tammy Daniel Beltran Allen"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Andrew Daniels Davis"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Tammy Fritz Beltan llen"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Tdmmy PFitz Beltran Allen"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Olivia Pruitt Frank Martinez"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Amanda Lee Palmer Myers"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Tammy Fritz BWran Allen"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Patricia James Moore Mccoy"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Tammy Fritz Beltran Frank"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Tammy Fritz Joseph Allen"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Robert Aguilar Ruiz Skinner"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Susan Mclaughlin Noble Mcfarland"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Jocelyn Fritz Beltran Allen"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Tammy Tara Beltran Allen"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Tammy Fritz Beltran Allen"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Tammy Fritz Beltran Allen"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

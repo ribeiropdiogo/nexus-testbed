@@ -1,0 +1,266 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Kristin Mendoza Duncan Hernandez",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Kristin Medoza Duncan Herandez"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "KriCtin Mendoa Dncan Hernandez"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Kristin Mendoza Duncan Brian"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Diana Mendoza Duncan Hernandez"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Lisa Mendoza Duncan Hernandez"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Daisy Cannon Cordova"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Kristmn MenRoza Dunca Hernandez"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "KrGstin Mendoza Duncan HernaCdez"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Kristin Mendoza Duncan HerCbndez"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Lauren Jarvis Smith Fisher"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Kristin Mendoza Duncan James"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "ristin MendHza DunFan Hernandez"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Kristin Mendoza Duncan Hernandez"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Kristin Mendoza Duncan Hernandez"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Kristin Mendoza Duncan Hernandez"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Kristin Mendoza Duncan Hernandez"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Kristin Mendoza Duncan Hernandez"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Kristin Mendoza Duncan Hernandez"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Kristin Mendoza Duncan Hernandez"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Kristin Mendoza Duncan Hernandez"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Estonia",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Gabon"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Grenada"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Kyrgyz Republic"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Micronesia"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Maldives"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Monaco"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Cape Verde"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Haiti"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Uganda"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Yemen"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Heard Island and McDonald Islands"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Nepal"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Estonia"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Estonia"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Estonia"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Estonia"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Estonia"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Estonia"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Estonia"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Estonia"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 33,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 36
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 38
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 36
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 36
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 38
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": 33
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

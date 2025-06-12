@@ -1,0 +1,146 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Robin White Mills",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Robin Lindsay Mills"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Robin WhitH Mis"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Tamara Obrien Morgan Thomas"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Ashley Davis Miller"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Megan White Mills"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Robin hize Mill"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Michael Miller Hurley Grimes"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Mark Clark Cochran Mathews"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Robin uhitL Mills"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Robin White Mills"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Bahamas",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Samoa"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Christmas Island"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Bahrain"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Palau"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Slovakia (Slovak Republic)"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Australia"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Indonesia"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Romania"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Rwanda"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Bahamas"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 32,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 36
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 32
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

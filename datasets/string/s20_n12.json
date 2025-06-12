@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Chloe Fleming Key Collins",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Chloe Flaming KIy Collins"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Chloe FlemiAg KeH Collins"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Chloe Flming Key Colins"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Chloe Fleming Antonio Collins"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "ChlLe Fleming Key Collips"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Cloe Fleing Key Colins"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Louis Fleming Key Collins"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Christopher Peters Phillips White"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "April Jordan Atkins"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Michael May Santos Gill"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Chloe Flcing Key ollins"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Chloe Flming Key CUllns"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Chloe Fleming Key Collins"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Chloe Fleming Key Collins"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Chloe Fleming Key Collins"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Chloe Fleming Key Collins"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Chloe Fleming Key Collins"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Chloe Fleming Key Collins"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Chloe Fleming Key Collins"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Chloe Fleming Key Collins"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

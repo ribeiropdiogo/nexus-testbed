@@ -1,0 +1,13 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "Brunei Darussalam",
+            "truth": "Albania",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "algorithm": "TruthFinder",
+    "results": [
+        {
+            "result": "John Wlliams Warner JenkinF",
+            "truth": "John Williams Warner Jenkins",
+            "datatype": "string",
+            "metrics": {
+                "jaro-winkler": 0.9706145706145707,
+                "sorensen-dice": 0.9454545454545454,
+                "damerau-levenshtein": 0.9285714285714286
+            }
+        }
+    ]
+}

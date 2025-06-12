@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Saint Martin",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Honduras"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Iraq"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Austria"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "South Georgia and the South Sandwich Islands"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "United Kingdom"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Cote d'Ivoire"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Saint Martin"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Saint Martin"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Saint Martin"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Saint Martin"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Saint Martin"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Saint Martin"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Saint Martin"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Saint Martin"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Saint Martin"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

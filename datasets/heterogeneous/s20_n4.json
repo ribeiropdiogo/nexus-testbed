@@ -1,0 +1,266 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Andrew Rodgers Larson",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Andrew Rodgers Amanda"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Andrew RodgerQ Larlon"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Jacob Miller Smith Lozano"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Andrew Roder Lason"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Andrew Rodgers Larson"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Andrew Rodgers Larson"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Andrew Rodgers Larson"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Andrew Rodgers Larson"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Andrew Rodgers Larson"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Andrew Rodgers Larson"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Andrew Rodgers Larson"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Andrew Rodgers Larson"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Andrew Rodgers Larson"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Andrew Rodgers Larson"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Andrew Rodgers Larson"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Andrew Rodgers Larson"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Andrew Rodgers Larson"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Andrew Rodgers Larson"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Andrew Rodgers Larson"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Andrew Rodgers Larson"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Swaziland",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "United States Minor Outlying Islands"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Iraq"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Niue"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Austria"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Swaziland"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Swaziland"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Swaziland"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Swaziland"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Swaziland"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Swaziland"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Swaziland"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Swaziland"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Swaziland"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Swaziland"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Swaziland"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Swaziland"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Swaziland"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Swaziland"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Swaziland"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Swaziland"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 29,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 24
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": 29
+                }
+            ]
+        }
+    ],
+    "sources": []
+}
