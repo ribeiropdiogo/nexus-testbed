@@ -3,27 +3,27 @@
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 29,
+            "truth": 27,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 25
+                    "fact": 23
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 29
+                    "fact": 27
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 29
+                    "fact": 27
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 29
+                    "fact": 27
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 29
+                    "fact": 27
                 }
             ]
         }

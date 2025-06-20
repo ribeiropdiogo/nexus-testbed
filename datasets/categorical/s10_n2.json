@@ -3,47 +3,47 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Zimbabwe",
+            "truth": "Andorra",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Niger"
+                    "fact": "Faroe Islands"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Fiji"
+                    "fact": "Bahamas"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Zimbabwe"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Zimbabwe"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Zimbabwe"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Zimbabwe"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Zimbabwe"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Zimbabwe"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Zimbabwe"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Zimbabwe"
+                    "fact": "Andorra"
                 }
             ]
         }

@@ -1,69 +1,89 @@
 {
     "objects": [
         {
-            "name": "name",
-            "datatype": "string",
-            "truth": "Danny West Bennett",
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 26,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "DanLy Weet Bennett"
+                    "fact": 30
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Leslie Castro Thomas Levine"
+                    "fact": 29
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Danny Joseph Bennett"
+                    "fact": 27
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Dann Wesq Bennett"
+                    "fact": 30
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Elizabeth West Bennett"
+                    "fact": 24
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "John Miller Morris Hall"
+                    "fact": 22
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Timothy West Bennett"
+                    "fact": 25
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Anna Holmes Medina"
+                    "fact": 22
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Danny Candace Bennett"
+                    "fact": 27
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Danny Julie Bennett"
+                    "fact": 23
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Melissa Miller Nelson"
+                    "fact": 24
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Danny Luis Bennett"
+                    "fact": 24
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Danny Wpt Bennett"
+                    "fact": 23
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Danny West Bennett"
+                    "fact": 27
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Danny West Bennett"
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": 23
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": 26
                 }
             ]
         }

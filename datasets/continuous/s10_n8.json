@@ -3,67 +3,47 @@
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 35,
+            "truth": 25,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 31
+                    "fact": 27
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 39
+                    "fact": 28
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 39
+                    "fact": 29
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 40
+                    "fact": 24
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 31
+                    "fact": 29
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 30
+                    "fact": 20
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 31
+                    "fact": 21
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 40
+                    "fact": 23
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 34
+                    "fact": 25
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 36
-                },
-                {
-                    "sourceId": "source11",
-                    "fact": 38
-                },
-                {
-                    "sourceId": "source12",
-                    "fact": 34
-                },
-                {
-                    "sourceId": "source13",
-                    "fact": 36
-                },
-                {
-                    "sourceId": "source14",
-                    "fact": 35
-                },
-                {
-                    "sourceId": "source15",
-                    "fact": 35
+                    "fact": 25
                 }
             ]
         }

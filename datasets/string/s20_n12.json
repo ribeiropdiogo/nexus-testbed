@@ -3,87 +3,87 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Steven Davis Berger Choi",
+            "truth": "Gerald Huber Watson",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Steven Davis Caitlyn Choi"
+                    "fact": "Michael Stevenson Contreras"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Stvvn Davis Berger Choi"
+                    "fact": "Scott Roberson Hughes"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Steve Davbs Berger Cgoi"
+                    "fact": "Joshua Osborn Garcia"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Steven Davis Jerry Choi"
+                    "fact": "Gerald Huber Stacy"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Jodi Harris Kelly Dalton"
+                    "fact": "Steven Holland Torres Hoover"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Stenen Davis Berger Hoi"
+                    "fact": "Gerald Hubr WatEDn"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Amber Olsen Price Hughes"
+                    "fact": "Gerald Huber Sandra"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Steven Benjamin Berger Choi"
+                    "fact": "Gerald Franklin Watson"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Austin Evans Sawyer"
+                    "fact": "Gerald Hubir WatUon"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Steven Kenneth Berger Choi"
+                    "fact": "Cassandra Collins Nelson"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Daniel Davis Berger Choi"
+                    "fact": "Gerald Huber Laura"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Steven Davis Berger Julie"
+                    "fact": "Brandon Williams Cunningham Wheeler"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Steven Davis Berger Choi"
+                    "fact": "Gerald Huber Watson"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Steven Davis Berger Choi"
+                    "fact": "Gerald Huber Watson"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Steven Davis Berger Choi"
+                    "fact": "Gerald Huber Watson"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Steven Davis Berger Choi"
+                    "fact": "Gerald Huber Watson"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Steven Davis Berger Choi"
+                    "fact": "Gerald Huber Watson"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Steven Davis Berger Choi"
+                    "fact": "Gerald Huber Watson"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Steven Davis Berger Choi"
+                    "fact": "Gerald Huber Watson"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Steven Davis Berger Choi"
+                    "fact": "Gerald Huber Watson"
                 }
             ]
         }

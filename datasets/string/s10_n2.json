@@ -3,47 +3,47 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "William Little Allen",
+            "truth": "Angela Henderson Bowen",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Lance Zimmerman Gilbert"
+                    "fact": "Anlela enderson owen"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "William Litdle AQlen"
+                    "fact": "Angela Hendersn Bwqn"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "William Little Allen"
+                    "fact": "Angela Henderson Bowen"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "William Little Allen"
+                    "fact": "Angela Henderson Bowen"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "William Little Allen"
+                    "fact": "Angela Henderson Bowen"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "William Little Allen"
+                    "fact": "Angela Henderson Bowen"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "William Little Allen"
+                    "fact": "Angela Henderson Bowen"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "William Little Allen"
+                    "fact": "Angela Henderson Bowen"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "William Little Allen"
+                    "fact": "Angela Henderson Bowen"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "William Little Allen"
+                    "fact": "Angela Henderson Bowen"
                 }
             ]
         }

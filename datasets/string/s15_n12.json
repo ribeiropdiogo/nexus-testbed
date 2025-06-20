@@ -1,69 +1,69 @@
 {
     "objects": [
         {
-            "name": "nationality",
-            "datatype": "categorical",
-            "truth": "French Polynesia",
+            "name": "name",
+            "datatype": "string",
+            "truth": "Savannah Bell Johnson",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Hungary"
+                    "fact": "xavannah Betl Johnsn"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Oman"
+                    "fact": "Erika Washington Wagner"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Serbia"
+                    "fact": "Savannah Bell Travis"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Mayotte"
+                    "fact": "SJvannah Bell JohnUon"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Lesotho"
+                    "fact": "Savannwh Mll Johnson"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Kiribati"
+                    "fact": "Daniel Ayala Jenkins Ball"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Iran"
+                    "fact": "Savannah Bell Jonsn"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "India"
+                    "fact": "Gabriel Williams Saunders"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Marshall Islands"
+                    "fact": "Savannah Bell Laura"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Congo"
+                    "fact": "Brandon Phillips Cabrera Maldonado"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Sao Tome and Principe"
+                    "fact": "Savannah Bell JhnsoD"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Denmark"
+                    "fact": "Savannah Holly Johnson"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Albania"
+                    "fact": "Savannah Bell Johnson"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "French Polynesia"
+                    "fact": "Savannah Bell Johnson"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "French Polynesia"
+                    "fact": "Savannah Bell Johnson"
                 }
             ]
         }

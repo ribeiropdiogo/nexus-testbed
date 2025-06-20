@@ -3,174 +3,174 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Mike Richards Harris Ward",
+            "truth": "Regina Hill Newman",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Stephanie Richards Harris Ward"
+                    "fact": "Tegina Hll Newman"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Mike Rijhardm Harris Ward"
+                    "fact": "RyginX Hill NewmaK"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Mike Richards Thomas Ward"
+                    "fact": "Andrea Hill Newman"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Mike Rihards HarOis Ward"
+                    "fact": "Regn Hill Nnwman"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Karen Whitehead Anderson Patrick"
+                    "fact": "Emily Hill Newman"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Mike Richards Richard Ward"
+                    "fact": "Regina Joseph Newman"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Kenneth Garcia Johnson Gonzales"
+                    "fact": "Bonnie Carter Johnson"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Mike Richads Harris Wrd"
+                    "fact": "Patricia Mcbride Lee"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "James Harrington Gonzales Russell"
+                    "fact": "RegGna Hill NeKman"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Candice Ball Yang"
+                    "fact": "Regina Katie Newman"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Sydney Richards Harris Ward"
+                    "fact": "Regrja Hill Newman"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Mke Richards HarriK Ward"
+                    "fact": "Kristen Hill Newman"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Mike Richards Harris Ward"
+                    "fact": "Regina Hill Newman"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Mike Richards Harris Ward"
+                    "fact": "Regina Hill Newman"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Mike Richards Harris Ward"
+                    "fact": "Regina Hill Newman"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Mike Richards Harris Ward"
+                    "fact": "Regina Hill Newman"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Mike Richards Harris Ward"
+                    "fact": "Regina Hill Newman"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Mike Richards Harris Ward"
+                    "fact": "Regina Hill Newman"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Mike Richards Harris Ward"
+                    "fact": "Regina Hill Newman"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Mike Richards Harris Ward"
+                    "fact": "Regina Hill Newman"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Malaysia",
+            "truth": "Morocco",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Tuvalu"
+                    "fact": "Suriname"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Mali"
-                },
-                {
-                    "sourceId": "source3",
-                    "fact": "Guatemala"
-                },
-                {
-                    "sourceId": "source4",
-                    "fact": "Colombia"
-                },
-                {
-                    "sourceId": "source5",
-                    "fact": "Lao People's Democratic Republic"
-                },
-                {
-                    "sourceId": "source6",
-                    "fact": "Israel"
-                },
-                {
-                    "sourceId": "source7",
-                    "fact": "Mali"
-                },
-                {
-                    "sourceId": "source8",
-                    "fact": "Mexico"
-                },
-                {
-                    "sourceId": "source9",
-                    "fact": "North Macedonia"
-                },
-                {
-                    "sourceId": "source10",
-                    "fact": "Wallis and Futuna"
-                },
-                {
-                    "sourceId": "source11",
                     "fact": "South Africa"
                 },
                 {
-                    "sourceId": "source12",
+                    "sourceId": "source3",
+                    "fact": "Uzbekistan"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Saint Pierre and Miquelon"
+                },
+                {
+                    "sourceId": "source5",
                     "fact": "Czech Republic"
                 },
                 {
+                    "sourceId": "source6",
+                    "fact": "Indonesia"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "South Africa"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Georgia"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Algeria"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Libyan Arab Jamahiriya"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Equatorial Guinea"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Sudan"
+                },
+                {
                     "sourceId": "source13",
-                    "fact": "Malaysia"
+                    "fact": "Morocco"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Malaysia"
+                    "fact": "Morocco"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Malaysia"
+                    "fact": "Morocco"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Malaysia"
+                    "fact": "Morocco"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Malaysia"
+                    "fact": "Morocco"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Malaysia"
+                    "fact": "Morocco"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Malaysia"
+                    "fact": "Morocco"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Malaysia"
+                    "fact": "Morocco"
                 }
             ]
         },
@@ -181,51 +181,51 @@
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 34
-                },
-                {
-                    "sourceId": "source2",
-                    "fact": 29
-                },
-                {
-                    "sourceId": "source3",
-                    "fact": 34
-                },
-                {
-                    "sourceId": "source4",
-                    "fact": 34
-                },
-                {
-                    "sourceId": "source5",
-                    "fact": 33
-                },
-                {
-                    "sourceId": "source6",
-                    "fact": 30
-                },
-                {
-                    "sourceId": "source7",
-                    "fact": 30
-                },
-                {
-                    "sourceId": "source8",
-                    "fact": 29
-                },
-                {
-                    "sourceId": "source9",
-                    "fact": 36
-                },
-                {
-                    "sourceId": "source10",
                     "fact": 31
                 },
                 {
+                    "sourceId": "source2",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 36
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 27
+                },
+                {
                     "sourceId": "source11",
-                    "fact": 30
+                    "fact": 37
                 },
                 {
                     "sourceId": "source12",
-                    "fact": 29
+                    "fact": 34
                 },
                 {
                     "sourceId": "source13",

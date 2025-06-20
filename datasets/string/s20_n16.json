@@ -1,89 +1,89 @@
 {
     "objects": [
         {
-            "name": "nationality",
-            "datatype": "categorical",
-            "truth": "Romania",
+            "name": "name",
+            "datatype": "string",
+            "truth": "Kathryn Thompson Garcia",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Malaysia"
+                    "fact": "Katyryn Thomson Qarcia"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Slovenia"
+                    "fact": "Kataryn Thompon Garia"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Georgia"
+                    "fact": "Kathryn ThomsoP Garcia"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Falkland Islands (Malvinas)"
+                    "fact": "Richard Thompson Garcia"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Tuvalu"
+                    "fact": "Kahryn Thompson Garci"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Taiwan"
+                    "fact": "Kathryn Timothy Garcia"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Liechtenstein"
+                    "fact": "David Wilson Thomas"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Russian Federation"
+                    "fact": "Kathryn Cindy Garcia"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Cayman Islands"
+                    "fact": "Kathryn Thompson John"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "India"
+                    "fact": "Kimberly Thompson Garcia"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Namibia"
+                    "fact": "Michael Smith Walters"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Burundi"
+                    "fact": "Kathryn Thompson Gaia"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Pakistan"
+                    "fact": "Christopher Cherry Harrington Murray"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Israel"
+                    "fact": "Kathryn Thompson Frank"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Bhutan"
+                    "fact": "Steven Schwartz Chandler Duncan"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Honduras"
+                    "fact": "Ralph Rodriguez Walker"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Ghana"
+                    "fact": "Kathryn Thompson Garcia"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Antarctica (the territory South of 60 deg S)"
+                    "fact": "Kathryn Thompson Garcia"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Romania"
+                    "fact": "Kathryn Thompson Garcia"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Romania"
+                    "fact": "Kathryn Thompson Garcia"
                 }
             ]
         }

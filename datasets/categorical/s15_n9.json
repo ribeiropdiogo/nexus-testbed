@@ -3,67 +3,67 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "South Africa",
+            "truth": "Turkey",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Montenegro"
+                    "fact": "Bosnia and Herzegovina"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Armenia"
+                    "fact": "Egypt"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Slovakia (Slovak Republic)"
+                    "fact": "Saint Pierre and Miquelon"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Spain"
+                    "fact": "Algeria"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Guinea"
+                    "fact": "Burundi"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Singapore"
+                    "fact": "Oman"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Lao People's Democratic Republic"
+                    "fact": "Liechtenstein"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Armenia"
-                },
-                {
-                    "sourceId": "source9",
                     "fact": "Tokelau"
                 },
                 {
+                    "sourceId": "source9",
+                    "fact": "Ukraine"
+                },
+                {
                     "sourceId": "source10",
-                    "fact": "South Africa"
+                    "fact": "Turkey"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "South Africa"
+                    "fact": "Turkey"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "South Africa"
+                    "fact": "Turkey"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "South Africa"
+                    "fact": "Turkey"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "South Africa"
+                    "fact": "Turkey"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "South Africa"
+                    "fact": "Turkey"
                 }
             ]
         }

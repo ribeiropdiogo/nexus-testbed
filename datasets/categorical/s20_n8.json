@@ -3,87 +3,87 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Angola",
+            "truth": "Algeria",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Djibouti"
+                    "fact": "Sweden"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Denmark"
+                    "fact": "Iran"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "French Southern Territories"
+                    "fact": "Dominican Republic"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Bhutan"
+                    "fact": "Costa Rica"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Korea"
+                    "fact": "Cocos (Keeling) Islands"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "India"
+                    "fact": "Jersey"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Mongolia"
+                    "fact": "Israel"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Tanzania"
+                    "fact": "Canada"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Angola"
+                    "fact": "Algeria"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Angola"
+                    "fact": "Algeria"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Angola"
+                    "fact": "Algeria"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Angola"
+                    "fact": "Algeria"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Angola"
+                    "fact": "Algeria"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Angola"
+                    "fact": "Algeria"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Angola"
+                    "fact": "Algeria"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Angola"
+                    "fact": "Algeria"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Angola"
+                    "fact": "Algeria"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Angola"
+                    "fact": "Algeria"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Angola"
+                    "fact": "Algeria"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Angola"
+                    "fact": "Algeria"
                 }
             ]
         }

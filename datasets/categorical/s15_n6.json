@@ -3,67 +3,67 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Palau",
+            "truth": "Malta",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Hong Kong"
+                    "fact": "Saint Pierre and Miquelon"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Holy See (Vatican City State)"
+                    "fact": "Belarus"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Vanuatu"
+                    "fact": "Guyana"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Syrian Arab Republic"
+                    "fact": "United Kingdom"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Bangladesh"
+                    "fact": "Mali"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Liberia"
+                    "fact": "Niue"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Palau"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Palau"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Palau"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Palau"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Palau"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Palau"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Palau"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Palau"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Palau"
+                    "fact": "Malta"
                 }
             ]
         }

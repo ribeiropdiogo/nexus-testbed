@@ -3,261 +3,261 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Matthew Good Knapp",
+            "truth": "Alexis Smith Dean Cox",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Michael Good Knapp"
+                    "fact": "Alexis Smith DePn Cx"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Matthew ood napp"
+                    "fact": "Jennifer Smith Dean Cox"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "atthew oood Knapp"
+                    "fact": "Sandra Holmes Hutchinson Leonard"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Matthew Andre Knapp"
+                    "fact": "Scott Sanchez Finley Hoover"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Matthew Good Knapp"
+                    "fact": "Alexis Smith Dean Cox"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Matthew Good Knapp"
+                    "fact": "Alexis Smith Dean Cox"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Matthew Good Knapp"
+                    "fact": "Alexis Smith Dean Cox"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Matthew Good Knapp"
+                    "fact": "Alexis Smith Dean Cox"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Matthew Good Knapp"
+                    "fact": "Alexis Smith Dean Cox"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Matthew Good Knapp"
+                    "fact": "Alexis Smith Dean Cox"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Matthew Good Knapp"
+                    "fact": "Alexis Smith Dean Cox"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Matthew Good Knapp"
+                    "fact": "Alexis Smith Dean Cox"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Matthew Good Knapp"
+                    "fact": "Alexis Smith Dean Cox"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Matthew Good Knapp"
+                    "fact": "Alexis Smith Dean Cox"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Matthew Good Knapp"
+                    "fact": "Alexis Smith Dean Cox"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Matthew Good Knapp"
+                    "fact": "Alexis Smith Dean Cox"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Matthew Good Knapp"
+                    "fact": "Alexis Smith Dean Cox"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Matthew Good Knapp"
+                    "fact": "Alexis Smith Dean Cox"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Matthew Good Knapp"
+                    "fact": "Alexis Smith Dean Cox"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Matthew Good Knapp"
+                    "fact": "Alexis Smith Dean Cox"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Cocos (Keeling) Islands",
+            "truth": "Russian Federation",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Czech Republic"
+                    "fact": "Samoa"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Saint Vincent and the Grenadines"
+                    "fact": "Gabon"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Romania"
+                    "fact": "Kyrgyz Republic"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Western Sahara"
+                    "fact": "Bhutan"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Russian Federation"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 25,
+            "truth": 29,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 23
+                    "fact": 27
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 28
+                    "fact": 24
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 20
+                    "fact": 31
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 21
+                    "fact": 30
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source11",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source12",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source13",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source14",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source15",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source16",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source17",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source18",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source19",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source20",
-                    "fact": 25
+                    "fact": 29
                 }
             ]
         }

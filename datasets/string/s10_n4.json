@@ -3,47 +3,47 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Jonathan Smith Hester",
+            "truth": "Steven Fleming Vincent Nelson",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Znathan Smith Hestbr"
+                    "fact": "Steven Fleming Vincent Tyler"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Eric Smith Hester"
+                    "fact": "Stven Flemng Vincent Nelon"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Jonathan Smith Hter"
+                    "fact": "Stevn Fleming Vncent Nelsog"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Tammy Smith Hester"
+                    "fact": "Steven Flemin VWncent Nelson"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Jonathan Smith Hester"
+                    "fact": "Steven Fleming Vincent Nelson"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Jonathan Smith Hester"
+                    "fact": "Steven Fleming Vincent Nelson"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Jonathan Smith Hester"
+                    "fact": "Steven Fleming Vincent Nelson"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Jonathan Smith Hester"
+                    "fact": "Steven Fleming Vincent Nelson"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Jonathan Smith Hester"
+                    "fact": "Steven Fleming Vincent Nelson"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Jonathan Smith Hester"
+                    "fact": "Steven Fleming Vincent Nelson"
                 }
             ]
         }

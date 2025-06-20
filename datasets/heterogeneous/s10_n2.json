@@ -3,141 +3,141 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Peter Cooke Wong",
+            "truth": "Erin Flynn Dixon Shannon",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Jennifer Cooke Wong"
+                    "fact": "Erin Flynn George Shannon"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Brandon Peterson Miller Miller"
+                    "fact": "Scott Buchanan Williams"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Peter Cooke Wong"
+                    "fact": "Erin Flynn Dixon Shannon"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Peter Cooke Wong"
+                    "fact": "Erin Flynn Dixon Shannon"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Peter Cooke Wong"
+                    "fact": "Erin Flynn Dixon Shannon"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Peter Cooke Wong"
+                    "fact": "Erin Flynn Dixon Shannon"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Peter Cooke Wong"
+                    "fact": "Erin Flynn Dixon Shannon"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Peter Cooke Wong"
+                    "fact": "Erin Flynn Dixon Shannon"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Peter Cooke Wong"
+                    "fact": "Erin Flynn Dixon Shannon"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Peter Cooke Wong"
+                    "fact": "Erin Flynn Dixon Shannon"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "New Zealand",
+            "truth": "Malta",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Turkmenistan"
+                    "fact": "Papua New Guinea"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Norway"
+                    "fact": "Saint Helena"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "New Zealand"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "New Zealand"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "New Zealand"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "New Zealand"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "New Zealand"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "New Zealand"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "New Zealand"
+                    "fact": "Malta"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "New Zealand"
+                    "fact": "Malta"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 28,
+            "truth": 33,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 32
+                    "fact": 31
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 29
+                    "fact": 31
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 28
+                    "fact": 33
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 28
+                    "fact": 33
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 28
+                    "fact": 33
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 28
+                    "fact": 33
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 28
+                    "fact": 33
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 28
+                    "fact": 33
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 28
+                    "fact": 33
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 28
+                    "fact": 33
                 }
             ]
         }

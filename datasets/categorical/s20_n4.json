@@ -3,87 +3,87 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Anguilla",
+            "truth": "Chad",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Maldives"
+                    "fact": "Norfolk Island"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Timor-Leste"
+                    "fact": "Saint Vincent and the Grenadines"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Hungary"
+                    "fact": "Seychelles"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Svalbard & Jan Mayen Islands"
+                    "fact": "Anguilla"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Anguilla"
+                    "fact": "Chad"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Anguilla"
+                    "fact": "Chad"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Anguilla"
+                    "fact": "Chad"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Anguilla"
+                    "fact": "Chad"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Anguilla"
+                    "fact": "Chad"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Anguilla"
+                    "fact": "Chad"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Anguilla"
+                    "fact": "Chad"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Anguilla"
+                    "fact": "Chad"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Anguilla"
+                    "fact": "Chad"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Anguilla"
+                    "fact": "Chad"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Anguilla"
+                    "fact": "Chad"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Anguilla"
+                    "fact": "Chad"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Anguilla"
+                    "fact": "Chad"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Anguilla"
+                    "fact": "Chad"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Anguilla"
+                    "fact": "Chad"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Anguilla"
+                    "fact": "Chad"
                 }
             ]
         }

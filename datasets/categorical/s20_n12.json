@@ -3,11 +3,11 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Malta",
+            "truth": "Mozambique",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Vanuatu"
+                    "fact": "Belize"
                 },
                 {
                     "sourceId": "source2",
@@ -15,75 +15,75 @@
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Armenia"
+                    "fact": "Vanuatu"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Israel"
+                    "fact": "Estonia"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Serbia"
+                    "fact": "Saint Pierre and Miquelon"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Ukraine"
+                    "fact": "Malawi"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Myanmar"
+                    "fact": "Morocco"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Taiwan"
+                    "fact": "South Georgia and the South Sandwich Islands"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Indonesia"
+                    "fact": "Greenland"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Papua New Guinea"
+                    "fact": "Congo"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Trinidad and Tobago"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Guinea-Bissau"
+                    "fact": "French Southern Territories"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Malta"
+                    "fact": "Mozambique"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Malta"
+                    "fact": "Mozambique"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Malta"
+                    "fact": "Mozambique"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Malta"
+                    "fact": "Mozambique"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Malta"
+                    "fact": "Mozambique"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Malta"
+                    "fact": "Mozambique"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Malta"
+                    "fact": "Mozambique"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Malta"
+                    "fact": "Mozambique"
                 }
             ]
         }

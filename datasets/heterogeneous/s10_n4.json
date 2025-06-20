@@ -3,141 +3,141 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Marcus Madden Sampson Mcclure",
+            "truth": "Brandon Daniels Rodriguez",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Marcus Madden SampXoq Mcclure"
+                    "fact": "Steven Daniels Rodriguez"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Tanner Waters Mosley"
+                    "fact": "Brandon Daniels Matthew"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Colin Madden Sampson Mcclure"
+                    "fact": "Brandon Daniels RodrHuez"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Paul Russell Stewart"
+                    "fact": "BIanon Daniels rodriguez"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Marcus Madden Sampson Mcclure"
+                    "fact": "Brandon Daniels Rodriguez"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Marcus Madden Sampson Mcclure"
+                    "fact": "Brandon Daniels Rodriguez"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Marcus Madden Sampson Mcclure"
+                    "fact": "Brandon Daniels Rodriguez"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Marcus Madden Sampson Mcclure"
+                    "fact": "Brandon Daniels Rodriguez"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Marcus Madden Sampson Mcclure"
+                    "fact": "Brandon Daniels Rodriguez"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Marcus Madden Sampson Mcclure"
+                    "fact": "Brandon Daniels Rodriguez"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Iceland",
+            "truth": "Andorra",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "South Georgia and the South Sandwich Islands"
+                    "fact": "Spain"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Germany"
+                    "fact": "Uruguay"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Morocco"
+                    "fact": "Timor-Leste"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Israel"
+                    "fact": "Tonga"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Iceland"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Iceland"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Iceland"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Iceland"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Iceland"
+                    "fact": "Andorra"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Iceland"
+                    "fact": "Andorra"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 29,
+            "truth": 34,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 30
+                    "fact": 33
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 25
+                    "fact": 31
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 26
+                    "fact": 35
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 27
+                    "fact": 36
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 29
+                    "fact": 34
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 29
+                    "fact": 34
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 29
+                    "fact": 34
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 29
+                    "fact": 34
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 29
+                    "fact": 34
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 29
+                    "fact": 34
                 }
             ]
         }

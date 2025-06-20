@@ -3,122 +3,122 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Jennifer Soto Thompson Mueller",
+            "truth": "Albert Johnson Moreno Bright",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Ricardo Martin Ho"
+                    "fact": "Leslie Ewing Johnson Norman"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Robert Fisher Campos"
+                    "fact": "Albert JoRnson Moreno Brigh"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Jennifdr Soto Thomdso Mueller"
+                    "fact": "Avber Johnson Moreno Bright"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Kennifer Sox Thompson Mueller"
+                    "fact": "Albert Pnson Moreno Bright"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Jennifer Soto Thompson Suzanne"
+                    "fact": "Meghan Johnson Moreno Bright"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Blake Garcia Jones Hoover"
+                    "fact": "James Smith Burnett"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Jennifer Karen Thompson Mueller"
+                    "fact": "Erica Johnson Moreno Bright"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Jennifer Soto Thompsn Muellr"
+                    "fact": "Christopher Johnson Moreno Bright"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Jennifer Soto Thompson Justin"
+                    "fact": "Albert Johnson Moreno Trigt"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Jennifer Soto ThompsoW Muelter"
+                    "fact": "Albert Johnson Moreno Benjamin"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Jennifer Soto Tabitha Mueller"
+                    "fact": "Albert Johnson Moreno Matthew"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Jennifer Soto Thompson Jacob"
+                    "fact": "Albert Johnson Moreo Brigh"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Amy Anderson Wilkinson Andrews"
+                    "fact": "Albert Johnson Moreno Bright"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Jennifer Soto Thompson Mueller"
+                    "fact": "Albert Johnson Moreno Bright"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Jennifer Soto Thompson Mueller"
+                    "fact": "Albert Johnson Moreno Bright"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Lao People's Democratic Republic",
+            "truth": "Libyan Arab Jamahiriya",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Namibia"
+                    "fact": "Uruguay"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Qatar"
+                    "fact": "Djibouti"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Holy See (Vatican City State)"
+                    "fact": "Antigua and Barbuda"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Norfolk Island"
+                    "fact": "Australia"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Barbados"
+                    "fact": "Congo"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Botswana"
+                    "fact": "Cameroon"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Turkey"
+                    "fact": "Armenia"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Andorra"
+                    "fact": "Cambodia"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Oman"
+                    "fact": "British Virgin Islands"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Niger"
+                    "fact": "Portugal"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Slovenia"
+                    "fact": "Sudan"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Greece"
+                    "fact": "Uganda"
                 },
                 {
                     "sourceId": "source13",
@@ -126,54 +126,54 @@
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Lao People's Democratic Republic"
+                    "fact": "Libyan Arab Jamahiriya"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Lao People's Democratic Republic"
+                    "fact": "Libyan Arab Jamahiriya"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 28,
+            "truth": 32,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 25
+                    "fact": 34
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 29
+                    "fact": 28
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 31
+                    "fact": 27
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 32
+                    "fact": 36
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 26
+                    "fact": 30
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 33
+                    "fact": 36
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 31
-                },
-                {
-                    "sourceId": "source8",
                     "fact": 29
                 },
                 {
+                    "sourceId": "source8",
+                    "fact": 34
+                },
+                {
                     "sourceId": "source9",
-                    "fact": 31
+                    "fact": 36
                 },
                 {
                     "sourceId": "source10",
@@ -181,23 +181,23 @@
                 },
                 {
                     "sourceId": "source11",
-                    "fact": 33
-                },
-                {
-                    "sourceId": "source12",
-                    "fact": 24
-                },
-                {
-                    "sourceId": "source13",
                     "fact": 27
                 },
                 {
+                    "sourceId": "source12",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 32
+                },
+                {
                     "sourceId": "source14",
-                    "fact": 28
+                    "fact": 32
                 },
                 {
                     "sourceId": "source15",
-                    "fact": 28
+                    "fact": 32
                 }
             ]
         }

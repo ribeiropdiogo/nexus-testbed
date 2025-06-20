@@ -7,15 +7,15 @@
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 36
+                    "fact": 28
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 29
+                    "fact": 38
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 32
+                    "fact": 38
                 },
                 {
                     "sourceId": "source4",

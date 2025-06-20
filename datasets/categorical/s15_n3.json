@@ -3,67 +3,67 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Haiti",
+            "truth": "Mongolia",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Hong Kong"
+                    "fact": "Pakistan"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Botswana"
+                    "fact": "Comoros"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Switzerland"
+                    "fact": "Guinea-Bissau"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Haiti"
+                    "fact": "Mongolia"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Haiti"
+                    "fact": "Mongolia"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Haiti"
+                    "fact": "Mongolia"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Haiti"
+                    "fact": "Mongolia"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Haiti"
+                    "fact": "Mongolia"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Haiti"
+                    "fact": "Mongolia"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Haiti"
+                    "fact": "Mongolia"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Haiti"
+                    "fact": "Mongolia"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Haiti"
+                    "fact": "Mongolia"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Haiti"
+                    "fact": "Mongolia"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Haiti"
+                    "fact": "Mongolia"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Haiti"
+                    "fact": "Mongolia"
                 }
             ]
         }

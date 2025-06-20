@@ -3,27 +3,27 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Israel",
+            "truth": "Kiribati",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Finland"
+                    "fact": "Maldives"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Niue"
+                    "fact": "Turkey"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Israel"
+                    "fact": "Kiribati"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Israel"
+                    "fact": "Kiribati"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Israel"
+                    "fact": "Kiribati"
                 }
             ]
         }

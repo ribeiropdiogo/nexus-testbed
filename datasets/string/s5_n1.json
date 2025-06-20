@@ -3,27 +3,27 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Amanda Brooks Davis Villanueva",
+            "truth": "Max Ortega Gonzalez",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Kathryn Brooks Davis Villanueva"
+                    "fact": "Brian Ortega Gonzalez"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Amanda Brooks Davis Villanueva"
+                    "fact": "Max Ortega Gonzalez"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Amanda Brooks Davis Villanueva"
+                    "fact": "Max Ortega Gonzalez"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Amanda Brooks Davis Villanueva"
+                    "fact": "Max Ortega Gonzalez"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Amanda Brooks Davis Villanueva"
+                    "fact": "Max Ortega Gonzalez"
                 }
             ]
         }

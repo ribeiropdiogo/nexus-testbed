@@ -3,87 +3,87 @@
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 31,
+            "truth": 35,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 30
+                    "fact": 31
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 27
+                    "fact": 38
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 29
-                },
-                {
-                    "sourceId": "source4",
-                    "fact": 26
-                },
-                {
-                    "sourceId": "source5",
-                    "fact": 33
-                },
-                {
-                    "sourceId": "source6",
-                    "fact": 35
-                },
-                {
-                    "sourceId": "source7",
-                    "fact": 26
-                },
-                {
-                    "sourceId": "source8",
-                    "fact": 35
-                },
-                {
-                    "sourceId": "source9",
-                    "fact": 28
-                },
-                {
-                    "sourceId": "source10",
-                    "fact": 28
-                },
-                {
-                    "sourceId": "source11",
                     "fact": 34
                 },
                 {
-                    "sourceId": "source12",
+                    "sourceId": "source4",
                     "fact": 32
                 },
                 {
-                    "sourceId": "source13",
+                    "sourceId": "source5",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 36
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 40
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 40
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 40
+                },
+                {
+                    "sourceId": "source11",
                     "fact": 31
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 35
                 },
                 {
                     "sourceId": "source14",
-                    "fact": 31
+                    "fact": 35
                 },
                 {
                     "sourceId": "source15",
-                    "fact": 31
+                    "fact": 35
                 },
                 {
                     "sourceId": "source16",
-                    "fact": 31
+                    "fact": 35
                 },
                 {
                     "sourceId": "source17",
-                    "fact": 31
+                    "fact": 35
                 },
                 {
                     "sourceId": "source18",
-                    "fact": 31
+                    "fact": 35
                 },
                 {
                     "sourceId": "source19",
-                    "fact": 31
+                    "fact": 35
                 },
                 {
                     "sourceId": "source20",
-                    "fact": 31
+                    "fact": 35
                 }
             ]
         }

@@ -1,49 +1,49 @@
 {
     "objects": [
         {
-            "name": "name",
-            "datatype": "string",
-            "truth": "Jonathan Pham Wilson Jordan",
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Cyprus",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Daniel Pham Wilson Jordan"
+                    "fact": "Tunisia"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Jonathan Pham Karen Jordan"
+                    "fact": "Armenia"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Alexis Salinas Arnold Acosta"
+                    "fact": "Martinique"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Jonatha Pham Wilon Jordan"
+                    "fact": "Norfolk Island"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Stacy Lawson Carter"
+                    "fact": "Northern Mariana Islands"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "tonathan ham Wilson Jordan"
+                    "fact": "Chile"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Jonathan Pham Wilson Michael"
+                    "fact": "Finland"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Jonathan Michael Wilson Jordan"
+                    "fact": "Guatemala"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Jonathan Pham Rebecca Jordan"
+                    "fact": "Cyprus"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Jonathan Pham Wilson Jordan"
+                    "fact": "Cyprus"
                 }
             ]
         }

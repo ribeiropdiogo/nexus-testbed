@@ -3,67 +3,67 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "John Kennedy Diaz Williams",
+            "truth": "Sharon Hogan Richardson",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Joseph Sanchez Greene Martinez"
+                    "fact": "Sharon Tina Richardson"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Stephanie Gonzalez Waters Hardin"
+                    "fact": "Mary Underwood Washington"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "John Kgnzedy Dhaz Williams"
+                    "fact": "ShaXon Hgan RichardsoN"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "John Kennedy Diaz Williams"
+                    "fact": "Sharon Hogan Richardson"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "John Kennedy Diaz Williams"
+                    "fact": "Sharon Hogan Richardson"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "John Kennedy Diaz Williams"
+                    "fact": "Sharon Hogan Richardson"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "John Kennedy Diaz Williams"
+                    "fact": "Sharon Hogan Richardson"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "John Kennedy Diaz Williams"
+                    "fact": "Sharon Hogan Richardson"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "John Kennedy Diaz Williams"
+                    "fact": "Sharon Hogan Richardson"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "John Kennedy Diaz Williams"
+                    "fact": "Sharon Hogan Richardson"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "John Kennedy Diaz Williams"
+                    "fact": "Sharon Hogan Richardson"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "John Kennedy Diaz Williams"
+                    "fact": "Sharon Hogan Richardson"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "John Kennedy Diaz Williams"
+                    "fact": "Sharon Hogan Richardson"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "John Kennedy Diaz Williams"
+                    "fact": "Sharon Hogan Richardson"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "John Kennedy Diaz Williams"
+                    "fact": "Sharon Hogan Richardson"
                 }
             ]
         }

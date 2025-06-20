@@ -1,89 +1,89 @@
 {
     "objects": [
         {
-            "name": "name",
-            "datatype": "string",
-            "truth": "Melanie Page Mcclain Davis",
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "South Africa",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Leslie Warren Villegas Thompson"
+                    "fact": "El Salvador"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Melanie PJe Mcclain Davis"
+                    "fact": "Cote d'Ivoire"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Melanie PaHe icclain Dvis"
+                    "fact": "Spain"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Melanie Page Debra Davis"
+                    "fact": "Ireland"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "MAlanie Pagx Mclain Davis"
+                    "fact": "Bermuda"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Melissa Davis Barrett"
+                    "fact": "Colombia"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Melanie mane Mcclain Dacis"
+                    "fact": "Belize"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Becky Hurley Kent"
+                    "fact": "Benin"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Dale Guerra Banks"
+                    "fact": "Nepal"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Christopher Page Mcclain Davis"
+                    "fact": "Mauritius"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Stephanie Bailey Koch Clark"
+                    "fact": "Iraq"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Amber Page Mcclain Davis"
+                    "fact": "Central African Republic"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Keith Gibson Ramos Nicholson"
+                    "fact": "Aruba"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Melanie Qage Mccxain Davis"
+                    "fact": "Georgia"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Theresa Gonzales Bowman Conley"
+                    "fact": "Taiwan"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Maxwell Briggs Clark"
+                    "fact": "Burkina Faso"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "mlanie Page Mcclain Davis"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Melanie Omar Mcclain Davis"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Melanie Page Mcclain Davis"
+                    "fact": "South Africa"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Melanie Page Mcclain Davis"
+                    "fact": "South Africa"
                 }
             ]
         }

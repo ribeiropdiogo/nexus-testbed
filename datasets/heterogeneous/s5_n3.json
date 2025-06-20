@@ -3,81 +3,81 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Michael Miles Dean",
+            "truth": "Patrick Shelton Thompson",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Russell Mitchell Grimes James"
+                    "fact": "Kimberly Manning White"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Melissa Perry Perez Santos"
+                    "fact": "Patrick hlton hompson"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Lisa Wise Pittman Miller"
+                    "fact": "Marcus Gutierrez Castillo"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Michael Miles Dean"
+                    "fact": "Patrick Shelton Thompson"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Michael Miles Dean"
+                    "fact": "Patrick Shelton Thompson"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Ethiopia",
+            "truth": "Bulgaria",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Indonesia"
+                    "fact": "Norway"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Bermuda"
+                    "fact": "Slovenia"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Dominica"
+                    "fact": "Brazil"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Ethiopia"
+                    "fact": "Bulgaria"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Ethiopia"
+                    "fact": "Bulgaria"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 34,
+            "truth": 35,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 35
+                    "fact": 31
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 30
+                    "fact": 39
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 36
+                    "fact": 40
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 34
+                    "fact": 35
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 34
+                    "fact": 35
                 }
             ]
         }

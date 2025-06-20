@@ -3,47 +3,47 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Sao Tome and Principe",
+            "truth": "Poland",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Albania"
+                    "fact": "Malaysia"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Djibouti"
+                    "fact": "Guadeloupe"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Latvia"
+                    "fact": "Greenland"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Monaco"
+                    "fact": "Mauritius"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Sao Tome and Principe"
+                    "fact": "Poland"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Sao Tome and Principe"
+                    "fact": "Poland"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Sao Tome and Principe"
+                    "fact": "Poland"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Sao Tome and Principe"
+                    "fact": "Poland"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Sao Tome and Principe"
+                    "fact": "Poland"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Sao Tome and Principe"
+                    "fact": "Poland"
                 }
             ]
         }

@@ -3,201 +3,201 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Anita Garcia Bradshaw",
+            "truth": "Taylor Casey Henry",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Thomas Silva Payne"
+                    "fact": "Tfylor Casey nenry"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Cassandra Jackson Silva Lewis"
+                    "fact": "Taylor Casey Kenneth"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "nita Garcia Brdhaw"
+                    "fact": "Taylor Casey Tammy"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Tina Briggs Carr Obrien"
+                    "fact": "Dustin Christensen Ibarra Kelley"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Anitk Garcia Brashaw"
+                    "fact": "Robert Thomas Peterson"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Anita Garcia VradshBw"
+                    "fact": "Rebecca Bailey Hatfield Wilson"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Anita Garcia Bradshaw"
+                    "fact": "Taylor Casey Henry"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Anita Garcia Bradshaw"
+                    "fact": "Taylor Casey Henry"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Anita Garcia Bradshaw"
+                    "fact": "Taylor Casey Henry"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Anita Garcia Bradshaw"
+                    "fact": "Taylor Casey Henry"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Anita Garcia Bradshaw"
+                    "fact": "Taylor Casey Henry"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Anita Garcia Bradshaw"
+                    "fact": "Taylor Casey Henry"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Anita Garcia Bradshaw"
+                    "fact": "Taylor Casey Henry"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Anita Garcia Bradshaw"
+                    "fact": "Taylor Casey Henry"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Anita Garcia Bradshaw"
+                    "fact": "Taylor Casey Henry"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Bangladesh",
+            "truth": "Malawi",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Christmas Island"
+                    "fact": "Ghana"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Pitcairn Islands"
+                    "fact": "Korea"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Cook Islands"
+                    "fact": "Tokelau"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Romania"
+                    "fact": "Papua New Guinea"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Solomon Islands"
+                    "fact": "Burundi"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Rwanda"
+                    "fact": "Bosnia and Herzegovina"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Bangladesh"
+                    "fact": "Malawi"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Bangladesh"
+                    "fact": "Malawi"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Bangladesh"
+                    "fact": "Malawi"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Bangladesh"
+                    "fact": "Malawi"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Bangladesh"
+                    "fact": "Malawi"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Bangladesh"
+                    "fact": "Malawi"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Bangladesh"
+                    "fact": "Malawi"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Bangladesh"
+                    "fact": "Malawi"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Bangladesh"
+                    "fact": "Malawi"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 25,
+            "truth": 28,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 27
+                    "fact": 26
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 24
-                },
-                {
-                    "sourceId": "source3",
-                    "fact": 22
-                },
-                {
-                    "sourceId": "source4",
                     "fact": 27
                 },
                 {
+                    "sourceId": "source3",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 31
+                },
+                {
                     "sourceId": "source5",
-                    "fact": 28
+                    "fact": 32
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 20
+                    "fact": 24
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 25
+                    "fact": 28
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 25
+                    "fact": 28
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 25
+                    "fact": 28
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 25
+                    "fact": 28
                 },
                 {
                     "sourceId": "source11",
-                    "fact": 25
+                    "fact": 28
                 },
                 {
                     "sourceId": "source12",
-                    "fact": 25
+                    "fact": 28
                 },
                 {
                     "sourceId": "source13",
-                    "fact": 25
+                    "fact": 28
                 },
                 {
                     "sourceId": "source14",
-                    "fact": 25
+                    "fact": 28
                 },
                 {
                     "sourceId": "source15",
-                    "fact": 25
+                    "fact": 28
                 }
             ]
         }

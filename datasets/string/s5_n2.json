@@ -3,27 +3,27 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Todd Hill Griffin",
+            "truth": "Spencer Kaufman Daniels",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Todd Hill Sean"
+                    "fact": "Vickie Kaufman Daniels"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Tod ill Griffin"
+                    "fact": "Tina Dyer Wright Moore"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Todd Hill Griffin"
+                    "fact": "Spencer Kaufman Daniels"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Todd Hill Griffin"
+                    "fact": "Spencer Kaufman Daniels"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Todd Hill Griffin"
+                    "fact": "Spencer Kaufman Daniels"
                 }
             ]
         }

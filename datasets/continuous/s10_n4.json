@@ -3,15 +3,15 @@
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 28,
+            "truth": 30,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 29
+                    "fact": 25
                 },
                 {
                     "sourceId": "source3",
@@ -19,31 +19,31 @@
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 23
+                    "fact": 35
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 28
+                    "fact": 30
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 28
+                    "fact": 30
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 28
+                    "fact": 30
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 28
+                    "fact": 30
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 28
+                    "fact": 30
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 28
+                    "fact": 30
                 }
             ]
         }

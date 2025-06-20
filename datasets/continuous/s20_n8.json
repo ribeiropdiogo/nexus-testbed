@@ -7,15 +7,15 @@
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 26
+                    "fact": 24
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 28
+                    "fact": 22
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 23
+                    "fact": 20
                 },
                 {
                     "sourceId": "source4",
@@ -23,15 +23,15 @@
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 30
+                    "fact": 22
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 21
+                    "fact": 23
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 26
+                    "fact": 27
                 },
                 {
                     "sourceId": "source8",

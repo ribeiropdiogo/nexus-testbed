@@ -3,197 +3,197 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Dennis Salinas Allen",
+            "truth": "Patricia Chavez Todd",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Dennis Wendy Allen"
+                    "fact": "Katherine Chavez Todd"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Denis Salnas Allen"
+                    "fact": "Richard Chavez Todd"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "KenHi Salinas Allen"
+                    "fact": "Lisa Brown Brown Hess"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Kyle Wright Black"
+                    "fact": "ParDcia Chavez Todd"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Dennis Salnas AUlen"
+                    "fact": "Andrea Chavez Todd"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Mark Johnson White Kidd"
+                    "fact": "Patricia havz Tdd"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Dennis Salinas Abigail"
+                    "fact": "Patricia Cavez ody"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Dennis Slinas llen"
+                    "fact": "Patricia Chavez Garrett"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "oennis Salinas Allea"
+                    "fact": "Troy Chavez Todd"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "James Lee Dalton"
+                    "fact": "Patricia Maria Todd"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Dennis SalnaN Allen"
+                    "fact": "Shawn Craig Hatfield"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Denni Salinas Alen"
+                    "fact": "Susan Allen Green Willis"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Lance Phillips Rivera Garcia"
+                    "fact": "Patricia Leslie Todd"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Dennis Sanas Allen"
+                    "fact": "Patricic Chave Todd"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "DennWs Salinas Awlen"
+                    "fact": "Matthew Cooper Rangel Gonzales"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Joanna Salinas Allen"
+                    "fact": "Patricia John Todd"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Dnnis Salia Allen"
+                    "fact": "Patricia Chavez Todd"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Kenneth Huber Whitaker"
+                    "fact": "Patricia Chavez Todd"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Dennis Salinas Allen"
+                    "fact": "Patricia Chavez Todd"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Dennis Salinas Allen"
+                    "fact": "Patricia Chavez Todd"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Cyprus",
+            "truth": "Slovakia (Slovak Republic)",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Norway"
+                    "fact": "Peru"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Belize"
+                    "fact": "Uzbekistan"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Croatia"
+                    "fact": "Marshall Islands"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Maldives"
+                    "fact": "United States Minor Outlying Islands"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Haiti"
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Panama"
+                    "fact": "South Georgia and the South Sandwich Islands"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Timor-Leste"
+                    "fact": "Lebanon"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Oman"
+                    "fact": "Congo"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Antigua and Barbuda"
+                    "fact": "Netherlands Antilles"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Benin"
+                    "fact": "Bangladesh"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "United States of America"
+                    "fact": "Guam"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Oman"
+                    "fact": "Seychelles"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Korea"
+                    "fact": "Egypt"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Ethiopia"
+                    "fact": "Liechtenstein"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Nepal"
+                    "fact": "Ghana"
                 },
                 {
                     "sourceId": "source16",
-                    "fact": "Croatia"
+                    "fact": "Grenada"
                 },
                 {
                     "sourceId": "source17",
-                    "fact": "Saint Pierre and Miquelon"
+                    "fact": "Slovakia (Slovak Republic)"
                 },
                 {
                     "sourceId": "source18",
-                    "fact": "Austria"
+                    "fact": "Slovakia (Slovak Republic)"
                 },
                 {
                     "sourceId": "source19",
-                    "fact": "Cyprus"
+                    "fact": "Slovakia (Slovak Republic)"
                 },
                 {
                     "sourceId": "source20",
-                    "fact": "Cyprus"
+                    "fact": "Slovakia (Slovak Republic)"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 35,
+            "truth": 30,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 30
+                    "fact": 28
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 32
+                    "fact": 25
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 38
+                    "fact": 31
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 32
+                    "fact": 29
                 },
                 {
                     "sourceId": "source5",
@@ -201,63 +201,63 @@
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 33
+                    "fact": 32
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 39
+                    "fact": 29
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 36
+                    "fact": 34
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 38
+                    "fact": 31
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 34
+                    "fact": 28
                 },
                 {
                     "sourceId": "source11",
-                    "fact": 37
-                },
-                {
-                    "sourceId": "source12",
-                    "fact": 38
-                },
-                {
-                    "sourceId": "source13",
-                    "fact": 31
-                },
-                {
-                    "sourceId": "source14",
-                    "fact": 36
-                },
-                {
-                    "sourceId": "source15",
                     "fact": 34
                 },
                 {
+                    "sourceId": "source12",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 33
+                },
+                {
                     "sourceId": "source16",
-                    "fact": 40
+                    "fact": 26
                 },
                 {
                     "sourceId": "source17",
-                    "fact": 31
+                    "fact": 30
                 },
                 {
                     "sourceId": "source18",
-                    "fact": 36
+                    "fact": 30
                 },
                 {
                     "sourceId": "source19",
-                    "fact": 35
+                    "fact": 30
                 },
                 {
                     "sourceId": "source20",
-                    "fact": 35
+                    "fact": 30
                 }
             ]
         }

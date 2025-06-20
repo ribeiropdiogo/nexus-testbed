@@ -3,47 +3,47 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Kazakhstan",
+            "truth": "Jersey",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Somalia"
+                    "fact": "Chad"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Micronesia"
+                    "fact": "Montenegro"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Palestinian Territory"
+                    "fact": "Montserrat"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Suriname"
+                    "fact": "Maldives"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Turkey"
+                    "fact": "Albania"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Guinea"
+                    "fact": "Angola"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Kazakhstan"
+                    "fact": "Jersey"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Kazakhstan"
+                    "fact": "Jersey"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Kazakhstan"
+                    "fact": "Jersey"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Kazakhstan"
+                    "fact": "Jersey"
                 }
             ]
         }

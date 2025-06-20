@@ -3,54 +3,54 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Sierra Garza Holmes Harrison",
+            "truth": "Taylor Brown Thomas Odom",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "SiFrra Garza Holmes HaBrison"
+                    "fact": "yayor Btown Thomas Odom"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Kenneth Torres Hobbs Mendoza"
+                    "fact": "Daniel Tran Pennington Gonzalez"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Sierra Garza Holmes Harrison"
+                    "fact": "Taylor Brown Thomas Odom"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Sierra Garza Holmes Harrison"
+                    "fact": "Taylor Brown Thomas Odom"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Sierra Garza Holmes Harrison"
+                    "fact": "Taylor Brown Thomas Odom"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Iceland",
+            "truth": "Cameroon",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Falkland Islands (Malvinas)"
+                    "fact": "Tajikistan"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "British Indian Ocean Territory (Chagos Archipelago)"
+                    "fact": "Greece"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Iceland"
+                    "fact": "Cameroon"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Iceland"
+                    "fact": "Cameroon"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Iceland"
+                    "fact": "Cameroon"
                 }
             ]
         },
@@ -61,11 +61,11 @@
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 23
+                    "fact": 24
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 27
+                    "fact": 29
                 },
                 {
                     "sourceId": "source3",

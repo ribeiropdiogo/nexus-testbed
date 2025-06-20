@@ -3,11 +3,11 @@
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 33,
+            "truth": 25,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 36
+                    "fact": 27
                 },
                 {
                     "sourceId": "source2",
@@ -15,75 +15,75 @@
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 37
+                    "fact": 21
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 36
+                    "fact": 30
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source11",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source12",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source13",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source14",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source15",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source16",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source17",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source18",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source19",
-                    "fact": 33
+                    "fact": 25
                 },
                 {
                     "sourceId": "source20",
-                    "fact": 33
+                    "fact": 25
                 }
             ]
         }

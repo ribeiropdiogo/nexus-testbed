@@ -3,47 +3,47 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Jim Walton Smith Munoz",
+            "truth": "Shelly Swanson Berry Turner",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Melissa Ford Moon"
+                    "fact": "Shelly Swanon Berry Turner"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Jim Walton yXith Munoz"
+                    "fact": "Shelly Chris Berry Turner"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "im alton Sith Munoz"
+                    "fact": "Shell SwaQson Berry Turner"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Brian Carrillo Torres Cook"
+                    "fact": "Shelly Swanon Berry urer"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Jim Walto Smith Cunoz"
+                    "fact": "Nicole Jones Gates"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Jim Walton Eric Munoz"
+                    "fact": "Shelly Swanson Berry Roy"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Jim Walton Smith Munoz"
+                    "fact": "Shelly Swanson Berry Turner"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Jim Walton Smith Munoz"
+                    "fact": "Shelly Swanson Berry Turner"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Jim Walton Smith Munoz"
+                    "fact": "Shelly Swanson Berry Turner"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Jim Walton Smith Munoz"
+                    "fact": "Shelly Swanson Berry Turner"
                 }
             ]
         }

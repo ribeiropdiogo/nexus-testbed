@@ -180,31 +180,35 @@ class Generator:
         """
         Generates the dataset based on the specified parameters.
         """
-        # Initial message
-        print("Generating dataset...")\
-        # Check the type of dataset to generate
-        if self.type == "string":
-            data = self._generate_string_dataset()
-        elif self.type == "continuous":
-            data = self._generate_continuous_dataset()
-        elif self.type == "categorical":
-            data = self._generate_categorical_dataset()
-        elif self.type == "heterogeneous":
-            data = self._generate_heterogeneous_dataset()
+        if self.noise + 1  < self.sources:
+            # Initial message
+            print("Generating dataset...")\
+            # Check the type of dataset to generate
+            if self.type == "string":
+                data = self._generate_string_dataset()
+            elif self.type == "continuous":
+                data = self._generate_continuous_dataset()
+            elif self.type == "categorical":
+                data = self._generate_categorical_dataset()
+            elif self.type == "heterogeneous":
+                data = self._generate_heterogeneous_dataset()
+            else:
+                raise ValueError("Invalid datatype specified.")
+            # Build the outout dire for the datatype
+            output_path = OUTPUT_DIR + "" + self.type + "/"
+            # Save the dataset to the output directory
+            print(f"Dataset generated with success! Saving to {output_path}...")
+            # Ensure the output directory exists
+            os.makedirs(output_path, exist_ok=True)
+            # Build the output path
+            output_path = os.path.join(output_path, f"s{self.sources}_n{self.noise}.json")
+            # Save the dataset to the JSON file
+            with open(output_path, "w") as f:
+                json.dump(data, f, indent=4)
+            print("Dataset saved with success!")
         else:
-            raise ValueError("Invalid datatype specified.")
-        # Build the outout dire for the datatype
-        output_path = OUTPUT_DIR + "" + self.type + "/"
-        # Save the dataset to the output directory
-        print(f"Dataset generated with success! Saving to {output_path}...")
-        # Ensure the output directory exists
-        os.makedirs(output_path, exist_ok=True)
-        # Build the output path
-        output_path = os.path.join(output_path, f"s{self.sources}_n{self.noise}.json")
-        # Save the dataset to the JSON file
-        with open(output_path, "w") as f:
-            json.dump(data, f, indent=4)
-        print("Dataset saved with success!")
+            print("The number of noisy sources is greater than s-1.")
+
 def main():
     """
     Main function to parse arguments and initiate dataset generation.

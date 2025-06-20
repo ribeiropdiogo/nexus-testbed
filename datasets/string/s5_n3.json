@@ -3,27 +3,27 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Autumn Hunter Coleman King",
+            "truth": "Lindsey Larson Woods",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Laurie Brewer Booker"
+                    "fact": "Courtney Larson Woods"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "James Moore Thompson"
+                    "fact": "Lindsy Larson Wood"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Joseph Cohen Abbott"
+                    "fact": "Brian Berry Flores Butler"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Autumn Hunter Coleman King"
+                    "fact": "Lindsey Larson Woods"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Autumn Hunter Coleman King"
+                    "fact": "Lindsey Larson Woods"
                 }
             ]
         }

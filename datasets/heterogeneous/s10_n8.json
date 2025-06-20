@@ -3,141 +3,141 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Gary Herrera Nichols",
+            "truth": "James Foley Cannon",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Gury HerEera ichols"
+                    "fact": "Larry Ryan Brady Lewis"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Gqcy Herrera Nichols"
+                    "fact": "Dawn Green Morse Bradley"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Gary Herrera Ashley"
+                    "fact": "Paula Owen Mann"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Gary Hrrer Nichols"
+                    "fact": "James Foley Raymond"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Gary Hersera NBchol"
+                    "fact": "Brady Foley Cannon"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Gry Herrea Nichols"
+                    "fact": "James Foley Lori"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Gary Matthew Nichols"
+                    "fact": "James Jeffrey Cannon"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Gary Herrera NicFls"
+                    "fact": "James Traci Cannon"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Gary errera NmAhols"
+                    "fact": "James Foley Cannon"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Gary Herrera Nichols"
+                    "fact": "James Foley Cannon"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Sweden",
+            "truth": "Zimbabwe",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "United States of America"
+                    "fact": "Macao"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Greenland"
+                    "fact": "Paraguay"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Vanuatu"
+                    "fact": "Peru"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Portugal"
+                    "fact": "Sri Lanka"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Singapore"
+                    "fact": "Bulgaria"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Taiwan"
+                    "fact": "New Zealand"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Iraq"
+                    "fact": "Jersey"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "United Arab Emirates"
+                    "fact": "Timor-Leste"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Japan"
+                    "fact": "Zimbabwe"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Sweden"
+                    "fact": "Zimbabwe"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 30,
+            "truth": 26,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 27
+                    "fact": 21
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 27
+                    "fact": 29
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 28
+                    "fact": 23
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 35
+                    "fact": 29
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 32
+                    "fact": 25
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 33
+                    "fact": 24
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 35
+                    "fact": 27
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 32
+                    "fact": 31
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 35
+                    "fact": 26
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 30
+                    "fact": 26
                 }
             ]
         }

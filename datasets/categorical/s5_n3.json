@@ -3,27 +3,27 @@
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Congo",
+            "truth": "Guadeloupe",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Senegal"
+                    "fact": "Bhutan"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Haiti"
+                    "fact": "Nauru"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Cocos (Keeling) Islands"
+                    "fact": "Armenia"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Congo"
+                    "fact": "Guadeloupe"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Congo"
+                    "fact": "Guadeloupe"
                 }
             ]
         }

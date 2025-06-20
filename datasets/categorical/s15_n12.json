@@ -1,89 +1,69 @@
 {
     "objects": [
         {
-            "name": "age",
-            "datatype": "continuous",
-            "truth": 31,
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Russian Federation",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 32
+                    "fact": "Timor-Leste"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 36
+                    "fact": "Bermuda"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 33
+                    "fact": "Sri Lanka"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 30
+                    "fact": "Taiwan"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 29
+                    "fact": "Vanuatu"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 36
+                    "fact": "Australia"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 27
+                    "fact": "Oman"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 28
+                    "fact": "Gibraltar"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 26
+                    "fact": "Moldova"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 33
+                    "fact": "Antarctica (the territory South of 60 deg S)"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": 32
+                    "fact": "Panama"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": 35
+                    "fact": "Armenia"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": 34
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": 28
+                    "fact": "Russian Federation"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": 26
-                },
-                {
-                    "sourceId": "source16",
-                    "fact": 34
-                },
-                {
-                    "sourceId": "source17",
-                    "fact": 32
-                },
-                {
-                    "sourceId": "source18",
-                    "fact": 33
-                },
-                {
-                    "sourceId": "source19",
-                    "fact": 31
-                },
-                {
-                    "sourceId": "source20",
-                    "fact": 31
+                    "fact": "Russian Federation"
                 }
             ]
         }

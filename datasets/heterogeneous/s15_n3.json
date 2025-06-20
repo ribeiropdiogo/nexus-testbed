@@ -3,201 +3,201 @@
         {
             "name": "name",
             "datatype": "string",
-            "truth": "Sarah Chambers Clark Long",
+            "truth": "Robert Gonzalez Wilson Hunter",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Zachary Adams Dodson Long"
+                    "fact": "Michael Gonzalez Wilson Hunter"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Sarah ChZmberl Clark LonM"
+                    "fact": "Robert Gonzalez Linda Hunter"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "John Williams Daugherty Camacho"
+                    "fact": "Robert Carolyn Wilson Hunter"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Sarah Chambers Clark Long"
+                    "fact": "Robert Gonzalez Wilson Hunter"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Sarah Chambers Clark Long"
+                    "fact": "Robert Gonzalez Wilson Hunter"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Sarah Chambers Clark Long"
+                    "fact": "Robert Gonzalez Wilson Hunter"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Sarah Chambers Clark Long"
+                    "fact": "Robert Gonzalez Wilson Hunter"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Sarah Chambers Clark Long"
+                    "fact": "Robert Gonzalez Wilson Hunter"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Sarah Chambers Clark Long"
+                    "fact": "Robert Gonzalez Wilson Hunter"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Sarah Chambers Clark Long"
+                    "fact": "Robert Gonzalez Wilson Hunter"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Sarah Chambers Clark Long"
+                    "fact": "Robert Gonzalez Wilson Hunter"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Sarah Chambers Clark Long"
+                    "fact": "Robert Gonzalez Wilson Hunter"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Sarah Chambers Clark Long"
+                    "fact": "Robert Gonzalez Wilson Hunter"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Sarah Chambers Clark Long"
+                    "fact": "Robert Gonzalez Wilson Hunter"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Sarah Chambers Clark Long"
+                    "fact": "Robert Gonzalez Wilson Hunter"
                 }
             ]
         },
         {
             "name": "nationality",
             "datatype": "categorical",
-            "truth": "Barbados",
+            "truth": "Bolivia",
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": "Bouvet Island (Bouvetoya)"
+                    "fact": "Algeria"
                 },
                 {
                     "sourceId": "source2",
-                    "fact": "Dominica"
+                    "fact": "Svalbard & Jan Mayen Islands"
                 },
                 {
                     "sourceId": "source3",
-                    "fact": "Bosnia and Herzegovina"
+                    "fact": "Azerbaijan"
                 },
                 {
                     "sourceId": "source4",
-                    "fact": "Barbados"
+                    "fact": "Bolivia"
                 },
                 {
                     "sourceId": "source5",
-                    "fact": "Barbados"
+                    "fact": "Bolivia"
                 },
                 {
                     "sourceId": "source6",
-                    "fact": "Barbados"
+                    "fact": "Bolivia"
                 },
                 {
                     "sourceId": "source7",
-                    "fact": "Barbados"
+                    "fact": "Bolivia"
                 },
                 {
                     "sourceId": "source8",
-                    "fact": "Barbados"
+                    "fact": "Bolivia"
                 },
                 {
                     "sourceId": "source9",
-                    "fact": "Barbados"
+                    "fact": "Bolivia"
                 },
                 {
                     "sourceId": "source10",
-                    "fact": "Barbados"
+                    "fact": "Bolivia"
                 },
                 {
                     "sourceId": "source11",
-                    "fact": "Barbados"
+                    "fact": "Bolivia"
                 },
                 {
                     "sourceId": "source12",
-                    "fact": "Barbados"
+                    "fact": "Bolivia"
                 },
                 {
                     "sourceId": "source13",
-                    "fact": "Barbados"
+                    "fact": "Bolivia"
                 },
                 {
                     "sourceId": "source14",
-                    "fact": "Barbados"
+                    "fact": "Bolivia"
                 },
                 {
                     "sourceId": "source15",
-                    "fact": "Barbados"
+                    "fact": "Bolivia"
                 }
             ]
         },
         {
             "name": "age",
             "datatype": "continuous",
-            "truth": 25,
+            "truth": 29,
             "claims": [
                 {
                     "sourceId": "source1",
-                    "fact": 26
+                    "fact": 24
                 },
                 {
                     "sourceId": "source2",
-                    "fact": 26
+                    "fact": 31
                 },
                 {
                     "sourceId": "source3",
-                    "fact": 28
+                    "fact": 30
                 },
                 {
                     "sourceId": "source4",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source5",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source6",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source7",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source8",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source9",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source10",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source11",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source12",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source13",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source14",
-                    "fact": 25
+                    "fact": 29
                 },
                 {
                     "sourceId": "source15",
-                    "fact": 25
+                    "fact": 29
                 }
             ]
         }

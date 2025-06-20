@@ -10,7 +10,7 @@ if [[ "$run_preset" == "yes" || "$run_preset" == "y" ]]; then
 
     for datatype in string continuous categorical heterogeneous; do
         for sources in 5 10 15 20; do
-            for noise in 0.2 0.4 0.6 0.9; do
+            for noise in 0.2 0.4 0.6 0.8; do
                 echo "================================================="
                 python3 generator/generator.py --datatype "$datatype" --sources "$sources" --noise "$noise"
             done
