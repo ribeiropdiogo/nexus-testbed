@@ -230,3 +230,4 @@ results/**/*.json
 
 # Ignore all stats files
 stats/**/*.json
+.Rproj.user

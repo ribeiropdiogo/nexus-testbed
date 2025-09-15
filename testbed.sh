@@ -2,7 +2,7 @@
 
 # List of possible algorithms
 # Possible algorithms to run: majority, truthfinder, crh, and nexus
-ALGORITHMS=("truthfinder" "crh" "nexus")
+ALGORITHMS=("crh")
 # Number of executions
 ROUNDS=5
 

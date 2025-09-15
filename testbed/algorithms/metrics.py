@@ -3,6 +3,7 @@ This module contains the logic to calculate metrics based on the similarity/dist
 between the values resulting from the various algorithms and the truth.
 """
 
+import math
 import textdistance as td
 
 from distance import (
@@ -26,9 +27,9 @@ def calculate_metrics(data: dict):
     elif data['datatype'] == "continuous":
         # Create a dictionary for the metrics
         metrics = {
-            "euclidean-distance": euclidean_distance(float(truth), float(result)),
-            "manhattan-distance": manhattan_distance(float(truth),float(result)),
-            "canberra-distance": canberra_distance(float(truth),float(result)),
+            "euclidean-distance": euclidean_distance(float(truth),math.floor(float(result))),
+            "manhattan-distance": manhattan_distance(float(truth),math.floor(float(result))),
+            "canberra-distance": canberra_distance(float(truth),math.floor(float(result))),
         }
     elif data['datatype'] == "string":
         metrics = {
