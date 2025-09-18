@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:16:44.366946",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 32.0,
+                    "confidence": 0.647,
+                    "sourceId": "source16"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Andrea Hill Newman",
+                    "confidence": 0.585,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Saint Pierre and Miquelon",
+                    "confidence": 0.576,
+                    "sourceId": "source4"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source16",
+            "reputation": 0.8668478260869565,
+            "probabilities": [
+                0.010869565217391304,
+                0.010869565217391304,
+                0.11956521739130435,
+                0.21739130434782608,
+                0.6413043478260869
+            ],
+            "ratings": [
+                0,
+                0,
+                10,
+                19,
+                58
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.6778846153846154,
+            "probabilities": [
+                0.25,
+                0.019230769230769232,
+                0.04807692307692308,
+                0.1346153846153846,
+                0.5480769230769231
+            ],
+            "ratings": [
+                25,
+                1,
+                4,
+                13,
+                56
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.6403508771929824,
+            "probabilities": [
+                0.23684210526315788,
+                0.07894736842105263,
+                0.07017543859649122,
+                0.11403508771929824,
+                0.5
+            ],
+            "ratings": [
+                26,
+                8,
+                7,
+                12,
+                56
+            ]
+        }
+    ]
+}

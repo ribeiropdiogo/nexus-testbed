@@ -1,0 +1,172 @@
+{
+    "timestamp": "2025-09-17T16:17:52.848856",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Patrick Shelton Thompson",
+                    "confidence": 0.611,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Patrick hlton hompson",
+                    "confidence": 0.608,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "Kimberly Manning White",
+                    "confidence": 0.558,
+                    "sourceId": "source1"
+                },
+                {
+                    "fact": "Marcus Gutierrez Castillo",
+                    "confidence": 0.555,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Bulgaria",
+                    "confidence": 0.503,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Bulgaria",
+                    "confidence": 0.503,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Norway",
+                    "confidence": 0.388,
+                    "sourceId": "source1"
+                },
+                {
+                    "fact": "Slovenia",
+                    "confidence": 0.384,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 35.0,
+                    "confidence": 0.687,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": 35.0,
+                    "confidence": 0.687,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": 31.0,
+                    "confidence": 0.665,
+                    "sourceId": "source1"
+                },
+                {
+                    "fact": 40.0,
+                    "confidence": 0.664,
+                    "sourceId": "source3"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source2",
+            "reputation": 0.5,
+            "probabilities": [
+                0.09090909090909091,
+                0.18181818181818182,
+                0.45454545454545453,
+                0.18181818181818182,
+                0.09090909090909091
+            ],
+            "ratings": [
+                0,
+                1,
+                4,
+                1,
+                0
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.5384615384615384,
+            "probabilities": [
+                0.07692307692307693,
+                0.07692307692307693,
+                0.5384615384615384,
+                0.23076923076923078,
+                0.07692307692307693
+            ],
+            "ratings": [
+                0,
+                0,
+                6,
+                2,
+                0
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.5833333333333334,
+            "probabilities": [
+                0.08333333333333333,
+                0.08333333333333333,
+                0.3333333333333333,
+                0.4166666666666667,
+                0.08333333333333333
+            ],
+            "ratings": [
+                0,
+                0,
+                3,
+                4,
+                0
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.5277777777777777,
+            "probabilities": [
+                0.1111111111111111,
+                0.2222222222222222,
+                0.2222222222222222,
+                0.3333333333333333,
+                0.1111111111111111
+            ],
+            "ratings": [
+                0,
+                1,
+                1,
+                2,
+                0
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.525,
+            "probabilities": [
+                0.1,
+                0.1,
+                0.5,
+                0.2,
+                0.1
+            ],
+            "ratings": [
+                0,
+                0,
+                4,
+                1,
+                0
+            ]
+        }
+    ]
+}

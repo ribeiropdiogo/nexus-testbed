@@ -1,0 +1,160 @@
+{
+    "timestamp": "2025-09-17T16:17:23.891081",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Alexis Smith Dean Cox",
+                    "confidence": 0.602,
+                    "sourceId": "source19"
+                },
+                {
+                    "fact": "Alexis Smith Dean Cox",
+                    "confidence": 0.602,
+                    "sourceId": "source20"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Russian Federation",
+                    "confidence": 0.602,
+                    "sourceId": "source18"
+                },
+                {
+                    "fact": "Russian Federation",
+                    "confidence": 0.602,
+                    "sourceId": "source8"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 29.0,
+                    "confidence": 0.602,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.602,
+                    "sourceId": "source5"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source19",
+            "reputation": 0.5357142857142856,
+            "probabilities": [
+                0.14285714285714285,
+                0.14285714285714285,
+                0.2857142857142857,
+                0.2857142857142857,
+                0.14285714285714285
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "sourceId": "source20",
+            "reputation": 0.5416666666666666,
+            "probabilities": [
+                0.16666666666666666,
+                0.16666666666666666,
+                0.16666666666666666,
+                0.3333333333333333,
+                0.16666666666666666
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "sourceId": "source18",
+            "reputation": 0.5357142857142856,
+            "probabilities": [
+                0.14285714285714285,
+                0.14285714285714285,
+                0.2857142857142857,
+                0.2857142857142857,
+                0.14285714285714285
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.5416666666666666,
+            "probabilities": [
+                0.16666666666666666,
+                0.16666666666666666,
+                0.16666666666666666,
+                0.3333333333333333,
+                0.16666666666666666
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.5357142857142856,
+            "probabilities": [
+                0.14285714285714285,
+                0.14285714285714285,
+                0.2857142857142857,
+                0.2857142857142857,
+                0.14285714285714285
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.5416666666666666,
+            "probabilities": [
+                0.16666666666666666,
+                0.16666666666666666,
+                0.16666666666666666,
+                0.3333333333333333,
+                0.16666666666666666
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ]
+        }
+    ]
+}

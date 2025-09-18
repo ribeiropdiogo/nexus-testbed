@@ -1,0 +1,81 @@
+{
+    "timestamp": "2025-09-17T16:17:54.347617",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Angela Henderson Bowen",
+                    "confidence": 0.662,
+                    "sourceId": "source6"
+                },
+                {
+                    "fact": "Angela Henderson Bowen",
+                    "confidence": 0.662,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Angela Henderson Bowen",
+                    "confidence": 0.662,
+                    "sourceId": "source8"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source6",
+            "reputation": 0.5625,
+            "probabilities": [
+                0.125,
+                0.125,
+                0.25,
+                0.375,
+                0.125
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                2,
+                0
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.5714285714285714,
+            "probabilities": [
+                0.14285714285714285,
+                0.14285714285714285,
+                0.14285714285714285,
+                0.42857142857142855,
+                0.14285714285714285
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                2,
+                0
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.5416666666666666,
+            "probabilities": [
+                0.16666666666666666,
+                0.16666666666666666,
+                0.16666666666666666,
+                0.3333333333333333,
+                0.16666666666666666
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ]
+        }
+    ]
+}

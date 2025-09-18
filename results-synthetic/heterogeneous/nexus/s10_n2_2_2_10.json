@@ -1,0 +1,352 @@
+{
+    "timestamp": "2025-09-17T16:15:42.158920",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Malta",
+                    "confidence": 0.987,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Malta",
+                    "confidence": 0.987,
+                    "sourceId": "source6"
+                },
+                {
+                    "fact": "Malta",
+                    "confidence": 0.987,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Malta",
+                    "confidence": 0.987,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "Malta",
+                    "confidence": 0.987,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Malta",
+                    "confidence": 0.987,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Malta",
+                    "confidence": 0.987,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": "Malta",
+                    "confidence": 0.987,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": "Papua New Guinea",
+                    "confidence": 0.009,
+                    "sourceId": "source1"
+                },
+                {
+                    "fact": "Saint Helena",
+                    "confidence": 0.009,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 33.0,
+                    "confidence": 0.994,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": 33.0,
+                    "confidence": 0.994,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": 33.0,
+                    "confidence": 0.994,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": 33.0,
+                    "confidence": 0.994,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": 33.0,
+                    "confidence": 0.994,
+                    "sourceId": "source6"
+                },
+                {
+                    "fact": 33.0,
+                    "confidence": 0.994,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": 33.0,
+                    "confidence": 0.994,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": 33.0,
+                    "confidence": 0.994,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": 31.0,
+                    "confidence": 0.99,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": 31.0,
+                    "confidence": 0.99,
+                    "sourceId": "source1"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Erin Flynn Dixon Shannon",
+                    "confidence": 0.993,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Erin Flynn Dixon Shannon",
+                    "confidence": 0.993,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Erin Flynn Dixon Shannon",
+                    "confidence": 0.993,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "Erin Flynn Dixon Shannon",
+                    "confidence": 0.993,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": "Erin Flynn Dixon Shannon",
+                    "confidence": 0.993,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": "Erin Flynn Dixon Shannon",
+                    "confidence": 0.993,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Erin Flynn Dixon Shannon",
+                    "confidence": 0.993,
+                    "sourceId": "source6"
+                },
+                {
+                    "fact": "Erin Flynn Dixon Shannon",
+                    "confidence": 0.993,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Erin Flynn George Shannon",
+                    "confidence": 0.983,
+                    "sourceId": "source1"
+                },
+                {
+                    "fact": "Scott Buchanan Williams",
+                    "confidence": 0.385,
+                    "sourceId": "source2"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source4",
+            "reputation": 0.8723404255319149,
+            "probabilities": [
+                0.02127659574468085,
+                0.02127659574468085,
+                0.0425531914893617,
+                0.2765957446808511,
+                0.6382978723404256
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                12,
+                29
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.8454545454545455,
+            "probabilities": [
+                0.01818181818181818,
+                0.01818181818181818,
+                0.09090909090909091,
+                0.3090909090909091,
+                0.5636363636363636
+            ],
+            "ratings": [
+                0,
+                0,
+                4,
+                16,
+                30
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.46341463414634143,
+            "probabilities": [
+                0.24390243902439024,
+                0.12195121951219512,
+                0.3902439024390244,
+                0.024390243902439025,
+                0.21951219512195122
+            ],
+            "ratings": [
+                9,
+                4,
+                15,
+                0,
+                8
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.8709677419354838,
+            "probabilities": [
+                0.03225806451612903,
+                0.03225806451612903,
+                0.03225806451612903,
+                0.22580645161290322,
+                0.6774193548387096
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                6,
+                20
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.5304878048780488,
+            "probabilities": [
+                0.24390243902439024,
+                0.17073170731707318,
+                0.14634146341463414,
+                0.0975609756097561,
+                0.34146341463414637
+            ],
+            "ratings": [
+                9,
+                6,
+                5,
+                3,
+                13
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.8857142857142857,
+            "probabilities": [
+                0.02857142857142857,
+                0.02857142857142857,
+                0.02857142857142857,
+                0.2,
+                0.7142857142857143
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                6,
+                24
+            ]
+        },
+        {
+            "sourceId": "source10",
+            "reputation": 0.9074074074074074,
+            "probabilities": [
+                0.037037037037037035,
+                0.037037037037037035,
+                0.037037037037037035,
+                0.037037037037037035,
+                0.8518518518518519
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                0,
+                22
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.8782051282051282,
+            "probabilities": [
+                0.02564102564102564,
+                0.02564102564102564,
+                0.05128205128205128,
+                0.20512820512820512,
+                0.6923076923076923
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                7,
+                26
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.8581081081081081,
+            "probabilities": [
+                0.02702702702702703,
+                0.02702702702702703,
+                0.08108108108108109,
+                0.21621621621621623,
+                0.6486486486486487
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                7,
+                23
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.8425925925925926,
+            "probabilities": [
+                0.037037037037037035,
+                0.037037037037037035,
+                0.07407407407407407,
+                0.2222222222222222,
+                0.6296296296296297
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                5,
+                16
+            ]
+        }
+    ]
+}

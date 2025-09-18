@@ -1,0 +1,160 @@
+{
+    "timestamp": "2025-09-17T16:16:35.484637",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "French Southern Territories",
+                    "confidence": 0.521,
+                    "sourceId": "source1"
+                },
+                {
+                    "fact": "Mozambique",
+                    "confidence": 0.479,
+                    "sourceId": "source8"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Megan Anderson Rocha Leonard",
+                    "confidence": 0.735,
+                    "sourceId": "source13"
+                },
+                {
+                    "fact": "Megan Anderson Rocha Leonard",
+                    "confidence": 0.735,
+                    "sourceId": "source14"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 28.0,
+                    "confidence": 0.657,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": 34.0,
+                    "confidence": 0.65,
+                    "sourceId": "source5"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source8",
+            "reputation": 0.42647058823529416,
+            "probabilities": [
+                0.37254901960784315,
+                0.1568627450980392,
+                0.1568627450980392,
+                0.0196078431372549,
+                0.29411764705882354
+            ],
+            "ratings": [
+                18,
+                7,
+                7,
+                0,
+                14
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.56640625,
+            "probabilities": [
+                0.296875,
+                0.109375,
+                0.09375,
+                0.03125,
+                0.46875
+            ],
+            "ratings": [
+                18,
+                6,
+                5,
+                1,
+                29
+            ]
+        },
+        {
+            "sourceId": "source13",
+            "reputation": 0.8150684931506849,
+            "probabilities": [
+                0.0136986301369863,
+                0.0273972602739726,
+                0.136986301369863,
+                0.3287671232876712,
+                0.4931506849315068
+            ],
+            "ratings": [
+                0,
+                1,
+                9,
+                23,
+                35
+            ]
+        },
+        {
+            "sourceId": "source14",
+            "reputation": 0.8166666666666667,
+            "probabilities": [
+                0.016666666666666666,
+                0.03333333333333333,
+                0.11666666666666667,
+                0.3333333333333333,
+                0.5
+            ],
+            "ratings": [
+                0,
+                1,
+                6,
+                19,
+                29
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.7640845070422535,
+            "probabilities": [
+                0.1267605633802817,
+                0.014084507042253521,
+                0.056338028169014086,
+                0.28169014084507044,
+                0.5211267605633803
+            ],
+            "ratings": [
+                8,
+                0,
+                3,
+                19,
+                36
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.6767241379310345,
+            "probabilities": [
+                0.1896551724137931,
+                0.017241379310344827,
+                0.034482758620689655,
+                0.41379310344827586,
+                0.3448275862068966
+            ],
+            "ratings": [
+                10,
+                0,
+                1,
+                23,
+                19
+            ]
+        }
+    ]
+}

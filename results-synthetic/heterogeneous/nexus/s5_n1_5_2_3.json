@@ -1,0 +1,157 @@
+{
+    "timestamp": "2025-09-17T16:17:47.965330",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 34.0,
+                    "confidence": 0.687,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": 34.0,
+                    "confidence": 0.687,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": 39.0,
+                    "confidence": 0.668,
+                    "sourceId": "source1"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Falkland Islands (Malvinas)",
+                    "confidence": 0.584,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "Falkland Islands (Malvinas)",
+                    "confidence": 0.584,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Saint Lucia",
+                    "confidence": 0.416,
+                    "sourceId": "source1"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Scott Burns Ortiz Gomez",
+                    "confidence": 0.699,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Scott Burns Ortiz Gomez",
+                    "confidence": 0.699,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Scott Burns Natalie Gomez",
+                    "confidence": 0.687,
+                    "sourceId": "source1"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source2",
+            "reputation": 0.631578947368421,
+            "probabilities": [
+                0.05263157894736842,
+                0.05263157894736842,
+                0.2631578947368421,
+                0.5789473684210527,
+                0.05263157894736842
+            ],
+            "ratings": [
+                0,
+                0,
+                4,
+                10,
+                0
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.6250000000000001,
+            "probabilities": [
+                0.05,
+                0.05,
+                0.3,
+                0.55,
+                0.05
+            ],
+            "ratings": [
+                0,
+                0,
+                5,
+                10,
+                0
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.640625,
+            "probabilities": [
+                0.0625,
+                0.0625,
+                0.1875,
+                0.625,
+                0.0625
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                9,
+                0
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.6607142857142857,
+            "probabilities": [
+                0.07142857142857142,
+                0.07142857142857142,
+                0.07142857142857142,
+                0.7142857142857143,
+                0.07142857142857142
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                9,
+                0
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.5921052631578947,
+            "probabilities": [
+                0.05263157894736842,
+                0.15789473684210525,
+                0.21052631578947367,
+                0.5263157894736842,
+                0.05263157894736842
+            ],
+            "ratings": [
+                0,
+                2,
+                3,
+                9,
+                0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "timestamp": "2025-09-17T16:17:50.638392",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Taylor Brown Thomas Odom",
+                    "confidence": 0.71,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Taylor Brown Thomas Odom",
+                    "confidence": 0.71,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Taylor Brown Thomas Odom",
+                    "confidence": 0.71,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "yayor Btown Thomas Odom",
+                    "confidence": 0.695,
+                    "sourceId": "source1"
+                },
+                {
+                    "fact": "Daniel Tran Pennington Gonzalez",
+                    "confidence": 0.551,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Cameroon",
+                    "confidence": 0.582,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Cameroon",
+                    "confidence": 0.582,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Cameroon",
+                    "confidence": 0.582,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Tajikistan",
+                    "confidence": 0.317,
+                    "sourceId": "source1"
+                },
+                {
+                    "fact": "Greece",
+                    "confidence": 0.316,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 28.0,
+                    "confidence": 0.75,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": 28.0,
+                    "confidence": 0.75,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": 28.0,
+                    "confidence": 0.75,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.741,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": 24.0,
+                    "confidence": 0.708,
+                    "sourceId": "source1"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source2",
+            "reputation": 0.515625,
+            "probabilities": [
+                0.0625,
+                0.1875,
+                0.4375,
+                0.25,
+                0.0625
+            ],
+            "ratings": [
+                0,
+                2,
+                6,
+                3,
+                0
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.6041666666666667,
+            "probabilities": [
+                0.08333333333333333,
+                0.08333333333333333,
+                0.25,
+                0.5,
+                0.08333333333333333
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                5,
+                0
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.5694444444444444,
+            "probabilities": [
+                0.05555555555555555,
+                0.05555555555555555,
+                0.5,
+                0.3333333333333333,
+                0.05555555555555555
+            ],
+            "ratings": [
+                0,
+                0,
+                8,
+                5,
+                0
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.575,
+            "probabilities": [
+                0.1,
+                0.1,
+                0.3,
+                0.4,
+                0.1
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                3,
+                0
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.5178571428571428,
+            "probabilities": [
+                0.07142857142857142,
+                0.21428571428571427,
+                0.35714285714285715,
+                0.2857142857142857,
+                0.07142857142857142
+            ],
+            "ratings": [
+                0,
+                2,
+                4,
+                3,
+                0
+            ]
+        }
+    ]
+}

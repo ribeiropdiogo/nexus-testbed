@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:16:27.489975",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 28.0,
+                    "confidence": 0.676,
+                    "sourceId": "source14"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Malawi",
+                    "confidence": 0.652,
+                    "sourceId": "source9"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Taylor Casey Henry",
+                    "confidence": 0.658,
+                    "sourceId": "source15"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source14",
+            "reputation": 0.9117647058823529,
+            "probabilities": [
+                0.014705882352941176,
+                0.014705882352941176,
+                0.04411764705882353,
+                0.16176470588235295,
+                0.7647058823529411
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                10,
+                51
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.875,
+            "probabilities": [
+                0.017857142857142856,
+                0.017857142857142856,
+                0.07142857142857142,
+                0.23214285714285715,
+                0.6607142857142857
+            ],
+            "ratings": [
+                0,
+                0,
+                3,
+                12,
+                36
+            ]
+        },
+        {
+            "sourceId": "source15",
+            "reputation": 0.8839285714285714,
+            "probabilities": [
+                0.017857142857142856,
+                0.017857142857142856,
+                0.05357142857142857,
+                0.23214285714285715,
+                0.6785714285714286
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                12,
+                37
+            ]
+        }
+    ]
+}

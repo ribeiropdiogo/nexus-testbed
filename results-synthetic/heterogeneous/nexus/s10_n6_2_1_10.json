@@ -1,0 +1,352 @@
+{
+    "timestamp": "2025-09-17T16:15:52.978010",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Anna Durham Sparks",
+                    "confidence": 0.896,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Anna Durham Sparks",
+                    "confidence": 0.896,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": "Anna Durham Sparks",
+                    "confidence": 0.896,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "Anna Durham Sparks",
+                    "confidence": 0.896,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": "Anna Durham Carol",
+                    "confidence": 0.86,
+                    "sourceId": "source1"
+                },
+                {
+                    "fact": "Ania Durham vparkt",
+                    "confidence": 0.856,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Anna Durham David",
+                    "confidence": 0.845,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Anna Melanie Sparks",
+                    "confidence": 0.821,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Sandra Hicks Little Juarez",
+                    "confidence": 0.61,
+                    "sourceId": "source6"
+                },
+                {
+                    "fact": "Jeanette Mclaughlin White",
+                    "confidence": 0.511,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Iceland",
+                    "confidence": 0.494,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": "Iceland",
+                    "confidence": 0.494,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Iceland",
+                    "confidence": 0.494,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "Iceland",
+                    "confidence": 0.494,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": "Nepal",
+                    "confidence": 0.1,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Kazakhstan",
+                    "confidence": 0.091,
+                    "sourceId": "source1"
+                },
+                {
+                    "fact": "Cape Verde",
+                    "confidence": 0.089,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Somalia",
+                    "confidence": 0.084,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Albania",
+                    "confidence": 0.082,
+                    "sourceId": "source6"
+                },
+                {
+                    "fact": "Rwanda",
+                    "confidence": 0.076,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 34.0,
+                    "confidence": 0.92,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": 34.0,
+                    "confidence": 0.92,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": 34.0,
+                    "confidence": 0.92,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": 34.0,
+                    "confidence": 0.92,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": 33.0,
+                    "confidence": 0.913,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": 36.0,
+                    "confidence": 0.912,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": 36.0,
+                    "confidence": 0.912,
+                    "sourceId": "source6"
+                },
+                {
+                    "fact": 38.0,
+                    "confidence": 0.897,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": 39.0,
+                    "confidence": 0.888,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.864,
+                    "sourceId": "source1"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source1",
+            "reputation": 0.5833333333333333,
+            "probabilities": [
+                0.12121212121212122,
+                0.15151515151515152,
+                0.18181818181818182,
+                0.36363636363636365,
+                0.18181818181818182
+            ],
+            "ratings": [
+                3,
+                4,
+                5,
+                11,
+                5
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.7222222222222222,
+            "probabilities": [
+                0.05555555555555555,
+                0.1111111111111111,
+                0.16666666666666666,
+                0.2222222222222222,
+                0.4444444444444444
+            ],
+            "ratings": [
+                0,
+                1,
+                2,
+                3,
+                7
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.5652173913043479,
+            "probabilities": [
+                0.17391304347826086,
+                0.21739130434782608,
+                0.043478260869565216,
+                0.30434782608695654,
+                0.2608695652173913
+            ],
+            "ratings": [
+                3,
+                4,
+                0,
+                6,
+                5
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.7738095238095237,
+            "probabilities": [
+                0.047619047619047616,
+                0.047619047619047616,
+                0.09523809523809523,
+                0.38095238095238093,
+                0.42857142857142855
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                7,
+                8
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.7083333333333334,
+            "probabilities": [
+                0.041666666666666664,
+                0.125,
+                0.16666666666666666,
+                0.2916666666666667,
+                0.375
+            ],
+            "ratings": [
+                0,
+                2,
+                3,
+                6,
+                8
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.6375,
+            "probabilities": [
+                0.15,
+                0.15,
+                0.05,
+                0.3,
+                0.35
+            ],
+            "ratings": [
+                2,
+                2,
+                0,
+                5,
+                6
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.5,
+            "probabilities": [
+                0.18181818181818182,
+                0.18181818181818182,
+                0.3181818181818182,
+                0.09090909090909091,
+                0.22727272727272727
+            ],
+            "ratings": [
+                3,
+                3,
+                6,
+                1,
+                4
+            ]
+        },
+        {
+            "sourceId": "source10",
+            "reputation": 0.5294117647058824,
+            "probabilities": [
+                0.058823529411764705,
+                0.4117647058823529,
+                0.17647058823529413,
+                0.058823529411764705,
+                0.29411764705882354
+            ],
+            "ratings": [
+                0,
+                6,
+                2,
+                0,
+                4
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.42857142857142855,
+            "probabilities": [
+                0.19047619047619047,
+                0.23809523809523808,
+                0.38095238095238093,
+                0.047619047619047616,
+                0.14285714285714285
+            ],
+            "ratings": [
+                3,
+                4,
+                7,
+                0,
+                2
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.515625,
+            "probabilities": [
+                0.25,
+                0.1875,
+                0.0625,
+                0.25,
+                0.25
+            ],
+            "ratings": [
+                3,
+                2,
+                0,
+                3,
+                3
+            ]
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "timestamp": "2025-09-17T16:16:44.434956",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "RegGna Hill NeKman",
+                    "confidence": 0.748,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "Regina Hill Newman",
+                    "confidence": 0.748,
+                    "sourceId": "source14"
+                },
+                {
+                    "fact": "Andrea Hill Newman",
+                    "confidence": 0.721,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Patricia Mcbride Lee",
+                    "confidence": 0.575,
+                    "sourceId": "source8"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 32.0,
+                    "confidence": 0.831,
+                    "sourceId": "source16"
+                },
+                {
+                    "fact": 32.0,
+                    "confidence": 0.831,
+                    "sourceId": "source14"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.8,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": 37.0,
+                    "confidence": 0.788,
+                    "sourceId": "source8"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Morocco",
+                    "confidence": 0.616,
+                    "sourceId": "source14"
+                },
+                {
+                    "fact": "Morocco",
+                    "confidence": 0.616,
+                    "sourceId": "source18"
+                },
+                {
+                    "fact": "Saint Pierre and Miquelon",
+                    "confidence": 0.317,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Indonesia",
+                    "confidence": 0.252,
+                    "sourceId": "source6"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source3",
+            "reputation": 0.6799065420560747,
+            "probabilities": [
+                0.24299065420560748,
+                0.018691588785046728,
+                0.04672897196261682,
+                0.1588785046728972,
+                0.5327102803738317
+            ],
+            "ratings": [
+                25,
+                1,
+                4,
+                16,
+                56
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.78125,
+            "probabilities": [
+                0.140625,
+                0.015625,
+                0.03125,
+                0.203125,
+                0.609375
+            ],
+            "ratings": [
+                8,
+                0,
+                1,
+                12,
+                38
+            ]
+        },
+        {
+            "sourceId": "source16",
+            "reputation": 0.8657894736842104,
+            "probabilities": [
+                0.010526315789473684,
+                0.010526315789473684,
+                0.11578947368421053,
+                0.23157894736842105,
+                0.631578947368421
+            ],
+            "ratings": [
+                0,
+                0,
+                10,
+                21,
+                59
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.6764705882352942,
+            "probabilities": [
+                0.058823529411764705,
+                0.011764705882352941,
+                0.43529411764705883,
+                0.15294117647058825,
+                0.3411764705882353
+            ],
+            "ratings": [
+                4,
+                0,
+                36,
+                12,
+                28
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.6386554621848739,
+            "probabilities": [
+                0.226890756302521,
+                0.08403361344537816,
+                0.08403361344537816,
+                0.11764705882352941,
+                0.48739495798319327
+            ],
+            "ratings": [
+                26,
+                9,
+                9,
+                13,
+                57
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.38671875,
+            "probabilities": [
+                0.453125,
+                0.15625,
+                0.078125,
+                0.015625,
+                0.296875
+            ],
+            "ratings": [
+                28,
+                9,
+                4,
+                0,
+                18
+            ]
+        },
+        {
+            "sourceId": "source14",
+            "reputation": 0.8103448275862069,
+            "probabilities": [
+                0.008620689655172414,
+                0.02586206896551724,
+                0.20689655172413793,
+                0.23275862068965517,
+                0.5258620689655172
+            ],
+            "ratings": [
+                0,
+                2,
+                23,
+                26,
+                60
+            ]
+        },
+        {
+            "sourceId": "source18",
+            "reputation": 0.7604166666666666,
+            "probabilities": [
+                0.013888888888888888,
+                0.041666666666666664,
+                0.2916666666666667,
+                0.19444444444444445,
+                0.4583333333333333
+            ],
+            "ratings": [
+                0,
+                2,
+                20,
+                13,
+                32
+            ]
+        }
+    ]
+}

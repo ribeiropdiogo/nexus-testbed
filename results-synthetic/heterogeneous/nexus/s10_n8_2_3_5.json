@@ -1,0 +1,277 @@
+{
+    "timestamp": "2025-09-17T16:15:59.041912",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Zimbabwe",
+                    "confidence": 0.351,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "Bulgaria",
+                    "confidence": 0.346,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Jersey",
+                    "confidence": 0.334,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "New Zealand",
+                    "confidence": 0.325,
+                    "sourceId": "source6"
+                },
+                {
+                    "fact": "Paraguay",
+                    "confidence": 0.3,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 25.0,
+                    "confidence": 0.752,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": 26.0,
+                    "confidence": 0.749,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": 24.0,
+                    "confidence": 0.748,
+                    "sourceId": "source6"
+                },
+                {
+                    "fact": 23.0,
+                    "confidence": 0.737,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": 31.0,
+                    "confidence": 0.707,
+                    "sourceId": "source8"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "James Foley Cannon",
+                    "confidence": 0.719,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": "James Foley Raymond",
+                    "confidence": 0.685,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "James Traci Cannon",
+                    "confidence": 0.677,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": "Paula Owen Mann",
+                    "confidence": 0.605,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Larry Ryan Brady Lewis",
+                    "confidence": 0.532,
+                    "sourceId": "source1"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source2",
+            "reputation": 0.41463414634146345,
+            "probabilities": [
+                0.17073170731707318,
+                0.2682926829268293,
+                0.4146341463414634,
+                0.024390243902439025,
+                0.12195121951219512
+            ],
+            "ratings": [
+                6,
+                10,
+                16,
+                0,
+                4
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.5441176470588236,
+            "probabilities": [
+                0.17647058823529413,
+                0.2647058823529412,
+                0.029411764705882353,
+                0.2647058823529412,
+                0.2647058823529412
+            ],
+            "ratings": [
+                5,
+                8,
+                0,
+                8,
+                8
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.5882352941176471,
+            "probabilities": [
+                0.09803921568627451,
+                0.21568627450980393,
+                0.0784313725490196,
+                0.45098039215686275,
+                0.1568627450980392
+            ],
+            "ratings": [
+                4,
+                10,
+                3,
+                22,
+                7
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.601063829787234,
+            "probabilities": [
+                0.02127659574468085,
+                0.3191489361702128,
+                0.1276595744680851,
+                0.2978723404255319,
+                0.23404255319148937
+            ],
+            "ratings": [
+                0,
+                14,
+                5,
+                13,
+                10
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.5208333333333334,
+            "probabilities": [
+                0.125,
+                0.25,
+                0.20833333333333334,
+                0.25,
+                0.16666666666666666
+            ],
+            "ratings": [
+                5,
+                11,
+                9,
+                11,
+                7
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.5846153846153846,
+            "probabilities": [
+                0.09230769230769231,
+                0.09230769230769231,
+                0.3076923076923077,
+                0.4,
+                0.1076923076923077
+            ],
+            "ratings": [
+                5,
+                5,
+                19,
+                25,
+                6
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.44999999999999996,
+            "probabilities": [
+                0.17142857142857143,
+                0.05714285714285714,
+                0.6571428571428571,
+                0.02857142857142857,
+                0.08571428571428572
+            ],
+            "ratings": [
+                5,
+                1,
+                22,
+                0,
+                2
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.6222222222222222,
+            "probabilities": [
+                0.1111111111111111,
+                0.1111111111111111,
+                0.08888888888888889,
+                0.5555555555555556,
+                0.13333333333333333
+            ],
+            "ratings": [
+                4,
+                4,
+                3,
+                24,
+                5
+            ]
+        },
+        {
+            "sourceId": "source10",
+            "reputation": 0.7196969696969697,
+            "probabilities": [
+                0.030303030303030304,
+                0.15151515151515152,
+                0.06060606060606061,
+                0.42424242424242425,
+                0.3333333333333333
+            ],
+            "ratings": [
+                0,
+                4,
+                1,
+                13,
+                10
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.7115384615384616,
+            "probabilities": [
+                0.11538461538461539,
+                0.038461538461538464,
+                0.038461538461538464,
+                0.5,
+                0.3076923076923077
+            ],
+            "ratings": [
+                2,
+                0,
+                0,
+                12,
+                7
+            ]
+        }
+    ]
+}

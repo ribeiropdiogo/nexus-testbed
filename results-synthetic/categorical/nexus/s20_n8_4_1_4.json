@@ -1,0 +1,104 @@
+{
+    "timestamp": "2025-09-17T16:15:05.990405",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Algeria",
+                    "confidence": 0.5,
+                    "sourceId": "source13"
+                },
+                {
+                    "fact": "Algeria",
+                    "confidence": 0.5,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "Iran",
+                    "confidence": 0.398,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "Cocos (Keeling) Islands",
+                    "confidence": 0.398,
+                    "sourceId": "source5"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source2",
+            "reputation": 0.4722222222222222,
+            "probabilities": [
+                0.1111111111111111,
+                0.2222222222222222,
+                0.4444444444444444,
+                0.1111111111111111,
+                0.1111111111111111
+            ],
+            "ratings": [
+                0,
+                1,
+                3,
+                0,
+                0
+            ]
+        },
+        {
+            "sourceId": "source13",
+            "reputation": 0.5,
+            "probabilities": [
+                0.125,
+                0.125,
+                0.5,
+                0.125,
+                0.125
+            ],
+            "ratings": [
+                0,
+                0,
+                3,
+                0,
+                0
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.46428571428571425,
+            "probabilities": [
+                0.14285714285714285,
+                0.2857142857142857,
+                0.2857142857142857,
+                0.14285714285714285,
+                0.14285714285714285
+            ],
+            "ratings": [
+                0,
+                1,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.5,
+            "probabilities": [
+                0.16666666666666666,
+                0.16666666666666666,
+                0.3333333333333333,
+                0.16666666666666666,
+                0.16666666666666666
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "timestamp": "2025-09-17T16:17:49.728669",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Taylor Brown Thomas Odom",
+                    "confidence": 0.656,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Taylor Brown Thomas Odom",
+                    "confidence": 0.656,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Daniel Tran Pennington Gonzalez",
+                    "confidence": 0.546,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 28.0,
+                    "confidence": 0.698,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": 28.0,
+                    "confidence": 0.698,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": 24.0,
+                    "confidence": 0.677,
+                    "sourceId": "source1"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Cameroon",
+                    "confidence": 0.606,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Cameroon",
+                    "confidence": 0.606,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Greece",
+                    "confidence": 0.394,
+                    "sourceId": "source2"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source3",
+            "reputation": 0.6666666666666667,
+            "probabilities": [
+                0.05555555555555555,
+                0.05555555555555555,
+                0.1111111111111111,
+                0.7222222222222222,
+                0.05555555555555555
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                12,
+                0
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.625,
+            "probabilities": [
+                0.05555555555555555,
+                0.16666666666666666,
+                0.05555555555555555,
+                0.6666666666666666,
+                0.05555555555555555
+            ],
+            "ratings": [
+                0,
+                2,
+                0,
+                11,
+                0
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.6439393939393939,
+            "probabilities": [
+                0.030303030303030304,
+                0.030303030303030304,
+                0.30303030303030304,
+                0.6060606060606061,
+                0.030303030303030304
+            ],
+            "ratings": [
+                0,
+                0,
+                9,
+                19,
+                0
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.6714285714285715,
+            "probabilities": [
+                0.02857142857142857,
+                0.02857142857142857,
+                0.2,
+                0.7142857142857143,
+                0.02857142857142857
+            ],
+            "ratings": [
+                0,
+                0,
+                6,
+                24,
+                0
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.49137931034482757,
+            "probabilities": [
+                0.034482758620689655,
+                0.20689655172413793,
+                0.5517241379310345,
+                0.1724137931034483,
+                0.034482758620689655
+            ],
+            "ratings": [
+                0,
+                5,
+                15,
+                4,
+                0
+            ]
+        }
+    ]
+}

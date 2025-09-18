@@ -1,0 +1,13 @@
+{
+    "algorithm": "Nexus",
+    "results": [
+        {
+            "result": "Mongolia",
+            "truth": "Mongolia",
+            "datatype": "categorical",
+            "metrics": {
+                "direct-comparison": 1
+            }
+        }
+    ]
+}

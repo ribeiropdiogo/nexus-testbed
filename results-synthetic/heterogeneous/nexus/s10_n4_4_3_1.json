@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:15:50.009298",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 34.0,
+                    "confidence": 0.609,
+                    "sourceId": "source9"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Steven Daniels Rodriguez",
+                    "confidence": 0.595,
+                    "sourceId": "source1"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Timor-Leste",
+                    "confidence": 0.56,
+                    "sourceId": "source3"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source9",
+            "reputation": 0.7701612903225806,
+            "probabilities": [
+                0.016129032258064516,
+                0.016129032258064516,
+                0.20967741935483872,
+                0.3870967741935484,
+                0.3709677419354839
+            ],
+            "ratings": [
+                0,
+                0,
+                12,
+                23,
+                22
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.71875,
+            "probabilities": [
+                0.10416666666666667,
+                0.020833333333333332,
+                0.125,
+                0.3958333333333333,
+                0.3541666666666667
+            ],
+            "ratings": [
+                4,
+                0,
+                5,
+                18,
+                16
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.5511363636363636,
+            "probabilities": [
+                0.20454545454545456,
+                0.18181818181818182,
+                0.1590909090909091,
+                0.11363636363636363,
+                0.3409090909090909
+            ],
+            "ratings": [
+                8,
+                7,
+                6,
+                4,
+                14
+            ]
+        }
+    ]
+}

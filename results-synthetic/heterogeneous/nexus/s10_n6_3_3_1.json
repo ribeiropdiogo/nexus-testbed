@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:15:54.490499",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 36.0,
+                    "confidence": 0.574,
+                    "sourceId": "source6"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Iceland",
+                    "confidence": 0.554,
+                    "sourceId": "source7"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Anna Durham Sparks",
+                    "confidence": 0.587,
+                    "sourceId": "source9"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source6",
+            "reputation": 0.625,
+            "probabilities": [
+                0.14583333333333334,
+                0.020833333333333332,
+                0.22916666666666666,
+                0.3958333333333333,
+                0.20833333333333334
+            ],
+            "ratings": [
+                6,
+                0,
+                10,
+                18,
+                9
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.515625,
+            "probabilities": [
+                0.03125,
+                0.34375,
+                0.375,
+                0.03125,
+                0.21875
+            ],
+            "ratings": [
+                0,
+                10,
+                11,
+                0,
+                6
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.6845238095238095,
+            "probabilities": [
+                0.023809523809523808,
+                0.16666666666666666,
+                0.21428571428571427,
+                0.23809523809523808,
+                0.35714285714285715
+            ],
+            "ratings": [
+                0,
+                6,
+                8,
+                9,
+                14
+            ]
+        }
+    ]
+}

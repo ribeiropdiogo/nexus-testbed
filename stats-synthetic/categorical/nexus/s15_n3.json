@@ -1,0 +1,8 @@
+{
+    "test": "s15_n3",
+    "rounds": 5,
+    "datatype": "categorical",
+    "categorical": {
+        "average similarity": 1.0
+    }
+}

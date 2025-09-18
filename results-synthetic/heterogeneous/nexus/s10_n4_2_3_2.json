@@ -1,0 +1,142 @@
+{
+    "timestamp": "2025-09-17T16:15:47.803258",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Andorra",
+                    "confidence": 0.761,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": "Andorra",
+                    "confidence": 0.761,
+                    "sourceId": "source5"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Brandon Daniels Rodriguez",
+                    "confidence": 0.745,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "Brandon Daniels RodrHuez",
+                    "confidence": 0.744,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 34.0,
+                    "confidence": 0.77,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": 34.0,
+                    "confidence": 0.77,
+                    "sourceId": "source7"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source5",
+            "reputation": 0.8701923076923077,
+            "probabilities": [
+                0.019230769230769232,
+                0.019230769230769232,
+                0.038461538461538464,
+                0.3076923076923077,
+                0.6153846153846154
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                15,
+                31
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.8546511627906977,
+            "probabilities": [
+                0.023255813953488372,
+                0.023255813953488372,
+                0.046511627906976744,
+                0.32558139534883723,
+                0.5813953488372093
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                13,
+                24
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.8161764705882353,
+            "probabilities": [
+                0.08823529411764706,
+                0.029411764705882353,
+                0.029411764705882353,
+                0.23529411764705882,
+                0.6176470588235294
+            ],
+            "ratings": [
+                2,
+                0,
+                0,
+                7,
+                20
+            ]
+        },
+        {
+            "sourceId": "source10",
+            "reputation": 0.8301886792452831,
+            "probabilities": [
+                0.018867924528301886,
+                0.018867924528301886,
+                0.07547169811320754,
+                0.39622641509433965,
+                0.49056603773584906
+            ],
+            "ratings": [
+                0,
+                0,
+                3,
+                20,
+                25
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.8913043478260869,
+            "probabilities": [
+                0.021739130434782608,
+                0.021739130434782608,
+                0.021739130434782608,
+                0.2391304347826087,
+                0.6956521739130435
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                10,
+                31
+            ]
+        }
+    ]
+}

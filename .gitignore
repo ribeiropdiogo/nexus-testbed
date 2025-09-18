@@ -225,9 +225,11 @@ pyrightconfig.json
 .history
 .ionide
 
+### R ###
+.Rproj.user
+
 # Ignore all results files
 results/**/*.json
 
 # Ignore all stats files
 stats/**/*.json
-.Rproj.user

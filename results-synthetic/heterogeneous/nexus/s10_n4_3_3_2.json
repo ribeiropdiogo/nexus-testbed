@@ -1,0 +1,160 @@
+{
+    "timestamp": "2025-09-17T16:15:48.920036",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Uruguay",
+                    "confidence": 0.506,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "Timor-Leste",
+                    "confidence": 0.494,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 34.0,
+                    "confidence": 0.716,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": 36.0,
+                    "confidence": 0.711,
+                    "sourceId": "source4"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Brandon Daniels Rodriguez",
+                    "confidence": 0.772,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Brandon Daniels Rodriguez",
+                    "confidence": 0.772,
+                    "sourceId": "source5"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source3",
+            "reputation": 0.5182926829268293,
+            "probabilities": [
+                0.24390243902439024,
+                0.17073170731707318,
+                0.1951219512195122,
+                0.04878048780487805,
+                0.34146341463414637
+            ],
+            "ratings": [
+                9,
+                6,
+                7,
+                1,
+                13
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.5535714285714286,
+            "probabilities": [
+                0.23809523809523808,
+                0.14285714285714285,
+                0.14285714285714285,
+                0.11904761904761904,
+                0.35714285714285715
+            ],
+            "ratings": [
+                9,
+                5,
+                5,
+                4,
+                14
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.7071428571428571,
+            "probabilities": [
+                0.14285714285714285,
+                0.02857142857142857,
+                0.14285714285714285,
+                0.22857142857142856,
+                0.45714285714285713
+            ],
+            "ratings": [
+                4,
+                0,
+                4,
+                7,
+                15
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.8618421052631579,
+            "probabilities": [
+                0.02631578947368421,
+                0.02631578947368421,
+                0.05263157894736842,
+                0.2631578947368421,
+                0.631578947368421
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                9,
+                23
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.8571428571428571,
+            "probabilities": [
+                0.02857142857142857,
+                0.02857142857142857,
+                0.05714285714285714,
+                0.2571428571428571,
+                0.6285714285714286
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                8,
+                21
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.875,
+            "probabilities": [
+                0.021739130434782608,
+                0.021739130434782608,
+                0.043478260869565216,
+                0.2608695652173913,
+                0.6521739130434783
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                11,
+                29
+            ]
+        }
+    ]
+}

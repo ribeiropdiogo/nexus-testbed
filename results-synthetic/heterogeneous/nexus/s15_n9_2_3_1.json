@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:16:35.465648",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Mozambique",
+                    "confidence": 0.541,
+                    "sourceId": "source8"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Megan Anderson Rocha Leonard",
+                    "confidence": 0.625,
+                    "sourceId": "source13"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 28.0,
+                    "confidence": 0.607,
+                    "sourceId": "source3"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source8",
+            "reputation": 0.42500000000000004,
+            "probabilities": [
+                0.38,
+                0.16,
+                0.14,
+                0.02,
+                0.3
+            ],
+            "ratings": [
+                18,
+                7,
+                6,
+                0,
+                14
+            ]
+        },
+        {
+            "sourceId": "source13",
+            "reputation": 0.8159722222222222,
+            "probabilities": [
+                0.013888888888888888,
+                0.027777777777777776,
+                0.1388888888888889,
+                0.3194444444444444,
+                0.5
+            ],
+            "ratings": [
+                0,
+                1,
+                9,
+                22,
+                35
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.7642857142857142,
+            "probabilities": [
+                0.12857142857142856,
+                0.014285714285714285,
+                0.05714285714285714,
+                0.2714285714285714,
+                0.5285714285714286
+            ],
+            "ratings": [
+                8,
+                0,
+                3,
+                18,
+                36
+            ]
+        }
+    ]
+}

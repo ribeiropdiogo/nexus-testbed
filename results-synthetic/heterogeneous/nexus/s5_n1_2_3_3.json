@@ -1,0 +1,139 @@
+{
+    "timestamp": "2025-09-17T16:17:46.456823",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 34.0,
+                    "confidence": 0.739,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": 34.0,
+                    "confidence": 0.739,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": 34.0,
+                    "confidence": 0.739,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Scott Burns Ortiz Gomez",
+                    "confidence": 0.719,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Scott Burns Ortiz Gomez",
+                    "confidence": 0.719,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Scott Burns Natalie Gomez",
+                    "confidence": 0.704,
+                    "sourceId": "source1"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Falkland Islands (Malvinas)",
+                    "confidence": 0.605,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "Falkland Islands (Malvinas)",
+                    "confidence": 0.605,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Saint Lucia",
+                    "confidence": 0.395,
+                    "sourceId": "source1"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source5",
+            "reputation": 0.7155172413793103,
+            "probabilities": [
+                0.034482758620689655,
+                0.034482758620689655,
+                0.06896551724137931,
+                0.7586206896551724,
+                0.10344827586206896
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                21,
+                2
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.65,
+            "probabilities": [
+                0.02857142857142857,
+                0.02857142857142857,
+                0.34285714285714286,
+                0.5142857142857142,
+                0.08571428571428572
+            ],
+            "ratings": [
+                0,
+                0,
+                11,
+                17,
+                2
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.55,
+            "probabilities": [
+                0.03333333333333333,
+                0.2,
+                0.3333333333333333,
+                0.4,
+                0.03333333333333333
+            ],
+            "ratings": [
+                0,
+                5,
+                9,
+                11,
+                0
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.701923076923077,
+            "probabilities": [
+                0.038461538461538464,
+                0.038461538461538464,
+                0.11538461538461539,
+                0.6923076923076923,
+                0.11538461538461539
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                17,
+                2
+            ]
+        }
+    ]
+}

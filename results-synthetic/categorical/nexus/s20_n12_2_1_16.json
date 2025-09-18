@@ -1,0 +1,380 @@
+{
+    "timestamp": "2025-09-17T16:14:55.969716",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Mozambique",
+                    "confidence": 0.644,
+                    "sourceId": "source20"
+                },
+                {
+                    "fact": "Mozambique",
+                    "confidence": 0.644,
+                    "sourceId": "source17"
+                },
+                {
+                    "fact": "Mozambique",
+                    "confidence": 0.644,
+                    "sourceId": "source19"
+                },
+                {
+                    "fact": "Mozambique",
+                    "confidence": 0.644,
+                    "sourceId": "source15"
+                },
+                {
+                    "fact": "Mozambique",
+                    "confidence": 0.644,
+                    "sourceId": "source18"
+                },
+                {
+                    "fact": "Mozambique",
+                    "confidence": 0.644,
+                    "sourceId": "source16"
+                },
+                {
+                    "fact": "Mozambique",
+                    "confidence": 0.644,
+                    "sourceId": "source13"
+                },
+                {
+                    "fact": "Vanuatu",
+                    "confidence": 0.122,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Morocco",
+                    "confidence": 0.109,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Congo",
+                    "confidence": 0.108,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": "British Indian Ocean Territory (Chagos Archipelago)",
+                    "confidence": 0.106,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "South Africa",
+                    "confidence": 0.106,
+                    "sourceId": "source11"
+                },
+                {
+                    "fact": "French Southern Territories",
+                    "confidence": 0.106,
+                    "sourceId": "source12"
+                },
+                {
+                    "fact": "South Georgia and the South Sandwich Islands",
+                    "confidence": 0.105,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": "Saint Pierre and Miquelon",
+                    "confidence": 0.105,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Malawi",
+                    "confidence": 0.105,
+                    "sourceId": "source6"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source10",
+            "reputation": 0.26190476190476186,
+            "probabilities": [
+                0.38095238095238093,
+                0.3333333333333333,
+                0.19047619047619047,
+                0.047619047619047616,
+                0.047619047619047616
+            ],
+            "ratings": [
+                7,
+                6,
+                3,
+                0,
+                0
+            ]
+        },
+        {
+            "sourceId": "source20",
+            "reputation": 0.5,
+            "probabilities": [
+                0.05,
+                0.1,
+                0.7,
+                0.1,
+                0.05
+            ],
+            "ratings": [
+                0,
+                1,
+                13,
+                1,
+                0
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.2368421052631579,
+            "probabilities": [
+                0.42105263157894735,
+                0.3684210526315789,
+                0.10526315789473684,
+                0.05263157894736842,
+                0.05263157894736842
+            ],
+            "ratings": [
+                7,
+                6,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.2222222222222222,
+            "probabilities": [
+                0.4444444444444444,
+                0.3888888888888889,
+                0.05555555555555555,
+                0.05555555555555555,
+                0.05555555555555555
+            ],
+            "ratings": [
+                7,
+                6,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "sourceId": "source17",
+            "reputation": 0.5147058823529412,
+            "probabilities": [
+                0.058823529411764705,
+                0.058823529411764705,
+                0.7058823529411765,
+                0.11764705882352941,
+                0.058823529411764705
+            ],
+            "ratings": [
+                0,
+                0,
+                11,
+                1,
+                0
+            ]
+        },
+        {
+            "sourceId": "source19",
+            "reputation": 0.515625,
+            "probabilities": [
+                0.0625,
+                0.0625,
+                0.6875,
+                0.125,
+                0.0625
+            ],
+            "ratings": [
+                0,
+                0,
+                10,
+                1,
+                0
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.21666666666666667,
+            "probabilities": [
+                0.5333333333333333,
+                0.26666666666666666,
+                0.06666666666666667,
+                0.06666666666666667,
+                0.06666666666666667
+            ],
+            "ratings": [
+                7,
+                3,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.21428571428571427,
+            "probabilities": [
+                0.5714285714285714,
+                0.21428571428571427,
+                0.07142857142857142,
+                0.07142857142857142,
+                0.07142857142857142
+            ],
+            "ratings": [
+                7,
+                2,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "sourceId": "source15",
+            "reputation": 0.5192307692307692,
+            "probabilities": [
+                0.07692307692307693,
+                0.07692307692307693,
+                0.6153846153846154,
+                0.15384615384615385,
+                0.07692307692307693
+            ],
+            "ratings": [
+                0,
+                0,
+                7,
+                1,
+                0
+            ]
+        },
+        {
+            "sourceId": "source11",
+            "reputation": 0.22916666666666663,
+            "probabilities": [
+                0.5833333333333334,
+                0.16666666666666666,
+                0.08333333333333333,
+                0.08333333333333333,
+                0.08333333333333333
+            ],
+            "ratings": [
+                6,
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "sourceId": "source12",
+            "reputation": 0.22727272727272727,
+            "probabilities": [
+                0.6363636363636364,
+                0.09090909090909091,
+                0.09090909090909091,
+                0.09090909090909091,
+                0.09090909090909091
+            ],
+            "ratings": [
+                6,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.25,
+            "probabilities": [
+                0.6,
+                0.1,
+                0.1,
+                0.1,
+                0.1
+            ],
+            "ratings": [
+                5,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "sourceId": "source18",
+            "reputation": 0.5277777777777777,
+            "probabilities": [
+                0.1111111111111111,
+                0.1111111111111111,
+                0.4444444444444444,
+                0.2222222222222222,
+                0.1111111111111111
+            ],
+            "ratings": [
+                0,
+                0,
+                3,
+                1,
+                0
+            ]
+        },
+        {
+            "sourceId": "source16",
+            "reputation": 0.53125,
+            "probabilities": [
+                0.125,
+                0.125,
+                0.375,
+                0.25,
+                0.125
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                1,
+                0
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.3571428571428571,
+            "probabilities": [
+                0.42857142857142855,
+                0.14285714285714285,
+                0.14285714285714285,
+                0.14285714285714285,
+                0.14285714285714285
+            ],
+            "ratings": [
+                2,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "sourceId": "source13",
+            "reputation": 0.5416666666666666,
+            "probabilities": [
+                0.16666666666666666,
+                0.16666666666666666,
+                0.16666666666666666,
+                0.3333333333333333,
+                0.16666666666666666
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ]
+        }
+    ]
+}

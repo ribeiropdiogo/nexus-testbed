@@ -1,0 +1,682 @@
+{
+    "timestamp": "2025-09-17T16:17:04.315406",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 30.0,
+                    "confidence": 0.996,
+                    "sourceId": "source18"
+                },
+                {
+                    "fact": 30.0,
+                    "confidence": 0.996,
+                    "sourceId": "source19"
+                },
+                {
+                    "fact": 30.0,
+                    "confidence": 0.996,
+                    "sourceId": "source20"
+                },
+                {
+                    "fact": 30.0,
+                    "confidence": 0.996,
+                    "sourceId": "source17"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.996,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.996,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": 31.0,
+                    "confidence": 0.996,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": 31.0,
+                    "confidence": 0.996,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": 28.0,
+                    "confidence": 0.995,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": 28.0,
+                    "confidence": 0.995,
+                    "sourceId": "source1"
+                },
+                {
+                    "fact": 32.0,
+                    "confidence": 0.995,
+                    "sourceId": "source14"
+                },
+                {
+                    "fact": 32.0,
+                    "confidence": 0.995,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": 32.0,
+                    "confidence": 0.995,
+                    "sourceId": "source6"
+                },
+                {
+                    "fact": 33.0,
+                    "confidence": 0.994,
+                    "sourceId": "source15"
+                },
+                {
+                    "fact": 33.0,
+                    "confidence": 0.994,
+                    "sourceId": "source12"
+                },
+                {
+                    "fact": 26.0,
+                    "confidence": 0.993,
+                    "sourceId": "source16"
+                },
+                {
+                    "fact": 34.0,
+                    "confidence": 0.992,
+                    "sourceId": "source11"
+                },
+                {
+                    "fact": 34.0,
+                    "confidence": 0.992,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": 25.0,
+                    "confidence": 0.991,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": 25.0,
+                    "confidence": 0.991,
+                    "sourceId": "source13"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Patricia Chavez Todd",
+                    "confidence": 0.99,
+                    "sourceId": "source19"
+                },
+                {
+                    "fact": "Patricia Chavez Todd",
+                    "confidence": 0.99,
+                    "sourceId": "source17"
+                },
+                {
+                    "fact": "Patricia Chavez Todd",
+                    "confidence": 0.99,
+                    "sourceId": "source18"
+                },
+                {
+                    "fact": "Patricia Chavez Todd",
+                    "confidence": 0.99,
+                    "sourceId": "source20"
+                },
+                {
+                    "fact": "Patricic Chave Todd",
+                    "confidence": 0.985,
+                    "sourceId": "source14"
+                },
+                {
+                    "fact": "Patricia havz Tdd",
+                    "confidence": 0.983,
+                    "sourceId": "source6"
+                },
+                {
+                    "fact": "ParDcia Chavez Todd",
+                    "confidence": 0.983,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Patricia Cavez ody",
+                    "confidence": 0.982,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Patricia Leslie Todd",
+                    "confidence": 0.976,
+                    "sourceId": "source13"
+                },
+                {
+                    "fact": "Patricia John Todd",
+                    "confidence": 0.97,
+                    "sourceId": "source16"
+                },
+                {
+                    "fact": "Patricia Maria Todd",
+                    "confidence": 0.97,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": "Richard Chavez Todd",
+                    "confidence": 0.959,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "Patricia Chavez Garrett",
+                    "confidence": 0.956,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": "Andrea Chavez Todd",
+                    "confidence": 0.951,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Katherine Chavez Todd",
+                    "confidence": 0.948,
+                    "sourceId": "source1"
+                },
+                {
+                    "fact": "Troy Chavez Todd",
+                    "confidence": 0.93,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "Shawn Craig Hatfield",
+                    "confidence": 0.692,
+                    "sourceId": "source11"
+                },
+                {
+                    "fact": "Matthew Cooper Rangel Gonzales",
+                    "confidence": 0.633,
+                    "sourceId": "source15"
+                },
+                {
+                    "fact": "Lisa Brown Brown Hess",
+                    "confidence": 0.396,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Susan Allen Green Willis",
+                    "confidence": 0.287,
+                    "sourceId": "source12"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Slovakia (Slovak Republic)",
+                    "confidence": 0.033,
+                    "sourceId": "source18"
+                },
+                {
+                    "fact": "Slovakia (Slovak Republic)",
+                    "confidence": 0.033,
+                    "sourceId": "source20"
+                },
+                {
+                    "fact": "Slovakia (Slovak Republic)",
+                    "confidence": 0.033,
+                    "sourceId": "source17"
+                },
+                {
+                    "fact": "Slovakia (Slovak Republic)",
+                    "confidence": 0.033,
+                    "sourceId": "source19"
+                },
+                {
+                    "fact": "Egypt",
+                    "confidence": 0.005,
+                    "sourceId": "source13"
+                },
+                {
+                    "fact": "Uzbekistan",
+                    "confidence": 0.005,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "Netherlands Antilles",
+                    "confidence": 0.003,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "Russian Federation",
+                    "confidence": 0.003,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Lebanon",
+                    "confidence": 0.002,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Grenada",
+                    "confidence": 0.002,
+                    "sourceId": "source16"
+                },
+                {
+                    "fact": "Peru",
+                    "confidence": 0.002,
+                    "sourceId": "source1"
+                },
+                {
+                    "fact": "United States Minor Outlying Islands",
+                    "confidence": 0.002,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Congo",
+                    "confidence": 0.002,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": "Liechtenstein",
+                    "confidence": 0.002,
+                    "sourceId": "source14"
+                },
+                {
+                    "fact": "Marshall Islands",
+                    "confidence": 0.002,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Ghana",
+                    "confidence": 0.002,
+                    "sourceId": "source15"
+                },
+                {
+                    "fact": "Seychelles",
+                    "confidence": 0.002,
+                    "sourceId": "source12"
+                },
+                {
+                    "fact": "Guam",
+                    "confidence": 0.002,
+                    "sourceId": "source11"
+                },
+                {
+                    "fact": "South Georgia and the South Sandwich Islands",
+                    "confidence": 0.002,
+                    "sourceId": "source6"
+                },
+                {
+                    "fact": "Bangladesh",
+                    "confidence": 0.002,
+                    "sourceId": "source10"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source11",
+            "reputation": 0.48392857142857143,
+            "probabilities": [
+                0.2785714285714286,
+                0.1,
+                0.18571428571428572,
+                0.2785714285714286,
+                0.15714285714285714
+            ],
+            "ratings": [
+                38,
+                13,
+                25,
+                38,
+                21
+            ]
+        },
+        {
+            "sourceId": "source10",
+            "reputation": 0.35843373493975905,
+            "probabilities": [
+                0.46987951807228917,
+                0.1686746987951807,
+                0.08433734939759036,
+                0.012048192771084338,
+                0.26506024096385544
+            ],
+            "ratings": [
+                38,
+                13,
+                6,
+                0,
+                21
+            ]
+        },
+        {
+            "sourceId": "source14",
+            "reputation": 0.5464601769911505,
+            "probabilities": [
+                0.34513274336283184,
+                0.10619469026548672,
+                0.05309734513274336,
+                0.008849557522123894,
+                0.48672566371681414
+            ],
+            "ratings": [
+                38,
+                11,
+                5,
+                0,
+                54
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.6044776119402985,
+            "probabilities": [
+                0.27611940298507465,
+                0.1044776119402985,
+                0.03731343283582089,
+                0.08955223880597014,
+                0.4925373134328358
+            ],
+            "ratings": [
+                36,
+                13,
+                4,
+                11,
+                65
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.6065573770491803,
+            "probabilities": [
+                0.30327868852459017,
+                0.10655737704918032,
+                0.00819672131147541,
+                0.02459016393442623,
+                0.5573770491803278
+            ],
+            "ratings": [
+                36,
+                12,
+                0,
+                2,
+                67
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.6197478991596639,
+            "probabilities": [
+                0.31092436974789917,
+                0.08403361344537816,
+                0.008403361344537815,
+                0.008403361344537815,
+                0.5882352941176471
+            ],
+            "ratings": [
+                36,
+                9,
+                0,
+                0,
+                69
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.5747663551401869,
+            "probabilities": [
+                0.3364485981308411,
+                0.07476635514018691,
+                0.009345794392523364,
+                0.11214953271028037,
+                0.4672897196261682
+            ],
+            "ratings": [
+                35,
+                7,
+                0,
+                11,
+                49
+            ]
+        },
+        {
+            "sourceId": "source12",
+            "reputation": 0.49390243902439024,
+            "probabilities": [
+                0.23170731707317074,
+                0.1951219512195122,
+                0.21951219512195122,
+                0.07317073170731707,
+                0.2804878048780488
+            ],
+            "ratings": [
+                37,
+                31,
+                35,
+                11,
+                45
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.47972972972972977,
+            "probabilities": [
+                0.5,
+                0.013513513513513514,
+                0.013513513513513514,
+                0.013513513513513514,
+                0.4594594594594595
+            ],
+            "ratings": [
+                36,
+                0,
+                0,
+                0,
+                33
+            ]
+        },
+        {
+            "sourceId": "source20",
+            "reputation": 0.68359375,
+            "probabilities": [
+                0.2109375,
+                0.0625,
+                0.0703125,
+                0.09375,
+                0.5625
+            ],
+            "ratings": [
+                26,
+                7,
+                8,
+                11,
+                71
+            ]
+        },
+        {
+            "sourceId": "source18",
+            "reputation": 0.6234939759036146,
+            "probabilities": [
+                0.2891566265060241,
+                0.0963855421686747,
+                0.012048192771084338,
+                0.03614457831325301,
+                0.5662650602409639
+            ],
+            "ratings": [
+                23,
+                7,
+                0,
+                2,
+                46
+            ]
+        },
+        {
+            "sourceId": "source15",
+            "reputation": 0.5255102040816326,
+            "probabilities": [
+                0.2857142857142857,
+                0.01020408163265306,
+                0.21428571428571427,
+                0.29591836734693877,
+                0.19387755102040816
+            ],
+            "ratings": [
+                27,
+                0,
+                20,
+                28,
+                18
+            ]
+        },
+        {
+            "sourceId": "source19",
+            "reputation": 0.7521551724137931,
+            "probabilities": [
+                0.1896551724137931,
+                0.034482758620689655,
+                0.017241379310344827,
+                0.09482758620689655,
+                0.6637931034482759
+            ],
+            "ratings": [
+                21,
+                3,
+                1,
+                10,
+                76
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.7303370786516854,
+            "probabilities": [
+                0.24719101123595505,
+                0.011235955056179775,
+                0.011235955056179775,
+                0.033707865168539325,
+                0.6966292134831461
+            ],
+            "ratings": [
+                21,
+                0,
+                0,
+                2,
+                61
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.5371621621621622,
+            "probabilities": [
+                0.25675675675675674,
+                0.02702702702702703,
+                0.36486486486486486,
+                0.013513513513513514,
+                0.33783783783783783
+            ],
+            "ratings": [
+                18,
+                1,
+                26,
+                0,
+                24
+            ]
+        },
+        {
+            "sourceId": "source16",
+            "reputation": 0.6022727272727273,
+            "probabilities": [
+                0.36363636363636365,
+                0.022727272727272728,
+                0.022727272727272728,
+                0.022727272727272728,
+                0.5681818181818182
+            ],
+            "ratings": [
+                15,
+                0,
+                0,
+                0,
+                24
+            ]
+        },
+        {
+            "sourceId": "source17",
+            "reputation": 0.8418367346938775,
+            "probabilities": [
+                0.1326530612244898,
+                0.01020408163265306,
+                0.01020408163265306,
+                0.05102040816326531,
+                0.7959183673469388
+            ],
+            "ratings": [
+                12,
+                0,
+                0,
+                4,
+                77
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.7553191489361702,
+            "probabilities": [
+                0.2127659574468085,
+                0.02127659574468085,
+                0.02127659574468085,
+                0.02127659574468085,
+                0.723404255319149
+            ],
+            "ratings": [
+                9,
+                0,
+                0,
+                0,
+                33
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.8761682242990654,
+            "probabilities": [
+                0.06542056074766354,
+                0.009345794392523364,
+                0.009345794392523364,
+                0.18691588785046728,
+                0.7289719626168224
+            ],
+            "ratings": [
+                6,
+                0,
+                0,
+                19,
+                77
+            ]
+        },
+        {
+            "sourceId": "source13",
+            "reputation": 0.8799999999999999,
+            "probabilities": [
+                0.08,
+                0.02,
+                0.02,
+                0.06,
+                0.82
+            ],
+            "ratings": [
+                3,
+                0,
+                0,
+                2,
+                40
+            ]
+        }
+    ]
+}

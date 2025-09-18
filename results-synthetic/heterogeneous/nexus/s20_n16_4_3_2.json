@@ -1,0 +1,124 @@
+{
+    "timestamp": "2025-09-17T16:17:10.002542",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Patricia Chavez Garrett",
+                    "confidence": 0.578,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": "Shawn Craig Hatfield",
+                    "confidence": 0.561,
+                    "sourceId": "source11"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Grenada",
+                    "confidence": 0.503,
+                    "sourceId": "source16"
+                },
+                {
+                    "fact": "Congo",
+                    "confidence": 0.497,
+                    "sourceId": "source8"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 26.0,
+                    "confidence": 0.607,
+                    "sourceId": "source16"
+                },
+                {
+                    "fact": 33.0,
+                    "confidence": 0.601,
+                    "sourceId": "source15"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source11",
+            "reputation": 0.49744897959183676,
+            "probabilities": [
+                0.2755102040816326,
+                0.09183673469387756,
+                0.21428571428571427,
+                0.20408163265306123,
+                0.21428571428571427
+            ],
+            "ratings": [
+                26,
+                8,
+                20,
+                19,
+                20
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.6115702479338843,
+            "probabilities": [
+                0.21487603305785125,
+                0.08264462809917356,
+                0.1322314049586777,
+                0.18181818181818182,
+                0.3884297520661157
+            ],
+            "ratings": [
+                25,
+                9,
+                15,
+                21,
+                46
+            ]
+        },
+        {
+            "sourceId": "source16",
+            "reputation": 0.6270491803278688,
+            "probabilities": [
+                0.20491803278688525,
+                0.08196721311475409,
+                0.09836065573770492,
+                0.22950819672131148,
+                0.38524590163934425
+            ],
+            "ratings": [
+                24,
+                9,
+                11,
+                27,
+                46
+            ]
+        },
+        {
+            "sourceId": "source15",
+            "reputation": 0.5514705882352942,
+            "probabilities": [
+                0.2549019607843137,
+                0.0784313725490196,
+                0.14705882352941177,
+                0.24509803921568626,
+                0.27450980392156865
+            ],
+            "ratings": [
+                25,
+                7,
+                14,
+                24,
+                27
+            ]
+        }
+    ]
+}

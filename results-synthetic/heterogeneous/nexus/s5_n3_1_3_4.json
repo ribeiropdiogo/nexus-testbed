@@ -1,0 +1,172 @@
+{
+    "timestamp": "2025-09-17T16:17:51.390024",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Bulgaria",
+                    "confidence": 0.535,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Bulgaria",
+                    "confidence": 0.535,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Slovenia",
+                    "confidence": 0.364,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "Brazil",
+                    "confidence": 0.347,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 35.0,
+                    "confidence": 0.717,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": 35.0,
+                    "confidence": 0.717,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": 39.0,
+                    "confidence": 0.711,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": 40.0,
+                    "confidence": 0.705,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Patrick Shelton Thompson",
+                    "confidence": 0.632,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Patrick hlton hompson",
+                    "confidence": 0.629,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "Marcus Gutierrez Castillo",
+                    "confidence": 0.552,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Kimberly Manning White",
+                    "confidence": 0.552,
+                    "sourceId": "source1"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source5",
+            "reputation": 0.625,
+            "probabilities": [
+                0.03125,
+                0.03125,
+                0.375,
+                0.53125,
+                0.03125
+            ],
+            "ratings": [
+                0,
+                0,
+                11,
+                16,
+                0
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.5625,
+            "probabilities": [
+                0.03125,
+                0.1875,
+                0.3125,
+                0.4375,
+                0.03125
+            ],
+            "ratings": [
+                0,
+                5,
+                9,
+                13,
+                0
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.49999999999999994,
+            "probabilities": [
+                0.05,
+                0.15,
+                0.6,
+                0.15,
+                0.05
+            ],
+            "ratings": [
+                0,
+                2,
+                11,
+                2,
+                0
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.5,
+            "probabilities": [
+                0.038461538461538464,
+                0.23076923076923078,
+                0.46153846153846156,
+                0.23076923076923078,
+                0.038461538461538464
+            ],
+            "ratings": [
+                0,
+                5,
+                11,
+                5,
+                0
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.6357142857142857,
+            "probabilities": [
+                0.02857142857142857,
+                0.02857142857142857,
+                0.34285714285714286,
+                0.5714285714285714,
+                0.02857142857142857
+            ],
+            "ratings": [
+                0,
+                0,
+                11,
+                19,
+                0
+            ]
+        }
+    ]
+}

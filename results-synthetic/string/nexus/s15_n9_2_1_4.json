@@ -1,0 +1,104 @@
+{
+    "timestamp": "2025-09-17T16:18:08.454372",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Samantha Kemp Valenzuela Villegas",
+                    "confidence": 0.682,
+                    "sourceId": "source15"
+                },
+                {
+                    "fact": "Samantha Kemp Valenzuela Villegas",
+                    "confidence": 0.682,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": "amantha Kemp Valenzuila Villegas",
+                    "confidence": 0.681,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Melissa Kemp Valenzuela Villegas",
+                    "confidence": 0.641,
+                    "sourceId": "source9"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source15",
+            "reputation": 0.5555555555555556,
+            "probabilities": [
+                0.1111111111111111,
+                0.1111111111111111,
+                0.3333333333333333,
+                0.3333333333333333,
+                0.1111111111111111
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                2,
+                0
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.5625,
+            "probabilities": [
+                0.125,
+                0.125,
+                0.25,
+                0.375,
+                0.125
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                2,
+                0
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.5714285714285714,
+            "probabilities": [
+                0.14285714285714285,
+                0.14285714285714285,
+                0.14285714285714285,
+                0.42857142857142855,
+                0.14285714285714285
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                2,
+                0
+            ]
+        },
+        {
+            "sourceId": "source10",
+            "reputation": 0.5416666666666666,
+            "probabilities": [
+                0.16666666666666666,
+                0.16666666666666666,
+                0.16666666666666666,
+                0.3333333333333333,
+                0.16666666666666666
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ]
+        }
+    ]
+}

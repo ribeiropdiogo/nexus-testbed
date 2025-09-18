@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:16:22.888776",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Taylor Casey Henry",
+                    "confidence": 0.632,
+                    "sourceId": "source8"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 24.0,
+                    "confidence": 0.558,
+                    "sourceId": "source6"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Ghana",
+                    "confidence": 0.559,
+                    "sourceId": "source1"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source8",
+            "reputation": 0.8333333333333333,
+            "probabilities": [
+                0.023809523809523808,
+                0.023809523809523808,
+                0.11904761904761904,
+                0.2619047619047619,
+                0.5714285714285714
+            ],
+            "ratings": [
+                0,
+                0,
+                4,
+                10,
+                23
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.5405405405405406,
+            "probabilities": [
+                0.24324324324324326,
+                0.10810810810810811,
+                0.16216216216216217,
+                0.21621621621621623,
+                0.2702702702702703
+            ],
+            "ratings": [
+                8,
+                3,
+                5,
+                7,
+                9
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.5441176470588235,
+            "probabilities": [
+                0.2647058823529412,
+                0.14705882352941177,
+                0.14705882352941177,
+                0.029411764705882353,
+                0.4117647058823529
+            ],
+            "ratings": [
+                8,
+                4,
+                4,
+                0,
+                13
+            ]
+        }
+    ]
+}

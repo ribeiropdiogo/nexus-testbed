@@ -1,0 +1,172 @@
+{
+    "timestamp": "2025-09-17T16:17:52.514323",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 35.0,
+                    "confidence": 0.724,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": 35.0,
+                    "confidence": 0.724,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": 39.0,
+                    "confidence": 0.722,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": 40.0,
+                    "confidence": 0.716,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Bulgaria",
+                    "confidence": 0.538,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Bulgaria",
+                    "confidence": 0.538,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Brazil",
+                    "confidence": 0.368,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Norway",
+                    "confidence": 0.351,
+                    "sourceId": "source1"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Patrick Shelton Thompson",
+                    "confidence": 0.702,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Patrick Shelton Thompson",
+                    "confidence": 0.702,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Patrick hlton hompson",
+                    "confidence": 0.696,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "Marcus Gutierrez Castillo",
+                    "confidence": 0.561,
+                    "sourceId": "source3"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source1",
+            "reputation": 0.46739130434782605,
+            "probabilities": [
+                0.043478260869565216,
+                0.2608695652173913,
+                0.5217391304347826,
+                0.13043478260869565,
+                0.043478260869565216
+            ],
+            "ratings": [
+                0,
+                5,
+                11,
+                2,
+                0
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.5928571428571429,
+            "probabilities": [
+                0.02857142857142857,
+                0.02857142857142857,
+                0.5142857142857142,
+                0.4,
+                0.02857142857142857
+            ],
+            "ratings": [
+                0,
+                0,
+                17,
+                13,
+                0
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.5258620689655172,
+            "probabilities": [
+                0.034482758620689655,
+                0.20689655172413793,
+                0.41379310344827586,
+                0.3103448275862069,
+                0.034482758620689655
+            ],
+            "ratings": [
+                0,
+                5,
+                11,
+                8,
+                0
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.640625,
+            "probabilities": [
+                0.03125,
+                0.03125,
+                0.3125,
+                0.59375,
+                0.03125
+            ],
+            "ratings": [
+                0,
+                0,
+                9,
+                18,
+                0
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.625,
+            "probabilities": [
+                0.038461538461538464,
+                0.11538461538461539,
+                0.19230769230769232,
+                0.6153846153846154,
+                0.038461538461538464
+            ],
+            "ratings": [
+                0,
+                2,
+                4,
+                15,
+                0
+            ]
+        }
+    ]
+}

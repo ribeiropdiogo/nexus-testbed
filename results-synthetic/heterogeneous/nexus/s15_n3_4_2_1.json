@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:16:18.864650",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 29.0,
+                    "confidence": 0.63,
+                    "sourceId": "source4"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Robert Gonzalez Wilson Hunter",
+                    "confidence": 0.649,
+                    "sourceId": "source11"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Bolivia",
+                    "confidence": 0.636,
+                    "sourceId": "source13"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source4",
+            "reputation": 0.8285714285714285,
+            "probabilities": [
+                0.02857142857142857,
+                0.02857142857142857,
+                0.08571428571428572,
+                0.3142857142857143,
+                0.5428571428571428
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                10,
+                18
+            ]
+        },
+        {
+            "sourceId": "source11",
+            "reputation": 0.8671875,
+            "probabilities": [
+                0.03125,
+                0.03125,
+                0.0625,
+                0.1875,
+                0.6875
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                5,
+                21
+            ]
+        },
+        {
+            "sourceId": "source13",
+            "reputation": 0.8418367346938775,
+            "probabilities": [
+                0.02040816326530612,
+                0.02040816326530612,
+                0.08163265306122448,
+                0.32653061224489793,
+                0.5510204081632653
+            ],
+            "ratings": [
+                0,
+                0,
+                3,
+                15,
+                26
+            ]
+        }
+    ]
+}

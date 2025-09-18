@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:16:11.942852",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Albert JoRnson Moreno Brigh",
+                    "confidence": 0.6,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Antigua and Barbuda",
+                    "confidence": 0.566,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 27.0,
+                    "confidence": 0.576,
+                    "sourceId": "source11"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source2",
+            "reputation": 0.734375,
+            "probabilities": [
+                0.14583333333333334,
+                0.020833333333333332,
+                0.10416666666666667,
+                0.20833333333333334,
+                0.5208333333333334
+            ],
+            "ratings": [
+                6,
+                0,
+                4,
+                9,
+                24
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.5844594594594594,
+            "probabilities": [
+                0.22972972972972974,
+                0.12162162162162163,
+                0.12162162162162163,
+                0.13513513513513514,
+                0.3918918918918919
+            ],
+            "ratings": [
+                16,
+                8,
+                8,
+                9,
+                28
+            ]
+        },
+        {
+            "sourceId": "source11",
+            "reputation": 0.6357142857142857,
+            "probabilities": [
+                0.24285714285714285,
+                0.04285714285714286,
+                0.07142857142857142,
+                0.21428571428571427,
+                0.42857142857142855
+            ],
+            "ratings": [
+                16,
+                2,
+                4,
+                14,
+                29
+            ]
+        }
+    ]
+}

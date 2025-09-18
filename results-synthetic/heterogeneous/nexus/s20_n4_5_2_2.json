@@ -1,0 +1,160 @@
+{
+    "timestamp": "2025-09-17T16:17:27.723994",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 29.0,
+                    "confidence": 0.798,
+                    "sourceId": "source12"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.798,
+                    "sourceId": "source19"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Alexis Smith Dean Cox",
+                    "confidence": 0.819,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Alexis Smith Dean Cox",
+                    "confidence": 0.819,
+                    "sourceId": "source10"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Russian Federation",
+                    "confidence": 0.79,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "Russian Federation",
+                    "confidence": 0.79,
+                    "sourceId": "source14"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source12",
+            "reputation": 0.881578947368421,
+            "probabilities": [
+                0.02631578947368421,
+                0.02631578947368421,
+                0.05263157894736842,
+                0.18421052631578946,
+                0.7105263157894737
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                6,
+                26
+            ]
+        },
+        {
+            "sourceId": "source19",
+            "reputation": 0.90625,
+            "probabilities": [
+                0.025,
+                0.025,
+                0.025,
+                0.15,
+                0.775
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                5,
+                30
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.9114583333333333,
+            "probabilities": [
+                0.020833333333333332,
+                0.020833333333333332,
+                0.041666666666666664,
+                0.125,
+                0.7916666666666666
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                5,
+                37
+            ]
+        },
+        {
+            "sourceId": "source10",
+            "reputation": 0.9285714285714286,
+            "probabilities": [
+                0.02040816326530612,
+                0.02040816326530612,
+                0.02040816326530612,
+                0.10204081632653061,
+                0.8367346938775511
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                4,
+                40
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.9067796610169492,
+            "probabilities": [
+                0.01694915254237288,
+                0.01694915254237288,
+                0.05084745762711865,
+                0.15254237288135594,
+                0.7627118644067796
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                8,
+                44
+            ]
+        },
+        {
+            "sourceId": "source14",
+            "reputation": 0.8629032258064515,
+            "probabilities": [
+                0.03225806451612903,
+                0.03225806451612903,
+                0.06451612903225806,
+                0.1935483870967742,
+                0.6774193548387096
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                5,
+                20
+            ]
+        }
+    ]
+}

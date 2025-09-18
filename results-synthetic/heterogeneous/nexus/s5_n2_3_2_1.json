@@ -1,0 +1,73 @@
+{
+    "timestamp": "2025-09-17T16:17:49.557973",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Daniel Tran Pennington Gonzalez",
+                    "confidence": 0.552,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 28.0,
+                    "confidence": 0.57,
+                    "sourceId": "source5"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Cameroon",
+                    "confidence": 0.569,
+                    "sourceId": "source5"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source2",
+            "reputation": 0.5,
+            "probabilities": [
+                0.0625,
+                0.1875,
+                0.5,
+                0.1875,
+                0.0625
+            ],
+            "ratings": [
+                0,
+                2,
+                7,
+                2,
+                0
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.5972222222222222,
+            "probabilities": [
+                0.05555555555555555,
+                0.05555555555555555,
+                0.3888888888888889,
+                0.4444444444444444,
+                0.05555555555555555
+            ],
+            "ratings": [
+                0,
+                0,
+                6,
+                7,
+                0
+            ]
+        }
+    ]
+}

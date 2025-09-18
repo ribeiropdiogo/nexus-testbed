@@ -1,0 +1,142 @@
+{
+    "timestamp": "2025-09-17T16:16:29.515292",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 28.0,
+                    "confidence": 0.732,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": 27.0,
+                    "confidence": 0.726,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Taylor Casey Kenneth",
+                    "confidence": 0.582,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "Rebecca Bailey Hatfield Wilson",
+                    "confidence": 0.571,
+                    "sourceId": "source6"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Malawi",
+                    "confidence": 0.575,
+                    "sourceId": "source15"
+                },
+                {
+                    "fact": "Tokelau",
+                    "confidence": 0.425,
+                    "sourceId": "source3"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source8",
+            "reputation": 0.902542372881356,
+            "probabilities": [
+                0.01694915254237288,
+                0.01694915254237288,
+                0.05084745762711865,
+                0.1694915254237288,
+                0.7457627118644068
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                9,
+                43
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.6,
+            "probabilities": [
+                0.12727272727272726,
+                0.01818181818181818,
+                0.41818181818181815,
+                0.2,
+                0.23636363636363636
+            ],
+            "ratings": [
+                6,
+                0,
+                22,
+                10,
+                12
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.6536144578313253,
+            "probabilities": [
+                0.2289156626506024,
+                0.03614457831325301,
+                0.07228915662650602,
+                0.21686746987951808,
+                0.4457831325301205
+            ],
+            "ratings": [
+                18,
+                2,
+                5,
+                17,
+                36
+            ]
+        },
+        {
+            "sourceId": "source15",
+            "reputation": 0.8492063492063492,
+            "probabilities": [
+                0.015873015873015872,
+                0.015873015873015872,
+                0.15873015873015872,
+                0.1746031746031746,
+                0.6349206349206349
+            ],
+            "ratings": [
+                0,
+                0,
+                9,
+                10,
+                39
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.5993589743589743,
+            "probabilities": [
+                0.24358974358974358,
+                0.10256410256410256,
+                0.08974358974358974,
+                0.14102564102564102,
+                0.4230769230769231
+            ],
+            "ratings": [
+                18,
+                7,
+                6,
+                10,
+                32
+            ]
+        }
+    ]
+}

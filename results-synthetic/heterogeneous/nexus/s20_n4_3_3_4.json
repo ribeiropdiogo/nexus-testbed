@@ -1,0 +1,226 @@
+{
+    "timestamp": "2025-09-17T16:17:22.802503",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 29.0,
+                    "confidence": 0.961,
+                    "sourceId": "source18"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.961,
+                    "sourceId": "source15"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.961,
+                    "sourceId": "source13"
+                },
+                {
+                    "fact": 31.0,
+                    "confidence": 0.949,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Alexis Smith Dean Cox",
+                    "confidence": 0.971,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Alexis Smith Dean Cox",
+                    "confidence": 0.971,
+                    "sourceId": "source12"
+                },
+                {
+                    "fact": "Alexis Smith Dean Cox",
+                    "confidence": 0.971,
+                    "sourceId": "source18"
+                },
+                {
+                    "fact": "Alexis Smith Dean Cox",
+                    "confidence": 0.971,
+                    "sourceId": "source8"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Russian Federation",
+                    "confidence": 0.971,
+                    "sourceId": "source18"
+                },
+                {
+                    "fact": "Russian Federation",
+                    "confidence": 0.971,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Russian Federation",
+                    "confidence": 0.971,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Russian Federation",
+                    "confidence": 0.971,
+                    "sourceId": "source8"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source3",
+            "reputation": 0.8363636363636364,
+            "probabilities": [
+                0.09090909090909091,
+                0.01818181818181818,
+                0.03636363636363636,
+                0.16363636363636364,
+                0.6909090909090909
+            ],
+            "ratings": [
+                4,
+                0,
+                1,
+                8,
+                37
+            ]
+        },
+        {
+            "sourceId": "source15",
+            "reputation": 0.9598765432098765,
+            "probabilities": [
+                0.012345679012345678,
+                0.012345679012345678,
+                0.012345679012345678,
+                0.04938271604938271,
+                0.9135802469135802
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                3,
+                73
+            ]
+        },
+        {
+            "sourceId": "source13",
+            "reputation": 0.9558823529411764,
+            "probabilities": [
+                0.014705882352941176,
+                0.014705882352941176,
+                0.014705882352941176,
+                0.04411764705882353,
+                0.9117647058823529
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                2,
+                61
+            ]
+        },
+        {
+            "sourceId": "source12",
+            "reputation": 0.9583333333333334,
+            "probabilities": [
+                0.011904761904761904,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.05952380952380952,
+                0.9047619047619048
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                4,
+                75
+            ]
+        },
+        {
+            "sourceId": "source18",
+            "reputation": 0.94140625,
+            "probabilities": [
+                0.0078125,
+                0.0078125,
+                0.015625,
+                0.1484375,
+                0.8203125
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                18,
+                104
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.9362244897959184,
+            "probabilities": [
+                0.01020408163265306,
+                0.01020408163265306,
+                0.02040816326530612,
+                0.14285714285714285,
+                0.8163265306122449
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                13,
+                79
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.9595959595959596,
+            "probabilities": [
+                0.010101010101010102,
+                0.010101010101010102,
+                0.010101010101010102,
+                0.0707070707070707,
+                0.898989898989899
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                6,
+                88
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.9493670886075949,
+            "probabilities": [
+                0.012658227848101266,
+                0.012658227848101266,
+                0.012658227848101266,
+                0.08860759493670886,
+                0.8734177215189873
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                6,
+                68
+            ]
+        }
+    ]
+}

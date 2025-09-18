@@ -1,0 +1,73 @@
+{
+    "timestamp": "2025-09-17T16:15:44.092903",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Malta",
+                    "confidence": 0.613,
+                    "sourceId": "source10"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 33.0,
+                    "confidence": 0.612,
+                    "sourceId": "source10"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Erin Flynn Dixon Shannon",
+                    "confidence": 0.631,
+                    "sourceId": "source7"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source10",
+            "reputation": 0.78125,
+            "probabilities": [
+                0.03125,
+                0.03125,
+                0.1875,
+                0.28125,
+                0.46875
+            ],
+            "ratings": [
+                0,
+                0,
+                5,
+                8,
+                14
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.83,
+            "probabilities": [
+                0.04,
+                0.04,
+                0.08,
+                0.24,
+                0.6
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                5,
+                14
+            ]
+        }
+    ]
+}

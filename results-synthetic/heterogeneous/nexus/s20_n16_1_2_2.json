@@ -1,0 +1,160 @@
+{
+    "timestamp": "2025-09-17T16:16:59.277310",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 34.0,
+                    "confidence": 0.615,
+                    "sourceId": "source11"
+                },
+                {
+                    "fact": 25.0,
+                    "confidence": 0.597,
+                    "sourceId": "source13"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Patricia havz Tdd",
+                    "confidence": 0.6,
+                    "sourceId": "source6"
+                },
+                {
+                    "fact": "Andrea Chavez Todd",
+                    "confidence": 0.59,
+                    "sourceId": "source5"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Slovakia (Slovak Republic)",
+                    "confidence": 0.531,
+                    "sourceId": "source18"
+                },
+                {
+                    "fact": "Ghana",
+                    "confidence": 0.469,
+                    "sourceId": "source15"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source13",
+            "reputation": 0.5222222222222221,
+            "probabilities": [
+                0.3111111111111111,
+                0.08888888888888889,
+                0.13333333333333333,
+                0.13333333333333333,
+                0.3333333333333333
+            ],
+            "ratings": [
+                13,
+                3,
+                5,
+                5,
+                14
+            ]
+        },
+        {
+            "sourceId": "source11",
+            "reputation": 0.7045454545454546,
+            "probabilities": [
+                0.13636363636363635,
+                0.022727272727272728,
+                0.045454545454545456,
+                0.4772727272727273,
+                0.3181818181818182
+            ],
+            "ratings": [
+                5,
+                0,
+                1,
+                20,
+                13
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.65,
+            "probabilities": [
+                0.23636363636363636,
+                0.03636363636363636,
+                0.09090909090909091,
+                0.16363636363636364,
+                0.4727272727272727
+            ],
+            "ratings": [
+                12,
+                1,
+                4,
+                8,
+                25
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.5568181818181818,
+            "probabilities": [
+                0.3181818181818182,
+                0.045454545454545456,
+                0.06818181818181818,
+                0.22727272727272727,
+                0.3409090909090909
+            ],
+            "ratings": [
+                13,
+                1,
+                2,
+                9,
+                14
+            ]
+        },
+        {
+            "sourceId": "source18",
+            "reputation": 0.6339285714285714,
+            "probabilities": [
+                0.21428571428571427,
+                0.08928571428571429,
+                0.14285714285714285,
+                0.05357142857142857,
+                0.5
+            ],
+            "ratings": [
+                11,
+                4,
+                7,
+                2,
+                27
+            ]
+        },
+        {
+            "sourceId": "source15",
+            "reputation": 0.45394736842105265,
+            "probabilities": [
+                0.3684210526315789,
+                0.13157894736842105,
+                0.10526315789473684,
+                0.10526315789473684,
+                0.2894736842105263
+            ],
+            "ratings": [
+                13,
+                4,
+                3,
+                3,
+                10
+            ]
+        }
+    ]
+}

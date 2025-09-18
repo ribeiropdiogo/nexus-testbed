@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:16:54.015955",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Indonesia",
+                    "confidence": 0.565,
+                    "sourceId": "source6"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Regina Hill Newman",
+                    "confidence": 0.664,
+                    "sourceId": "source20"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 34.0,
+                    "confidence": 0.578,
+                    "sourceId": "source12"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source6",
+            "reputation": 0.5824468085106382,
+            "probabilities": [
+                0.30851063829787234,
+                0.0851063829787234,
+                0.07446808510638298,
+                0.031914893617021274,
+                0.5
+            ],
+            "ratings": [
+                28,
+                7,
+                6,
+                2,
+                46
+            ]
+        },
+        {
+            "sourceId": "source20",
+            "reputation": 0.893939393939394,
+            "probabilities": [
+                0.015151515151515152,
+                0.015151515151515152,
+                0.06060606060606061,
+                0.19696969696969696,
+                0.7121212121212122
+            ],
+            "ratings": [
+                0,
+                0,
+                3,
+                12,
+                46
+            ]
+        },
+        {
+            "sourceId": "source12",
+            "reputation": 0.65,
+            "probabilities": [
+                0.2875,
+                0.0125,
+                0.0625,
+                0.0875,
+                0.55
+            ],
+            "ratings": [
+                22,
+                0,
+                4,
+                6,
+                43
+            ]
+        }
+    ]
+}

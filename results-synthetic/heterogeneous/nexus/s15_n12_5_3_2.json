@@ -1,0 +1,142 @@
+{
+    "timestamp": "2025-09-17T16:16:11.961890",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Cambodia",
+                    "confidence": 0.501,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": "Antigua and Barbuda",
+                    "confidence": 0.499,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 27.0,
+                    "confidence": 0.606,
+                    "sourceId": "source11"
+                },
+                {
+                    "fact": 36.0,
+                    "confidence": 0.6,
+                    "sourceId": "source9"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Albert JoRnson Moreno Brigh",
+                    "confidence": 0.651,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "Avber Johnson Moreno Bright",
+                    "confidence": 0.647,
+                    "sourceId": "source3"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source8",
+            "reputation": 0.5888157894736842,
+            "probabilities": [
+                0.2236842105263158,
+                0.11842105263157894,
+                0.07894736842105263,
+                0.23684210526315788,
+                0.34210526315789475
+            ],
+            "ratings": [
+                16,
+                8,
+                5,
+                17,
+                25
+            ]
+        },
+        {
+            "sourceId": "source11",
+            "reputation": 0.6373239436619718,
+            "probabilities": [
+                0.23943661971830985,
+                0.04225352112676056,
+                0.07042253521126761,
+                0.22535211267605634,
+                0.4225352112676056
+            ],
+            "ratings": [
+                16,
+                2,
+                4,
+                15,
+                29
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.576923076923077,
+            "probabilities": [
+                0.3269230769230769,
+                0.019230769230769232,
+                0.057692307692307696,
+                0.21153846153846154,
+                0.38461538461538464
+            ],
+            "ratings": [
+                16,
+                0,
+                2,
+                10,
+                19
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.7346938775510204,
+            "probabilities": [
+                0.14285714285714285,
+                0.02040816326530612,
+                0.10204081632653061,
+                0.22448979591836735,
+                0.5102040816326531
+            ],
+            "ratings": [
+                6,
+                0,
+                4,
+                10,
+                24
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.5855263157894737,
+            "probabilities": [
+                0.2236842105263158,
+                0.11842105263157894,
+                0.13157894736842105,
+                0.14473684210526316,
+                0.3815789473684211
+            ],
+            "ratings": [
+                16,
+                8,
+                9,
+                10,
+                28
+            ]
+        }
+    ]
+}

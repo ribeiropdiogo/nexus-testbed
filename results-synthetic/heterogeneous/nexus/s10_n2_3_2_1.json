@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:15:42.995610",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Erin Flynn Dixon Shannon",
+                    "confidence": 0.626,
+                    "sourceId": "source9"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Malta",
+                    "confidence": 0.616,
+                    "sourceId": "source8"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 33.0,
+                    "confidence": 0.607,
+                    "sourceId": "source10"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source9",
+            "reputation": 0.8173076923076923,
+            "probabilities": [
+                0.038461538461538464,
+                0.038461538461538464,
+                0.07692307692307693,
+                0.3076923076923077,
+                0.5384615384615384
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                7,
+                13
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.79,
+            "probabilities": [
+                0.04,
+                0.04,
+                0.12,
+                0.32,
+                0.48
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                7,
+                11
+            ]
+        },
+        {
+            "sourceId": "source10",
+            "reputation": 0.763157894736842,
+            "probabilities": [
+                0.05263157894736842,
+                0.05263157894736842,
+                0.15789473684210525,
+                0.2631578947368421,
+                0.47368421052631576
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                4,
+                8
+            ]
+        }
+    ]
+}

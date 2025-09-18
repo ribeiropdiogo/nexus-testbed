@@ -1,0 +1,73 @@
+{
+    "timestamp": "2025-09-17T16:15:58.951750",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 23.0,
+                    "confidence": 0.563,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Paula Owen Mann",
+                    "confidence": 0.563,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "New Zealand",
+                    "confidence": 0.556,
+                    "sourceId": "source6"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source3",
+            "reputation": 0.5701754385964912,
+            "probabilities": [
+                0.10526315789473684,
+                0.10526315789473684,
+                0.3157894736842105,
+                0.3508771929824561,
+                0.12280701754385964
+            ],
+            "ratings": [
+                5,
+                5,
+                17,
+                19,
+                6
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.5238095238095237,
+            "probabilities": [
+                0.14285714285714285,
+                0.23809523809523808,
+                0.19047619047619047,
+                0.23809523809523808,
+                0.19047619047619047
+            ],
+            "ratings": [
+                5,
+                9,
+                7,
+                9,
+                7
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:15:41.103280",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 33.0,
+                    "confidence": 0.647,
+                    "sourceId": "source5"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Erin Flynn Dixon Shannon",
+                    "confidence": 0.652,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Malta",
+                    "confidence": 0.638,
+                    "sourceId": "source7"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source5",
+            "reputation": 0.865,
+            "probabilities": [
+                0.02,
+                0.02,
+                0.04,
+                0.32,
+                0.6
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                15,
+                29
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.875,
+            "probabilities": [
+                0.02,
+                0.02,
+                0.04,
+                0.28,
+                0.64
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                13,
+                31
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.8455882352941178,
+            "probabilities": [
+                0.029411764705882353,
+                0.029411764705882353,
+                0.058823529411764705,
+                0.29411764705882354,
+                0.5882352941176471
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                9,
+                19
+            ]
+        }
+    ]
+}

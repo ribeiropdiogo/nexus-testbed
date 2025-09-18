@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:17:12.143316",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Susan Allen Green Willis",
+                    "confidence": 0.545,
+                    "sourceId": "source12"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 29.0,
+                    "confidence": 0.568,
+                    "sourceId": "source7"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Peru",
+                    "confidence": 0.561,
+                    "sourceId": "source1"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source12",
+            "reputation": 0.4553571428571429,
+            "probabilities": [
+                0.23214285714285715,
+                0.19642857142857142,
+                0.32142857142857145,
+                0.017857142857142856,
+                0.23214285714285715
+            ],
+            "ratings": [
+                12,
+                10,
+                17,
+                0,
+                12
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.5944444444444444,
+            "probabilities": [
+                0.26666666666666666,
+                0.08888888888888889,
+                0.08888888888888889,
+                0.1111111111111111,
+                0.4444444444444444
+            ],
+            "ratings": [
+                11,
+                3,
+                3,
+                4,
+                19
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.5585106382978724,
+            "probabilities": [
+                0.2765957446808511,
+                0.1276595744680851,
+                0.10638297872340426,
+                0.06382978723404255,
+                0.425531914893617
+            ],
+            "ratings": [
+                12,
+                5,
+                4,
+                2,
+                19
+            ]
+        }
+    ]
+}

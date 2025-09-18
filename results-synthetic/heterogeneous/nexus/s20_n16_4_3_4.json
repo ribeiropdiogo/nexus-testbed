@@ -1,0 +1,226 @@
+{
+    "timestamp": "2025-09-17T16:17:10.050716",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Patricia Chavez Todd",
+                    "confidence": 0.699,
+                    "sourceId": "source18"
+                },
+                {
+                    "fact": "Patricia Chavez Garrett",
+                    "confidence": 0.672,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": "Patricia John Todd",
+                    "confidence": 0.669,
+                    "sourceId": "source16"
+                },
+                {
+                    "fact": "Shawn Craig Hatfield",
+                    "confidence": 0.574,
+                    "sourceId": "source11"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Grenada",
+                    "confidence": 0.399,
+                    "sourceId": "source16"
+                },
+                {
+                    "fact": "Congo",
+                    "confidence": 0.392,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": "Slovakia (Slovak Republic)",
+                    "confidence": 0.361,
+                    "sourceId": "source19"
+                },
+                {
+                    "fact": "Guam",
+                    "confidence": 0.356,
+                    "sourceId": "source11"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 32.0,
+                    "confidence": 0.742,
+                    "sourceId": "source14"
+                },
+                {
+                    "fact": 26.0,
+                    "confidence": 0.734,
+                    "sourceId": "source16"
+                },
+                {
+                    "fact": 33.0,
+                    "confidence": 0.733,
+                    "sourceId": "source15"
+                },
+                {
+                    "fact": 25.0,
+                    "confidence": 0.726,
+                    "sourceId": "source13"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source18",
+            "reputation": 0.7037037037037037,
+            "probabilities": [
+                0.2037037037037037,
+                0.018518518518518517,
+                0.018518518518518517,
+                0.2777777777777778,
+                0.48148148148148145
+            ],
+            "ratings": [
+                10,
+                0,
+                0,
+                14,
+                25
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.61,
+            "probabilities": [
+                0.208,
+                0.088,
+                0.136,
+                0.192,
+                0.376
+            ],
+            "ratings": [
+                25,
+                10,
+                16,
+                23,
+                46
+            ]
+        },
+        {
+            "sourceId": "source19",
+            "reputation": 0.512987012987013,
+            "probabilities": [
+                0.35064935064935066,
+                0.12987012987012986,
+                0.05194805194805195,
+                0.05194805194805195,
+                0.4155844155844156
+            ],
+            "ratings": [
+                26,
+                9,
+                3,
+                3,
+                31
+            ]
+        },
+        {
+            "sourceId": "source11",
+            "reputation": 0.49504950495049505,
+            "probabilities": [
+                0.26732673267326734,
+                0.09900990099009901,
+                0.22772277227722773,
+                0.19801980198019803,
+                0.2079207920792079
+            ],
+            "ratings": [
+                26,
+                9,
+                22,
+                19,
+                20
+            ]
+        },
+        {
+            "sourceId": "source16",
+            "reputation": 0.626953125,
+            "probabilities": [
+                0.1953125,
+                0.0859375,
+                0.1015625,
+                0.25,
+                0.3671875
+            ],
+            "ratings": [
+                24,
+                10,
+                12,
+                31,
+                46
+            ]
+        },
+        {
+            "sourceId": "source15",
+            "reputation": 0.5552884615384615,
+            "probabilities": [
+                0.25,
+                0.07692307692307693,
+                0.14423076923076922,
+                0.25961538461538464,
+                0.2692307692307692
+            ],
+            "ratings": [
+                25,
+                7,
+                14,
+                26,
+                27
+            ]
+        },
+        {
+            "sourceId": "source13",
+            "reputation": 0.6538461538461539,
+            "probabilities": [
+                0.26373626373626374,
+                0.04395604395604396,
+                0.01098901098901099,
+                0.17582417582417584,
+                0.5054945054945055
+            ],
+            "ratings": [
+                23,
+                3,
+                0,
+                15,
+                45
+            ]
+        },
+        {
+            "sourceId": "source14",
+            "reputation": 0.7864583333333334,
+            "probabilities": [
+                0.14583333333333334,
+                0.020833333333333332,
+                0.020833333333333332,
+                0.16666666666666666,
+                0.6458333333333334
+            ],
+            "ratings": [
+                6,
+                0,
+                0,
+                7,
+                30
+            ]
+        }
+    ]
+}

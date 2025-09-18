@@ -1,0 +1,472 @@
+{
+    "timestamp": "2025-09-17T16:16:09.110029",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Libyan Arab Jamahiriya",
+                    "confidence": 0.108,
+                    "sourceId": "source15"
+                },
+                {
+                    "fact": "Libyan Arab Jamahiriya",
+                    "confidence": 0.108,
+                    "sourceId": "source14"
+                },
+                {
+                    "fact": "Antigua and Barbuda",
+                    "confidence": 0.084,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Sudan",
+                    "confidence": 0.078,
+                    "sourceId": "source11"
+                },
+                {
+                    "fact": "Congo",
+                    "confidence": 0.074,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Uganda",
+                    "confidence": 0.066,
+                    "sourceId": "source12"
+                },
+                {
+                    "fact": "Cambodia",
+                    "confidence": 0.065,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": "Armenia",
+                    "confidence": 0.065,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Australia",
+                    "confidence": 0.063,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Djibouti",
+                    "confidence": 0.061,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "Uruguay",
+                    "confidence": 0.06,
+                    "sourceId": "source1"
+                },
+                {
+                    "fact": "British Virgin Islands",
+                    "confidence": 0.057,
+                    "sourceId": "source9"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 32.0,
+                    "confidence": 0.936,
+                    "sourceId": "source14"
+                },
+                {
+                    "fact": 32.0,
+                    "confidence": 0.936,
+                    "sourceId": "source13"
+                },
+                {
+                    "fact": 32.0,
+                    "confidence": 0.936,
+                    "sourceId": "source15"
+                },
+                {
+                    "fact": 34.0,
+                    "confidence": 0.93,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": 34.0,
+                    "confidence": 0.93,
+                    "sourceId": "source1"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.925,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": 28.0,
+                    "confidence": 0.919,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": 36.0,
+                    "confidence": 0.919,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": 36.0,
+                    "confidence": 0.919,
+                    "sourceId": "source6"
+                },
+                {
+                    "fact": 36.0,
+                    "confidence": 0.919,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": 27.0,
+                    "confidence": 0.911,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": 27.0,
+                    "confidence": 0.911,
+                    "sourceId": "source11"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Albert Johnson Moreno Bright",
+                    "confidence": 0.956,
+                    "sourceId": "source13"
+                },
+                {
+                    "fact": "Albert Johnson Moreno Bright",
+                    "confidence": 0.956,
+                    "sourceId": "source14"
+                },
+                {
+                    "fact": "Albert Johnson Moreno Bright",
+                    "confidence": 0.956,
+                    "sourceId": "source15"
+                },
+                {
+                    "fact": "Albert Johnson Moreo Brigh",
+                    "confidence": 0.95,
+                    "sourceId": "source12"
+                },
+                {
+                    "fact": "Albert Johnson Moreno Trigt",
+                    "confidence": 0.949,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "Avber Johnson Moreno Bright",
+                    "confidence": 0.946,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Albert Johnson Moreno Benjamin",
+                    "confidence": 0.934,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": "Albert Johnson Moreno Matthew",
+                    "confidence": 0.933,
+                    "sourceId": "source11"
+                },
+                {
+                    "fact": "Albert Pnson Moreno Bright",
+                    "confidence": 0.927,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Erica Johnson Moreno Bright",
+                    "confidence": 0.91,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Meghan Johnson Moreno Bright",
+                    "confidence": 0.889,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Christopher Johnson Moreno Bright",
+                    "confidence": 0.837,
+                    "sourceId": "source8"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source2",
+            "reputation": 0.5104166666666667,
+            "probabilities": [
+                0.25,
+                0.20833333333333334,
+                0.08333333333333333,
+                0.16666666666666666,
+                0.2916666666666667
+            ],
+            "ratings": [
+                5,
+                4,
+                1,
+                3,
+                6
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.7222222222222222,
+            "probabilities": [
+                0.1111111111111111,
+                0.1111111111111111,
+                0.1111111111111111,
+                0.1111111111111111,
+                0.5555555555555556
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                0,
+                4
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.5,
+            "probabilities": [
+                0.2857142857142857,
+                0.14285714285714285,
+                0.14285714285714285,
+                0.14285714285714285,
+                0.2857142857142857
+            ],
+            "ratings": [
+                1,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "sourceId": "source13",
+            "reputation": 0.81,
+            "probabilities": [
+                0.04,
+                0.04,
+                0.08,
+                0.32,
+                0.52
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                7,
+                12
+            ]
+        },
+        {
+            "sourceId": "source14",
+            "reputation": 0.6714285714285715,
+            "probabilities": [
+                0.11428571428571428,
+                0.11428571428571428,
+                0.11428571428571428,
+                0.2857142857142857,
+                0.37142857142857144
+            ],
+            "ratings": [
+                3,
+                3,
+                3,
+                9,
+                12
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.7166666666666667,
+            "probabilities": [
+                0.13333333333333333,
+                0.03333333333333333,
+                0.1,
+                0.3,
+                0.43333333333333335
+            ],
+            "ratings": [
+                3,
+                0,
+                2,
+                8,
+                12
+            ]
+        },
+        {
+            "sourceId": "source11",
+            "reputation": 0.6826923076923077,
+            "probabilities": [
+                0.19230769230769232,
+                0.07692307692307693,
+                0.038461538461538464,
+                0.19230769230769232,
+                0.5
+            ],
+            "ratings": [
+                4,
+                1,
+                0,
+                4,
+                12
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.575,
+            "probabilities": [
+                0.2,
+                0.16666666666666666,
+                0.13333333333333333,
+                0.13333333333333333,
+                0.36666666666666664
+            ],
+            "ratings": [
+                5,
+                4,
+                3,
+                3,
+                10
+            ]
+        },
+        {
+            "sourceId": "source10",
+            "reputation": 0.7708333333333334,
+            "probabilities": [
+                0.08333333333333333,
+                0.08333333333333333,
+                0.08333333333333333,
+                0.16666666666666666,
+                0.5833333333333334
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                1,
+                6
+            ]
+        },
+        {
+            "sourceId": "source12",
+            "reputation": 0.5666666666666667,
+            "probabilities": [
+                0.3333333333333333,
+                0.06666666666666667,
+                0.06666666666666667,
+                0.06666666666666667,
+                0.4666666666666667
+            ],
+            "ratings": [
+                4,
+                0,
+                0,
+                0,
+                6
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.625,
+            "probabilities": [
+                0.25,
+                0.08333333333333333,
+                0.08333333333333333,
+                0.08333333333333333,
+                0.5
+            ],
+            "ratings": [
+                2,
+                0,
+                0,
+                0,
+                5
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.475,
+            "probabilities": [
+                0.3,
+                0.25,
+                0.05,
+                0.05,
+                0.35
+            ],
+            "ratings": [
+                5,
+                4,
+                0,
+                0,
+                6
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.5595238095238095,
+            "probabilities": [
+                0.2857142857142857,
+                0.14285714285714285,
+                0.047619047619047616,
+                0.09523809523809523,
+                0.42857142857142855
+            ],
+            "ratings": [
+                5,
+                2,
+                0,
+                1,
+                8
+            ]
+        },
+        {
+            "sourceId": "source15",
+            "reputation": 0.49999999999999994,
+            "probabilities": [
+                0.19047619047619047,
+                0.23809523809523808,
+                0.23809523809523808,
+                0.047619047619047616,
+                0.2857142857142857
+            ],
+            "ratings": [
+                3,
+                4,
+                4,
+                0,
+                5
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.5795454545454546,
+            "probabilities": [
+                0.2727272727272727,
+                0.09090909090909091,
+                0.045454545454545456,
+                0.22727272727272727,
+                0.36363636363636365
+            ],
+            "ratings": [
+                5,
+                1,
+                0,
+                4,
+                7
+            ]
+        }
+    ]
+}

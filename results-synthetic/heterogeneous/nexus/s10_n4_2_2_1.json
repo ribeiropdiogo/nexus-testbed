@@ -1,0 +1,73 @@
+{
+    "timestamp": "2025-09-17T16:15:47.470055",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 34.0,
+                    "confidence": 0.605,
+                    "sourceId": "source10"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Brandon Daniels Rodriguez",
+                    "confidence": 0.612,
+                    "sourceId": "source9"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Andorra",
+                    "confidence": 0.605,
+                    "sourceId": "source10"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source9",
+            "reputation": 0.78125,
+            "probabilities": [
+                0.041666666666666664,
+                0.041666666666666664,
+                0.08333333333333333,
+                0.4166666666666667,
+                0.4166666666666667
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                9,
+                9
+            ]
+        },
+        {
+            "sourceId": "source10",
+            "reputation": 0.7586206896551724,
+            "probabilities": [
+                0.034482758620689655,
+                0.034482758620689655,
+                0.13793103448275862,
+                0.4482758620689655,
+                0.3448275862068966
+            ],
+            "ratings": [
+                0,
+                0,
+                3,
+                12,
+                9
+            ]
+        }
+    ]
+}

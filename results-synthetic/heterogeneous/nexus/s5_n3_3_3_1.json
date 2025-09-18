@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:17:52.448823",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Norway",
+                    "confidence": 0.548,
+                    "sourceId": "source1"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 39.0,
+                    "confidence": 0.57,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Patrick Shelton Thompson",
+                    "confidence": 0.567,
+                    "sourceId": "source5"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source1",
+            "reputation": 0.475,
+            "probabilities": [
+                0.05,
+                0.25,
+                0.5,
+                0.15,
+                0.05
+            ],
+            "ratings": [
+                0,
+                4,
+                9,
+                2,
+                0
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.6022727272727272,
+            "probabilities": [
+                0.045454545454545456,
+                0.13636363636363635,
+                0.22727272727272727,
+                0.5454545454545454,
+                0.045454545454545456
+            ],
+            "ratings": [
+                0,
+                2,
+                4,
+                11,
+                0
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.5892857142857143,
+            "probabilities": [
+                0.03571428571428571,
+                0.03571428571428571,
+                0.5,
+                0.39285714285714285,
+                0.03571428571428571
+            ],
+            "ratings": [
+                0,
+                0,
+                13,
+                10,
+                0
+            ]
+        }
+    ]
+}

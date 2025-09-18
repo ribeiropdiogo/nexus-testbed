@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:16:28.878021",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Rebecca Bailey Hatfield Wilson",
+                    "confidence": 0.566,
+                    "sourceId": "source6"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 28.0,
+                    "confidence": 0.641,
+                    "sourceId": "source8"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Malawi",
+                    "confidence": 0.617,
+                    "sourceId": "source15"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source6",
+            "reputation": 0.5833333333333333,
+            "probabilities": [
+                0.13333333333333333,
+                0.03333333333333333,
+                0.43333333333333335,
+                0.16666666666666666,
+                0.23333333333333334
+            ],
+            "ratings": [
+                3,
+                0,
+                12,
+                4,
+                6
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.8515625,
+            "probabilities": [
+                0.03125,
+                0.03125,
+                0.09375,
+                0.1875,
+                0.65625
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                5,
+                20
+            ]
+        },
+        {
+            "sourceId": "source15",
+            "reputation": 0.7941176470588236,
+            "probabilities": [
+                0.029411764705882353,
+                0.029411764705882353,
+                0.23529411764705882,
+                0.14705882352941177,
+                0.5588235294117647
+            ],
+            "ratings": [
+                0,
+                0,
+                7,
+                4,
+                18
+            ]
+        }
+    ]
+}

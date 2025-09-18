@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:16:50.813789",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 37.0,
+                    "confidence": 0.621,
+                    "sourceId": "source11"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Regina Hill Newman",
+                    "confidence": 0.65,
+                    "sourceId": "source19"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "South Africa",
+                    "confidence": 0.552,
+                    "sourceId": "source7"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source11",
+            "reputation": 0.8055555555555556,
+            "probabilities": [
+                0.125,
+                0.013888888888888888,
+                0.041666666666666664,
+                0.1527777777777778,
+                0.6666666666666666
+            ],
+            "ratings": [
+                8,
+                0,
+                2,
+                10,
+                47
+            ]
+        },
+        {
+            "sourceId": "source19",
+            "reputation": 0.8723404255319149,
+            "probabilities": [
+                0.010638297872340425,
+                0.02127659574468085,
+                0.0851063829787234,
+                0.23404255319148937,
+                0.648936170212766
+            ],
+            "ratings": [
+                0,
+                1,
+                7,
+                21,
+                60
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.5,
+            "probabilities": [
+                0.22115384615384615,
+                0.08653846153846154,
+                0.4230769230769231,
+                0.009615384615384616,
+                0.25961538461538464
+            ],
+            "ratings": [
+                22,
+                8,
+                43,
+                0,
+                26
+            ]
+        }
+    ]
+}

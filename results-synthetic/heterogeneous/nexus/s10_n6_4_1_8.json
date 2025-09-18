@@ -1,0 +1,304 @@
+{
+    "timestamp": "2025-09-17T16:15:55.163373",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 34.0,
+                    "confidence": 0.89,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": 34.0,
+                    "confidence": 0.89,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": 34.0,
+                    "confidence": 0.89,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": 34.0,
+                    "confidence": 0.89,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": 33.0,
+                    "confidence": 0.881,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": 36.0,
+                    "confidence": 0.88,
+                    "sourceId": "source6"
+                },
+                {
+                    "fact": 36.0,
+                    "confidence": 0.88,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": 38.0,
+                    "confidence": 0.859,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Anna Durham Sparks",
+                    "confidence": 0.875,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": "Anna Durham Sparks",
+                    "confidence": 0.875,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "Anna Durham Sparks",
+                    "confidence": 0.875,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Anna Durham Sparks",
+                    "confidence": 0.875,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": "Ania Durham vparkt",
+                    "confidence": 0.832,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Anna Durham David",
+                    "confidence": 0.831,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Anna Melanie Sparks",
+                    "confidence": 0.808,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Jeanette Mclaughlin White",
+                    "confidence": 0.522,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Iceland",
+                    "confidence": 0.416,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "Iceland",
+                    "confidence": 0.416,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": "Iceland",
+                    "confidence": 0.416,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Somalia",
+                    "confidence": 0.16,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Nepal",
+                    "confidence": 0.137,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Cape Verde",
+                    "confidence": 0.137,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Albania",
+                    "confidence": 0.132,
+                    "sourceId": "source6"
+                },
+                {
+                    "fact": "Rwanda",
+                    "confidence": 0.126,
+                    "sourceId": "source2"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source10",
+            "reputation": 0.7,
+            "probabilities": [
+                0.06666666666666667,
+                0.06666666666666667,
+                0.2,
+                0.3333333333333333,
+                0.3333333333333333
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                4,
+                4
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.6363636363636364,
+            "probabilities": [
+                0.045454545454545456,
+                0.09090909090909091,
+                0.36363636363636365,
+                0.2727272727272727,
+                0.22727272727272727
+            ],
+            "ratings": [
+                0,
+                1,
+                7,
+                5,
+                4
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.5277777777777778,
+            "probabilities": [
+                0.1111111111111111,
+                0.2777777777777778,
+                0.16666666666666666,
+                0.2777777777777778,
+                0.16666666666666666
+            ],
+            "ratings": [
+                1,
+                4,
+                2,
+                4,
+                2
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.5555555555555556,
+            "probabilities": [
+                0.1111111111111111,
+                0.2777777777777778,
+                0.1111111111111111,
+                0.2777777777777778,
+                0.2222222222222222
+            ],
+            "ratings": [
+                1,
+                4,
+                1,
+                4,
+                3
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.4821428571428571,
+            "probabilities": [
+                0.14285714285714285,
+                0.35714285714285715,
+                0.14285714285714285,
+                0.14285714285714285,
+                0.21428571428571427
+            ],
+            "ratings": [
+                1,
+                4,
+                1,
+                1,
+                2
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.6388888888888888,
+            "probabilities": [
+                0.05555555555555555,
+                0.1111111111111111,
+                0.2777777777777778,
+                0.3333333333333333,
+                0.2222222222222222
+            ],
+            "ratings": [
+                0,
+                1,
+                4,
+                5,
+                3
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.5416666666666666,
+            "probabilities": [
+                0.16666666666666666,
+                0.25,
+                0.08333333333333333,
+                0.25,
+                0.25
+            ],
+            "ratings": [
+                1,
+                2,
+                0,
+                2,
+                2
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.6625000000000001,
+            "probabilities": [
+                0.1,
+                0.1,
+                0.1,
+                0.45,
+                0.25
+            ],
+            "ratings": [
+                1,
+                1,
+                1,
+                8,
+                4
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.71875,
+            "probabilities": [
+                0.0625,
+                0.0625,
+                0.125,
+                0.4375,
+                0.3125
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                6,
+                4
+            ]
+        }
+    ]
+}

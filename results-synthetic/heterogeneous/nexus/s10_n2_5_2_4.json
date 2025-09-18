@@ -1,0 +1,208 @@
+{
+    "timestamp": "2025-09-17T16:15:45.253738",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Malta",
+                    "confidence": 0.891,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Malta",
+                    "confidence": 0.891,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Malta",
+                    "confidence": 0.891,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": "Malta",
+                    "confidence": 0.891,
+                    "sourceId": "source4"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 33.0,
+                    "confidence": 0.86,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": 33.0,
+                    "confidence": 0.86,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": 33.0,
+                    "confidence": 0.86,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": 31.0,
+                    "confidence": 0.841,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Erin Flynn Dixon Shannon",
+                    "confidence": 0.854,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Erin Flynn Dixon Shannon",
+                    "confidence": 0.854,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Erin Flynn Dixon Shannon",
+                    "confidence": 0.854,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Erin Flynn George Shannon",
+                    "confidence": 0.817,
+                    "sourceId": "source1"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source10",
+            "reputation": 0.8333333333333334,
+            "probabilities": [
+                0.047619047619047616,
+                0.047619047619047616,
+                0.047619047619047616,
+                0.23809523809523808,
+                0.6190476190476191
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                4,
+                12
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.8522727272727273,
+            "probabilities": [
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.18181818181818182,
+                0.6818181818181818
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                3,
+                14
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.6666666666666667,
+            "probabilities": [
+                0.16666666666666666,
+                0.05555555555555555,
+                0.1111111111111111,
+                0.2777777777777778,
+                0.3888888888888889
+            ],
+            "ratings": [
+                2,
+                0,
+                1,
+                4,
+                6
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.8235294117647058,
+            "probabilities": [
+                0.029411764705882353,
+                0.029411764705882353,
+                0.058823529411764705,
+                0.38235294117647056,
+                0.5
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                12,
+                16
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.8255813953488372,
+            "probabilities": [
+                0.023255813953488372,
+                0.023255813953488372,
+                0.046511627906976744,
+                0.4418604651162791,
+                0.46511627906976744
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                18,
+                19
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.8378378378378379,
+            "probabilities": [
+                0.02702702702702703,
+                0.02702702702702703,
+                0.05405405405405406,
+                0.35135135135135137,
+                0.5405405405405406
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                12,
+                19
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.5952380952380952,
+            "probabilities": [
+                0.23809523809523808,
+                0.14285714285714285,
+                0.047619047619047616,
+                0.14285714285714285,
+                0.42857142857142855
+            ],
+            "ratings": [
+                4,
+                2,
+                0,
+                2,
+                8
+            ]
+        }
+    ]
+}

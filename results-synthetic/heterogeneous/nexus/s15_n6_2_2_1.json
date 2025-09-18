@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:16:24.825815",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Malawi",
+                    "confidence": 0.626,
+                    "sourceId": "source10"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 24.0,
+                    "confidence": 0.56,
+                    "sourceId": "source6"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Tfylor Casey nenry",
+                    "confidence": 0.563,
+                    "sourceId": "source1"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source10",
+            "reputation": 0.8187500000000001,
+            "probabilities": [
+                0.025,
+                0.025,
+                0.125,
+                0.3,
+                0.525
+            ],
+            "ratings": [
+                0,
+                0,
+                4,
+                11,
+                20
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.5514705882352942,
+            "probabilities": [
+                0.29411764705882354,
+                0.029411764705882353,
+                0.14705882352941177,
+                0.23529411764705882,
+                0.29411764705882354
+            ],
+            "ratings": [
+                9,
+                0,
+                4,
+                7,
+                9
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.5689655172413793,
+            "probabilities": [
+                0.27586206896551724,
+                0.034482758620689655,
+                0.1724137931034483,
+                0.1724137931034483,
+                0.3448275862068966
+            ],
+            "ratings": [
+                7,
+                0,
+                4,
+                4,
+                9
+            ]
+        }
+    ]
+}

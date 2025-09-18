@@ -1,0 +1,298 @@
+{
+    "timestamp": "2025-09-17T16:17:27.769581",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 29.0,
+                    "confidence": 0.941,
+                    "sourceId": "source12"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.941,
+                    "sourceId": "source19"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.941,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.941,
+                    "sourceId": "source20"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Russian Federation",
+                    "confidence": 0.857,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "Russian Federation",
+                    "confidence": 0.857,
+                    "sourceId": "source14"
+                },
+                {
+                    "fact": "Russian Federation",
+                    "confidence": 0.857,
+                    "sourceId": "source16"
+                },
+                {
+                    "fact": "Samoa",
+                    "confidence": 0.143,
+                    "sourceId": "source1"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Alexis Smith Dean Cox",
+                    "confidence": 0.905,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Alexis Smith Dean Cox",
+                    "confidence": 0.905,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": "Alexis Smith Dean Cox",
+                    "confidence": 0.905,
+                    "sourceId": "source18"
+                },
+                {
+                    "fact": "Sandra Holmes Hutchinson Leonard",
+                    "confidence": 0.687,
+                    "sourceId": "source3"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source12",
+            "reputation": 0.8875,
+            "probabilities": [
+                0.025,
+                0.025,
+                0.05,
+                0.175,
+                0.725
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                6,
+                28
+            ]
+        },
+        {
+            "sourceId": "source19",
+            "reputation": 0.9107142857142857,
+            "probabilities": [
+                0.023809523809523808,
+                0.023809523809523808,
+                0.023809523809523808,
+                0.14285714285714285,
+                0.7857142857142857
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                5,
+                32
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.9244186046511629,
+            "probabilities": [
+                0.023255813953488372,
+                0.023255813953488372,
+                0.023255813953488372,
+                0.09302325581395349,
+                0.8372093023255814
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                3,
+                35
+            ]
+        },
+        {
+            "sourceId": "source20",
+            "reputation": 0.8846153846153847,
+            "probabilities": [
+                0.038461538461538464,
+                0.038461538461538464,
+                0.038461538461538464,
+                0.11538461538461539,
+                0.7692307692307693
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                2,
+                19
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.9057377049180327,
+            "probabilities": [
+                0.01639344262295082,
+                0.01639344262295082,
+                0.04918032786885246,
+                0.16393442622950818,
+                0.7540983606557377
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                9,
+                45
+            ]
+        },
+        {
+            "sourceId": "source14",
+            "reputation": 0.8636363636363635,
+            "probabilities": [
+                0.030303030303030304,
+                0.030303030303030304,
+                0.06060606060606061,
+                0.21212121212121213,
+                0.6666666666666666
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                6,
+                21
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.5116279069767442,
+            "probabilities": [
+                0.37209302325581395,
+                0.11627906976744186,
+                0.046511627906976744,
+                0.023255813953488372,
+                0.4418604651162791
+            ],
+            "ratings": [
+                15,
+                4,
+                1,
+                0,
+                18
+            ]
+        },
+        {
+            "sourceId": "source16",
+            "reputation": 0.9121621621621622,
+            "probabilities": [
+                0.02702702702702703,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.10810810810810811,
+                0.8108108108108109
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                3,
+                29
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.915,
+            "probabilities": [
+                0.02,
+                0.02,
+                0.04,
+                0.12,
+                0.8
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                5,
+                39
+            ]
+        },
+        {
+            "sourceId": "source10",
+            "reputation": 0.9313725490196079,
+            "probabilities": [
+                0.0196078431372549,
+                0.0196078431372549,
+                0.0196078431372549,
+                0.09803921568627451,
+                0.8431372549019608
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                4,
+                42
+            ]
+        },
+        {
+            "sourceId": "source18",
+            "reputation": 0.8916666666666667,
+            "probabilities": [
+                0.03333333333333333,
+                0.03333333333333333,
+                0.03333333333333333,
+                0.13333333333333333,
+                0.7666666666666667
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                3,
+                22
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.7119565217391304,
+            "probabilities": [
+                0.1956521739130435,
+                0.021739130434782608,
+                0.06521739130434782,
+                0.17391304347826086,
+                0.5434782608695652
+            ],
+            "ratings": [
+                8,
+                0,
+                2,
+                7,
+                24
+            ]
+        }
+    ]
+}

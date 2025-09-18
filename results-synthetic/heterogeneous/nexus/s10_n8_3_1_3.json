@@ -1,0 +1,157 @@
+{
+    "timestamp": "2025-09-17T16:15:59.485881",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Zimbabwe",
+                    "confidence": 0.454,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": "Macao",
+                    "confidence": 0.443,
+                    "sourceId": "source1"
+                },
+                {
+                    "fact": "Peru",
+                    "confidence": 0.443,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 26.0,
+                    "confidence": 0.642,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": 26.0,
+                    "confidence": 0.642,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": 21.0,
+                    "confidence": 0.62,
+                    "sourceId": "source1"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "James Foley Cannon",
+                    "confidence": 0.655,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "James Foley Cannon",
+                    "confidence": 0.655,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": "James Traci Cannon",
+                    "confidence": 0.639,
+                    "sourceId": "source8"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source3",
+            "reputation": 0.5,
+            "probabilities": [
+                0.14285714285714285,
+                0.14285714285714285,
+                0.42857142857142855,
+                0.14285714285714285,
+                0.14285714285714285
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                0,
+                0
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.5277777777777777,
+            "probabilities": [
+                0.1111111111111111,
+                0.1111111111111111,
+                0.4444444444444444,
+                0.2222222222222222,
+                0.1111111111111111
+            ],
+            "ratings": [
+                0,
+                0,
+                3,
+                1,
+                0
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.575,
+            "probabilities": [
+                0.1,
+                0.1,
+                0.3,
+                0.4,
+                0.1
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                3,
+                0
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.5357142857142856,
+            "probabilities": [
+                0.14285714285714285,
+                0.14285714285714285,
+                0.2857142857142857,
+                0.2857142857142857,
+                0.14285714285714285
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "sourceId": "source10",
+            "reputation": 0.575,
+            "probabilities": [
+                0.1,
+                0.1,
+                0.3,
+                0.4,
+                0.1
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                3,
+                0
+            ]
+        }
+    ]
+}

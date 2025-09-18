@@ -1,0 +1,106 @@
+{
+    "timestamp": "2025-09-17T16:15:44.894678",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 33.0,
+                    "confidence": 0.602,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": 33.0,
+                    "confidence": 0.602,
+                    "sourceId": "source5"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Erin Flynn Dixon Shannon",
+                    "confidence": 0.613,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Erin Flynn Dixon Shannon",
+                    "confidence": 0.613,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Malta",
+                    "confidence": 0.612,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Malta",
+                    "confidence": 0.612,
+                    "sourceId": "source3"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source5",
+            "reputation": 0.5625,
+            "probabilities": [
+                0.125,
+                0.125,
+                0.25,
+                0.375,
+                0.125
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                2,
+                0
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.5357142857142856,
+            "probabilities": [
+                0.14285714285714285,
+                0.14285714285714285,
+                0.2857142857142857,
+                0.2857142857142857,
+                0.14285714285714285
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.5833333333333333,
+            "probabilities": [
+                0.1111111111111111,
+                0.1111111111111111,
+                0.2222222222222222,
+                0.4444444444444444,
+                0.1111111111111111
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                3,
+                0
+            ]
+        }
+    ]
+}

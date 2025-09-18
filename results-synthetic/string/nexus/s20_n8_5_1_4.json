@@ -1,0 +1,104 @@
+{
+    "timestamp": "2025-09-17T16:18:23.228021",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Tanya Robinson Brown",
+                    "confidence": 0.713,
+                    "sourceId": "source15"
+                },
+                {
+                    "fact": "Tanya Robinson Brown",
+                    "confidence": 0.713,
+                    "sourceId": "source13"
+                },
+                {
+                    "fact": "Tanya Robinson Brown",
+                    "confidence": 0.713,
+                    "sourceId": "source12"
+                },
+                {
+                    "fact": "Tanya RobingoT BMown",
+                    "confidence": 0.694,
+                    "sourceId": "source6"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source15",
+            "reputation": 0.5833333333333333,
+            "probabilities": [
+                0.1111111111111111,
+                0.1111111111111111,
+                0.2222222222222222,
+                0.4444444444444444,
+                0.1111111111111111
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                3,
+                0
+            ]
+        },
+        {
+            "sourceId": "source13",
+            "reputation": 0.59375,
+            "probabilities": [
+                0.125,
+                0.125,
+                0.125,
+                0.5,
+                0.125
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                3,
+                0
+            ]
+        },
+        {
+            "sourceId": "source12",
+            "reputation": 0.5714285714285714,
+            "probabilities": [
+                0.14285714285714285,
+                0.14285714285714285,
+                0.14285714285714285,
+                0.42857142857142855,
+                0.14285714285714285
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                2,
+                0
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.5416666666666666,
+            "probabilities": [
+                0.16666666666666666,
+                0.16666666666666666,
+                0.16666666666666666,
+                0.3333333333333333,
+                0.16666666666666666
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "timestamp": "2025-09-17T16:16:40.837537",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Megan Anderson Rocha Leonard",
+                    "confidence": 0.78,
+                    "sourceId": "source14"
+                },
+                {
+                    "fact": "Megan Anderson Rocha Timothy",
+                    "confidence": 0.751,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "Megan Jeffrey Rocha Leonard",
+                    "confidence": 0.713,
+                    "sourceId": "source1"
+                },
+                {
+                    "fact": "Benjamin Anderson Rocha Leonard",
+                    "confidence": 0.707,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 29.0,
+                    "confidence": 0.791,
+                    "sourceId": "source13"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.791,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": 28.0,
+                    "confidence": 0.791,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": 24.0,
+                    "confidence": 0.764,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Barbados",
+                    "confidence": 0.539,
+                    "sourceId": "source13"
+                },
+                {
+                    "fact": "Barbados",
+                    "confidence": 0.539,
+                    "sourceId": "source15"
+                },
+                {
+                    "fact": "Albania",
+                    "confidence": 0.371,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Romania",
+                    "confidence": 0.313,
+                    "sourceId": "source6"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source14",
+            "reputation": 0.814516129032258,
+            "probabilities": [
+                0.03225806451612903,
+                0.03225806451612903,
+                0.12903225806451613,
+                0.25806451612903225,
+                0.5483870967741935
+            ],
+            "ratings": [
+                0,
+                0,
+                3,
+                7,
+                16
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.5833333333333334,
+            "probabilities": [
+                0.3,
+                0.06666666666666667,
+                0.03333333333333333,
+                0.2,
+                0.4
+            ],
+            "ratings": [
+                8,
+                1,
+                0,
+                5,
+                11
+            ]
+        },
+        {
+            "sourceId": "source10",
+            "reputation": 0.7058823529411765,
+            "probabilities": [
+                0.029411764705882353,
+                0.058823529411764705,
+                0.29411764705882354,
+                0.29411764705882354,
+                0.3235294117647059
+            ],
+            "ratings": [
+                0,
+                1,
+                9,
+                9,
+                10
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.7894736842105263,
+            "probabilities": [
+                0.05263157894736842,
+                0.02631578947368421,
+                0.07894736842105263,
+                0.39473684210526316,
+                0.4473684210526316
+            ],
+            "ratings": [
+                1,
+                0,
+                2,
+                14,
+                16
+            ]
+        },
+        {
+            "sourceId": "source13",
+            "reputation": 0.7050000000000001,
+            "probabilities": [
+                0.02,
+                0.04,
+                0.38,
+                0.22,
+                0.34
+            ],
+            "ratings": [
+                0,
+                1,
+                18,
+                10,
+                16
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.4551282051282052,
+            "probabilities": [
+                0.23076923076923078,
+                0.28205128205128205,
+                0.15384615384615385,
+                0.10256410256410256,
+                0.23076923076923078
+            ],
+            "ratings": [
+                8,
+                10,
+                5,
+                3,
+                8
+            ]
+        },
+        {
+            "sourceId": "source15",
+            "reputation": 0.61,
+            "probabilities": [
+                0.04,
+                0.08,
+                0.52,
+                0.12,
+                0.24
+            ],
+            "ratings": [
+                0,
+                1,
+                12,
+                2,
+                5
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.64,
+            "probabilities": [
+                0.16,
+                0.12,
+                0.06,
+                0.32,
+                0.34
+            ],
+            "ratings": [
+                7,
+                5,
+                2,
+                15,
+                16
+            ]
+        }
+    ]
+}

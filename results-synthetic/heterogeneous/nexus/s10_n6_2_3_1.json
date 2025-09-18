@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:15:53.371255",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Rwanda",
+                    "confidence": 0.541,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Anna Durham Sparks",
+                    "confidence": 0.604,
+                    "sourceId": "source7"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 29.0,
+                    "confidence": 0.572,
+                    "sourceId": "source1"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source2",
+            "reputation": 0.42105263157894735,
+            "probabilities": [
+                0.18421052631578946,
+                0.23684210526315788,
+                0.42105263157894735,
+                0.02631578947368421,
+                0.13157894736842105
+            ],
+            "ratings": [
+                6,
+                8,
+                15,
+                0,
+                4
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.7556818181818181,
+            "probabilities": [
+                0.022727272727272728,
+                0.11363636363636363,
+                0.13636363636363635,
+                0.2727272727272727,
+                0.45454545454545453
+            ],
+            "ratings": [
+                0,
+                4,
+                5,
+                11,
+                19
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.6169354838709677,
+            "probabilities": [
+                0.11290322580645161,
+                0.12903225806451613,
+                0.1774193548387097,
+                0.3387096774193548,
+                0.24193548387096775
+            ],
+            "ratings": [
+                6,
+                7,
+                10,
+                20,
+                14
+            ]
+        }
+    ]
+}

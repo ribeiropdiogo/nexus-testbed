@@ -1,0 +1,73 @@
+{
+    "timestamp": "2025-09-17T16:16:38.800169",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Mega Jnderson Rouha Leonard",
+                    "confidence": 0.585,
+                    "sourceId": "source9"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Barbados",
+                    "confidence": 0.558,
+                    "sourceId": "source14"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 32.0,
+                    "confidence": 0.584,
+                    "sourceId": "source9"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source14",
+            "reputation": 0.537037037037037,
+            "probabilities": [
+                0.07407407407407407,
+                0.25925925925925924,
+                0.37037037037037035,
+                0.037037037037037035,
+                0.25925925925925924
+            ],
+            "ratings": [
+                1,
+                6,
+                9,
+                0,
+                6
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.6744186046511628,
+            "probabilities": [
+                0.16279069767441862,
+                0.023255813953488372,
+                0.16279069767441862,
+                0.2558139534883721,
+                0.3953488372093023
+            ],
+            "ratings": [
+                6,
+                0,
+                6,
+                10,
+                16
+            ]
+        }
+    ]
+}

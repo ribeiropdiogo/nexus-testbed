@@ -1,0 +1,409 @@
+{
+    "timestamp": "2025-09-17T16:16:17.782755",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Bolivia",
+                    "confidence": 0.998,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "Bolivia",
+                    "confidence": 0.998,
+                    "sourceId": "source15"
+                },
+                {
+                    "fact": "Bolivia",
+                    "confidence": 0.998,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Bolivia",
+                    "confidence": 0.998,
+                    "sourceId": "source12"
+                },
+                {
+                    "fact": "Bolivia",
+                    "confidence": 0.998,
+                    "sourceId": "source6"
+                },
+                {
+                    "fact": "Bolivia",
+                    "confidence": 0.998,
+                    "sourceId": "source11"
+                },
+                {
+                    "fact": "Bolivia",
+                    "confidence": 0.998,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": "Bolivia",
+                    "confidence": 0.998,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Azerbaijan",
+                    "confidence": 0.002,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Robert Gonzalez Wilson Hunter",
+                    "confidence": 0.999,
+                    "sourceId": "source11"
+                },
+                {
+                    "fact": "Robert Gonzalez Wilson Hunter",
+                    "confidence": 0.999,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": "Robert Gonzalez Wilson Hunter",
+                    "confidence": 0.999,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Robert Gonzalez Wilson Hunter",
+                    "confidence": 0.999,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "Robert Gonzalez Wilson Hunter",
+                    "confidence": 0.999,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": "Robert Gonzalez Wilson Hunter",
+                    "confidence": 0.999,
+                    "sourceId": "source12"
+                },
+                {
+                    "fact": "Robert Gonzalez Wilson Hunter",
+                    "confidence": 0.999,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Robert Carolyn Wilson Hunter",
+                    "confidence": 0.994,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Michael Gonzalez Wilson Hunter",
+                    "confidence": 0.99,
+                    "sourceId": "source1"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 29.0,
+                    "confidence": 0.999,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.999,
+                    "sourceId": "source12"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.999,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.999,
+                    "sourceId": "source14"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.999,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.999,
+                    "sourceId": "source13"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.999,
+                    "sourceId": "source15"
+                },
+                {
+                    "fact": 30.0,
+                    "confidence": 0.998,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": 24.0,
+                    "confidence": 0.992,
+                    "sourceId": "source1"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source6",
+            "reputation": 0.9347826086956521,
+            "probabilities": [
+                0.021739130434782608,
+                0.021739130434782608,
+                0.021739130434782608,
+                0.06521739130434782,
+                0.8695652173913043
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                2,
+                39
+            ]
+        },
+        {
+            "sourceId": "source11",
+            "reputation": 0.9291044776119404,
+            "probabilities": [
+                0.014925373134328358,
+                0.014925373134328358,
+                0.029850746268656716,
+                0.11940298507462686,
+                0.8208955223880597
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                7,
+                54
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.9440298507462686,
+            "probabilities": [
+                0.014925373134328358,
+                0.014925373134328358,
+                0.014925373134328358,
+                0.08955223880597014,
+                0.8656716417910447
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                5,
+                57
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.95,
+            "probabilities": [
+                0.0125,
+                0.0125,
+                0.0125,
+                0.0875,
+                0.875
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                6,
+                69
+            ]
+        },
+        {
+            "sourceId": "source10",
+            "reputation": 0.9358974358974359,
+            "probabilities": [
+                0.02564102564102564,
+                0.02564102564102564,
+                0.02564102564102564,
+                0.02564102564102564,
+                0.8974358974358975
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                0,
+                34
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.9358108108108107,
+            "probabilities": [
+                0.013513513513513514,
+                0.013513513513513514,
+                0.02702702702702703,
+                0.10810810810810811,
+                0.8378378378378378
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                7,
+                61
+            ]
+        },
+        {
+            "sourceId": "source12",
+            "reputation": 0.949438202247191,
+            "probabilities": [
+                0.011235955056179775,
+                0.011235955056179775,
+                0.011235955056179775,
+                0.10112359550561797,
+                0.8651685393258427
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                8,
+                76
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.9423076923076923,
+            "probabilities": [
+                0.009615384615384616,
+                0.009615384615384616,
+                0.019230769230769232,
+                0.125,
+                0.8365384615384616
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                12,
+                86
+            ]
+        },
+        {
+            "sourceId": "source14",
+            "reputation": 0.9473684210526316,
+            "probabilities": [
+                0.017543859649122806,
+                0.017543859649122806,
+                0.017543859649122806,
+                0.05263157894736842,
+                0.8947368421052632
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                2,
+                50
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.6882022471910112,
+            "probabilities": [
+                0.2696629213483146,
+                0.02247191011235955,
+                0.011235955056179775,
+                0.07865168539325842,
+                0.6179775280898876
+            ],
+            "ratings": [
+                23,
+                1,
+                0,
+                6,
+                54
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.9038461538461539,
+            "probabilities": [
+                0.057692307692307696,
+                0.019230769230769232,
+                0.019230769230769232,
+                0.057692307692307696,
+                0.8461538461538461
+            ],
+            "ratings": [
+                2,
+                0,
+                0,
+                2,
+                43
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.9456521739130435,
+            "probabilities": [
+                0.021739130434782608,
+                0.021739130434782608,
+                0.021739130434782608,
+                0.021739130434782608,
+                0.9130434782608695
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                0,
+                41
+            ]
+        },
+        {
+            "sourceId": "source13",
+            "reputation": 0.9285714285714285,
+            "probabilities": [
+                0.02857142857142857,
+                0.02857142857142857,
+                0.02857142857142857,
+                0.02857142857142857,
+                0.8857142857142857
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                0,
+                30
+            ]
+        },
+        {
+            "sourceId": "source15",
+            "reputation": 0.9375,
+            "probabilities": [
+                0.015625,
+                0.015625,
+                0.015625,
+                0.109375,
+                0.84375
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                6,
+                53
+            ]
+        }
+    ]
+}

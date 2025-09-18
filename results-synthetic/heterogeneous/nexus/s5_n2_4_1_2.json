@@ -1,0 +1,124 @@
+{
+    "timestamp": "2025-09-17T16:17:50.020395",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "yayor Btown Thomas Odom",
+                    "confidence": 0.554,
+                    "sourceId": "source1"
+                },
+                {
+                    "fact": "Daniel Tran Pennington Gonzalez",
+                    "confidence": 0.554,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Cameroon",
+                    "confidence": 0.5,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Greece",
+                    "confidence": 0.5,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 28.0,
+                    "confidence": 0.588,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": 24.0,
+                    "confidence": 0.588,
+                    "sourceId": "source1"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source5",
+            "reputation": 0.5,
+            "probabilities": [
+                0.14285714285714285,
+                0.14285714285714285,
+                0.42857142857142855,
+                0.14285714285714285,
+                0.14285714285714285
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                0,
+                0
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.5,
+            "probabilities": [
+                0.14285714285714285,
+                0.14285714285714285,
+                0.42857142857142855,
+                0.14285714285714285,
+                0.14285714285714285
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                0,
+                0
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.5,
+            "probabilities": [
+                0.14285714285714285,
+                0.14285714285714285,
+                0.42857142857142855,
+                0.14285714285714285,
+                0.14285714285714285
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                0,
+                0
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.5,
+            "probabilities": [
+                0.125,
+                0.125,
+                0.5,
+                0.125,
+                0.125
+            ],
+            "ratings": [
+                0,
+                0,
+                3,
+                0,
+                0
+            ]
+        }
+    ]
+}

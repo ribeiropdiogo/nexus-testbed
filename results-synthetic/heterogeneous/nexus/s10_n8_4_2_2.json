@@ -1,0 +1,142 @@
+{
+    "timestamp": "2025-09-17T16:16:00.906174",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 29.0,
+                    "confidence": 0.583,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": 21.0,
+                    "confidence": 0.58,
+                    "sourceId": "source1"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Paula Owen Mann",
+                    "confidence": 0.557,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Dawn Green Morse Bradley",
+                    "confidence": 0.55,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Paraguay",
+                    "confidence": 0.501,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "New Zealand",
+                    "confidence": 0.499,
+                    "sourceId": "source6"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source1",
+            "reputation": 0.5083333333333333,
+            "probabilities": [
+                0.13333333333333333,
+                0.1,
+                0.43333333333333335,
+                0.26666666666666666,
+                0.06666666666666667
+            ],
+            "ratings": [
+                3,
+                2,
+                12,
+                7,
+                1
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.55,
+            "probabilities": [
+                0.16,
+                0.16,
+                0.16,
+                0.36,
+                0.16
+            ],
+            "ratings": [
+                3,
+                3,
+                3,
+                8,
+                3
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.525,
+            "probabilities": [
+                0.15,
+                0.05,
+                0.45,
+                0.25,
+                0.1
+            ],
+            "ratings": [
+                2,
+                0,
+                8,
+                4,
+                1
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.484375,
+            "probabilities": [
+                0.125,
+                0.15625,
+                0.5,
+                0.09375,
+                0.125
+            ],
+            "ratings": [
+                3,
+                4,
+                15,
+                2,
+                3
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.47500000000000003,
+            "probabilities": [
+                0.2,
+                0.25,
+                0.2,
+                0.15,
+                0.2
+            ],
+            "ratings": [
+                3,
+                4,
+                3,
+                2,
+                3
+            ]
+        }
+    ]
+}

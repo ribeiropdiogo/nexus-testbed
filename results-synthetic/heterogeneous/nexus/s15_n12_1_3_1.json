@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:16:03.986259",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Cambodia",
+                    "confidence": 0.533,
+                    "sourceId": "source8"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "James Smith Burnett",
+                    "confidence": 0.555,
+                    "sourceId": "source6"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 27.0,
+                    "confidence": 0.587,
+                    "sourceId": "source3"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source8",
+            "reputation": 0.35795454545454547,
+            "probabilities": [
+                0.4090909090909091,
+                0.18181818181818182,
+                0.18181818181818182,
+                0.022727272727272728,
+                0.20454545454545456
+            ],
+            "ratings": [
+                17,
+                7,
+                7,
+                0,
+                8
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.51953125,
+            "probabilities": [
+                0.265625,
+                0.046875,
+                0.203125,
+                0.3125,
+                0.171875
+            ],
+            "ratings": [
+                16,
+                2,
+                12,
+                19,
+                10
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.6875,
+            "probabilities": [
+                0.22058823529411764,
+                0.014705882352941176,
+                0.07352941176470588,
+                0.17647058823529413,
+                0.5147058823529411
+            ],
+            "ratings": [
+                14,
+                0,
+                4,
+                11,
+                34
+            ]
+        }
+    ]
+}

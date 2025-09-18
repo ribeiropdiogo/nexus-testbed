@@ -1,0 +1,157 @@
+{
+    "timestamp": "2025-09-17T16:17:48.503959",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Cameroon",
+                    "confidence": 0.589,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Cameroon",
+                    "confidence": 0.589,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Greece",
+                    "confidence": 0.411,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Taylor Brown Thomas Odom",
+                    "confidence": 0.685,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Taylor Brown Thomas Odom",
+                    "confidence": 0.685,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "yayor Btown Thomas Odom",
+                    "confidence": 0.673,
+                    "sourceId": "source1"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 28.0,
+                    "confidence": 0.703,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": 28.0,
+                    "confidence": 0.703,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": 28.0,
+                    "confidence": 0.703,
+                    "sourceId": "source5"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source2",
+            "reputation": 0.5,
+            "probabilities": [
+                0.07692307692307693,
+                0.23076923076923078,
+                0.38461538461538464,
+                0.23076923076923078,
+                0.07692307692307693
+            ],
+            "ratings": [
+                0,
+                2,
+                4,
+                2,
+                0
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.5714285714285714,
+            "probabilities": [
+                0.07142857142857142,
+                0.21428571428571427,
+                0.14285714285714285,
+                0.5,
+                0.07142857142857142
+            ],
+            "ratings": [
+                0,
+                2,
+                1,
+                6,
+                0
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.638888888888889,
+            "probabilities": [
+                0.05555555555555555,
+                0.05555555555555555,
+                0.2222222222222222,
+                0.6111111111111112,
+                0.05555555555555555
+            ],
+            "ratings": [
+                0,
+                0,
+                3,
+                10,
+                0
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.6203703703703702,
+            "probabilities": [
+                0.037037037037037035,
+                0.037037037037037035,
+                0.37037037037037035,
+                0.5185185185185185,
+                0.037037037037037035
+            ],
+            "ratings": [
+                0,
+                0,
+                9,
+                13,
+                0
+            ]
+        },
+        {
+            "sourceId": "source5",
+            "reputation": 0.609375,
+            "probabilities": [
+                0.0625,
+                0.0625,
+                0.3125,
+                0.5,
+                0.0625
+            ],
+            "ratings": [
+                0,
+                0,
+                4,
+                7,
+                0
+            ]
+        }
+    ]
+}

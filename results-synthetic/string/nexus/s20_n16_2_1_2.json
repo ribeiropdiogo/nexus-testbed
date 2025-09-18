@@ -1,0 +1,58 @@
+{
+    "timestamp": "2025-09-17T16:18:14.605103",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Kathryn Cindy Garcia",
+                    "confidence": 0.556,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": "Ralph Rodriguez Walker",
+                    "confidence": 0.556,
+                    "sourceId": "source16"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source8",
+            "reputation": 0.5,
+            "probabilities": [
+                0.14285714285714285,
+                0.14285714285714285,
+                0.42857142857142855,
+                0.14285714285714285,
+                0.14285714285714285
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                0,
+                0
+            ]
+        },
+        {
+            "sourceId": "source16",
+            "reputation": 0.5,
+            "probabilities": [
+                0.16666666666666666,
+                0.16666666666666666,
+                0.3333333333333333,
+                0.16666666666666666,
+                0.16666666666666666
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

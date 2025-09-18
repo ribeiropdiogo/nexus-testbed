@@ -1,0 +1,124 @@
+{
+    "timestamp": "2025-09-17T16:17:51.901854",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Patrick hlton hompson",
+                    "confidence": 0.641,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "Patrick Shelton Thompson",
+                    "confidence": 0.641,
+                    "sourceId": "source4"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 35.0,
+                    "confidence": 0.614,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": 40.0,
+                    "confidence": 0.61,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Brazil",
+                    "confidence": 0.508,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Norway",
+                    "confidence": 0.492,
+                    "sourceId": "source1"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source2",
+            "reputation": 0.6375,
+            "probabilities": [
+                0.05,
+                0.15,
+                0.05,
+                0.7,
+                0.05
+            ],
+            "ratings": [
+                0,
+                2,
+                0,
+                13,
+                0
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.6328125,
+            "probabilities": [
+                0.03125,
+                0.03125,
+                0.34375,
+                0.5625,
+                0.03125
+            ],
+            "ratings": [
+                0,
+                0,
+                10,
+                17,
+                0
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.5303030303030303,
+            "probabilities": [
+                0.030303030303030304,
+                0.15151515151515152,
+                0.5151515151515151,
+                0.2727272727272727,
+                0.030303030303030304
+            ],
+            "ratings": [
+                0,
+                4,
+                16,
+                8,
+                0
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.47727272727272724,
+            "probabilities": [
+                0.045454545454545456,
+                0.22727272727272727,
+                0.5454545454545454,
+                0.13636363636363635,
+                0.045454545454545456
+            ],
+            "ratings": [
+                0,
+                4,
+                11,
+                2,
+                0
+            ]
+        }
+    ]
+}

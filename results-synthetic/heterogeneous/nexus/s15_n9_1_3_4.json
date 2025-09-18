@@ -1,0 +1,226 @@
+{
+    "timestamp": "2025-09-17T16:16:33.550731",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Mozambique",
+                    "confidence": 0.439,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": "Barbados",
+                    "confidence": 0.42,
+                    "sourceId": "source15"
+                },
+                {
+                    "fact": "Kazakhstan",
+                    "confidence": 0.369,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Romania",
+                    "confidence": 0.346,
+                    "sourceId": "source6"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 29.0,
+                    "confidence": 0.821,
+                    "sourceId": "source13"
+                },
+                {
+                    "fact": 29.0,
+                    "confidence": 0.821,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": 27.0,
+                    "confidence": 0.813,
+                    "sourceId": "source8"
+                },
+                {
+                    "fact": 24.0,
+                    "confidence": 0.779,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Megan Anderson Rocha Leonard",
+                    "confidence": 0.793,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": "Megan Anderson Rocha Leonard",
+                    "confidence": 0.793,
+                    "sourceId": "source13"
+                },
+                {
+                    "fact": "Mega Jnderson Rouha Leonard",
+                    "confidence": 0.767,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "Scott Williams Collins",
+                    "confidence": 0.479,
+                    "sourceId": "source7"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source6",
+            "reputation": 0.3194444444444444,
+            "probabilities": [
+                0.3148148148148148,
+                0.37037037037037035,
+                0.16666666666666666,
+                0.018518518518518517,
+                0.12962962962962962
+            ],
+            "ratings": [
+                16,
+                19,
+                8,
+                0,
+                6
+            ]
+        },
+        {
+            "sourceId": "source15",
+            "reputation": 0.5957446808510638,
+            "probabilities": [
+                0.02127659574468085,
+                0.2765957446808511,
+                0.3191489361702128,
+                0.06382978723404255,
+                0.3191489361702128
+            ],
+            "ratings": [
+                0,
+                12,
+                14,
+                2,
+                14
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.6493506493506493,
+            "probabilities": [
+                0.19480519480519481,
+                0.11688311688311688,
+                0.06493506493506493,
+                0.14285714285714285,
+                0.4805194805194805
+            ],
+            "ratings": [
+                14,
+                8,
+                4,
+                10,
+                36
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.6815068493150684,
+            "probabilities": [
+                0.1917808219178082,
+                0.0821917808219178,
+                0.0136986301369863,
+                0.2328767123287671,
+                0.4794520547945205
+            ],
+            "ratings": [
+                13,
+                5,
+                0,
+                16,
+                34
+            ]
+        },
+        {
+            "sourceId": "source10",
+            "reputation": 0.7559523809523809,
+            "probabilities": [
+                0.011904761904761904,
+                0.11904761904761904,
+                0.19047619047619047,
+                0.19047619047619047,
+                0.4880952380952381
+            ],
+            "ratings": [
+                0,
+                9,
+                15,
+                15,
+                40
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.4237804878048781,
+            "probabilities": [
+                0.2073170731707317,
+                0.21951219512195122,
+                0.4024390243902439,
+                0.012195121951219513,
+                0.15853658536585366
+            ],
+            "ratings": [
+                16,
+                17,
+                32,
+                0,
+                12
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.75,
+            "probabilities": [
+                0.16923076923076924,
+                0.015384615384615385,
+                0.03076923076923077,
+                0.2153846153846154,
+                0.5692307692307692
+            ],
+            "ratings": [
+                10,
+                0,
+                1,
+                13,
+                36
+            ]
+        },
+        {
+            "sourceId": "source13",
+            "reputation": 0.8712121212121212,
+            "probabilities": [
+                0.015151515151515152,
+                0.015151515151515152,
+                0.06060606060606061,
+                0.2878787878787879,
+                0.6212121212121212
+            ],
+            "ratings": [
+                0,
+                0,
+                3,
+                18,
+                40
+            ]
+        }
+    ]
+}

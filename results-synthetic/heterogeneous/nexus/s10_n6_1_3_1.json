@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:15:52.230804",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Anna Durham David",
+                    "confidence": 0.571,
+                    "sourceId": "source5"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 34.0,
+                    "confidence": 0.618,
+                    "sourceId": "source9"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Albania",
+                    "confidence": 0.558,
+                    "sourceId": "source6"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source5",
+            "reputation": 0.6118421052631579,
+            "probabilities": [
+                0.21052631578947367,
+                0.05263157894736842,
+                0.13157894736842105,
+                0.2894736842105263,
+                0.3157894736842105
+            ],
+            "ratings": [
+                7,
+                1,
+                4,
+                10,
+                11
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.7989130434782609,
+            "probabilities": [
+                0.021739130434782608,
+                0.021739130434782608,
+                0.10869565217391304,
+                0.43478260869565216,
+                0.41304347826086957
+            ],
+            "ratings": [
+                0,
+                0,
+                4,
+                19,
+                18
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.5397727272727273,
+            "probabilities": [
+                0.18181818181818182,
+                0.18181818181818182,
+                0.18181818181818182,
+                0.20454545454545456,
+                0.25
+            ],
+            "ratings": [
+                7,
+                7,
+                7,
+                8,
+                10
+            ]
+        }
+    ]
+}

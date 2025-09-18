@@ -1,0 +1,287 @@
+{
+    "objects": [
+        {
+            "name": "diabetes_11528",
+            "datatype": "categorical",
+            "truth": "no",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "yes"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "yes"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "yes"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "yes"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "no"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "no"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "no"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "no"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "no"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "no"
+                }
+            ]
+        },
+        {
+            "name": "highbp_11528",
+            "datatype": "categorical",
+            "truth": "no high BP",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "high BP"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "high BP"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "high BP"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "high BP"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "no high BP"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "no high BP"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "no high BP"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "no high BP"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "no high BP"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "no high BP"
+                }
+            ]
+        },
+        {
+            "name": "highchol_11528",
+            "datatype": "categorical",
+            "truth": "no high cholesterol",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "high cholesterol"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "high cholesterol"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "high cholesterol"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "high cholesterol"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "no high cholesterol"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "no high cholesterol"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "no high cholesterol"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "no high cholesterol"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "no high cholesterol"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "no high cholesterol"
+                }
+            ]
+        },
+        {
+            "name": "bmi_11528",
+            "datatype": "continuous",
+            "truth": 32.0,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 35.0
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 37.0
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 27.0
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 27.0
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 32.0
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 32.0
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 32.0
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 32.0
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 32.0
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 32.0
+                }
+            ]
+        },
+        {
+            "name": "age_11528",
+            "datatype": "categorical",
+            "truth": "35-39",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "50-54"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "60-64"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "60-64"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "40-44"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "35-39"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "35-39"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "35-39"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "35-39"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "35-39"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "35-39"
+                }
+            ]
+        },
+        {
+            "name": "education_11528",
+            "datatype": "categorical",
+            "truth": "Grade 12 or GED (High school graduate)",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Grades 9 through 11 (Some high school)"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "College 4 years or more (College graduate)"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Grades 1 through 8 (Elementary)"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Grades 9 through 11 (Some high school)"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Grade 12 or GED (High school graduate)"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Grade 12 or GED (High school graduate)"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Grade 12 or GED (High school graduate)"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Grade 12 or GED (High school graduate)"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Grade 12 or GED (High school graduate)"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Grade 12 or GED (High school graduate)"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

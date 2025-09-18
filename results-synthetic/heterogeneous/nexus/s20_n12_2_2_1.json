@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:16:46.592627",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Regina Katie Newman",
+                    "confidence": 0.611,
+                    "sourceId": "source10"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Sudan",
+                    "confidence": 0.561,
+                    "sourceId": "source12"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 32.0,
+                    "confidence": 0.615,
+                    "sourceId": "source14"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source10",
+            "reputation": 0.7760416666666666,
+            "probabilities": [
+                0.10416666666666667,
+                0.020833333333333332,
+                0.08333333333333333,
+                0.25,
+                0.5416666666666666
+            ],
+            "ratings": [
+                4,
+                0,
+                3,
+                11,
+                25
+            ]
+        },
+        {
+            "sourceId": "source12",
+            "reputation": 0.5572916666666666,
+            "probabilities": [
+                0.2708333333333333,
+                0.125,
+                0.10416666666666667,
+                0.10416666666666667,
+                0.3958333333333333
+            ],
+            "ratings": [
+                12,
+                5,
+                4,
+                4,
+                18
+            ]
+        },
+        {
+            "sourceId": "source14",
+            "reputation": 0.7890625,
+            "probabilities": [
+                0.03125,
+                0.09375,
+                0.125,
+                0.1875,
+                0.5625
+            ],
+            "ratings": [
+                0,
+                2,
+                3,
+                5,
+                17
+            ]
+        }
+    ]
+}

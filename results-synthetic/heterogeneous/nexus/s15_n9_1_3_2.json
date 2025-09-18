@@ -1,0 +1,142 @@
+{
+    "timestamp": "2025-09-17T16:16:33.504884",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Megan Anderson Rocha Leonard",
+                    "confidence": 0.599,
+                    "sourceId": "source10"
+                },
+                {
+                    "fact": "Scott Williams Collins",
+                    "confidence": 0.526,
+                    "sourceId": "source7"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Kazakhstan",
+                    "confidence": 0.513,
+                    "sourceId": "source7"
+                },
+                {
+                    "fact": "Romania",
+                    "confidence": 0.487,
+                    "sourceId": "source6"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 29.0,
+                    "confidence": 0.709,
+                    "sourceId": "source13"
+                },
+                {
+                    "fact": 27.0,
+                    "confidence": 0.7,
+                    "sourceId": "source8"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source10",
+            "reputation": 0.7530864197530864,
+            "probabilities": [
+                0.012345679012345678,
+                0.12345679012345678,
+                0.19753086419753085,
+                0.1728395061728395,
+                0.49382716049382713
+            ],
+            "ratings": [
+                0,
+                9,
+                15,
+                13,
+                39
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.42307692307692313,
+            "probabilities": [
+                0.21794871794871795,
+                0.21794871794871795,
+                0.38461538461538464,
+                0.01282051282051282,
+                0.16666666666666666
+            ],
+            "ratings": [
+                16,
+                16,
+                29,
+                0,
+                12
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.3173076923076923,
+            "probabilities": [
+                0.3269230769230769,
+                0.36538461538461536,
+                0.15384615384615385,
+                0.019230769230769232,
+                0.1346153846153846
+            ],
+            "ratings": [
+                16,
+                18,
+                7,
+                0,
+                6
+            ]
+        },
+        {
+            "sourceId": "source13",
+            "reputation": 0.873015873015873,
+            "probabilities": [
+                0.015873015873015872,
+                0.015873015873015872,
+                0.06349206349206349,
+                0.2698412698412698,
+                0.6349206349206349
+            ],
+            "ratings": [
+                0,
+                0,
+                3,
+                16,
+                39
+            ]
+        },
+        {
+            "sourceId": "source8",
+            "reputation": 0.6452702702702703,
+            "probabilities": [
+                0.20270270270270271,
+                0.12162162162162163,
+                0.05405405405405406,
+                0.13513513513513514,
+                0.4864864864864865
+            ],
+            "ratings": [
+                14,
+                8,
+                3,
+                9,
+                35
+            ]
+        }
+    ]
+}

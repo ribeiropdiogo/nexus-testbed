@@ -1,0 +1,73 @@
+{
+    "timestamp": "2025-09-17T16:17:48.585317",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Cameroon",
+                    "confidence": 0.575,
+                    "sourceId": "source3"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 28.0,
+                    "confidence": 0.581,
+                    "sourceId": "source4"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Taylor Brown Thomas Odom",
+                    "confidence": 0.574,
+                    "sourceId": "source3"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source4",
+            "reputation": 0.6562499999999999,
+            "probabilities": [
+                0.041666666666666664,
+                0.041666666666666664,
+                0.20833333333333334,
+                0.6666666666666666,
+                0.041666666666666664
+            ],
+            "ratings": [
+                0,
+                0,
+                4,
+                15,
+                0
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.6285714285714286,
+            "probabilities": [
+                0.02857142857142857,
+                0.02857142857142857,
+                0.37142857142857144,
+                0.5428571428571428,
+                0.02857142857142857
+            ],
+            "ratings": [
+                0,
+                0,
+                12,
+                18,
+                0
+            ]
+        }
+    ]
+}

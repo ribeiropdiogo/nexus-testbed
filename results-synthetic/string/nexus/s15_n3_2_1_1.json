@@ -1,0 +1,35 @@
+{
+    "timestamp": "2025-09-17T16:18:03.542271",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "ShaXon Hgan RichardsoN",
+                    "confidence": 0.552,
+                    "sourceId": "source3"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source3",
+            "reputation": 0.5,
+            "probabilities": [
+                0.16666666666666666,
+                0.16666666666666666,
+                0.3333333333333333,
+                0.16666666666666666,
+                0.16666666666666666
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

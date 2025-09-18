@@ -1,0 +1,160 @@
+{
+    "timestamp": "2025-09-17T16:16:27.509134",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 28.0,
+                    "confidence": 0.71,
+                    "sourceId": "source14"
+                },
+                {
+                    "fact": 24.0,
+                    "confidence": 0.681,
+                    "sourceId": "source6"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Malawi",
+                    "confidence": 0.763,
+                    "sourceId": "source9"
+                },
+                {
+                    "fact": "Malawi",
+                    "confidence": 0.763,
+                    "sourceId": "source7"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Taylor Casey Henry",
+                    "confidence": 0.724,
+                    "sourceId": "source15"
+                },
+                {
+                    "fact": "Taylor Casey Tammy",
+                    "confidence": 0.715,
+                    "sourceId": "source3"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source14",
+            "reputation": 0.9094202898550725,
+            "probabilities": [
+                0.014492753623188406,
+                0.014492753623188406,
+                0.043478260869565216,
+                0.17391304347826086,
+                0.7536231884057971
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                11,
+                51
+            ]
+        },
+        {
+            "sourceId": "source6",
+            "reputation": 0.548076923076923,
+            "probabilities": [
+                0.24358974358974358,
+                0.038461538461538464,
+                0.2564102564102564,
+                0.20512820512820512,
+                0.2564102564102564
+            ],
+            "ratings": [
+                18,
+                2,
+                19,
+                15,
+                19
+            ]
+        },
+        {
+            "sourceId": "source9",
+            "reputation": 0.8728070175438596,
+            "probabilities": [
+                0.017543859649122806,
+                0.017543859649122806,
+                0.07017543859649122,
+                0.24561403508771928,
+                0.6491228070175439
+            ],
+            "ratings": [
+                0,
+                0,
+                3,
+                13,
+                36
+            ]
+        },
+        {
+            "sourceId": "source7",
+            "reputation": 0.8355263157894737,
+            "probabilities": [
+                0.02631578947368421,
+                0.02631578947368421,
+                0.07894736842105263,
+                0.3157894736842105,
+                0.5526315789473685
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                11,
+                20
+            ]
+        },
+        {
+            "sourceId": "source15",
+            "reputation": 0.881578947368421,
+            "probabilities": [
+                0.017543859649122806,
+                0.017543859649122806,
+                0.05263157894736842,
+                0.24561403508771928,
+                0.6666666666666666
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                13,
+                37
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.725,
+            "probabilities": [
+                0.18,
+                0.02,
+                0.04,
+                0.24,
+                0.52
+            ],
+            "ratings": [
+                8,
+                0,
+                1,
+                11,
+                25
+            ]
+        }
+    ]
+}

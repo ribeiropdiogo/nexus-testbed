@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:15:59.768814",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "James Foley Cannon",
+                    "confidence": 0.577,
+                    "sourceId": "source9"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 26.0,
+                    "confidence": 0.571,
+                    "sourceId": "source10"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Macao",
+                    "confidence": 0.551,
+                    "sourceId": "source1"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source9",
+            "reputation": 0.6379310344827587,
+            "probabilities": [
+                0.06896551724137931,
+                0.13793103448275862,
+                0.13793103448275862,
+                0.4827586206896552,
+                0.1724137931034483
+            ],
+            "ratings": [
+                1,
+                3,
+                3,
+                13,
+                4
+            ]
+        },
+        {
+            "sourceId": "source10",
+            "reputation": 0.609375,
+            "probabilities": [
+                0.0625,
+                0.1875,
+                0.15625,
+                0.4375,
+                0.15625
+            ],
+            "ratings": [
+                1,
+                5,
+                4,
+                13,
+                4
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.4919354838709677,
+            "probabilities": [
+                0.12903225806451613,
+                0.16129032258064516,
+                0.3870967741935484,
+                0.25806451612903225,
+                0.06451612903225806
+            ],
+            "ratings": [
+                3,
+                4,
+                11,
+                7,
+                1
+            ]
+        }
+    ]
+}

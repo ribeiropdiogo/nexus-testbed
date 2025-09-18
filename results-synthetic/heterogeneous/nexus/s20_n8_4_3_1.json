@@ -1,0 +1,91 @@
+{
+    "timestamp": "2025-09-17T16:17:41.266470",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Vanuatu",
+                    "confidence": 0.662,
+                    "sourceId": "source14"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Vanessa Giles Roberts",
+                    "confidence": 0.699,
+                    "sourceId": "source11"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 32.0,
+                    "confidence": 0.697,
+                    "sourceId": "source17"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source14",
+            "reputation": 0.8920454545454546,
+            "probabilities": [
+                0.011363636363636364,
+                0.011363636363636364,
+                0.10227272727272728,
+                0.14772727272727273,
+                0.7272727272727273
+            ],
+            "ratings": [
+                0,
+                0,
+                8,
+                12,
+                63
+            ]
+        },
+        {
+            "sourceId": "source11",
+            "reputation": 0.9375,
+            "probabilities": [
+                0.0125,
+                0.0125,
+                0.025,
+                0.1125,
+                0.8375
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                8,
+                66
+            ]
+        },
+        {
+            "sourceId": "source17",
+            "reputation": 0.9360465116279071,
+            "probabilities": [
+                0.011627906976744186,
+                0.011627906976744186,
+                0.03488372093023256,
+                0.10465116279069768,
+                0.8372093023255814
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                8,
+                71
+            ]
+        }
+    ]
+}

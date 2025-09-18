@@ -1,0 +1,106 @@
+{
+    "timestamp": "2025-09-17T16:17:46.312718",
+    "objects": [
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 34.0,
+                    "confidence": 0.644,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": 34.0,
+                    "confidence": 0.644,
+                    "sourceId": "source5"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Scott Burns Ortiz Gomez",
+                    "confidence": 0.626,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Scott Burns Natalie Gomez",
+                    "confidence": 0.622,
+                    "sourceId": "source1"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Falkland Islands (Malvinas)",
+                    "confidence": 0.512,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "Saint Lucia",
+                    "confidence": 0.488,
+                    "sourceId": "source1"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source5",
+            "reputation": 0.661764705882353,
+            "probabilities": [
+                0.058823529411764705,
+                0.058823529411764705,
+                0.11764705882352941,
+                0.7058823529411765,
+                0.058823529411764705
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                11,
+                0
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.6071428571428572,
+            "probabilities": [
+                0.047619047619047616,
+                0.047619047619047616,
+                0.38095238095238093,
+                0.47619047619047616,
+                0.047619047619047616
+            ],
+            "ratings": [
+                0,
+                0,
+                7,
+                9,
+                0
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.5416666666666666,
+            "probabilities": [
+                0.05555555555555555,
+                0.16666666666666666,
+                0.3888888888888889,
+                0.3333333333333333,
+                0.05555555555555555
+            ],
+            "ratings": [
+                0,
+                2,
+                6,
+                5,
+                0
+            ]
+        }
+    ]
+}

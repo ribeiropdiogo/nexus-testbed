@@ -1,0 +1,142 @@
+{
+    "timestamp": "2025-09-17T16:16:01.223683",
+    "objects": [
+        {
+            "name": "nationality",
+            "claims": [
+                {
+                    "fact": "Paraguay",
+                    "confidence": 0.502,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "New Zealand",
+                    "confidence": 0.498,
+                    "sourceId": "source6"
+                }
+            ]
+        },
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Paula Owen Mann",
+                    "confidence": 0.558,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Dawn Green Morse Bradley",
+                    "confidence": 0.551,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "claims": [
+                {
+                    "fact": 29.0,
+                    "confidence": 0.585,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": 21.0,
+                    "confidence": 0.581,
+                    "sourceId": "source1"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source6",
+            "reputation": 0.47058823529411764,
+            "probabilities": [
+                0.20588235294117646,
+                0.2647058823529412,
+                0.17647058823529413,
+                0.14705882352941177,
+                0.20588235294117646
+            ],
+            "ratings": [
+                6,
+                8,
+                5,
+                4,
+                6
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.5303030303030303,
+            "probabilities": [
+                0.15151515151515152,
+                0.030303030303030304,
+                0.45454545454545453,
+                0.2727272727272727,
+                0.09090909090909091
+            ],
+            "ratings": [
+                4,
+                0,
+                14,
+                8,
+                2
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.48660714285714285,
+            "probabilities": [
+                0.125,
+                0.16071428571428573,
+                0.5,
+                0.07142857142857142,
+                0.14285714285714285
+            ],
+            "ratings": [
+                6,
+                8,
+                27,
+                3,
+                7
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.5094339622641509,
+            "probabilities": [
+                0.1320754716981132,
+                0.09433962264150944,
+                0.4339622641509434,
+                0.2830188679245283,
+                0.05660377358490566
+            ],
+            "ratings": [
+                6,
+                4,
+                22,
+                14,
+                2
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.5625,
+            "probabilities": [
+                0.1590909090909091,
+                0.1590909090909091,
+                0.13636363636363635,
+                0.36363636363636365,
+                0.18181818181818182
+            ],
+            "ratings": [
+                6,
+                6,
+                5,
+                15,
+                7
+            ]
+        }
+    ]
+}

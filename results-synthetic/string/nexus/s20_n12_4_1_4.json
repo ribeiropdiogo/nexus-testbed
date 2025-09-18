@@ -1,0 +1,104 @@
+{
+    "timestamp": "2025-09-17T16:18:12.684647",
+    "objects": [
+        {
+            "name": "name",
+            "claims": [
+                {
+                    "fact": "Gerald Huber Watson",
+                    "confidence": 0.647,
+                    "sourceId": "source16"
+                },
+                {
+                    "fact": "Gerald Huber Watson",
+                    "confidence": 0.647,
+                    "sourceId": "source19"
+                },
+                {
+                    "fact": "Gerald Huber Laura",
+                    "confidence": 0.63,
+                    "sourceId": "source11"
+                },
+                {
+                    "fact": "Cassandra Collins Nelson",
+                    "confidence": 0.561,
+                    "sourceId": "source10"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source10",
+            "reputation": 0.5,
+            "probabilities": [
+                0.1111111111111111,
+                0.1111111111111111,
+                0.5555555555555556,
+                0.1111111111111111,
+                0.1111111111111111
+            ],
+            "ratings": [
+                0,
+                0,
+                4,
+                0,
+                0
+            ]
+        },
+        {
+            "sourceId": "source16",
+            "reputation": 0.53125,
+            "probabilities": [
+                0.125,
+                0.125,
+                0.375,
+                0.25,
+                0.125
+            ],
+            "ratings": [
+                0,
+                0,
+                2,
+                1,
+                0
+            ]
+        },
+        {
+            "sourceId": "source11",
+            "reputation": 0.5357142857142856,
+            "probabilities": [
+                0.14285714285714285,
+                0.14285714285714285,
+                0.2857142857142857,
+                0.2857142857142857,
+                0.14285714285714285
+            ],
+            "ratings": [
+                0,
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "sourceId": "source19",
+            "reputation": 0.5416666666666666,
+            "probabilities": [
+                0.16666666666666666,
+                0.16666666666666666,
+                0.16666666666666666,
+                0.3333333333333333,
+                0.16666666666666666
+            ],
+            "ratings": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ]
+        }
+    ]
+}

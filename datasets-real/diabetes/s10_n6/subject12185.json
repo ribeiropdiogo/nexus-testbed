@@ -1,0 +1,287 @@
+{
+    "objects": [
+        {
+            "name": "diabetes_12185",
+            "datatype": "categorical",
+            "truth": "yes",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "no"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "no"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "no"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "no"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "no"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "no"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "yes"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "yes"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "yes"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "yes"
+                }
+            ]
+        },
+        {
+            "name": "highbp_12185",
+            "datatype": "categorical",
+            "truth": "high BP",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "no high BP"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "no high BP"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "no high BP"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "no high BP"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "no high BP"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "no high BP"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "high BP"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "high BP"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "high BP"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "high BP"
+                }
+            ]
+        },
+        {
+            "name": "highchol_12185",
+            "datatype": "categorical",
+            "truth": "high cholesterol",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "no high cholesterol"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "no high cholesterol"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "no high cholesterol"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "no high cholesterol"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "no high cholesterol"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "no high cholesterol"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "high cholesterol"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "high cholesterol"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "high cholesterol"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "high cholesterol"
+                }
+            ]
+        },
+        {
+            "name": "bmi_12185",
+            "datatype": "continuous",
+            "truth": 32.0,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 27.0
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 27.0
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 37.0
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 27.0
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 35.0
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 36.0
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 32.0
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 32.0
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 32.0
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 32.0
+                }
+            ]
+        },
+        {
+            "name": "age_12185",
+            "datatype": "categorical",
+            "truth": "70-74",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "18-24"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "75-79"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "40-44"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "18-24"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "55-59"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "60-64"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "70-74"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "70-74"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "70-74"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "70-74"
+                }
+            ]
+        },
+        {
+            "name": "education_12185",
+            "datatype": "categorical",
+            "truth": "College 1 year to 3 years (Some college or technical school)",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Grades 9 through 11 (Some high school)"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Grade 12 or GED (High school graduate)"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Grades 1 through 8 (Elementary)"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Grades 1 through 8 (Elementary)"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "College 4 years or more (College graduate)"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Grades 9 through 11 (Some high school)"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "College 1 year to 3 years (Some college or technical school)"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "College 1 year to 3 years (Some college or technical school)"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "College 1 year to 3 years (Some college or technical school)"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "College 1 year to 3 years (Some college or technical school)"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}
