@@ -5,6 +5,7 @@ specified level of noise.
 """
 
 from diabetes import generate as diabetes
+from wine import generate as wine
 
 import argparse
 
@@ -45,6 +46,8 @@ class Generator:
             # Check the type of dataset to generate
             if self.type == "diabetes":
                 diabetes.generate(sources=self.sources, noise=self.noise, output_path=output_path)
+            elif self.type == "wine":
+                wine.generate(sources=self.sources, noise=self.noise, output_path=output_path)
             else:
                 raise ValueError("Invalid datatype specified.")
             print("\n Dataset saved with success!")

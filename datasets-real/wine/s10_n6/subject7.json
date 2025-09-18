@@ -1,0 +1,569 @@
+{
+    "objects": [
+        {
+            "name": "fixed acidity_7",
+            "datatype": "continuous",
+            "truth": 7.9,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 11.77
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 0.89
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 9.74
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 9.85
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 1.64
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 1.37
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 7.9
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 7.9
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 7.9
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 7.9
+                }
+            ]
+        },
+        {
+            "name": "volatile acidity_7",
+            "datatype": "continuous",
+            "truth": 0.6,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 0.71
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 0.88
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 0.97
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 1.17
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 0.64
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 0.69
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 0.6
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 0.6
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 0.6
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 0.6
+                }
+            ]
+        },
+        {
+            "name": "citric acid_7",
+            "datatype": "continuous",
+            "truth": 0.06,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 0.05
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 0.01
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 0.07
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 0.1
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 0.04
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 0.1
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 0.06
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 0.06
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 0.06
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 0.06
+                }
+            ]
+        },
+        {
+            "name": "residual sugar_7",
+            "datatype": "continuous",
+            "truth": 1.6,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 2.19
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 0.27
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 2.16
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 2.73
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 1.81
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 1.89
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 1.6
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 1.6
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 1.6
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 1.6
+                }
+            ]
+        },
+        {
+            "name": "chlorides_7",
+            "datatype": "continuous",
+            "truth": 0.069,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 0.04
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 0.09
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 0.02
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 0.14
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 0.07
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 0.07
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 0.069
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 0.069
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 0.069
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 0.069
+                }
+            ]
+        },
+        {
+            "name": "free sulfur dioxide_7",
+            "datatype": "continuous",
+            "truth": 15.0,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 8.18
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 26.32
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 7.4
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 26.67
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 18.38
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 5.77
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 15.0
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 15.0
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 15.0
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 15.0
+                }
+            ]
+        },
+        {
+            "name": "total sulfur dioxide_7",
+            "datatype": "continuous",
+            "truth": 59.0,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 8.48
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 103.34
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 80.92
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 34.85
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 52.98
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 14.37
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 59.0
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 59.0
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 59.0
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 59.0
+                }
+            ]
+        },
+        {
+            "name": "density_7",
+            "datatype": "continuous",
+            "truth": 0.9964,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 0.98
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 0.47
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 1.62
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 0.47
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 1.16
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 0.73
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 0.9964
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 0.9964
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 0.9964
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 0.9964
+                }
+            ]
+        },
+        {
+            "name": "pH_7",
+            "datatype": "continuous",
+            "truth": 3.3,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 0.82
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 5.0
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 4.67
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 0.81
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 3.82
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 4.54
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 3.3
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 3.3
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 3.3
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 3.3
+                }
+            ]
+        },
+        {
+            "name": "sulphates_7",
+            "datatype": "continuous",
+            "truth": 0.46,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 0.89
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 0.82
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 0.23
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 0.53
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 0.38
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 0.48
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 0.46
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 0.46
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 0.46
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 0.46
+                }
+            ]
+        },
+        {
+            "name": "alcohol_7",
+            "datatype": "continuous",
+            "truth": 9.4,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 10.86
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 16.84
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 7.57
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 1.43
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 9.25
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 15.99
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 9.4
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 9.4
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 9.4
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 9.4
+                }
+            ]
+        },
+        {
+            "name": "quality_7",
+            "datatype": "continuous",
+            "truth": 5.0,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 5.8
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 5.03
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 1.0
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 0.57
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 9.64
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 7.53
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 5.0
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 5.0
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 5.0
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 5.0
+                }
+            ]
+        }
+    ],
+    "sources": []
+}
