@@ -26,9 +26,20 @@ def assess(path, file, round):
         # Shuffle the claims
         for obj in data['objects']:
             random.shuffle(obj['claims'])
+        if 'gender' in path:
+            port = 8001
+        elif 'adult' in path:
+            port = 8002
+        elif 'diabetes' in path:
+            port = 8003
+        else:
+            sys.exit(1)
+        print(path)
+        print(port)
+        sys.exit(1)
         # Perform request
         r = requests.post(
-            'http://127.0.0.1:8000/consolidate',
+            f'http://127.0.0.1:{port}/consolidate',
             data=json.dumps(data),
             headers=HEADERS,
             timeout=3600
