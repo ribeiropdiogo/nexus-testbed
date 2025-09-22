@@ -34,9 +34,6 @@ def assess(path, file, round):
             port = 8003
         else:
             sys.exit(1)
-        print(path)
-        print(port)
-        sys.exit(1)
         # Perform request
         r = requests.post(
             f'http://127.0.0.1:{port}/consolidate',
