@@ -2,16 +2,42 @@
 Script to generate the diabetes dataset from the source data.
 """
 
+from operator import add
 import os
 import json
 import csv
 import random
 
 INPUT = "diabetes_binary_health_indicators_BRFSS2015.csv"
-DBENTRIES = 17500
+DBENTRIES = 50
 DBFIELDS  = 6
 CLAIMS    = DBENTRIES * DBFIELDS
 
+
+def add_str_noise(string):
+    # Get string length
+    length = len(string)
+    # Get a random number of errors to introduce
+    num_errors = random.randint(2, max(2, length // 5))
+    # Get the positions of the errors
+    error_positions = random.sample(range(length), num_errors)
+    # Introduce the errors
+    noisy_string = list(string)
+    for pos in error_positions:
+        char = random.choice("abcdefghijklmnopqrstuvwxyz")
+        if char != noisy_string[pos]:
+            noisy_string[pos] = char
+    # Join the list back into a string
+    noisy_string = "".join(noisy_string)
+    # Remove a random word with a small probability
+    if random.random() < 0.5:
+        words = noisy_string.split()
+        if len(words) > 1:
+            remove_pos = random.randint(0, len(words) - 1)
+            del words[remove_pos]
+            noisy_string = " ".join(words)
+    # Return the noisy string
+    return noisy_string
 
 def diabetes_entry(dataset, row, rowId, noise, sources):
     # Initialize the noise counter
@@ -202,16 +228,14 @@ def education_entry(dataset, row, rowId, noise, sources):
     # Initialize the object
     obj = {
         "name": "education_" + str(rowId),
-        "datatype": "categorical",
+        "datatype": "string",
         "truth": truth,
         "claims": []
     }
     # Iterate over the number of sources
     for i in range(sources):
         if noisy_sources > 0:
-            value = random.choice(list(education_map.values()))
-            while value == truth:
-                value = random.choice(list(education_map.values()))
+            value = add_str_noise(truth)
             noisy_sources -= 1
         else:
             value = truth

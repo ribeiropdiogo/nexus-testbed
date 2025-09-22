@@ -8,7 +8,7 @@ import csv
 import random
 
 INPUT = "winequality-red.csv"
-DBENTRIES = 10
+DBENTRIES = 1000
 
 
 def process_entry(dataset, row, rowId, noise, sources):

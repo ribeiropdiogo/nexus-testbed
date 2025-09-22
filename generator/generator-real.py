@@ -5,7 +5,8 @@ specified level of noise.
 """
 
 from diabetes import generate as diabetes
-from wine import generate as wine
+from adult import generate as adult
+from gender import generate as gender
 
 import argparse
 
@@ -46,8 +47,10 @@ class Generator:
             # Check the type of dataset to generate
             if self.type == "diabetes":
                 diabetes.generate(sources=self.sources, noise=self.noise, output_path=output_path)
-            elif self.type == "wine":
-                wine.generate(sources=self.sources, noise=self.noise, output_path=output_path)
+            elif self.type == "adult":
+                adult.generate(sources=self.sources, noise=self.noise, output_path=output_path)
+            elif self.type == "gender":
+                gender.generate(sources=self.sources, noise=self.noise, output_path=output_path)
             else:
                 raise ValueError("Invalid datatype specified.")
             print("\n Dataset saved with success!")
@@ -62,8 +65,8 @@ def main():
     parser = argparse.ArgumentParser(description="Dataset Generator ")
     # Add arguments
     parser.add_argument("-d", "--datatype",type=str,
-        choices=["diabetes", "wine", "adult"],
-        help="Type of data: 'diabetes', 'wine', or 'adult'"
+        choices=["diabetes", "adult", "gender"],
+        help="Type of data: 'diabetes', or 'adult'"
     )
     parser.add_argument("-s", "--sources", type=int, required=True, help="Number of sources")
     parser.add_argument("-n", "--noise", type=float, help="Percentage of noise to add [0.0,1.0]")

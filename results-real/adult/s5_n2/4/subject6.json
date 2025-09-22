@@ -1,0 +1,277 @@
+{
+    "timestamp": "2025-09-22T14:06:43.907721",
+    "objects": [
+        {
+            "name": "hours_6",
+            "claims": [
+                {
+                    "fact": 40.0,
+                    "confidence": 0.774,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": 40.0,
+                    "confidence": 0.774,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": 40.0,
+                    "confidence": 0.774,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": 38.0,
+                    "confidence": 0.758,
+                    "sourceId": "source1"
+                },
+                {
+                    "fact": 49.0,
+                    "confidence": 0.711,
+                    "sourceId": "source2"
+                }
+            ]
+        },
+        {
+            "name": "education_6",
+            "claims": [
+                {
+                    "fact": "Masters",
+                    "confidence": 0.62,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Masters",
+                    "confidence": 0.62,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Masters",
+                    "confidence": 0.62,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "7th-8th",
+                    "confidence": 0.286,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "11th",
+                    "confidence": 0.285,
+                    "sourceId": "source1"
+                }
+            ]
+        },
+        {
+            "name": "country6",
+            "claims": [
+                {
+                    "fact": "United-States",
+                    "confidence": 0.781,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "United-States",
+                    "confidence": 0.781,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "United-States",
+                    "confidence": 0.781,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Unfted-Stateq",
+                    "confidence": 0.752,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "Unimed-Syates",
+                    "confidence": 0.748,
+                    "sourceId": "source1"
+                }
+            ]
+        },
+        {
+            "name": "age_6",
+            "claims": [
+                {
+                    "fact": 37.0,
+                    "confidence": 0.767,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": 37.0,
+                    "confidence": 0.767,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": 37.0,
+                    "confidence": 0.767,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": 42.0,
+                    "confidence": 0.743,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": 51.0,
+                    "confidence": 0.684,
+                    "sourceId": "source1"
+                }
+            ]
+        },
+        {
+            "name": "workclass_6",
+            "claims": [
+                {
+                    "fact": "Private",
+                    "confidence": 0.623,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Private",
+                    "confidence": 0.623,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Private",
+                    "confidence": 0.623,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Federal-gov",
+                    "confidence": 0.282,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "Without-pay",
+                    "confidence": 0.28,
+                    "sourceId": "source1"
+                }
+            ]
+        },
+        {
+            "name": "marital_6",
+            "claims": [
+                {
+                    "fact": "Married-civ-spouse",
+                    "confidence": 0.627,
+                    "sourceId": "source5"
+                },
+                {
+                    "fact": "Married-civ-spouse",
+                    "confidence": 0.627,
+                    "sourceId": "source3"
+                },
+                {
+                    "fact": "Married-civ-spouse",
+                    "confidence": 0.627,
+                    "sourceId": "source4"
+                },
+                {
+                    "fact": "Widowed",
+                    "confidence": 0.281,
+                    "sourceId": "source2"
+                },
+                {
+                    "fact": "Separated",
+                    "confidence": 0.279,
+                    "sourceId": "source1"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "sourceId": "source5",
+            "reputation": 0.6524390243902439,
+            "probabilities": [
+                0.024390243902439025,
+                0.024390243902439025,
+                0.2926829268292683,
+                0.6341463414634146,
+                0.024390243902439025
+            ],
+            "ratings": [
+                0,
+                0,
+                11,
+                25,
+                0
+            ]
+        },
+        {
+            "sourceId": "source3",
+            "reputation": 0.6524390243902439,
+            "probabilities": [
+                0.024390243902439025,
+                0.024390243902439025,
+                0.2926829268292683,
+                0.6341463414634146,
+                0.024390243902439025
+            ],
+            "ratings": [
+                0,
+                0,
+                11,
+                25,
+                0
+            ]
+        },
+        {
+            "sourceId": "source1",
+            "reputation": 0.5,
+            "probabilities": [
+                0.024390243902439025,
+                0.43902439024390244,
+                0.07317073170731707,
+                0.43902439024390244,
+                0.024390243902439025
+            ],
+            "ratings": [
+                0,
+                17,
+                2,
+                17,
+                0
+            ]
+        },
+        {
+            "sourceId": "source2",
+            "reputation": 0.5060975609756098,
+            "probabilities": [
+                0.024390243902439025,
+                0.43902439024390244,
+                0.04878048780487805,
+                0.4634146341463415,
+                0.024390243902439025
+            ],
+            "ratings": [
+                0,
+                17,
+                1,
+                18,
+                0
+            ]
+        },
+        {
+            "sourceId": "source4",
+            "reputation": 0.6524390243902439,
+            "probabilities": [
+                0.024390243902439025,
+                0.024390243902439025,
+                0.2926829268292683,
+                0.6341463414634146,
+                0.024390243902439025
+            ],
+            "ratings": [
+                0,
+                0,
+                11,
+                25,
+                0
+            ]
+        }
+    ]
+}

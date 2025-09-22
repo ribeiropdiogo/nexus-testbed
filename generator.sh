@@ -64,13 +64,13 @@ if [[ "$dataset_type" == "s" ]]; then
 # If real-world, run generator-real.py
 else
     # Prompt which dataset to generate
-    read -p "Which real-world dataset do you want to generate? (diabetes -> d | wine -> w | adult -> a): " real_dataset
+    read -p "Which real-world dataset do you want to generate? (diabetes -> d | adult -> a | gender -> g): " real_dataset
     if [[ "$real_dataset" == "d" ]]; then
         datatype="diabetes"
-    elif [[ "$real_dataset" == "w" ]]; then
-        datatype="wine"
     elif [[ "$real_dataset" == "a" ]]; then
         datatype="adult"
+    elif [[ "$real_dataset" == "g" ]]; then
+        datatype="gender"
     else
         echo "Error: Invalid input. Please answer with 'd', 'w', or 'a'."
         exit 1
@@ -81,14 +81,22 @@ else
         echo "Error: sources must be an integer."
         exit 1
     fi
-    # Prompt noise level
-    read -p "Enter noise level (0.0 to 1.0): " noise
-    if ! [[ "$noise" =~ ^([0-9]*\.?[0-9]+)$ ]] || (( $(echo "$noise < 0.0" | bc -l) )) || (( $(echo "$noise > 1.0" | bc -l) )); then
-        echo "Error: noise must be a number between 0.0 and 1.0."
-        exit 1
-    fi
-    # Execute generator-real.py
-    echo "================================================="
-    python3 generator/generator-real.py --datatype "$datatype" --sources "$sources" --noise "$noise"
+    # Prompt noise level(s)
+    read -p "Enter noise level(s) (single float or space/comma-separated list, 0.0 to 1.0): " noise_input
+
+    # Normalize input: replace commas with spaces
+    noise_input="${noise_input//,/ }"
+    # Split into array
+    read -ra noise_arr <<< "$noise_input"
+
+    # Validate and run for each noise value
+    for noise in "${noise_arr[@]}"; do
+        if ! [[ "$noise" =~ ^([0-9]*\.?[0-9]+)$ ]] || (( $(echo "$noise < 0.0" | bc -l) )) || (( $(echo "$noise > 1.0" | bc -l) )); then
+            echo "Error: each noise value must be a number between 0.0 and 1.0."
+            exit 1
+        fi
+        echo "================================================="
+        python3 generator/generator-real.py --datatype "$datatype" --sources "$sources" --noise "$noise"
+    done
     exit 0
 fi
