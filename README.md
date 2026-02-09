@@ -21,7 +21,7 @@ To run the dataset generator, a script named `run.sh` can be used to quickly run
 
 ## Test Execution
 
-In order to execute the tests, a dataset is required to be previously generated. Other directories than the default `datasets/` can be used. The testbed can be executed using the supplied scripts `testbed.sh` and `run.sh` (more information below). There are four algorithms being used in the assessment: `Majority Voting`, `TruthFinder`, `CRH`, and `Nexus`. For each algorithm, a predetermined number of rounds is executed (5 by default). This value can be changed in the `testbed.sh` script by updating the `ROUNDS` variable. Moreover, in each execution, the claims are shuffled to ensure that their order does not affect the final result. The results of the testbed are saved into the `results/` directory, organized by datatype. The filenames are in the format `sX_nY_Z.json`, where `X` represents the `number of sources`, `Y` represents the `number of entries with noise`, and `Z` represents the `round` (`[1,ROUNDS]`).
+In order to execute the tests, a dataset is required to be previously generated. Other directories than the default `datasets/` can be used. The testbed can be executed using the supplied scripts `testbed.sh` and `run.sh` (more information below). There one algorithm being used in the assessment: `Nexus`. For this algorithm, a predetermined number of rounds is executed (5 by default). This value can be changed in the `testbed.sh` script by updating the `ROUNDS` variable. Moreover, in each execution, the claims are shuffled to ensure that their order does not affect the final result. The results of the testbed are saved into the `results/` directory, organized by datatype. The filenames are in the format `sX_nY_Z.json`, where `X` represents the `number of sources`, `Y` represents the `number of entries with noise`, and `Z` represents the `round` (`[1,ROUNDS]`).
 
 ### Requirements
 
@@ -47,7 +47,7 @@ The output format, represented below, includes information on the algorithm used
 
 ```json
 {
-    "algorithm": "Majority Voting",
+    "algorithm": "Nexus",
     "results": [
         {
             "result": "Gabriel Arias York",
