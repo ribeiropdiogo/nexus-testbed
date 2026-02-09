@@ -13,7 +13,7 @@ from metrics import calculate_metrics
 
 HEADERS = {'Content-type': 'application/json'}
 
-def assess(path, file, round):
+def assess(path, file, round, port):
     """
     Consume the input file and use Nexus.
     """
@@ -26,14 +26,6 @@ def assess(path, file, round):
         # Shuffle the claims
         for obj in data['objects']:
             random.shuffle(obj['claims'])
-        if 'gender' in path:
-            port = 8001
-        elif 'adult' in path:
-            port = 8002
-        elif 'diabetes' in path:
-            port = 8003
-        else:
-            sys.exit(1)
         # Perform request
         r = requests.post(
             f'http://127.0.0.1:{port}/consolidate',
@@ -80,12 +72,6 @@ def assess(path, file, round):
 
 
 if __name__ == "__main__":
-    # Clear data
-    r = requests.get(
-        'http://127.0.0.1:8000/clear',
-        headers=HEADERS,
-        timeout=3600
-    )
     # Check if command line arguments are provided
     if len(sys.argv) > 1:
         # Extract command line arguments
@@ -95,6 +81,20 @@ if __name__ == "__main__":
         round        = sys.argv[4]
         # Build dataset path
         path = f"{datatype}{input_folder}/"
+        if 'gender' in path:
+            port = 8001
+        elif 'adult' in path:
+            port = 8002
+        elif 'diabetes' in path:
+            port = 8003
+        else:
+            sys.exit(1)
+        # Clear data
+        r = requests.get(
+            f'http://127.0.0.1:{port}/clear',
+            headers=HEADERS,
+            timeout=3600
+        )
         # Collect files in the dataset folder
         files = os.listdir(path)
         # Shuffle files
@@ -104,7 +104,7 @@ if __name__ == "__main__":
         # Iterate over files
         for file in files:
             # Perform assessment
-            assess(path, file, round)
+            assess(path, file, round, port)
     else:
         # Print usage message
         print("Usage: python nexus.py <datatype> <input_folder>")

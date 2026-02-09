@@ -1,0 +1,527 @@
+{
+    "objects": [
+        {
+            "name": "age_7",
+            "datatype": "continuous",
+            "truth": 49,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 43
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 68
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 47
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 58
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 57
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 59
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 62
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 49
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 49
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 49
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 49
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 49
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 49
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 49
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": 49
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": 49
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": 49
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": 49
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": 49
+                }
+            ]
+        },
+        {
+            "name": "workclass_7",
+            "datatype": "categorical",
+            "truth": "Private",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Self-emp-inc"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Federal-gov"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Local-gov"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Without-pay"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Without-pay"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Without-pay"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Never-worked"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Local-gov"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Private"
+                }
+            ]
+        },
+        {
+            "name": "marital_7",
+            "datatype": "categorical",
+            "truth": "Married-spouse-absent",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Divorced"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Widowed"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Married-AF-spouse"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Never-married"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Separated"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Married-civ-spouse"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Married-AF-spouse"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Widowed"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Married-spouse-absent"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Married-spouse-absent"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Married-spouse-absent"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Married-spouse-absent"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Married-spouse-absent"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Married-spouse-absent"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Married-spouse-absent"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Married-spouse-absent"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Married-spouse-absent"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Married-spouse-absent"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Married-spouse-absent"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Married-spouse-absent"
+                }
+            ]
+        },
+        {
+            "name": "education_7",
+            "datatype": "categorical",
+            "truth": "9th",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "12th"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Preschool"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Assoc-voc"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Preschool"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Prof-school"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Some-college"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Some-college"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "1st-4th"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "9th"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "9th"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "9th"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "9th"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "9th"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "9th"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "9th"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "9th"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "9th"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "9th"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "9th"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "9th"
+                }
+            ]
+        },
+        {
+            "name": "country7",
+            "datatype": "string",
+            "truth": "Jamaica",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "bamaicb"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "kamaicn"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Jnmaich"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Jamaius"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Jqmaicn"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Jamakcy"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "ramaifa"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Jagaicj"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Jamaica"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Jamaica"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Jamaica"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Jamaica"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Jamaica"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Jamaica"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Jamaica"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Jamaica"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Jamaica"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Jamaica"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Jamaica"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Jamaica"
+                }
+            ]
+        },
+        {
+            "name": "hours_7",
+            "datatype": "continuous",
+            "truth": 16,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 0
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 9
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 20
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 0
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 0
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 5
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 16
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 16
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 16
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 16
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 16
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 16
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 16
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": 16
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": 16
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": 16
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": 16
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": 16
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

@@ -26,9 +26,10 @@ echo "Running testbed.sh using files in $dir directory..."
 read -p "Do you want to run the tests? [Y/n]: " run_tests
 if [[ "$run_tests" =~ ^([Yy][Ee][Ss]?|[Yy])$ ]]; then
     start=$(date +%s)
-    # Iterate through each folder in the directory
-    for folder in "$dir"*/; do
-        [ -d "$folder" ] || continue
+    # Prompt user for which dataset to use
+    read -p "Enter dataset to use [adult|diabetes|gender]: " dataset
+    if [[ "adult diabetes gender" =~ (^|[[:space:]])"$dataset"($|[[:space:]]) ]]; then
+        folder="$dir$dataset/"
         echo "> Performing tests for $(basename "$folder") data..."
         # Build output directory
         output_dir="${folder/datasets/results}"
@@ -54,7 +55,7 @@ if [[ "$run_tests" =~ ^([Yy][Ee][Ss]?|[Yy])$ ]]; then
                     done
             done
         done
-    done
+    fi
     end=$(date +%s)
     echo "Elapsed time: $(( end - start )) seconds"
 else

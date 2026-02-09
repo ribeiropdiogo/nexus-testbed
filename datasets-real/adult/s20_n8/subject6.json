@@ -1,0 +1,527 @@
+{
+    "objects": [
+        {
+            "name": "age_6",
+            "datatype": "continuous",
+            "truth": 37,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 23
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 24
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 41
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 47
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 23
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 48
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 51
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": 37
+                }
+            ]
+        },
+        {
+            "name": "workclass_6",
+            "datatype": "categorical",
+            "truth": "Private",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Self-emp-inc"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Local-gov"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Never-worked"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Federal-gov"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Federal-gov"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Never-worked"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "State-gov"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Never-worked"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Private"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Private"
+                }
+            ]
+        },
+        {
+            "name": "marital_6",
+            "datatype": "categorical",
+            "truth": "Married-civ-spouse",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Married-spouse-absent"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Separated"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Divorced"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Married-AF-spouse"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Widowed"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Married-spouse-absent"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Separated"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Divorced"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Married-civ-spouse"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Married-civ-spouse"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Married-civ-spouse"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Married-civ-spouse"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Married-civ-spouse"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Married-civ-spouse"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Married-civ-spouse"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Married-civ-spouse"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Married-civ-spouse"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Married-civ-spouse"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Married-civ-spouse"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Married-civ-spouse"
+                }
+            ]
+        },
+        {
+            "name": "education_6",
+            "datatype": "categorical",
+            "truth": "Masters",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Bachelors"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Bachelors"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "9th"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "HS-grad"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Assoc-voc"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Doctorate"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "5th-6th"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Prof-school"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Masters"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Masters"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Masters"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Masters"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Masters"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Masters"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Masters"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Masters"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Masters"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Masters"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Masters"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Masters"
+                }
+            ]
+        },
+        {
+            "name": "country6",
+            "datatype": "string",
+            "truth": "United-States",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Unitedcttates"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Untted-States"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Uiitjd-States"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Unieed-vtates"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Unitedpgtates"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "anfted-States"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Unsted-Stazes"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Uniyed-Stayes"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "United-States"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "United-States"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "United-States"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "United-States"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "United-States"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "United-States"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "United-States"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "United-States"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "United-States"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "United-States"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "United-States"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "United-States"
+                }
+            ]
+        },
+        {
+            "name": "hours_6",
+            "datatype": "continuous",
+            "truth": 40,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 49
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 24
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 24
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 46
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 50
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 50
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 48
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 40
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 40
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 40
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 40
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 40
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 40
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 40
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": 40
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": 40
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": 40
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": 40
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": 40
+                }
+            ]
+        }
+    ],
+    "sources": []
+}
