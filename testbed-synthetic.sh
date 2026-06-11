@@ -2,7 +2,7 @@
 
 # List of possible algorithms
 # Possible algorithms to run: nexus, truthfinder, crh
-ALGORITHMS=("nexus")
+ALGORITHMS=("truthfinder" "crh")
 # Number of executions
 ROUNDS=5
 
@@ -45,7 +45,7 @@ if [[ "$run_tests" =~ ^([Yy][Ee][Ss]?|[Yy])$ ]]; then
                     output_file="${output_dir}${algorithm}/${base_name}_${i}.json"
                     # Create the output directory if it doesn't exist
                     mkdir -p "${output_dir}${algorithm}/"
-                    # Run majority voting algorithm
+                    # Run workload
                     python3 testbed-synthetic/$algorithm.py $folder $file $output_file
                 done
             done

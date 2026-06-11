@@ -428,7 +428,7 @@ class CRH(object):
         # Return the truths(X) and weights(W)
         return X, W
 
-    def run(self,dataframe,max_iterations=4,threshold=1e-6):
+    def run(self,dataframe,max_iterations=3,threshold=1e-6):
         """
         This functions executes the CRH algorithm.
 

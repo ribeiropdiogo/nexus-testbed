@@ -141,7 +141,7 @@ class TruthFinder(object):
     run(dataframe,max_iterations=200,threshold=1e-6,initial_trustworthiness=0.9):
         Executes the algorithm.
     """
-    def __init__(self,dampening_factor=0.3,influence_related=0.5):
+    def __init__(self,dampening_factor,influence_related):
         # Verify if values are in the accepted interval
         assert 0 < dampening_factor < 1
         assert 0 <= influence_related <= 1
@@ -412,7 +412,7 @@ def assess(dataset, output):
             # Build a dataframe from claims
             dataframe = build_dataframe(claims,obj['name'],obj['datatype'])
             # Initialize TruthFinder
-            tf = TruthFinder(dampening_factor=0.2, influence_related=0.5)
+            tf = TruthFinder(dampening_factor=0.15, influence_related=0.9)
             # Run TruthFinder algorithm
             df, _, _, _ = tf.run(dataframe, max_iterations=4, threshold=1e-6, initial_trustworthiness=0.5)
             # Extract the truth
