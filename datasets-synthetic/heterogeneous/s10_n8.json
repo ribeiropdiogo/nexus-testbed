@@ -1,0 +1,146 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Logan Shannon Morse Butler",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Cindy Schwartz Ray Perez"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Logan Alexander Morse Butler"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Tyrone Lewis Adams Shepard"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Kelly Warren Ryan Ortiz"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "LoXan annon Morse Butler"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Edward Shannon Morse Butler"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Theresa Richmond Williams"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Paul Rios Morris Garrison"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Logan Shannon Morse Butler"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Logan Shannon Morse Butler"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "French Guiana",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Niger"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Tuvalu"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Peru"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Belize"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Monaco"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Guatemala"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Philippines"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "China"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "French Guiana"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "French Guiana"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 34,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 38
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 34
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

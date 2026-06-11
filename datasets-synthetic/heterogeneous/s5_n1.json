@@ -1,0 +1,86 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Benjamin Galloway Martin Knapp",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Benjamin Galloway Martin Angelica"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Benjamin Galloway Martin Knapp"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Benjamin Galloway Martin Knapp"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Benjamin Galloway Martin Knapp"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Benjamin Galloway Martin Knapp"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Vietnam",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Liechtenstein"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Vietnam"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Vietnam"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Vietnam"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Vietnam"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 33,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 33
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

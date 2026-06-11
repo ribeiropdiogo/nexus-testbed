@@ -1,0 +1,266 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Barbara Miller Choi",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Barbara Joshua Choi"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Baobara Millr Choi"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "BXrara Miller Choi"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "James Bautista Thompson"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "arbara Miller ChoS"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Mary Foley Gomez Jones"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Thomas Miller Choi"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "BarbarO Miller Chei"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Barbara Miller Choi"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Barbara Miller Choi"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Barbara Miller Choi"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Barbara Miller Choi"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Barbara Miller Choi"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Barbara Miller Choi"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Barbara Miller Choi"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Barbara Miller Choi"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Barbara Miller Choi"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Barbara Miller Choi"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Barbara Miller Choi"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Barbara Miller Choi"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Slovenia",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "United States Virgin Islands"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Czech Republic"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Armenia"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Aruba"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Montserrat"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Tonga"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Cayman Islands"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Slovenia"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Slovenia"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Slovenia"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Slovenia"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Slovenia"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Slovenia"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Slovenia"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Slovenia"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Slovenia"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Slovenia"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Slovenia"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Slovenia"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 27,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 24
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 22
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": 27
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

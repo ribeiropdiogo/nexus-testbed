@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Belgium",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Bhutan"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "San Marino"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Uzbekistan"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Rwanda"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Cayman Islands"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Mexico"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Congo"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "India"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Belgium"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Belgium"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

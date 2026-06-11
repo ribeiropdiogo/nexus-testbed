@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Kazakhstan",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Northern Mariana Islands"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "United Arab Emirates"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Tokelau"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Saint Barthelemy"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Dominica"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Kazakhstan"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Kazakhstan"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Kazakhstan"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Kazakhstan"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

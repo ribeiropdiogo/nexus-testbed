@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Robert Thomas Mueller Nixon",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Kristin Kelly Kane"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Luis Thomas Mueller Nixon"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Frederick Johnson Trujillo"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Robert Thomas Mueller NGxo"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Frank Mcgee Clark"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Andrea Gonzales Gill"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Patrick Vaughn Herrera Garcia"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Robert Thzmas Mualler Nion"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Robert Thoma Mueler Nixo"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Robert Thomas Mueller Nixon"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Robert Thomas Mueller Nixon"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Robert Thomas Mueller Nixon"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Robert Thomas Mueller Nixon"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Robert Thomas Mueller Nixon"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Robert Thomas Mueller Nixon"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

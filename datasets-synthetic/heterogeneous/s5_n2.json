@@ -1,0 +1,86 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Andrea Thompson Copeland Moore",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Andrea Angela Copeland Moore"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Andrea Thompson Copeland David"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Andrea Thompson Copeland Moore"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Andrea Thompson Copeland Moore"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Andrea Thompson Copeland Moore"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Palau",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Sao Tome and Principe"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Norway"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Palau"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Palau"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Palau"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 29,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 29
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

@@ -1,6 +1,3 @@
-# Created by https://www.toptal.com/developers/gitignore/api/python,macos,visualstudiocode
-# Edit at https://www.toptal.com/developers/gitignore?templates=python,macos,visualstudiocode
-
 ### macOS ###
 # General
 .DS_Store
@@ -230,6 +227,10 @@ pyrightconfig.json
 
 # Ignore all results files
 results/**/*.json
+results-real/**/*.json
+results-synthetic/**/*.json
 
 # Ignore all stats files
-stats/**/*.json
+stats/**
+stats-real/**/*.json
+stats-synthetic/**/*.json

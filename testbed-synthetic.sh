@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # List of possible algorithms
-# Possible algorithms to run: nexus
+# Possible algorithms to run: nexus, truthfinder, crh
 ALGORITHMS=("nexus")
 # Number of executions
 ROUNDS=5

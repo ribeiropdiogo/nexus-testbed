@@ -1,0 +1,146 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Ricky Rogers Williams Riley",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Ricky Rogers Madison Riley"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "RicY ogers Williams Riley"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Ricky Rogers Williams Riley"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Ricky Rogers Williams Riley"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Ricky Rogers Williams Riley"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Ricky Rogers Williams Riley"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Ricky Rogers Williams Riley"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Ricky Rogers Williams Riley"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Ricky Rogers Williams Riley"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Ricky Rogers Williams Riley"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Argentina",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Guam"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Guyana"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Argentina"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Argentina"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Argentina"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Argentina"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Argentina"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Argentina"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Argentina"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Argentina"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 28,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 28
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

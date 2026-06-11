@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Sao Tome and Principe",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Tajikistan"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Sao Tome and Principe"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Sao Tome and Principe"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Sao Tome and Principe"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Sao Tome and Principe"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Sao Tome and Principe"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Sao Tome and Principe"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Sao Tome and Principe"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Sao Tome and Principe"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

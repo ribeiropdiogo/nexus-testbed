@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Bradley Sanchez Brown",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "radley anchez Brown"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Bradley Sanche Orown"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Bradey SancJez Brown"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Jim Allen Armstrong"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Charles Sanchez Brown"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "David Sanchez Brown"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Braeley Sancez Vrown"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Bradley Sanchez Kari"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Bradlty anchez Bron"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Laura Sanchez Brown"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Scott Sanchez Brown"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Deborah Black Nguyen Pittman"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Bradley Sanchez Brown"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Bradley Sanchez Brown"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Bradley Sanchez Brown"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Bradley Sanchez Brown"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Bradley Sanchez Brown"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Bradley Sanchez Brown"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Bradley Sanchez Brown"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Bradley Sanchez Brown"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

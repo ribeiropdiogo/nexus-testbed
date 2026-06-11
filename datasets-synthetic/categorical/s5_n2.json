@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Netherlands",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Sierra Leone"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Cocos (Keeling) Islands"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Netherlands"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Netherlands"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Netherlands"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

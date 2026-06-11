@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Saudi Arabia",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Martinique"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Saint Helena"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Maldives"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Costa Rica"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Saudi Arabia"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Saudi Arabia"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Saudi Arabia"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Saudi Arabia"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Saudi Arabia"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Saudi Arabia"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

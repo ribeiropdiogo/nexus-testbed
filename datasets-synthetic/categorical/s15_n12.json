@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Costa Rica",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Jamaica"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Philippines"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Cape Verde"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Benin"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "United States Virgin Islands"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Tuvalu"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Kazakhstan"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Singapore"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Costa Rica"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Denmark"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Bangladesh"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Iran"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Costa Rica"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Costa Rica"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Costa Rica"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

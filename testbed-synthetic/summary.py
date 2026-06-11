@@ -21,7 +21,7 @@ if __name__ == "__main__":
     # Extract command line arguments
     datatype = sys.argv[1]
     # Build the stats path
-    stats_path = f"./stats/{datatype}/"
+    stats_path = f"./stats-synthetic/{datatype}/"
     # Initialize algorithms and files list
     algorithms = []
     tests      = set()
@@ -52,7 +52,7 @@ if __name__ == "__main__":
         for file in tests:
             for algorithm in algorithms:
                 # Build the stats input path
-                input_path = f"./stats/{datatype}/{algorithm}/{file}.json"
+                input_path = f"./stats-synthetic/{datatype}/{algorithm}/{file}.json"
                 # Read the json file
                 with open(input_path, 'r', encoding='utf-8') as f:
                     data = f.read()

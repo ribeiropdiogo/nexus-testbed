@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "James Johnson Cohen",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Jeffrey Bennett Wang Higgins"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "James Johnson Cohen"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "James Johnson Cohen"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "James Johnson Cohen"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "James Johnson Cohen"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

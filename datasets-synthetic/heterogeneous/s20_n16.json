@@ -1,0 +1,266 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Paul Grant Werner",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Brianna Grant Werner"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Paul Gbant Werne"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Nicholas Abbott Edwards"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Elizabeth Grant Werner"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Jessica Clark Gentry"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Kayla Jennings Huff"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Paul Caitlyn Werner"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Pul Gradt Werner"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Julia Warren Boyd"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Paul David Werner"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Belinda Robertson Christian Garner"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Paul Grut Werner"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Joshua Grant Werner"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Paul Grano WerHr"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Haley Ayala Price"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Paul Grant Elaine"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Paul Grant Werner"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Paul Grant Werner"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Paul Grant Werner"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Paul Grant Werner"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Uruguay",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Honduras"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Zambia"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Burundi"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Kiribati"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Bosnia and Herzegovina"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "French Polynesia"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Micronesia"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Switzerland"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "San Marino"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Pakistan"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Micronesia"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Jersey"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "France"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Syrian Arab Republic"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Mauritius"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Pitcairn Islands"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Uruguay"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Uruguay"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Uruguay"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Uruguay"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 31,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 28
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": 31
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

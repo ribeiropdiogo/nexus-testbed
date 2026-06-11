@@ -1,0 +1,206 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Anthony Mendoza Ross",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "AXthoVy Mendoza Ros"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Patricia Brown Mueller"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Lisa Brown Hernandez Caldwell"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Anthony Mendoza Ross"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Anthony Mendoza Ross"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Anthony Mendoza Ross"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Anthony Mendoza Ross"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Anthony Mendoza Ross"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Anthony Mendoza Ross"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Anthony Mendoza Ross"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Anthony Mendoza Ross"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Anthony Mendoza Ross"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Anthony Mendoza Ross"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Anthony Mendoza Ross"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Anthony Mendoza Ross"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "French Polynesia",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "North Macedonia"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Slovenia"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Nigeria"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "French Polynesia"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "French Polynesia"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "French Polynesia"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "French Polynesia"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "French Polynesia"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "French Polynesia"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "French Polynesia"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "French Polynesia"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "French Polynesia"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "French Polynesia"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "French Polynesia"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "French Polynesia"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 35,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 38
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 36
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 35
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Mary Davidson Cooper",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Jennifer Garcia Rogers"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Natasha Davidson Cooper"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Mar Davidsn Ceoper"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Mary Davidson Cooper"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Mary Davidson Cooper"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Mary Davidson Cooper"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Mary Davidson Cooper"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Mary Davidson Cooper"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Mary Davidson Cooper"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Mary Davidson Cooper"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Mary Davidson Cooper"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Mary Davidson Cooper"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Mary Davidson Cooper"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Mary Davidson Cooper"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Mary Davidson Cooper"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

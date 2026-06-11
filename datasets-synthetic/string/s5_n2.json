@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Patrick Caldwell Carter",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Patrick Caldwell Michael"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Brian Perry Hamilton Harrison"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Patrick Caldwell Carter"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Patrick Caldwell Carter"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Patrick Caldwell Carter"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

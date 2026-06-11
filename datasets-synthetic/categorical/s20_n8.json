@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Bhutan",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Fiji"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Eritrea"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Gambia"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Central African Republic"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Bouvet Island (Bouvetoya)"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Panama"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Venezuela"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Martinique"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Bhutan"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Bhutan"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Bhutan"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Bhutan"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Bhutan"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Bhutan"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Bhutan"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Bhutan"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Bhutan"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Bhutan"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Bhutan"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Bhutan"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

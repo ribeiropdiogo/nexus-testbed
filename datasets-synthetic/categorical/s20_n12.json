@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Luxembourg",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Nicaragua"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Iraq"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Greece"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Haiti"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Saint Lucia"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Vietnam"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Burundi"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Holy See (Vatican City State)"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Hungary"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Mayotte"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Mayotte"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Monaco"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Luxembourg"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Luxembourg"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Luxembourg"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Luxembourg"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Luxembourg"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Luxembourg"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Luxembourg"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Luxembourg"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

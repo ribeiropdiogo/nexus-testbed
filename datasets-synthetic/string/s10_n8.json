@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Stuart Green Williams",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Stuar Green WiLliams"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Gregory Green Williams"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Stuarx GKen Williams"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "StuarX GSeen Willias"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Jeffrey Green Williams"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Stuart Green gillam"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Ana Marks Francis Graves"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Eric Green Williams"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Stuart Green Williams"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Stuart Green Williams"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

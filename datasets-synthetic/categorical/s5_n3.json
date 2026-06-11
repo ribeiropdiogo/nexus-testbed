@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Angola",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Saint Barthelemy"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "France"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Sao Tome and Principe"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Angola"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Angola"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

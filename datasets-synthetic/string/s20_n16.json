@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Emily Foster Carey Brown",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Claudia Alexander Kidd Ray"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Emly Foster Care Brown"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Emily Paul Carey Brown"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Emily Foster Debra Brown"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Emily Foster Mary Brown"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Laura Foster Carey Brown"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Emily Foser Crey Brown"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Emily Foster Patricia Brown"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Emply Foster Cavey Browp"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Emily oster Cxrey Brown"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Emily Fostr Cauey Brown"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Eyilf oster Carey Brown"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Emily Foster farey Brow"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Amanda Lopez Sheppard"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Emily Foster Justin Brown"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Matthew Dougherty Butler"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Emily Foster Carey Brown"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Emily Foster Carey Brown"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Emily Foster Carey Brown"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Emily Foster Carey Brown"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

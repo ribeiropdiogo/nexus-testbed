@@ -1,0 +1,86 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Sophia Miller Watkins",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Spia Maller Watkins"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Allison Moreno Hoffman"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Anita Wu Henry Patel"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Sophia Miller Watkins"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Sophia Miller Watkins"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Uganda",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Holy See (Vatican City State)"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Vietnam"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Bahamas"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Uganda"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Uganda"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 34,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 36
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 38
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 34
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

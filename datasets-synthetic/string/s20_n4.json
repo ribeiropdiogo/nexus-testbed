@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Mary Mejia Nelson",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Bianca Jones Wood Gillespie"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Mary Meia Neuson"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Maria Mejia Nelson"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Monica Campbell Johnson Smith"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Mary Mejia Nelson"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Mary Mejia Nelson"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Mary Mejia Nelson"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Mary Mejia Nelson"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Mary Mejia Nelson"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Mary Mejia Nelson"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Mary Mejia Nelson"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Mary Mejia Nelson"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Mary Mejia Nelson"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Mary Mejia Nelson"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Mary Mejia Nelson"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Mary Mejia Nelson"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Mary Mejia Nelson"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Mary Mejia Nelson"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Mary Mejia Nelson"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Mary Mejia Nelson"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

@@ -1,0 +1,206 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Amanda Lewis Melton",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Aanda Lewis Meltn"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "AmRnda Lewis lton"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Amanda Lwis MltMn"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Benjamin Beasley Barton Garcia"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Amanda Lewis elon"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Amanda Jason Melton"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Regina Wagner Wood Allen"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Aada Lewis Melton"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "AmanLa LeLMs Melton"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Amanda Lewis Melton"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Amanda Lewis Melton"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Amanda Lewis Melton"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Amanda Lewis Melton"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Amanda Lewis Melton"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Amanda Lewis Melton"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Somalia",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Qatar"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Grenada"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Qatar"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Guadeloupe"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Trinidad and Tobago"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Mauritius"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Sweden"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "British Virgin Islands"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Egypt"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Somalia"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Somalia"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Somalia"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Somalia"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Somalia"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Somalia"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 34,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 36
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 35
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 38
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 38
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 34
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

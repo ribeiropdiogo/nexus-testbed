@@ -1,0 +1,206 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Christina Campbell Hampton",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "ChristiHa Caopbell Hamptn"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "ChHistina Campbell sampton"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Christina Campbell Ryan"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Christia CRmpbell Hamptn"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Amber Jones Turner Todd"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Alyssa Campbell Hampton"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Christina Campbell Hampton"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Christina Campbell Hampton"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Christina Campbell Hampton"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Christina Campbell Hampton"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Christina Campbell Hampton"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Christina Campbell Hampton"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Christina Campbell Hampton"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Christina Campbell Hampton"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Christina Campbell Hampton"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Somalia",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "France"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "British Virgin Islands"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Australia"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Northern Mariana Islands"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Bolivia"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Honduras"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Somalia"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Somalia"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Somalia"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Somalia"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Somalia"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Somalia"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Somalia"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Somalia"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Somalia"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 27,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 25
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 24
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 23
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 23
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 27
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

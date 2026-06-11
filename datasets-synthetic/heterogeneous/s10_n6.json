@@ -1,0 +1,146 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Joseph Daniels Parker",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Joseph Daniels Cheryl"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "posph Danils Parker"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Joseph Debra Parker"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Joseph Daniels Christine"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Joseph Daniels Kevin"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Joseph Daniels Shirley"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Joseph Daniels Parker"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Joseph Daniels Parker"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Joseph Daniels Parker"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Joseph Daniels Parker"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Seychelles",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Cape Verde"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Austria"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Slovenia"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Guadeloupe"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Bangladesh"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Slovenia"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Seychelles"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Seychelles"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Seychelles"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Seychelles"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 31,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 26
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 27
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 31
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

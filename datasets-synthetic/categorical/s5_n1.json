@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Western Sahara",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Senegal"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Western Sahara"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Western Sahara"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Western Sahara"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Western Sahara"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

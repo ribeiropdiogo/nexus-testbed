@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Uganda",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "American Samoa"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "United Arab Emirates"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Norway"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Somalia"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Uganda"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Uganda"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Uganda"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Uganda"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Uganda"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Uganda"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Uganda"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Uganda"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Uganda"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Uganda"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Uganda"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Uganda"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Uganda"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Uganda"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Uganda"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Uganda"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

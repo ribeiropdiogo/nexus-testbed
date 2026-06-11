@@ -1,0 +1,206 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Ricky Hayes Douglas",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Ricky HayYs ouglas"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Ricky Alex Douglas"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Ricky Hayes Kimberly"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Ricky Gwendolyn Douglas"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Stephen Montgomery Owens"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Robert Shaw Hernandez Walker"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Stephanie Shields Davenport Wells"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Christine Price Russell"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Ricky Hayes John"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Ricky Katrina Douglas"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Ricky Jennifer Douglas"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Ethan Goodwin Flowers Rice"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Ricky Hayes Douglas"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Ricky Hayes Douglas"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Ricky Hayes Douglas"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Saint Vincent and the Grenadines",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Isle of Man"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Vanuatu"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Tajikistan"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Sudan"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Vanuatu"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Haiti"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Cuba"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Saint Lucia"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Romania"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Mauritius"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Niger"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Belgium"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Saint Vincent and the Grenadines"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Saint Vincent and the Grenadines"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Saint Vincent and the Grenadines"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 34,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 39
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 38
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 38
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 31
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 34
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

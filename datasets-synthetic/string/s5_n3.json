@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "James Baker Oneal",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Courtney Morris Hendrix"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "James Michelle Oneal"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Kristen Foster Hood Steele"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "James Baker Oneal"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "James Baker Oneal"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

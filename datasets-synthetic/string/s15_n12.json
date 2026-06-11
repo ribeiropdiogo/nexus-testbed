@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Jean Harrell Hancock",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Jean Steven Hancock"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Samantha Brown Gilbert Sheppard"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Nicole Stephens Murray"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Amy Waller Weber Montoya"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Jea Harmelf Hancock"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Tyler Rodriguez Norton Smith"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Joseph Nelson Buchanan Campbell"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Jean Harmll Hanock"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Jean Harrel Hancoc"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Ryan Harrell Hancock"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Samuel Scott Cruz Frazier"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Jean April Hancock"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Jean Harrell Hancock"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Jean Harrell Hancock"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Jean Harrell Hancock"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

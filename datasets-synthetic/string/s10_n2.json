@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Mark Poole Salazar",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Andrea Soto Parker"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Jonathan Terrell Hernandez"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Mark Poole Salazar"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Mark Poole Salazar"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Mark Poole Salazar"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Mark Poole Salazar"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Mark Poole Salazar"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Mark Poole Salazar"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Mark Poole Salazar"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Mark Poole Salazar"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

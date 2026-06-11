@@ -36,9 +36,7 @@ def assess(dataset, output, datatype, output_file):
         # Auxiliary variable
         k = 1
         # Create directory if it does not exist
-        datatype = datatype.replace("./datasets/", "")[:-1]
-        nexus_path = output_file.replace(f"{datatype}/nexus", f"nexus/{datatype}")
-        os.makedirs(os.path.dirname(nexus_path), exist_ok=True)
+        os.makedirs(os.path.dirname(output_file), exist_ok=True)
         # Iterate over the objects and claims
         for obj in data['objects']:
             # Iterate claims to consolidate sequentially
@@ -57,10 +55,8 @@ def assess(dataset, output, datatype, output_file):
                 )
                 # Load the response
                 result = json.loads(r.text)
-                # Create result path
-                result_path = nexus_path.replace(".json", f"_{k}_{i+1}.json")
                 # Save the response to a file
-                with open(result_path, "w", encoding="utf-8") as resp_file:
+                with open(output_file, "w", encoding="utf-8") as resp_file:
                     json.dump(result, resp_file, indent=4)
             # Increment k
             k += 1

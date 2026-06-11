@@ -1,0 +1,266 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "David Franklin Robinson James",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "David Franklin Robinson Samuel"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Erin Franklin Robinson James"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Robert White Simpson Torres"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "David Franklin Hannah James"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Jody Bennett Franklin"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "DCvid Frnklin Robinson James"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "David Clayton Robinson James"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "David Ruiz Copeland Barnett"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "David Frankin Robinsnn James"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "David FrankliO RobiHson James"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "John Franklin Robinson James"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "David Franklin Robinlon Jame"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "David Franklin Robinson James"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "David Franklin Robinson James"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "David Franklin Robinson James"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "David Franklin Robinson James"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "David Franklin Robinson James"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "David Franklin Robinson James"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "David Franklin Robinson James"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "David Franklin Robinson James"
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Canada",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Mongolia"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Tokelau"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "New Caledonia"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Niger"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Estonia"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Cameroon"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Northern Mariana Islands"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Nepal"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Saint Barthelemy"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Falkland Islands (Malvinas)"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Argentina"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Colombia"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Canada"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Canada"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Canada"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "Canada"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Canada"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Canada"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Canada"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Canada"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "truth": 33,
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 38
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 32
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 38
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 38
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 34
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 30
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 29
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": 37
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": 33
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": 33
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

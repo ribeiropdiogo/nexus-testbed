@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Cassandra Bell Richards",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Austin Clark Young Johnson"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Cassandra Andrew Richards"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Cssandra Bell Richarrs"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Casandr Bell Richards"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Cassanda Bel RiKhards"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Benjamin Brown Thomas"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Cassandra Bell Richards"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Cassandra Bell Richards"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Cassandra Bell Richards"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Cassandra Bell Richards"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Cassandra Bell Richards"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Cassandra Bell Richards"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Cassandra Bell Richards"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Cassandra Bell Richards"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Cassandra Bell Richards"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

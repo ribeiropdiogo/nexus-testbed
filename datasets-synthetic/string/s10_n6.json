@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Jay Curtis Callahan Cook",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Paul Murphy Adams Norton"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "JUy CurtIS Callahan Cook"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Jay Curtis Michael Cook"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Jay Curti CalZahan Cook"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Jay Cbtis Callahan Cook"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Jay CurWis Calahan Cook"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Jay Curtis Callahan Cook"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Jay Curtis Callahan Cook"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Jay Curtis Callahan Cook"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Jay Curtis Callahan Cook"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

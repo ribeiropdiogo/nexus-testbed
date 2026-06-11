@@ -1,0 +1,92 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Turks and Caicos Islands",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Ghana"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Gibraltar"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "India"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Kuwait"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Chile"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Niue"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Pakistan"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Heard Island and McDonald Islands"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Belize"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Burundi"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Tanzania"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Cambodia"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Fiji"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Norfolk Island"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Puerto Rico"
+                },
+                {
+                    "sourceId": "source16",
+                    "fact": "United States Minor Outlying Islands"
+                },
+                {
+                    "sourceId": "source17",
+                    "fact": "Turks and Caicos Islands"
+                },
+                {
+                    "sourceId": "source18",
+                    "fact": "Turks and Caicos Islands"
+                },
+                {
+                    "sourceId": "source19",
+                    "fact": "Turks and Caicos Islands"
+                },
+                {
+                    "sourceId": "source20",
+                    "fact": "Turks and Caicos Islands"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

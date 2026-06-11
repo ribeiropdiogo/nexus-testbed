@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "truth": "Alexandra Price Lewis",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Debra Price Lewis"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "AleFandra Price LeEs"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Alexandra Price Jack"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Alexandra Price Derek"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Alexandra Price Lewis"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Alexandra Price Lewis"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Alexandra Price Lewis"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Alexandra Price Lewis"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Alexandra Price Lewis"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Alexandra Price Lewis"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

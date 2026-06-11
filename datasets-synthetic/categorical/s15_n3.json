@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "truth": "Saudi Arabia",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Haiti"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Congo"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Turkey"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Saudi Arabia"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Saudi Arabia"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Saudi Arabia"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Saudi Arabia"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Saudi Arabia"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Saudi Arabia"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Saudi Arabia"
+                },
+                {
+                    "sourceId": "source11",
+                    "fact": "Saudi Arabia"
+                },
+                {
+                    "sourceId": "source12",
+                    "fact": "Saudi Arabia"
+                },
+                {
+                    "sourceId": "source13",
+                    "fact": "Saudi Arabia"
+                },
+                {
+                    "sourceId": "source14",
+                    "fact": "Saudi Arabia"
+                },
+                {
+                    "sourceId": "source15",
+                    "fact": "Saudi Arabia"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}
